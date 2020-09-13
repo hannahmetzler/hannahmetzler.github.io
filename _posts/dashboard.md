@@ -8,4 +8,4 @@ tags: [publications, covid-19, emotions]
 
 Check out our [social media dashboard](http://www.mpellert.at/covid19_monitor_austria/#twitter-emotions-in-austria) of emotions, social and prosocial attitudes during the outbreak of the COVID-19 pandemic in Austria.
 
-If you are interested in how we put it together, check out this [Preprint](http://arxiv.org/abs/2006.11158)
+If you are interested in how we put it together, check out this [Preprint](http://arxiv.org/abs/2006.11158).
