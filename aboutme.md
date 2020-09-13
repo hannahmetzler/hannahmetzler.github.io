@@ -1,16 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+#subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am a young scientist and enthusiast advocate of open science and effective altruism. Using the tools of experimental psychology, statistics and neuroscience, and most recently social computational science, I investigate research questions concerning social interaction and mental health. My current projects as a postdoc at the Computational Social Science Group Vienna, focus on collective emotions in response to the COVID-19 pandemic using social media analysis, characteristics of media reports about suicide that could contribute to prevention. During my PhD in Cognitive Neuroscience and Master's in Psychology, I did research in the areas of face perception, emotional expression, social power, embodiment, intergroup behavior, gender, “social” hormones, and stress. 
