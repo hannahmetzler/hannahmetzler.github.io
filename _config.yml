@@ -40,7 +40,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "metzler@csh.ac.at"
-#  facebook: deanattali
+#  facebook: yourname
   github: hannahmetzler
   twitter: hannahmetzler1
 #  reddit: yourname
@@ -88,7 +88,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "research,psychology,social,emotion,science,Vienna"
 
 # --- Colours / background image --- #
 
