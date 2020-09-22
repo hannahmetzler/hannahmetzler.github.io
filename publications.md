@@ -1,7 +1,10 @@
 ---
+layout: page
 ---
 
-# Publications
+# °
+
+## Publications
 
 * Lasser, J., Ahne, V., Heiler, G., Klimek, P., **Metzler, H.**, Reisch, T., Sprenger, M., Thurner, S., & Sorger, J. (accepted). Complexity, transparency and time pressure: Practical insights into science communication in times of crisis. *Journal of Communication*. [Preprint](https://osf.io/preprints/socarxiv/ytxrp/)
 * Pellert, M., Lasser, J., **Metzler, H.**, & Garcia, D. (2020). Dashboard of sentiment in Austrian social media during COVID-19. *Frontiers in Big Data, 3*. [Article](https://doi.org/10.3389/fdata.2020.00032), [Preprint](http://arxiv.org/abs/2006.11158)

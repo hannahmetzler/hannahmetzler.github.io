@@ -1,9 +1,8 @@
 ---
 layout:page
-  title: CV
 ---
 
-                   
+# CV
 
 ## Education
 
@@ -20,7 +19,7 @@ layout:page
 
 * 2003-2007: Conservatory of Vorarlberg, Violoncello, Feldkirch, Austria
 
-
+___
 
 ## Research Experience
 
