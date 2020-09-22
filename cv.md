@@ -1,10 +1,9 @@
 ---
 layout:page
-title: CV
-subtitle: CV
+  title: CV
 ---
 
-
+                   
 
 ## Education
 
