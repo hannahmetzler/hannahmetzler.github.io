@@ -26,11 +26,16 @@ test text
 ## Research Experience
 
 * Since 03/2020: Postdoctoral researcher in Social Computational Science, Complexity Science Hub & Unit Suicide Research and Mental Health Promotion at Medical University of Vienna
+
 * 10/2019 – 02/2020: Senior researcher and project manager at the Open and Reproducible Research Group at Know-Center - Research Center for Data-Driven Business & Big Data Analytics, Graz
+
 * 03/2019 - 09/2019: Independent researcher at the Institute for Globally Distributed Open Research and Education - [IGDORE](https://igdore.org/)
+
 * 10/2014 - 12/2018: Doctoral researcher at École Normale Supérieure Paris, Laboratory of Cognitive and Computational Neuroscience, Social Cognition Group
+
 * 2013-2014: Lab rotations during the first year of the Doctoral program at “Ecole des Neurosciences Paris”
-      - Sexual cognition & homosexuality: Brain anatomy and the older brother-effect, École Normale Supérieure, with Franck Ramus 
-      - Integration of emotion and gaze cues during attention orienting (Intracranial EEG study), Brain & Spine Institute, with Nathalie George
-      - Power posture effects on emotion discrimination, École Normale Supérieure, with Julie Grèzes
+        * Sexual cognition & homosexuality: Brain anatomy and the older brother-effect, École Normale Supérieure, with Franck Ramus 
+        * Integration of emotion and gaze cues during attention orienting (Intracranial EEG study), Brain & Spine Institute, with Nathalie George
+        * Power posture effects on emotion discrimination, École Normale Supérieure, with Julie Grèzes
+      
 * 01 - 10/2012 Internship at the Social Cognitive and Affective Neuroscience Unit, University of Vienna, with Eva-Maria Seidel
