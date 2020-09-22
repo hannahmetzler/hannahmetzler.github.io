@@ -3,9 +3,10 @@ layout:page
 title: CV
 ---
 
-# Education
+## Education
 
-* 2014 - 2018 PhD in Cognitive Neuroscience at Sorbonne University & École Normale Supérieure Paris
+* 2014 - 2018 PhD in Cognitive Neuroscience at Sorbonne University & École Normale Supérieure Paris 
+\newline
 Doctoral Program of the École des Neurosciences Paris-Île de-France
 Laboratory of Cognitive and Computational Neuroscience
 Thesis title: The influence of bodily actions on social perception and behaviour: Assessing effects of power postures, available here
