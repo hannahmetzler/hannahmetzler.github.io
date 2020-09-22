@@ -6,10 +6,12 @@
 * Lasser, J., Ahne, V., Heiler, G., Klimek, P., **Metzler, H.**, Reisch, T., Sprenger, M., Thurner, S., & Sorger, J. (accepted). Complexity, transparency and time pressure: Practical insights into science communication in times of crisis. *Journal of Communication.*
 * Pellert, M., Lasser, J., **Metzler, H.**, & Garcia, D. (2020). Dashboard of sentiment in Austrian social media during COVID-19. *Frontiers in Big Data, 3*. [Article](https://doi.org/10.3389/fdata.2020.00032), [Preprint](http://arxiv.org/abs/2006.11158)
 * **Metzler, H.**, & Grèzes, J. (2019). Repeatedly adopting power postures does not affect hormonal correlates of dominance and affiliative behavior. *PeerJ, 7*, e6726. [Article](https://doi.org/10.7717/peerj.6726); [Data & Code](https://osf.io/3nrsy/)
-* Chadwick, M.\*, **Metzler, H.\* **, Tijus, C., Armony, J.#, Grèzes, J.# (2019). Stimulus and observer characteristics jointly determine the relevance of threatening facial expressions and their interaction with attention. *Motivation and Emotion, 43*(2), 299–312. \*#Authors contributed equally. [Article](https://link.springer.com/article/10.1007/s11031-018-9730-2)
+* Chadwick, M.\*, Metzler, H.\*, Tijus, C., Armony, J.#, Grèzes, J.# (2019). Stimulus and observer characteristics jointly determine the relevance of threatening facial expressions and their interaction with attention. *Motivation and Emotion, 43*(2), 299–312. \*#Authors contributed equally. [Article](https://link.springer.com/article/10.1007/s11031-018-9730-2)
 * Radke, S., Seidel, E. M., Boubela, R. N., Thaler, **Metzler, H.**, … Derntl, B. (2018). Immediate and delayed neuroendocrine responses to social exclusion in males and females. *Psychoneuroendocrinology, 93*, 56–64. [Article](https://doi.org/10.1016/j.psyneuen.2018.04.005)
 * Kogler, L., Seidel, E.M., **Metzler, H.**, Thaler, Boubela, R., … Derntl, B. (2017). Impact of self-esteem and sex on stress reactions. *Scientific Reports 7*, 17210. [Article](https://doi.org/10.1038/s41598-017-17485-w)
 * Seidel, E. M., Silani, G., **Metzler, H.**, Thaler, H., Lamm, C., Gur, R. C., … Derntl, B. (2013). The impact of social exclusion vs. inclusion on subjective and hormonal reactions in females and males. *Psychoneuroendocrinology, 38*(12), 2925–2932. [Article](https://doi.org/10.1016/j.psyneuen.2013.07.021)
+
+___
 
 ## Submitted for publication
 
