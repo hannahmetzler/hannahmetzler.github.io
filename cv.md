@@ -6,9 +6,10 @@ title: CV
 ### Education
 
 * **2014-2018** PhD in Cognitive Neuroscience at Sorbonne University & École Normale Supérieure Paris  
+    Supervised by Julie Grèzes__
     Doctoral Program of the [École des Neurosciences Paris-Île de-France][ENP]
-* **2007-2013** Diploma program in Psychology at University of Vienna   
-  Master thesis at the [Social Cognitive and Affective Neuroscience Unit][SCAN] with Eva-Maria Seidel & Claus Lamm 
+* **2007-2013** Diploma program in Psychology at University of Vienna  
+    Master thesis supervised by Eva-Maria Seidel & Claus Lamm 
 * **2011** Exchange semester at Concordia University, Montreal, Canada
 * **2003-2007** Conservatory of Vorarlberg, Violoncello, Feldkirch, Austria
 
@@ -21,12 +22,12 @@ ___
 Research Groups: [Computational Social Science Vienna Research Group][CSS] & [Unit Suicide Research and Mental Health Promotion][Thomas]
 * **2019–2020** Senior researcher and project manager at the Open and Reproducible Research Group at [Know-Center][KNOW] - Research Center for Data-Driven Business & Big Data Analytics, Graz
 * **2019** Independent researcher at the Institute for Globally Distributed Open Research and Education - [IGDORE][IGDORE] 
-* **2014-2018** Doctoral researcher at the Laboratory of Cognitive and Computational Neuroscience in the team of Julie Grèzes, École Normale Supérieure Paris
+* **2014-2018** Doctoral researcher at the [Laboratory of Cognitive and Computational Neuroscience][LNC] in the team of Julie Grèzes, École Normale Supérieure Paris
 * **2013-2014** Lab rotations (3-4 months each) during the first year of the [ENP Doctoral program][ENPprogram]
     * Sexual cognition & homosexuality: Brain anatomy and the older brother-effect, École Normale Supérieure, with Franck Ramus
     * Integration of emotion and gaze cues during attention orienting (Intracranial EEG study), Brain & Spine Institute, with Nathalie George
     * Power posture effects on emotion discrimination, École Normale Supérieure, with Julie Grèzes
-* **2012** Internship (10 months) at the [Social Cognitive and Affective Neuroscience Unit][SCAN], University of Vienna, with Eva-Maria Seidel
+* **2012** Internship (10 months) at the [Social Cognitive and Affective Neuroscience Unit][SCAN], Faculty of Psychology, University of Vienna
 
 ___
 
@@ -67,6 +68,7 @@ ___
 [ENP]: (http://www.paris-neuroscience.fr/en/enp)
 [ENPprogram]: ((http://www.paris-neuroscience.fr/en/graduate-program)
 [DEC]: (https://cognition.ens.fr/en)
+[LNC]: (https://lnc2.dec.ens.fr/fr)
 [SCAN]: (https://scan-psy.univie.ac.at/)
 [KNOW]: (https://www.know-center.tugraz.at/)
 [CSS]: (https://dgarcia.eu)

@@ -1,4 +1,4 @@
----
+  ---
 layout: null
 ---
 
@@ -691,7 +691,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   background: rgba(30, 30, 30, 0.6);
   position: absolute;
   padding: 0.3125rem 0.625rem;
-  font-size: 0.6875rem;
+  font-size: 0.5875rem;
   color: #EEE;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   right: 0;
