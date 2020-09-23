@@ -6,15 +6,17 @@ title: My Research
 
 ___
 
+
 ### Computational Social Science
 
 As a postdoc in Computational Social Science at the Complexity Science Hub and the Medical University of Vienna, I currently work on the following projects:
 
-Collective emotions on social media during the COVID-19 outbreak
-Machine Learning for suicide prevention: Which features of media reports related to suicide could contribute to suicide prevention?
-Emotional Misinformation: How do emotions influence the spreading of misinformation?
+* Collective emotions on social media during the COVID-19 outbreak
+* Machine Learning for suicide prevention: Which features of media reports related to suicide could contribute to suicide prevention?
+* Emotional Misinformation: How do emotions influence the spreading of misinformation?
 
 ___
+
 
 ### Social Cognitive Science
 
@@ -24,7 +26,9 @@ You can have a look at my PhD thesis here: [The influence of bodily actions on s
 
 ___
 
+
 ### Social and Affective Neuroscience
+
 
 #### Lab rotations during the ENP Graduate Program
 
@@ -33,10 +37,12 @@ During the first year of the ENP Graduate Program, I explored various topics and
 
 #### Master Project
 
-For my Master thesis, I worked in a large research project exploring the role of sex differences and the menstrual cycle in the response to different types of stressors. We compared the effects of social and achievement stress on subjective emotional responses, the social hormones testosterone and progesterone, and on neural activity measured with fMRI. My diploma thesis focused on [Sex differences in neural and hormonal responses to achievement stress](http://othes.univie.ac.at/27600/). 
+For my Master thesis, I worked in a large research project exploring the role of sex differences and the menstrual cycle in the response to different types of stressors. We compared the effects of social and achievement stress on subjective emotional responses, the social hormones testosterone and progesterone, and on neural activity measured with fMRI.  
+My diploma thesis focused on [Sex differences in neural and hormonal responses to achievement stress](http://othes.univie.ac.at/27600/). 
 
 ___
 
+
 ### Open Science
 
-I helped launch the Horizon 2020 project [ON-MERRIT](https://on-merrit.eu/) on Matthew effects in academia, industry and policy, coordinating the activities of several research institutions as the project manager. Together with the ON-MERRIT team, I investigated how the open science movement could be shaped so that the scientific system actually become more equitable and participatory. 
+I helped launch the Horizon 2020 project [ON-MERRIT](https://on-merrit.eu/) on Matthew effects in academia, industry and policy, coordinating the activities of several research institutions as the project manager. Together with the ON-MERRIT team, I investigated how the open science movement could be shaped so that the scientific system actually becomes more equitable and participatory. 
