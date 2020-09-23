@@ -179,7 +179,7 @@ footer-link-col: "#483D8B"
 # --- Misc --- #
 
 # Ruby Date Format to show dates of posts
-date_format: "%B %-d, %Y"
+date_format: "%d/%m/%Y"
 
 # Facebook App ID
 #fb_app_id: ""
