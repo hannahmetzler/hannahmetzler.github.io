@@ -8,6 +8,11 @@ ___
 
 ### Computational Social Science
 
+As a postdoc in Computational Social Science at the Complexity Science Hub and the Medical University of Vienna, I currently work on the following projects:
+
+Collective emotions on social media during the COVID-19 outbreak
+Machine Learning for suicide prevention: Which features of media reports related to suicide could contribute to suicide prevention?
+Emotional Misinformation: How do emotions influence the spreading of misinformation?
 
 ___
 
@@ -34,4 +39,4 @@ ___
 
 ### Open Science
 
-As a project manager for the EU-funded project [ON-MERRIT](https://on-merrit.eu/), I coordinated the activities of several research institutions, and investigated how the open science movement could be shaped so that the scientific system actually become more equitable and participatory. 
+I helped launch the Horizon 2020 project [ON-MERRIT](https://on-merrit.eu/) on Matthew effects in academia, industry and policy, coordinating the activities of several research institutions as the project manager. Together with the ON-MERRIT team, I investigated how the open science movement could be shaped so that the scientific system actually become more equitable and participatory. 
