@@ -102,10 +102,10 @@ navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
-hover-col: "#191970"
+hover-col: "#00008B"
 footer-col: "#4682B4"
-footer-text-col: "#191970"
-footer-link-col: "#191970"
+footer-text-col: "#00008B"
+footer-link-col: "00008B"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
