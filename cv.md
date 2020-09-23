@@ -5,8 +5,7 @@ title: CV
 
 ### Education
 
-* **2014-2018** PhD in Cognitive Neuroscience at Sorbonne University & École Normale Supérieure Paris  
-    Supervised by Julie Grèzes  
+* **2014-2018** PhD in Cognitive Neuroscience at Sorbonne University & École Normale Supérieure Paris, supervised by Julie Grèzes  
     Graduate Program at [École des Neurosciences Paris-Île de-France][ENP]
 * **2007-2013** Diploma program in Psychology at University of Vienna  
     Master thesis supervised by Eva-Maria Seidel & Claus Lamm 
