@@ -6,16 +6,10 @@ title: CV
 ### Education
 
 * **2014-2018** PhD in Cognitive Neuroscience at Sorbonne University & École Normale Supérieure Paris  
-<<<<<<< HEAD
-    Supervised by Julie Grèzes
+    Supervised by Julie Grèzes  
     Graduate Program at [École des Neurosciences Paris-Île de-France][ENP]
 * **2007-2013** Diploma program in Psychology at University of Vienna  
     Master thesis supervised by Eva-Maria Seidel & Claus Lamm 
-=======
-    Doctoral Program of the [École des Neurosciences Paris-Île de-France][ENP]
-* **2007-2013** Diploma program in Psychology at University of Vienna   
-  Master thesis at the [Social Cognitive and Affective Neuroscience Unit][SCAN] with Eva-Maria Seidel & Claus Lamm 
->>>>>>> parent of 38d50dd... cv changed and font size page post title
 * **2011** Exchange semester at Concordia University, Montreal, Canada
 * **2003-2007** Conservatory of Vorarlberg, Violoncello, Feldkirch, Austria
 
