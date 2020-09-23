@@ -19,6 +19,7 @@ title: CV
 
 ___
 
+
 ### Research Experience
 
 * **Since 2020** Postdoctoral researcher in Social Computational Science, Complexity Science Hub & Unit Suicide Research and Mental Health Promotion at Medical University of Vienna
@@ -39,14 +40,15 @@ ___
 
 ___
 
+
 ### Fellowships and Awards
 
 * **2018** End of thesis scholarship (3 month) from the [Department of Cognitive Science]https://cognition.ens.fr/en, École Normale Supérieure, Paris
 * **2013–2017** 4 year PhD scholarship from [École des Neurosciences Paris Île-de-France][ENP]
-**2013** Honorary certificate for excellent diploma thesis, Dr. Maria-Schaumayer-Stiftung, Austria
-**2013** Nomination for the honorary prize in science and research 2013, Austrian ministry for science and research
-**2007–2013** 6 excellence scholarships from University of Vienna
-**2011** Joint Study scholarship for exchange semester in Canada, University of Vienna	
+* **2013** Honorary certificate for excellent diploma thesis, Dr. Maria-Schaumayer-Stiftung, Austria
+* **2013** Nomination for the honorary prize in science and research 2013, Austrian ministry for science and research
+* **2007–2013** 6 excellence scholarships from University of Vienna
+* **2011** Joint Study scholarship from University of Vienna for an exchange semester in Montreal, Canada
 
 [ENP]: (http://www.paris-neuroscience.fr/en/enp)
 [SCAN]: (https://scan-psy.univie.ac.at/)
