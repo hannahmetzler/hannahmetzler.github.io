@@ -2,7 +2,6 @@
 layout: page
 title: Research Areas
 show-avatar: false
-full-width: true
 ---
 
 

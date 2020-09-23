@@ -1,7 +1,6 @@
 ---
 layout: page
 show-avatar: false
-full-width: true
 ---
 
 ___
@@ -38,7 +37,7 @@ ___
 
 ___
 
-### Selected Conference Presentations & Posters
+### Selected Presentations & Posters
 
 * **2019** “Science Shorty: From power postures to Open Science”, 31st WISIA Symposium, Vienna, Austria. Talk.
 * **2018** “Body posture impact on action decisions under social threat”, Meeting of the European Society for Cognitive and Affective Neuroscience, Leiden, Netherlands. Talk. 
@@ -48,6 +47,6 @@ ___
 * **2016** Metzler H., Grèzes J.  „Your body affects your mind: Body posture effects on mental images of faces.” Annual Meeting of the Société de Psychophysiologie et de Neurosciences Cognitives , Lille, France. Poster. 
 * **2015** Metzler, H., Chadwick, M., Grèzes, J. “The impact of power postures on mental representations of in- and outgroup faces (study 1).” Aegina Summer School "The Social Self: The social self: how social interactions shape body and self-representations", Aegina, Greece. Poster and short presentation.
 * **2015** Metzler, H., Chadwick, M. , El Zein, M. , Wyart, V., Grèzes, J. “The impact of power postures on self-relevance appraisal during emotion recognition.” ENP days, La Clusaz, France. Poster.
-* **2013** “Sex at Dawn” and “Sex at Dusk” – 2 seminars on human sexuality at the Laboratoire de Sciences Cognitives et Psycholinguistique, Department of Cognitive Science, École Normale Supérieur, Paris 
+* **2013** “Sex at Dawn” and “Sex at Dusk” – 2 seminars on human sexuality at the Laboratoire de Sciences Cognitives et Psycholinguistique, Department of Cognitive Science, École Normale Supérieur, Paris . Talk. 
 
 
