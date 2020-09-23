@@ -6,8 +6,7 @@ title: CV
 ### Education
 
 * **2014-2018** PhD in Cognitive Neuroscience at Sorbonne University & École Normale Supérieure Paris 
-  
-  Doctoral Program of the [École des Neurosciences Paris-Île de-France][ENP]
+    Doctoral Program of the [École des Neurosciences Paris-Île de-France][ENP]
  
 
 * **2007-2013** Diploma program in Psychology at University of Vienna 
@@ -38,11 +37,12 @@ ___
       
 * **2012** Internship (10 month) at the Social Cognitive and Affective Neuroscience Unit, University of Vienna, with Eva-Maria Seidel
 
+___
 
 ### Fellowships and Awards
 
-**2018** End of thesis scholarship (3 month) from the [Department of Cognitive Science]https://cognition.ens.fr/en, École Normale Supérieure, Paris
-**2013–2017** 4 year PhD scholarship from [École des Neurosciences Paris Île-de-France][ENP]
+* **2018** End of thesis scholarship (3 month) from the [Department of Cognitive Science]https://cognition.ens.fr/en, École Normale Supérieure, Paris
+* **2013–2017** 4 year PhD scholarship from [École des Neurosciences Paris Île-de-France][ENP]
 **2013** Honorary certificate for excellent diploma thesis, Dr. Maria-Schaumayer-Stiftung, Austria
 **2013** Nomination for the honorary prize in science and research 2013, Austrian ministry for science and research
 **2007–2013** 6 excellence scholarships from University of Vienna
