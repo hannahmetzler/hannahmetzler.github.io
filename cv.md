@@ -2,6 +2,7 @@
 layout: page
 title: CV
 show-avatar: false
+full-width: true
 ---
 
 ### Education
