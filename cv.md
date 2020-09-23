@@ -1,8 +1,7 @@
 ---
 layout: page
+title: CV
 ---
-
-# CV
 
 ## Education
 
