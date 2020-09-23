@@ -45,10 +45,10 @@ ___
 
 ### Science outreach and event organization 
 
-* **2020** Journalist interviews on Complexity Science, and collective emotions in response to the  COVID-19 outbreak Example 1, Example 2
+* **2020** Journalist interviews on Complexity Science [video](https://www.facebook.com/alexandervanderbellen/videos/besuch-im-complexity-science-hub-vienna/731750567653204/), and collective emotions in response to the  COVID-19 outbreak (example articles [1](https://www.derstandard.at/story/2000115973796/coronavirus-twitter-spiegelt-aengste-und-sorgen-der-menschen-wider) & [2](https://science.apa.at/site/kultur_und_gesellschaft/detail.html?key=SCI_20200417_SCI39351351654193650&))
 * **2019** Organizer of 31st WISIA Symposium “Our Turning points” (Women in Science, Austria)
 * **2017** “La neurobiologie des relations”, Science communication event Semaine du Cerveau 2017, Paris. Talk for a lay audience in French.
-* **2015-2016** ENP student representative. Event organization and communication: Scientific seminars, career events and social activities for PhD students
+* **2015-2016** [ENP][ENPprogram] student representative. Event organization and communication: Scientific seminars, career events and social activities for PhD students
 * **2015** Participation in career orientation roundtables for high school students​ 
 
 ___
