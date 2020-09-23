@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Research
+title: Research Areas
 ---
 
 
@@ -32,7 +32,7 @@ ___
 
 #### Lab rotations during the ENP Graduate Program
 
-During the first year of the ENP Graduate Program, I explored various topics and techniques in the area of Social and Affective Neuroscience with researchers from the ENP network. With Franck Ramus at École Normale Supérieure, I investigated anatomical brain differences associated with the fraternal-birth-order-effect related to male homosexuality, and prepared seminars about the broader topic of "sexual cognition" and human sexuality. I then worked in the group of Nathalie George at the Brain and Spine Institute, analyzing intracranial EEG data to examine the integration of gaze and emotional expression cues in the superior temporal sulcus, one of the core structures of the „social brain“. Finally, I started investigating the effect of power-related body postures on the relevance of emotional expressions for the perceiver in the team of Julie Grèzes. I used a model-based approach to analyze how adopting expansive and contracted postures affects the recognition of facial emotions, depending on additional social cues such as gaze direction.
+During the first year of the ENP Graduate Program, I explored topics and techniques in the area of Social and Affective Neuroscience with researchers from the ENP network. With Franck Ramus at École Normale Supérieure, I investigated anatomical brain differences associated with the fraternal-birth-order-effect related to male homosexuality, and prepared seminars about the broader topic of "sexual cognition" and human sexuality. I further worked in the group of Nathalie George at the Brain and Spine Institute, analyzing intracranial EEG data to examine the integration of gaze and emotional expression cues in the superior temporal sulcus, one of the core structures of the „social brain“. Finally, I started investigating the effect of power-related body postures on the relevance of emotional expressions for the perceiver in the team of Julie Grèzes. I used a model-based approach to analyze how adopting expansive and contracted postures affects the recognition of facial emotions, depending on additional social cues such as gaze direction.
  
 
 #### Master Project
