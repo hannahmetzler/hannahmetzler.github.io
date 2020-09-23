@@ -17,27 +17,61 @@ ___
 
 ### Research Experience
 
-* **Since 2020** Postdoctoral researcher in the [Computational Social Science Group](https://dgarcia.eu) ([Complexity Science Hub Vienna]\)(https://csh.ac.at) & the [Unit Suicide Research and Mental Health Promotion](https://www.meduniwien.ac.at/hp/en/sozialmedizin/science/unit-suizidforschung-mental-health-promotion/) (Medical University of Vienna)
-* **2019–2020** Senior researcher and project manager at the Open and Reproducible Research Group at Know-Center - Research Center for Data-Driven Business & Big Data Analytics, Graz
-* **2019** Independent researcher at the Institute for Globally Distributed Open Research and Education - [IGDORE](https://igdore.org/)
+* **Since 2020** Postdoctoral researcher in Computational Social Science at the [(Complexity Science Hub Vienna)][CSH] and Medical University of Vienna  
+Research Groups: [Computational Social Science Vienna Research Group][CSS] & [Unit Suicide Research and Mental Health Promotion][Thomas]
+* **2019–2020** Senior researcher and project manager at the Open and Reproducible Research Group at [Know-Center][KNOW] - Research Center for Data-Driven Business & Big Data Analytics, Graz
+* **2019** Independent researcher at the Institute for Globally Distributed Open Research and Education - [IGDORE][IGDORE] 
 * **2014-2018** Doctoral researcher at the Laboratory of Cognitive and Computational Neuroscience in the team of Julie Grèzes, École Normale Supérieure Paris
-* **2013-2014** Lab rotations (3-4 months each) during the first year of the [ENP Doctoral program](http://www.paris-neuroscience.fr/en/graduate-program)
+* **2013-2014** Lab rotations (3-4 months each) during the first year of the [ENP Doctoral program][ENPprogram]
     * Sexual cognition & homosexuality: Brain anatomy and the older brother-effect, École Normale Supérieure, with Franck Ramus
     * Integration of emotion and gaze cues during attention orienting (Intracranial EEG study), Brain & Spine Institute, with Nathalie George
     * Power posture effects on emotion discrimination, École Normale Supérieure, with Julie Grèzes
-* **2012** Internship (10 month) at the Social Cognitive and Affective Neuroscience Unit, University of Vienna, with Eva-Maria Seidel
+* **2012** Internship (10 months) at the [Social Cognitive and Affective Neuroscience Unit][SCAN], University of Vienna, with Eva-Maria Seidel
 
 ___
 
 
 ### Fellowships and Awards
 
-* **2018** End of thesis scholarship (3 month) from the [Department of Cognitive Science]https://cognition.ens.fr/en, École Normale Supérieure, Paris
+* **2018** End of thesis scholarship (3 month) from the [Department of Cognitive Science][DEC], École Normale Supérieure, Paris
 * **2013–2017** 4 year PhD scholarship from [École des Neurosciences Paris Île-de-France][ENP]
 * **2013** Honorary certificate for excellent diploma thesis, Dr. Maria-Schaumayer-Stiftung, Austria
 * **2013** Nomination for the honorary prize in science and research 2013, Austrian ministry for science and research
 * **2007–2013** 6 excellence scholarships from University of Vienna
 * **2011** Joint Study scholarship from University of Vienna for an exchange semester in Montreal, Canada
 
+___
+
+
+### Science outreach and event organization 
+
+* **2020** Journalist interviews on Complexity Science, and collective emotions in response to the  COVID-19 outbreak Example 1, Example 2
+* **2019** Organizer of 31st WISIA Symposium “Our Turning points” (Women in Science, Austria)
+* **2017** “La neurobiologie des relations”, Science communication event Semaine du Cerveau 2017, Paris. Talk for a lay audience in French.
+* **2015-2016** ENP student representative. Event organization and communication: Scientific seminars, career events and social activities for PhD students
+* **2015** Participation in career orientation roundtables for high school students​ 
+
+___
+
+
+### Associations & voluntary activities
+
+* Reviewer for International Conference on Web Social Media
+* Society for the Improvement of Psychological Science - [SIPS](https://improvingpsych.org)
+* Effective Altruism community [Austria](https://effectivealtruism.at/unser-team): A social movement that uses evidence and reason to do the most good. - [Effective Altruism Global](https://www.effectivealtruism.org)
+* Institute for Globally Distributed Open Research and Education [IGDORE][IGDORE] 
+* Women in Science – an Interdisciplinary Association - [WISIA](http://www.wisia.at/)
+* Graz Open Science Initiative [GOSI](https://twitter.com/GrazOpenScience)
+
+
 [ENP]: (http://www.paris-neuroscience.fr/en/enp)
+[ENPprogram]: ((http://www.paris-neuroscience.fr/en/graduate-program)
+[DEC]: (https://cognition.ens.fr/en)
 [SCAN]: (https://scan-psy.univie.ac.at/)
+[KNOW]: (https://www.know-center.tugraz.at/)
+[CSS]: (https://dgarcia.eu)
+[Thomas]: (https://www.meduniwien.ac.at/hp/en/sozialmedizin/science/unit-suizidforschung-mental-health-promotion/)
+[CSH]: (https://csh.ac.at)
+[IGDORE]: (https://igdore.org/)
+
+
