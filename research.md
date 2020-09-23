@@ -44,6 +44,7 @@ During the first year of the ENP Graduate Program, I did three lab rotations wit
 
 #### Gender differences in stress responses (Master)
 
-For my Master thesis, I worked in a large research project exploring the role of sex differences and the menstrual cycle in the response to different types of stressors. We compared the effects of social and achievement stress on subjective emotional responses, the social hormones testosterone and progesterone, and on neural activity measured with fMRI.  
+For my Master thesis, I worked in a large research project exploring the role of sex differences and the menstrual cycle in the response to different types of stressors. We compared the effects of social and achievement stress on subjective emotional responses, the social hormones testosterone and progesterone, and on neural activity measured with fMRI.
+
 My diploma thesis focused on [Sex differences in neural and hormonal responses to achievement stress](http://othes.univie.ac.at/27600/). 
 
