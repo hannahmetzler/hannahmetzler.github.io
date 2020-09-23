@@ -42,6 +42,7 @@ ___
 
 ___
 
+<br> 
 
 ### Science outreach and event organization 
 
@@ -58,10 +59,10 @@ ___
 
 * Reviewer for International Conference on Web Social Media
 * Society for the Improvement of Psychological Science - [SIPS](https://improvingpsych.org)
-* Effective Altruism community [Austria](https://effectivealtruism.at/unser-team): A social movement that uses evidence and reason to do the most good. - [Effective Altruism Global](https://www.effectivealtruism.org)
-* Institute for Globally Distributed Open Research and Education [IGDORE][IGDORE] 
+* Effective Altruism [community Austria](https://effectivealtruism.at/unser-team): A social movement that uses evidence and reason to do the most good - [Effective Altruism Global](https://www.effectivealtruism.org)
+* Institute for Globally Distributed Open Research and Education - [IGDORE][IGDORE] 
 * Women in Science – an Interdisciplinary Association - [WISIA](http://www.wisia.at/)
-* Graz Open Science Initiative [GOSI](https://twitter.com/GrazOpenScience)
+* Graz Open Science Initiative - [GOSI](https://twitter.com/GrazOpenScience)
 
 
 [ENP]: (http://www.paris-neuroscience.fr/en/enp)
