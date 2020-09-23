@@ -4,7 +4,9 @@ layout: page
 
 ___
 
-## Publications
+\newline
+
+### Publications
 
 * Lasser, J., Ahne, V., Heiler, G., Klimek, P., **Metzler, H.**, Reisch, T., Sprenger, M., Thurner, S., & Sorger, J. (accepted). Complexity, transparency and time pressure: Practical insights into science communication in times of crisis. *Journal of Communication*. [Preprint](https://osf.io/preprints/socarxiv/ytxrp/)
 * Pellert, M., Lasser, J., **Metzler, H.**, & Garcia, D. (2020). Dashboard of sentiment in Austrian social media during COVID-19. *Frontiers in Big Data, 3*. [Article](https://doi.org/10.3389/fdata.2020.00032), [Preprint](http://arxiv.org/abs/2006.11158)
@@ -16,22 +18,26 @@ ___
 
 ___
 
-## Submitted for publication
+\newline
+
+### Pre-prints & Submissions
 
 * **Metzler, H.**, Rimé, B., Niederkrotenthaler, T., Di Natale, A., Garcia, D. (under review). Collective emotions during the outbreak of COVID-19.  [Data & Code](https://osf.io/736kc/)
 * **Metzler, H.**, Vilarem, E., Petschen, A., & Grèzes, J. (2020). Power posture effects on approach and avoidance decisions in response to social threat \[[Preprint](https://doi.org/10.31234/osf.io/t8mhw)\]. *PsyArXiv*. [Data & Code](https://osf.io/q8s3w)
 
 ___
 
-## Selected Conference Presentations & Posters
+\newline
 
-* 2019	“Science Shorty: From power postures to Open Science”, 31st WISIA Symposium, Vienna, Austria. Talk.   
-* 2018	“Body posture impact on action decisions under social threat”, Meeting of the European Society for Cognitive and Affective Neuroscience, Leiden, Netherlands. Talk. 
-* 2017 	Metzler H., Grèzes J. „Your body affects your mind: Body posture effects on mental images of faces (studies 1-4).” International Convention for Psychological Science, Vienna, Austria. Poster. 
-* 2016 	“Power Postures and Social Cognition: A PhD Experience in the middle of a controversy”, ENP seminar “Statistics and Reproducibility: Current Challenges in Neuroscience”, Paris. Talk.
-* 2016 	Metzler H., Grèzes J. „Your body affects your mind: Body posture effects on mental images of faces (studies 1-3).” European Society for Cognitive and Affective Neuroscience, Porto, Portugal. Poster.
-* 2015 	Metzler, H., Chadwick, M., Grèzes, J. “The impact of power postures on mental representations of in- and outgroup faces (study 1).” Aegina Summer School "The Social Self: The social self: how social interactions shape body and self-representations", Aegina, Greece. Poster and short presentation.  
-* 2015 	Metzler, H., Chadwick, M. , El Zein, M. , Wyart, V., Grèzes, J. “The impact of power postures on self-relevance appraisal during emotion recognition.” ENP days, La Clusaz, France. Poster.
-* 2013	“Sex at Dawn” and “Sex at Dusk” – 2 seminars on human sexuality at the Laboratoire de Sciences Cognitives et Psycholinguistique, Department of Cognitive Science, École Normale Supérieur, Paris 
+### Selected Conference Presentations & Posters
+
+* 2019: “Science Shorty: From power postures to Open Science”, 31st WISIA Symposium, Vienna, Austria. Talk.
+* 2018: “Body posture impact on action decisions under social threat”, Meeting of the European Society for Cognitive and Affective Neuroscience, Leiden, Netherlands. Talk. 
+* 2017: Metzler H., Grèzes J. „Your body affects your mind: Body posture effects on mental images of faces (studies 1-4).” International Convention for Psychological Science, Vienna, Austria. Poster. 
+* 2016: “Power Postures and Social Cognition: A PhD Experience in the middle of a controversy”, ENP seminar “Statistics and Reproducibility: Current Challenges in Neuroscience”, Paris. Talk.
+* 2016: Metzler H., Grèzes J. „Your body affects your mind: Body posture effects on mental images of faces (studies 1-3).” European Society for Cognitive and Affective Neuroscience, Porto, Portugal. Poster.
+* 2015: Metzler, H., Chadwick, M., Grèzes, J. “The impact of power postures on mental representations of in- and outgroup faces (study 1).” Aegina Summer School "The Social Self: The social self: how social interactions shape body and self-representations", Aegina, Greece. Poster and short presentation.
+* 2015: Metzler, H., Chadwick, M. , El Zein, M. , Wyart, V., Grèzes, J. “The impact of power postures on self-relevance appraisal during emotion recognition.” ENP days, La Clusaz, France. Poster.
+* 2013: “Sex at Dawn” and “Sex at Dusk” – 2 seminars on human sexuality at the Laboratoire de Sciences Cognitives et Psycholinguistique, Department of Cognitive Science, École Normale Supérieur, Paris 
 
 
