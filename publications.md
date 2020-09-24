@@ -1,7 +1,6 @@
 ---
 layout: page
 show-avatar: false
-title: Publications & Presentations
 ---
 
 ___
