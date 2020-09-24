@@ -9,6 +9,10 @@ thumbnail-img: /assets/img/Hannah_Metzler_ORRG.jpg
 ___
 
 
+![cvphoto](/assets/img/Hannah_Metzler_ORRG.jpg){:class="img-responsive"}
+
+___
+
 #### Education
 
 * **2014-2018** PhD in Cognitive Neuroscience at Sorbonne University & École Normale Supérieure Paris, supervised by Julie Grèzes  
