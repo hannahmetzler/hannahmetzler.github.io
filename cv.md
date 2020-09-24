@@ -2,14 +2,17 @@
 layout: page
 title: CV
 show-avatar: false
-thumbnail-img: /assets/img/Hannah_Metzler_ORRG.jpg
 ---
 
 
 ___
 
 
-![cvphoto](/assets/img/Hannah_Metzler_ORRG.jpg){:class="img-responsive"}
+<p align="center">
+  <img width="100" height="100" src="/assets/img/Hannah_Metzler_ORRG.jpg">
+</p>
+
+<!--- ![cvphoto](/assets/img/Hannah_Metzler_ORRG.jpg "Hannah Metzler"){:class="img-responsive"}-->
 
 ___
 
