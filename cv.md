@@ -2,6 +2,7 @@
 layout: page
 title: CV
 show-avatar: false
+thumbnail-img: /assets/img/Hannah_Metzler_ORRG.jpg
 ---
 
 
