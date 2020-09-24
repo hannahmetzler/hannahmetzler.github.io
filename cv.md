@@ -5,7 +5,7 @@ show-avatar: false
 
 # CV
 
-### Education
+#### Education
 
 * **2014-2018** PhD in Cognitive Neuroscience at Sorbonne University & École Normale Supérieure Paris, supervised by Julie Grèzes  
     Graduate Program at [École des Neurosciences Paris-Île de-France][ENP]
@@ -17,7 +17,7 @@ show-avatar: false
 ___
 
 
-### Research Experience
+#### Research Experience
 
 * **Since 2020** Postdoctoral researcher in Computational Social Science at the [Complexity Science Hub Vienna][CSH] and Medical University of Vienna  
 Research Groups: [Computational Social Science Vienna Research Group][CSS] & [Unit Suicide Research and Mental Health Promotion][Thomas]
@@ -33,7 +33,7 @@ Research Groups: [Computational Social Science Vienna Research Group][CSS] & [Un
 ___
 
 
-### Fellowships and Awards
+#### Fellowships and Awards
 
 * **2018** End of thesis scholarship (3 month) from the [Department of Cognitive Science][DEC], École Normale Supérieure, Paris
 * **2013–2017** 4 year PhD scholarship from [École des Neurosciences Paris Île-de-France][ENP]
@@ -45,7 +45,7 @@ ___
 ___
 
 
-### Science outreach and event organization 
+#### Science outreach and event organization 
 
 * **2020** Journalist interviews on Complexity Science [(video)](https://www.facebook.com/alexandervanderbellen/videos/besuch-im-complexity-science-hub-vienna/731750567653204/), and collective emotions in response to the  COVID-19 outbreak (example articles [1](https://www.derstandard.at/story/2000115973796/coronavirus-twitter-spiegelt-aengste-und-sorgen-der-menschen-wider) & [2](https://science.apa.at/site/kultur_und_gesellschaft/detail.html?key=SCI_20200417_SCI39351351654193650&))
 * **2019** Organizer of 31st WISIA Symposium “Our Turning points” (Women in Science, Austria)
@@ -56,7 +56,7 @@ ___
 ___
 
 
-### Associations & voluntary activities
+#### Associations & voluntary activities
 
 * Reviewer for International Conference on Web Social Media
 * Society for the Improvement of Psychological Science - [SIPS](https://improvingpsych.org)
