@@ -34,7 +34,7 @@ Research Groups:
 * **2019–2020** Senior researcher and project manager at the Open and Reproducible Research Group at [Know-Center][KNOW] - Research Center for Data-Driven Business & Big Data Analytics, Graz
 * **2019** Independent researcher at the Institute for Globally Distributed Open Research and Education - [IGDORE][IGDORE] 
 * **2014-2018** Doctoral researcher at the Laboratory of Cognitive and Computational Neuroscience in the team of Julie Grèzes, École Normale Supérieure Paris
-* **2013-2014** Lab rotations (3-4 months each) during the first year of the [ENP Doctoral program][ENPprogram]
+* **2013-2014** Lab rotations during the first year of the [ENP Doctoral program][ENPprogram]
     * Sexual cognition & homosexuality: Brain anatomy and the older brother-effect, École Normale Supérieure, with Franck Ramus
     * Integration of emotion and gaze cues during attention orienting (Intracranial EEG study), Brain & Spine Institute, with Nathalie George
     * Power posture effects on emotion discrimination, École Normale Supérieure, with Julie Grèzes
