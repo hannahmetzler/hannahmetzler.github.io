@@ -7,7 +7,7 @@ show-avatar: false
 ___
 
 
-#### Computational Social Science
+### Computational Social Science
 
 As a postdoc in Computational Social Science at the Complexity Science Hub and the Medical University of Vienna, I currently work on the following projects:
 
@@ -18,14 +18,14 @@ As a postdoc in Computational Social Science at the Complexity Science Hub and t
 ___
 
 
-#### Open Science
+### Open Science
 
 I helped launch the Horizon 2020 project [ON-MERRIT](https://on-merrit.eu/) on Matthew effects in academia, industry and policy, coordinating the activities of several research institutions as the project manager. Together with the ON-MERRIT team, I investigated how the open science movement could be shaped so that the scientific system actually becomes more equitable and participatory. 
 
 ___
 
 
-#### Power Postures and Social Cognition (PhD)
+### Power Postures and Social Cognition (PhD)
 
 During my PhD, I explored how body postures expressing social power influence face perception and social interaction. I applied experimental techniques from cognitive science, statistical models and image analyses methods, and analyzed eye and mouse tracking data as well as salivary hormone levels. The "replication crisis" in psychology sparked an intense discussion about the research my project was built on. Really caring about the quality of my own contributions to science, I therefore made my own research as rigorous and reproducible as possible, and became involved in the [open science community](http://improvingpsych.org/).
 
@@ -34,7 +34,7 @@ You can have a look at my PhD thesis here: [The influence of bodily actions on s
 ___
 
 
-#### Social and Affective Neuroscience
+### Social and Affective Neuroscience
 
 I explored various topics and brain imaging techniques in Social and Affective Neuroscience in three lab rotations during the first year of the [ENP Graduate Program][ENPprogram], and during my Master thesis at the University of Vienna. 
 
