@@ -40,11 +40,11 @@ I explored various topics and brain imaging techniques in Social and Affective N
 
 **Sexual cognition**
 
-With Franck Ramus at École Normale Supérieure, I investigated anatomical brain differences associated with the fraternal-birth-order-effect related to male homosexuality, and prepared seminars about the broader topic of "sexual cognition" and human sexuality. 
+With Franck Ramus at École Normale Supérieure Paris, I investigated anatomical brain differences associated with the fraternal-birth-order-effect related to male homosexuality, and prepared seminars about the broader topic of "sexual cognition" and human sexuality. 
 
 **Social perception: Facial emotion expressions and gaze direction**
 
-In the group of Nathalie George at the Brain and Spine Institute, I analyzed intracranial EEG data to examine the integration of gaze and emotional expression cues in the superior temporal sulcus, one of the core structures of the „social brain“. Finally, I explored the effect of power-related body postures on the recognition of threatening facial expressions. I used a model-based approach to analyze how adopting expansive and contracted postures influences the recognition of angry and fearful faces depending on their gaze direction.
+In the group of Nathalie George at the Brain and Spine Institute in Paris, I analyzed intracranial EEG data to examine the integration of gaze and emotional expression cues in the superior temporal sulcus, one of the core structures of the „social brain“. Finally, I explored the effect of power-related body postures on the recognition of threatening facial expressions in the team of Julie Grèzes (ENS Paris). I used a model-based approach to analyze how adopting expansive and contracted postures influences the recognition of angry and fearful faces depending on their gaze direction.
  
 **Gender differences in stress responses (Master)**
 
@@ -52,6 +52,6 @@ For my Master thesis, I worked in a large research project at the [SCAN-Unit][SC
 
 My diploma thesis focused on [Sex differences in neural and hormonal responses to achievement stress](http://othes.univie.ac.at/27600/). 
 
-[ENPprogram]: ((http://www.paris-neuroscience.fr/en/graduate-program)
-[SCAN]: (https://scan-psy.univie.ac.at/)
+[ENPprogram]: http://www.paris-neuroscience.fr/en/graduate-program
+[SCAN]: https://scan-psy.univie.ac.at/
 
