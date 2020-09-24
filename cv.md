@@ -45,7 +45,7 @@ ___
 
 ### Fellowships and Awards
 
-* **2018** End of thesis scholarship (3 month) from the [Department of Cognitive Science][DEC], École Normale Supérieure, Paris
+* **2018** End of thesis scholarship (3 months) from the [Department of Cognitive Science][DEC], École Normale Supérieure, Paris
 * **2013–2017** 4 year PhD scholarship from [École des Neurosciences Paris Île-de-France][ENP]
 * **2013** Honorary certificate for excellent diploma thesis, Dr. Maria-Schaumayer-Stiftung, Austria
 * **2013** Nomination for the honorary prize in science and research 2013, Austrian ministry for science and research
