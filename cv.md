@@ -1,12 +1,9 @@
 ---
 layout: page
+title: CV
 show-avatar: false
 ---
 
-___
-
-
-# CV
 
 ___
 
