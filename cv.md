@@ -4,15 +4,12 @@ title: CV
 show-avatar: false
 ---
 
-
-___
-
-
+<!--- to add an image here, use either html, or the kramdown example below, delete this line and the last dashes +arrow
 <p align="center">
-  <img width="100" height="100" src="/assets/img/Hannah_Metzler_ORRG.jpg">
+  <img width="250" height="250" src="/assets/img/Hannah_Metzler_ORRG.jpg">
 </p>
 
-<!--- ![cvphoto](/assets/img/Hannah_Metzler_ORRG.jpg "Hannah Metzler"){:class="img-responsive"}-->
+![cvphoto](/assets/img/Hannah_Metzler_ORRG.jpg "Hannah Metzler" 250x250){:class="img-responsive" height="250px" width="250px"}-->
 
 ___
 
