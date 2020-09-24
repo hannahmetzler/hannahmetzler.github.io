@@ -9,7 +9,7 @@
 title: Hannah Metzler
 
 # Your name to show in the footer
-#author: Hannah Metzler
+author: Image by Thomas Klebel
 
 # --- List of links in the navigation bar --- #
 
@@ -72,7 +72,6 @@ social-network-links:
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-#  facebook: true
   linkedin: true
   vk: false
 
@@ -90,7 +89,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "research,psychology,social,emotion,science,Vienna"
+keywords: "research,psychology,social,emotion,science,Vienna, Hannah Metzler"
 
 # --- Colours / background image --- #
 
