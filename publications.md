@@ -28,7 +28,7 @@ ___
 
 #### PhD dissertation
 
-* **Metzler, H.** (2018). [The influence of bodily actions on social perception and behaviour: Assessing effects of power postures](https://doi.org/10.13140/RG.2.2.12354.22728) [Doctoral Dissertation]. Sorbonne University.
+* **Metzler, H.** (2018). [The influence of bodily actions on social perception and behaviour: Assessing effects of power postures](https://doi.org/10.13140/RG.2.2.12354.22728) [Doctoral Dissertation Thesis]. Paris: Sorbonne University.
 
 ___
 
