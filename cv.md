@@ -1,8 +1,9 @@
 ---
 layout: page
-title: CV
 show-avatar: false
 ---
+
+# CV
 
 ### Education
 

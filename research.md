@@ -3,10 +3,9 @@ layout: page
 show-avatar: false
 ---
 
-## Research Areas
-
 <br>
 
+# Research Areas
 
 ### Computational Social Science
 
