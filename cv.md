@@ -74,14 +74,14 @@ ___
 * Graz Open Science Initiative - [GOSI](https://twitter.com/GrazOpenScience)
 
 
-[ENP]: (http://www.paris-neuroscience.fr/en/enp)
-[ENPprogram]: ((http://www.paris-neuroscience.fr/en/graduate-program)
-[DEC]: (https://cognition.ens.fr/en)
-[SCAN]: (https://scan-psy.univie.ac.at/)
-[KNOW]: (https://www.know-center.tugraz.at/)
-[CSS]: (https://dgarcia.eu)
-[Thomas]: (https://www.meduniwien.ac.at/hp/en/sozialmedizin/science/unit-suizidforschung-mental-health-promotion/)
-[CSH]: (https://csh.ac.at)
-[IGDORE]: (https://igdore.org/)
+[ENP]: http://www.paris-neuroscience.fr/en/enp
+[ENPprogram]: http://www.paris-neuroscience.fr/en/graduate-program
+[DEC]: https://cognition.ens.fr/en
+[SCAN]: https://scan-psy.univie.ac.at/
+[KNOW]: https://www.know-center.tugraz.at/
+[CSS]: https://dgarcia.eu
+[Thomas]: https://www.meduniwien.ac.at/hp/en/sozialmedizin/science/unit-suizidforschung-mental-health-promotion/
+[CSH]: https://csh.ac.at
+[IGDORE]: https://igdore.org/
 
 

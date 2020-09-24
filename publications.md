@@ -16,7 +16,7 @@ ___
 #### Journal Articles
 
 * Lasser, J., Ahne, V., Heiler, G., Klimek, P., **Metzler, H.**, Reisch, T., Sprenger, M., Thurner, S., & Sorger, J. (accepted). Complexity, transparency and time pressure: Practical insights into science communication in times of crisis. *Journal of Communication*. [Preprint](https://osf.io/preprints/socarxiv/ytxrp/).
-* Pellert, M., Lasser, J., **Metzler, H.**, & Garcia, D. (2020). [Dashboard of sentiment in Austrian social media during COVID-19.](https://doi.org/10.3389/fdata.2020.00032) *Frontiers in Big Data, 3*. [Preprint](http://arxiv.org/abs/2006.11158).
+* Pellert, M., Lasser, J., **Metzler, H.**, & Garcia, D. (2020). [Dashboard of sentiment in Austrian social media during COVID-19.](https://www.frontiersin.org/articles/10.3389/fdata.2020.00032/) *Frontiers in Big Data, 3*. [Preprint](http://arxiv.org/abs/2006.11158).
 * **Metzler, H.**, & Grèzes, J. (2019). [Repeatedly adopting power postures does not affect hormonal correlates of dominance and affiliative behavior](https://doi.org/10.7717/peerj.6726). *PeerJ, 7*, e6726. [Data & Code](https://osf.io/3nrsy/)
 * Chadwick, M.\*, __Metzler, H.\*__, Tijus, C., Armony, J.°, Grèzes, J.° (2019). [Stimulus and observer characteristics jointly determine the relevance of threatening facial expressions and their interaction with attention.](https://link.springer.com/article/10.1007/s11031-018-9730-2) *Motivation and Emotion, 43*(2), 299–312. \*°Authors contributed equally.
 * Radke, S., Seidel, E. M., Boubela, R. N., Thaler, **Metzler, H.**, … Derntl, B. (2018). [Immediate and delayed neuroendocrine responses to social exclusion in males and females.](https://doi.org/10.1016/j.psyneuen.2018.04.005) *Psychoneuroendocrinology, 93*, 56–64.
@@ -26,13 +26,13 @@ ___
 ___
 
 
-#### PhD dissertation
+### PhD dissertation
 
 * **Metzler, H.** (2018). [The influence of bodily actions on social perception and behaviour: Assessing effects of power postures](https://doi.org/10.13140/RG.2.2.12354.22728) [Doctoral Dissertation Thesis]. Paris: Sorbonne University.
 
 ___
 
-#### Magazine Article
+### Magazine Article
 
 * Bouchat, P., **Metzler, H.**, & Rimé, B. (2020). [Crise et pandémie. Impact émotionnel et psychosocial du confinement. [Crisis and pandemics. Emotional and psychosocial impact of containment]](https://www.cairn.info/revue-le-journal-des-psychologues-2020-8-page-14.htm#). Le Journal des psychologues, (8), 14-20.
 
