@@ -6,14 +6,14 @@ show-avatar: false
 ___
 
 
-#### Pre-prints & Submissions
+### Pre-prints & Submissions
 
 * **Metzler, H.**, Rimé, B., Niederkrotenthaler, T., Di Natale, A., Garcia, D. (under review). Collective emotions during the outbreak of COVID-19.  [Data & Code](https://osf.io/736kc/).
 * **Metzler, H.**, Vilarem, E., Petschen, A., & Grèzes, J. (2020). [Power posture effects on approach and avoidance decisions in response to social threat](https://doi.org/10.31234/osf.io/t8mhw). *PsyArXiv*. [Data & Code](https://osf.io/q8s3w).
 
 ___
 
-#### Journal Articles
+### Journal Articles
 
 * Lasser, J., Ahne, V., Heiler, G., Klimek, P., **Metzler, H.**, Reisch, T., Sprenger, M., Thurner, S., & Sorger, J. (accepted). Complexity, transparency and time pressure: Practical insights into science communication in times of crisis. *Journal of Communication*. [Preprint](https://osf.io/preprints/socarxiv/ytxrp/).
 * Pellert, M., Lasser, J., **Metzler, H.**, & Garcia, D. (2020). [Dashboard of sentiment in Austrian social media during COVID-19.](https://www.frontiersin.org/articles/10.3389/fdata.2020.00032/) *Frontiers in Big Data, 3*. [Preprint](http://arxiv.org/abs/2006.11158).
@@ -38,7 +38,7 @@ ___
 
 ___
 
-#### Selected Presentations & Posters
+### Selected Presentations & Posters
 
 * **2019** “Science Shorty: From power postures to Open Science”, 31st WISIA Symposium, Vienna, Austria. Talk.
 * **2018** “Body posture impact on action decisions under social threat”, Meeting of the European Society for Cognitive and Affective Neuroscience, Leiden, Netherlands. Talk. 
