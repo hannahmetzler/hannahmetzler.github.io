@@ -221,6 +221,7 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - template-beautiful-jekyll/
 
 plugins:
   - jekyll-paginate
