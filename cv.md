@@ -68,11 +68,11 @@ ___
 
 ### Associations & voluntary activities
 
-* Peer-review for International Conference on Web Social Media
+* Peer-review: International Conference on Web Social Media, The Web Conference
+* Active member of Women in Science – an Interdisciplinary Association - [WISIA](http://www.wisia.at/)
 * Society for the Improvement of Psychological Science - [SIPS](https://improvingpsych.org)
 * Effective Altruism [community Austria](https://effectivealtruism.at/unser-team): A social movement that uses evidence and reason to do the most good - [Effective Altruism Global](https://www.effectivealtruism.org)
 * Institute for Globally Distributed Open Research and Education - [IGDORE][IGDORE] 
-* Women in Science – an Interdisciplinary Association - [WISIA](http://www.wisia.at/)
 * Graz Open Science Initiative - [GOSI](https://twitter.com/GrazOpenScience)
 
 

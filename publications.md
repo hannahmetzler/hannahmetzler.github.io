@@ -15,7 +15,7 @@ ___
 
 ### Journal Articles
 
-* Lasser, J., Ahne, V., Heiler, G., Klimek, P., **Metzler, H.**, Reisch, T., Sprenger, M., Thurner, S., & Sorger, J. (accepted). Complexity, transparency and time pressure: Practical insights into science communication in times of crisis. *Journal of Communication*. [Preprint](https://osf.io/preprints/socarxiv/ytxrp/).
+* Lasser, J., Ahne, V., Heiler, G., Klimek, P., **Metzler, H.**, Reisch, T., Sprenger, M., Thurner, S., & Sorger, J. (2020). [Complexity, transparency and time pressure: Practical insights into science communication in times of crisis](https://doi.org/10.22323/2.19050801). *Journal of Science Communication*, 19(5), N01. 
 * Pellert, M., Lasser, J., **Metzler, H.**, & Garcia, D. (2020). [Dashboard of sentiment in Austrian social media during COVID-19.](https://www.frontiersin.org/articles/10.3389/fdata.2020.00032/) *Frontiers in Big Data, 3*. [Preprint](http://arxiv.org/abs/2006.11158).
 * **Metzler, H.**, & Grèzes, J. (2019). [Repeatedly adopting power postures does not affect hormonal correlates of dominance and affiliative behavior](https://doi.org/10.7717/peerj.6726). *PeerJ, 7*, e6726. [Data & Code](https://osf.io/3nrsy/)
 * Chadwick, M.\*, __Metzler, H.\*__, Tijus, C., Armony, J.°, Grèzes, J.° (2019). [Stimulus and observer characteristics jointly determine the relevance of threatening facial expressions and their interaction with attention.](https://link.springer.com/article/10.1007/s11031-018-9730-2) *Motivation and Emotion, 43*(2), 299–312. \*°Authors contributed equally.
@@ -40,8 +40,8 @@ ___
 
 ### Selected Presentations & Posters
 
-* **2019** “Science Shorty: From power postures to Open Science”, 31st WISIA Symposium, Vienna, Austria. Talk.
-* **2018** “Body posture impact on action decisions under social threat”, Meeting of the European Society for Cognitive and Affective Neuroscience, Leiden, Netherlands. Talk. 
+* **8 November, 2019** “Science Shorty: From power postures to Open Science”, 31st WISIA Symposium, Vienna, Austria. Talk.
+* **21 July, 2018** “Body posture impact on action decisions under social threat”, Meeting of the European Society for Cognitive and Affective Neuroscience, Leiden, Netherlands. Talk. 
 * **2017** Metzler H., Grèzes J. „Your body affects your mind: Body posture effects on mental images of faces (studies 1-4).” International Convention for Psychological Science, Vienna, Austria. Poster. 
 * **2016** “Power Postures and Social Cognition: A PhD Experience in the middle of a controversy”, ENP seminar “Statistics and Reproducibility: Current Challenges in Neuroscience”, Paris. Talk.
 * **2016** Metzler H., Grèzes J. „Your body affects your mind: Body posture effects on mental images of faces (studies 1-3).” European Society for Cognitive and Affective Neuroscience, Porto, Portugal. Poster.
