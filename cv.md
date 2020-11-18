@@ -29,7 +29,7 @@ ___
 
 * **Since 2020** Postdoctoral researcher in Computational Social Science at the [Complexity Science Hub Vienna][CSH] and Medical University of Vienna  
 Research Groups: 
-    * [Computational Social Science Vienna Research Group][CSS] 
+    * [Computational Social Science Group][CSS] 
     * [Unit Suicide Research and Mental Health Promotion][Thomas]
 * **2019–2020** Senior researcher and project manager at the Open and Reproducible Research Group at [Know-Center][KNOW] - Research Center for Data-Driven Business & Big Data Analytics, Graz
 * **2019** Independent researcher at the Institute for Globally Distributed Open Research and Education - [IGDORE][IGDORE] 
