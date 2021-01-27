@@ -1,6 +1,7 @@
 ---
 layout: page
 show-avatar: false
+title: Talks
 ---
 
 ___
@@ -13,6 +14,8 @@ ___
 * **21 July, 2018** _Body posture impact on action decisions under social threat_, Meeting of the European Society for Cognitive and Affective Neuroscience, Leiden, Netherlands. Talk. 
 * **2016** _Power Postures and Social Cognition: A PhD Experience in the middle of a controversy_, ENP seminar _Statistics and Reproducibility: Current Challenges in Neuroscience_, Paris. Talk.
 * **2013** _Sex at Dawn_ and _Sex at Dusk_ – 2 seminars on human sexuality at the Laboratoire de Sciences Cognitives et Psycholinguistique, Department of Cognitive Science, École Normale Supérieur, Paris . Talk. 
+
+___
 
 ### Poster Presentations
 
