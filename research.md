@@ -11,9 +11,9 @@ ___
 
 As a postdoc in Computational Social Science at the Complexity Science Hub and the Medical University of Vienna, I currently work on the following projects:
 
-* Collective emotions on social media during the COVID-19 outbreak
-* Machine Learning for suicide prevention: Which features of media reports related to suicide could contribute to suicide prevention?
-* Emotional Misinformation: How do emotions influence the spreading of misinformation?
+* Assessing collective emotions and mental health during the COVID-19 outbreak using social media analyses
+* Using machine learning for suicide prevention: Which features of news media reporting and social media content contribute to suicide prevention, and which have harmful effects on suicidal behavior?s
+* Emotional Misinformation: How do emotions influence the spreading of misinformation? Could online interventions foster emotional awareness and reduce belief in and sharing of misinformation?
 
 ___
 
