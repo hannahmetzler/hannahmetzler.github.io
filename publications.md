@@ -27,12 +27,12 @@ ___
 ___
 
 
-### PhD dissertation
-
-* **Metzler, H.** (2018). [The influence of bodily actions on social perception and behaviour: Assessing effects of power postures](https://doi.org/10.13140/RG.2.2.12354.22728) [Doctoral Dissertation Thesis]. Paris: Sorbonne University.
-
-___
-
 ### Magazine Article
 
 * Bouchat, P., **Metzler, H.**, & Rimé, B. (2020). [Crise et pandémie. Impact émotionnel et psychosocial du confinement. [Crisis and pandemics. Emotional and psychosocial impact of containment]](https://www.cairn.info/revue-le-journal-des-psychologues-2020-8-page-14.htm#). Le Journal des psychologues, (8), 14-20.
+
+### PhD Dissertation and Diploma thesis
+
+* **Metzler, H.** (2018). [The influence of bodily actions on social perception and behaviour: Assessing effects of power postures](https://doi.org/10.13140/RG.2.2.12354.22728) [Doctoral Dissertation Thesis]. Paris: Sorbonne University.
+* **Metzler, H.** (2013). [Sex differences in neural and hormonal responses to achievement stress](http://othes.univie.ac.at/27600/) [Diploma thesis]. Faculty of Psychology, University of Vienna. 
+___
