@@ -32,6 +32,9 @@ ___
 
 * Bouchat, P., **Metzler, H.**, & Rimé, B. (2020). [Crise et pandémie. Impact émotionnel et psychosocial du confinement. [Crisis and pandemics. Emotional and psychosocial impact of containment]](https://www.cairn.info/revue-le-journal-des-psychologues-2020-8-page-14.htm#). Le Journal des psychologues, (8), 14-20.
 
+___
+
+
 ### PhD Dissertation and Diploma thesis
 
 * **Metzler, H.** (2018). [The influence of bodily actions on social perception and behaviour: Assessing effects of power postures](https://doi.org/10.13140/RG.2.2.12354.22728) [Doctoral Dissertation Thesis]. Paris: Sorbonne University.
