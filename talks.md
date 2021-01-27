@@ -6,9 +6,14 @@ title: Talks
 
 ___
 
+### Upcoming talks
+
+* **12 February 2021** _Collective Emotions during the COVID-19 Outbreak_, [Annual Convention of the Society for Personality and Social Psychology](https://meeting.spsp.org), Symposium: _Crises through new lenses: Studying COVID with 21st century technology_. Austin, USA.
+* **12 April 2021** _Collective Emotions during the COVID-19 Outbreak_, [Royal Economic Society 2021 Annual Conference](https://editorialexpress.com/conference/RES2021/program/RES2021.html), Special session on _Social Media and NLP in Economics_. 
+___
+
 ### Conference and Seminar Presentations
 
-* **12 February 2021** _Collective Emotions during the COVID-19 Outbreak_, Annual Convention of the Society for Personality and Social Psychology, Symposium: _Crises through new lenses: Studying COVID with 21st century technology_. Austin, USA. 
 * **9 December 2020** _Collective Emotions during the COVID-19 Outbreak_, 8th Computational Social Science Satellite Event at the Conference on Complex Systems, Dublin, Ireland. 
 * **8 November, 2019** _Science Shorty: From power postures to Open Science_, 31st WISIA Symposium, Women in Science - an Interdisciplinary Association, Vienna, Austria.
 * **21 July, 2018** _Body posture impact on action decisions under social threat_, Meeting of the European Society for Cognitive and Affective Neuroscience, Leiden, Netherlands. 
