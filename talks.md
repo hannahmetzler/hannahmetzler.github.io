@@ -9,6 +9,7 @@ ___
 ### Upcoming talks
 
 * **12 February 2021** _Collective Emotions during the COVID-19 Outbreak_, [Annual Convention of the Society for Personality and Social Psychology](https://meeting.spsp.org), Symposium: _Crises through new lenses: Studying COVID with 21st century technology_. Austin, USA.
+* **25 March 2021** _Collective Emotions during the COVID-19 Outbreak_, [Spring 2021 DIGSUM seminar series](https://www.digsum.org/digzoom). 
 * **12 April 2021** _Collective Emotions during the COVID-19 Outbreak_, [Royal Economic Society 2021 Annual Conference](https://editorialexpress.com/conference/RES2021/program/RES2021.html), Special session on _Social Media and NLP in Economics_. 
 ___
 
