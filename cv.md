@@ -82,7 +82,7 @@ ___
 [SCAN]: https://scan-psy.univie.ac.at/
 [KNOW]: https://www.know-center.tugraz.at/
 [CSS]: https://dgarcia.eu
-[Thomas]: https://www.meduniwien.ac.at/hp/en/sozialmedizin/science/unit-suizidforschung-mental-health-promotion/
+[Thomas]: https://www.meduniwien.ac.at/hp/fileadmin/sozialmedizin/Unit_Suizidforschung___Mental_Health_Promotion.pdf
 [CSH]: https://csh.ac.at
 [IGDORE]: https://igdore.org/
 
