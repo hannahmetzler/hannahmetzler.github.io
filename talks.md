@@ -10,7 +10,7 @@ ___
 
 * **25 March 2021** _Collective Emotions during the COVID-19 Outbreak_, [Spring 2021 DIGSUM seminar series](https://www.digsum.org/digzoom). Virtual Talk. 
 * **12 April 2021** _Collective Emotions during the COVID-19 Outbreak_, [Royal Economic Society 2021 Annual Conference](https://editorialexpress.com/conference/RES2021/program/RES2021.html), Special session on _Social Media and NLP in Economics_. Virtual Talk.
-* **21 May 2021** _Collective Emotions during the COVID-19 Outbreak_, [Oxford Wellbeing Research Centre Seminar Series] (https://wellbeing.hmc.ox.ac.uk/seminars). Virtual Talk. 
+* **21 May 2021** _Collective Emotions during the COVID-19 Outbreak_, [Oxford Wellbeing Research Centre Seminar Series](https://wellbeing.hmc.ox.ac.uk/seminars). Virtual Talk. 
 
 ___
 
