@@ -8,7 +8,6 @@ ___
 
 ### Upcoming talks
 
-* **25 March 2021** _Collective Emotions during the COVID-19 Outbreak_, [Spring 2021 DIGSUM seminar series](https://www.digsum.org/digzoom). Virtual Talk. 
 * **12 April 2021** _Collective Emotions during the COVID-19 Outbreak_, [Royal Economic Society 2021 Annual Conference](https://editorialexpress.com/conference/RES2021/program/RES2021.html), Special session on _Social Media and NLP in Economics_. Virtual Talk.
 * **21 May 2021** _Collective Emotions during the COVID-19 Outbreak_, [Oxford Wellbeing Research Centre Seminar Series](https://wellbeing.hmc.ox.ac.uk/seminars). Virtual Talk. 
 
@@ -16,6 +15,7 @@ ___
 
 ### Conference and Seminar Presentations
 
+* **25 March 2021** _Collective Emotions during the COVID-19 Outbreak_, [Spring 2021 DIGSUM seminar series](https://www.digsum.org/digzoom). Virtual Talk. 
 * **12 February 2021** _Collective Emotions during the COVID-19 Outbreak_, [Annual Convention of the Society for Personality and Social Psychology](https://meeting.spsp.org), Symposium: _Crises through new lenses: Studying COVID with 21st century technology_. Virtual Talk. 
 * **9 December 2020** _Collective Emotions during the COVID-19 Outbreak_, [8th Computational Social Science Satellite Event at the Conference on Complex Systems](https://sites.google.com/view/css-ccs20), Dublin, Ireland. Virtual Talk.  
 * **8 November, 2019** _Science Shorty: From power postures to Open Science_, 31st WISIA Symposium, Women in Science - an Interdisciplinary Association, Vienna, Austria.
