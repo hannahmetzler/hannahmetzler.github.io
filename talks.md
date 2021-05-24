@@ -8,15 +8,16 @@ ___
 
 ### Upcoming talks
 
-* **21 May 2021** _Collective Emotions during the COVID-19 Outbreak_, [Oxford Wellbeing Research Centre Seminar Series](https://wellbeing.hmc.ox.ac.uk/seminars). Virtual Talk. 
-* **5-10 July 2021** _Collective Emotions during the COVID-19 Outbreak_, [Networks 2021 Conference](https://networks2021.net). Virtual Talk. 
+* **5 June 2021** _Science Shorty: Assessing emotions using social media data_ 35st WISIA Symposium, Women in Science - an Interdisciplinary Association, Heiligenkreuz, Austria.
+* **6 July 2021** _Collective Emotions during the COVID-19 Outbreak_, [Networks 2021 Conference](https://networks2021.net). Virtual Talk. 
 
 ___
 
 ### Conference and Seminar Presentations
 
+* **21 May 2021** _Collective Emotions during the COVID-19 Outbreak_, [Oxford Wellbeing Research Centre Seminar Series](https://wellbeing.hmc.ox.ac.uk/seminars). Virtual Talk. 
 * **12 April 2021** _Collective Emotions during the COVID-19 Outbreak_, [Royal Economic Society 2021 Annual Conference](https://editorialexpress.com/conference/RES2021/program/RES2021.html), Special session on _Social Media and NLP in Economics_. Virtual Talk.
-* **25 March 2021** _Collective Emotions during the COVID-19 Outbreak_, [Spring 2021 DIGSUM seminar series](https://www.digsum.org/digzoom). Virtual Talk, available [here](https://www.youtube.com/watch?v=CLC4ga-H1r0).  
+* **25 March 2021** _Collective Emotions during the COVID-19 Outbreak_, [Spring 2021 DIGSUM seminar series](https://www.digsum.org/digzoom). Virtual Talk, [**Video**](https://www.youtube.com/watch?v=CLC4ga-H1r0).  
 * **12 February 2021** _Collective Emotions during the COVID-19 Outbreak_, [Annual Convention of the Society for Personality and Social Psychology](https://meeting.spsp.org), Symposium: _Crises through new lenses: Studying COVID with 21st century technology_. Virtual Talk. 
 * **9 December 2020** _Collective Emotions during the COVID-19 Outbreak_, [8th Computational Social Science Satellite Event at the Conference on Complex Systems](https://sites.google.com/view/css-ccs20), Dublin, Ireland. Virtual Talk.
 * **4 December 2020** _Collective Emotions during the COVID-19 Outbreak_, Complexity Science Hub Vienna, [Seminar "Analysis of Complex Systems"](https://www.csh.ac.at/event/csh-virtual-talk-by-hannah-metzler-collective-emotions-during-the-covid-19-outbreak/). Virtual Talk. 
