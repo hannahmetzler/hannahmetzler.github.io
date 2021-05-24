@@ -8,7 +8,7 @@ ___
 
 ### Upcoming talks
 
-* **5 June 2021** _Science Shorty: Assessing emotions using social media data_ 35st WISIA Symposium, Women in Science - an Interdisciplinary Association, Heiligenkreuz, Austria.
+* **5 June 2021** _Science Shorty: Assessing emotions using social media data_, 35st [WISIA](http://www.wisia.at) Symposium, Women in Science - an Interdisciplinary Association, Heiligenkreuz, Austria.
 * **6 July 2021** _Collective Emotions during the COVID-19 Outbreak_, [Networks 2021 Conference](https://networks2021.net). Virtual Talk. 
 
 ___
@@ -21,7 +21,7 @@ ___
 * **12 February 2021** _Collective Emotions during the COVID-19 Outbreak_, [Annual Convention of the Society for Personality and Social Psychology](https://meeting.spsp.org), Symposium: _Crises through new lenses: Studying COVID with 21st century technology_. Virtual Talk. 
 * **9 December 2020** _Collective Emotions during the COVID-19 Outbreak_, [8th Computational Social Science Satellite Event at the Conference on Complex Systems](https://sites.google.com/view/css-ccs20), Dublin, Ireland. Virtual Talk.
 * **4 December 2020** _Collective Emotions during the COVID-19 Outbreak_, Complexity Science Hub Vienna, [Seminar "Analysis of Complex Systems"](https://www.csh.ac.at/event/csh-virtual-talk-by-hannah-metzler-collective-emotions-during-the-covid-19-outbreak/). Virtual Talk. 
-* **8 November, 2019** _Science Shorty: From power postures to Open Science_, 31st WISIA Symposium, Women in Science - an Interdisciplinary Association, Vienna, Austria.
+* **8 November, 2019** _Science Shorty: From power postures to Open Science_, 31st [WISIA](http://www.wisia.at) Symposium, Women in Science - an Interdisciplinary Association, Vienna, Austria.
 * **21 July, 2018** _Body posture impact on action decisions under social threat_, Meeting of the European Society for Cognitive and Affective Neuroscience, Leiden, Netherlands. 
 * **2017** Metzler H., Grèzes J. _Your body affects your mind: Body posture effects on mental images of faces (studies 1-4)._ International Convention for Psychological Science, Vienna, Austria. Poster. 
 * **2016** _Power Postures and Social Cognition: A PhD Experience in the middle of a controversy_, ENP seminar _Statistics and Reproducibility: Current Challenges in Neuroscience_, École des Neurosciences, Paris. 
