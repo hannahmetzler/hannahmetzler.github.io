@@ -9,7 +9,7 @@ ___
 ### Upcoming talks
 
 * **5 June 2021** _Science Shorty: Assessing emotions using social media data_, 35st [WISIA](http://www.wisia.at) Symposium, Women in Science - an Interdisciplinary Association, Heiligenkreuz, Austria.
-* **6 July 2021** _Collective Emotions during the COVID-19 Outbreak_, [Networks 2021 Conference](https://networks2021.net). Virtual Talk. 
+* **6 July 2021 - 12 pm** _Collective Emotions during the COVID-19 Outbreak_, [Networks 2021 Conference](https://networks2021.net). Virtual Talk. 
 * **27-31 July 2021** _Collective Emotions during the COVID-19 Outbreak_, [7th International Conference on Computational Social Science ](https://ic2s2-2021.ethz.ch/). Virtual Talk. 
 
 ---
