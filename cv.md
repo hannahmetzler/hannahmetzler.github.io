@@ -45,6 +45,7 @@ ___
 
 ### Fellowships and Awards
 
+* **2021** Digital Humanism Project Grant: _Emotional Misinformation - The Interplay of Emotion and Misinformation Spreading on Social Media._ [WWTF](https://wwtf.at/programmes/information_communication/#ICT20), Principal Investigator, Collaborators: Annie Waldherr and David Garcia
 * **2018** End of thesis scholarship (3 months) from the [Department of Cognitive Science][DEC], École Normale Supérieure, Paris
 * **2013–2017** 4 year PhD scholarship from [École des Neurosciences Paris Île-de-France][ENP]
 * **2013** Honorary certificate for excellent diploma thesis, Dr. Maria-Schaumayer-Stiftung, Austria
