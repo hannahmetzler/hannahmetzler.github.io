@@ -9,7 +9,7 @@ ___
 
 ### Pre-prints & Submissions
 
-* **Metzler, H.**, Rimé, B., Niederkrotenthaler, T., Di Natale, A., Garcia, D. (in revision). Collective emotions during the outbreak of COVID-19.  [Data & Code](https://osf.io/736kc/).
+* **Metzler, H.**, Rimé, B., Pellert, M., Niederkrotenthaler, T., Natale, A. D., & Garcia, D. (2021). [Collective Emotions during the COVID-19 Outbreak.](https://doi.org/10.31234/osf.io/qejxv).  *PsyArXiv*. [Data & Code](https://osf.io/736kc/).
 * **Metzler, H.**, Vilarem, E., Petschen, A., & Grèzes, J. (2020). [Power posture effects on approach and avoidance decisions in response to social threat](https://doi.org/10.31234/osf.io/t8mhw). *PsyArXiv*. [Data & Code](https://osf.io/q8s3w).
 
 ___
