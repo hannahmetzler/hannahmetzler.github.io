@@ -11,7 +11,7 @@ ___
 
 As a postdoc in Computational Social Science at the Complexity Science Hub and the Medical University of Vienna, I currently work on the following projects:
 
-* Assessing collective emotions and mental health during the COVID-19 outbreak using social media analyses. My talk at Digzoom on this project is online [here](https://www.youtube.com/watch?v=CLC4ga-H1r0).
+* Assessing collective emotions and mental health during the COVID-19 outbreak using social media analyses. Recored talks about this project: [Seminar at the Oxford Wellbeing Research Center](https://www.youtube.com/watch?v=d953J1vcH4s), [DIGSUM seminar](https://www.youtube.com/watch?v=CLC4ga-H1r0).
 * Using machine learning for suicide prevention: Which features of news media reporting and social media content contribute to suicide prevention, and which have harmful effects on suicidal behavior?
 * [Emotional Misinformation Spreading](www.hannahmetzler.eu/emomis): How do emotions influence the spreading of misinformation? Could online interventions foster emotional awareness and reduce belief in and sharing of misinformation?
 
