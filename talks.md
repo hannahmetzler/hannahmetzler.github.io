@@ -8,7 +8,6 @@ ___
 
 ### Upcoming talks
 
-* **5 June 2021** _Science Shorty: Assessing emotions using social media data_, 35st [WISIA](http://www.wisia.at) Symposium, Women in Science - an Interdisciplinary Association, Heiligenkreuz, Austria.
 * **6 July 2021 - 12 pm** _Collective Emotions during the COVID-19 Outbreak_, [Networks 2021 Conference](https://networks2021.net). Virtual Talk. 
 * **27-31 July 2021** _Collective Emotions during the COVID-19 Outbreak_, [7th International Conference on Computational Social Science ](https://ic2s2-2021.ethz.ch/). Virtual Talk. 
 
@@ -19,11 +18,11 @@ ___
 * **Collective Emotions during the COVID-19 Outbreak**
     - [Talk at the Oxford Wellbeing Research Center](https://www.youtube.com/watch?v=d953J1vcH4s), 21 May 2021 (20 minutes)
     - [Talk at the spring 2021 DIGSUM seminar](https://www.youtube.com/watch?v=CLC4ga-H1r0), 25 March 2021 (40 minutes)
-
 ___
 
 ### Conference and Seminar Presentations
 
+* **5 June 2021** _Science Shorty: Assessing emotions using social media data_, 35st [WISIA](http://www.wisia.at) Symposium, Women in Science - an Interdisciplinary Association, Heiligenkreuz, Austria.
 * **21 May 2021** _Collective Emotions during the COVID-19 Outbreak_, [Oxford Wellbeing Research Centre Seminar Series](https://wellbeing.hmc.ox.ac.uk/seminars). Virtual Talk. [**Video**](https://www.youtube.com/watch?v=d953J1vcH4s)
 * **12 April 2021** _Collective Emotions during the COVID-19 Outbreak_, [Royal Economic Society 2021 Annual Conference](https://editorialexpress.com/conference/RES2021/program/RES2021.html), Special session on _Social Media and NLP in Economics_. Virtual Talk.
 * **25 March 2021** _Collective Emotions during the COVID-19 Outbreak_, [Spring 2021 DIGSUM seminar series](https://www.digsum.org/digzoom). Virtual Talk, [**Video**](https://www.youtube.com/watch?v=CLC4ga-H1r0).  
