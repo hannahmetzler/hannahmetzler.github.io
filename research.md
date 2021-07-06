@@ -9,7 +9,7 @@ ___
 
 ### Computational Social Science
 
-As a postdoc in Computational Social Science at the Complexity Science Hub, the Medical University of Vienna and Technical University Graz, I currently work on the following projects:
+As a postdoc in the [Computational Social Science lab](dgarcia.eu) at the Complexity Science Hub, the Medical University of Vienna and Technical University Graz, I currently work on the following projects:
 
 * Assessing collective emotions and mental health during the COVID-19 outbreak using social media analyses. Recored talks about this project: 
     - [Seminar at the Oxford Wellbeing Research Center](https://www.youtube.com/watch?v=d953J1vcH4s)
