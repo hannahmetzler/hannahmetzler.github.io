@@ -65,7 +65,7 @@ ___
     - Collaborative assessment of replicability & credibility of social science research at [RepliCATS](https://replicats.research.unimelb.edu.au/) 2020 & 2021
 * *Science outreach*: 
     - **2020**: Journalist interviews on Complexity Science [(video)](https://www.facebook.com/alexandervanderbellen/videos/besuch-im-complexity-science-hub-vienna/731750567653204/), and collective emotions in response to the  COVID-19 outbreak (example articles [1](https://www.derstandard.at/story/2000115973796/coronavirus-twitter-spiegelt-aengste-und-sorgen-der-menschen-wider) & [2](https://science.apa.at/site/kultur_und_gesellschaft/detail.html?key=SCI_20200417_SCI39351351654193650&))
-    - **2017**: [“La neurobiologie des relations”](http://www.paris-neuroscience.fr/en/compterendu/enp-normale-sup-brain-awareness-week-2017): Organizer and speaker of science communication event Semaine du Cerveau 2017, Paris (Talk in French) 
+    - **2017**: [“La neurobiologie des relations”](http://www.paris-neuroscience.fr/en/compterendu/enp-normale-sup-brain-awareness-week-2017): Organizer and speaker of science communication event at Semaine du Cerveau 2017, Paris (Talk in French) 
 * *Event organization*:
     - [SIPS 2021](https://www.improvingpsych.org/SIPS2021/): Conference session on Improving interdisciplinary peer review
     - **2019 - 2021**: Organizing symposia (No 31, 34, 35) for [WISIA](http://www.wisia.at/) (Women in Science)
