@@ -8,8 +8,8 @@ ___
 
 ### Upcoming talks
 
-* **6 July 2021 - 12 pm** _Collective Emotions during the COVID-19 Outbreak_, [Networks 2021 Conference](https://networks2021.net). Virtual Talk. 
-* **27-31 July 2021** _Collective Emotions during the COVID-19 Outbreak_, [7th International Conference on Computational Social Science ](https://ic2s2-2021.ethz.ch/). Virtual Talk. 
+* **6 July 2021 - 18h CET** _Collective Emotions during the COVID-19 Outbreak_, [Networks 2021 Conference](https://networks2021.net). Virtual Talk. 
+* **30 July 2021 - 9h30 CET** _Collective Emotions during the COVID-19 Outbreak_, [7th International Conference on Computational Social Science ](https://ic2s2-2021.ethz.ch/). Virtual Talk. 
 
 ---
 
