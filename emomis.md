@@ -18,7 +18,7 @@ The spreading of misinformation via social media contributes to a global threat 
 
 This project is funded by the Vienna Science and Technology Fund ([WWTF](https://wwtf.at/programmes/information_communication/#ICT20)) for a period of three years and will start around November 2021. 
 
-You can find the **Job Announcement** [here](https://www.csh.ac.at/job-openings/). 
-___
+You can find the **Job Announcement** [here](https://www.csh.ac.at/job-openings/).
+
 
 
