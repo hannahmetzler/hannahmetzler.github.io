@@ -9,7 +9,7 @@ ___
 ### Upcoming talks
 
 * **30 July 2021 - 9h30 CET** _Collective Emotions during the COVID-19 Outbreak_, [7th International Conference on Computational Social Science ](https://ic2s2-2021.ethz.ch/). Virtual Talk.
-* **21-24 September 2021** _A Machine Learning approach to media effects research on suicide: Detecting potentially harmful and protective content in social media postings_, 31st World Congress of the International Association for Suicide Prevention, Symposium: _Research update on the Papageno effect_. Virtual Talk. 
+* **21-24 September 2021** _A Machine Learning approach to media effects research on suicide: Detecting potentially harmful and protective content in social media postings_, [31st World Congress of the International Association for Suicide Prevention](https://www.iasp.info/goldcoast2021/), Symposium: _Research update on the Papageno effect_. Virtual Talk. 
 
 ---
 
