@@ -18,6 +18,7 @@ The spreading of misinformation via social media contributes to a global threat 
 
 This project is a collaboration with the team of [Annie Waldherr](https://compcommlab.univie.ac.at/team/annie-waldherr/) at University of Vienna. It is funded by the Vienna Science and Technology Fund ([WWTF](https://wwtf.at/programmes/information_communication/#ICT20)) for a period of three years and will start around November 2021. 
 
+**[Job Announcement](/docs/Emomis_PhD Call_CSH.pdf)**
 ___
 
 
