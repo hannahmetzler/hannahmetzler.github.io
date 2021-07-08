@@ -11,10 +11,9 @@ ___
 
 As a postdoc in the [Computational Social Science lab](https://dgarcia.eu/) at the Complexity Science Hub, the Medical University of Vienna and Technical University Graz, I currently work on the following projects:
 
-* Assessing **collective emotions and mental health** during the COVID-19 outbreak using social media analyses. Recored talks about this project: 
+* Assessing **collective emotions and mental health** during the COVID-19 outbreak using social media analyses. Here is an [interactive visualization of the results](http://dgarcia.eu/COVID19-Emotions.html) of one example study, as well as two recorded talks: 
     - [Seminar at the Oxford Wellbeing Research Center](https://www.youtube.com/watch?v=d953J1vcH4s)
     - [DIGSUM seminar](https://www.youtube.com/watch?v=CLC4ga-H1r0).
-    - [Interactive visualization of results](http://dgarcia.eu/COVID19-Emotions.html)
 * Using machine learning for **suicide prevention**: Which features of news media reporting and social media content contribute to suicide prevention, and which have harmful effects on suicidal behavior?
 * **[Emotional Misinformation Spreading](/emomis.md)**: How do emotions influence the spreading of misinformation? Could online interventions foster emotional awareness and reduce belief in and sharing of misinformation?
 
