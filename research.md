@@ -16,6 +16,7 @@ As a postdoc in the [Computational Social Science lab](https://dgarcia.eu/) at t
     - [DIGSUM seminar](https://www.youtube.com/watch?v=CLC4ga-H1r0).
 * Using machine learning for **suicide prevention**: Which features of news media reporting and social media content contribute to suicide prevention, and which have harmful effects on suicidal behavior?
 * **[Emotional Misinformation Spreading](/emomis.md)**: How do emotions influence the spreading of misinformation? Could online interventions foster emotional awareness and reduce belief in and sharing of misinformation?
+    - We are currently looking for a **PhD student** to work in this project. More info [here](/emomis.md). 
 
 ___
 
