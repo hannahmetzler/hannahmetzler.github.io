@@ -17,6 +17,7 @@ ___
 
 ### Journal Articles
 
+* Niederkrotenthaler, T., Laido, Z., Kirchner, S., Braun, M., **Metzler, H.**, … Till, B. (2021). [Mental health over nine months during the SARS-CoV2 pandemic: Representative cross-sectional survey in twelve waves between April and December 2020 in Austria](https://doi.org/10.1016/j.jad.2021.08.153). Journal of Affective Disorders. 
 * Lasser, J., Ahne, V., Heiler, G., Klimek, P., **Metzler, H.**, Reisch, T., Sprenger, M., Thurner, S., & Sorger, J. (2020). [Complexity, transparency and time pressure: Practical insights into science communication in times of crisis](https://doi.org/10.22323/2.19050801). *Journal of Science Communication*, 19(5), N01. 
 * Pellert, M., Lasser, J., **Metzler, H.**, & Garcia, D. (2020). [Dashboard of sentiment in Austrian social media during COVID-19.](https://www.frontiersin.org/articles/10.3389/fdata.2020.00032/) *Frontiers in Big Data, 3*. [Preprint](http://arxiv.org/abs/2006.11158).
 * **Metzler, H.**, & Grèzes, J. (2019). [Repeatedly adopting power postures does not affect hormonal correlates of dominance and affiliative behavior](https://doi.org/10.7717/peerj.6726). *PeerJ, 7*, e6726. [Data & Code](https://osf.io/3nrsy/)
