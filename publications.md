@@ -10,7 +10,6 @@ ___
 ### Pre-prints & Submissions
 
 * **Metzler, H.**, Rimé, B., Pellert, M., Niederkrotenthaler, T., Natale, A. D., & Garcia, D. (2021). [Collective Emotions during the COVID-19 Outbreak.](https://doi.org/10.31234/osf.io/qejxv).  *PsyArXiv*. [Data & Code](https://osf.io/736kc/).
-* Niederkrotenthaler, T., Kirchner, S., r Braun, M., **Metzler, H.**, Waldhör, T., Strauss, M., Garcia, D., Till, B. (under review). *Mental health over nine months during the SARS-CoV2 pandemic: Representative cross-sectional survey in twelve waves between April and December 2020 in Austria.*
 * **Metzler, H.**, Vilarem, E., Petschen, A., & Grèzes, J. (2020). [Power posture effects on approach and avoidance decisions in response to social threat](https://doi.org/10.31234/osf.io/t8mhw). *PsyArXiv*. [Data & Code](https://osf.io/q8s3w).
 
 ___
