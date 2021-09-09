@@ -12,7 +12,6 @@ ___
 As a postdoc in the [Computational Social Science lab](https://dgarcia.eu/) at the Complexity Science Hub, the Medical University of Vienna and Technical University Graz, I currently work on the following projects:
 
 * **[Emotional Misinformation Spreading](/emomis.md)**: How do emotions influence the spreading of misinformation? Could online interventions foster emotional awareness and reduce belief in and sharing of misinformation?
-    - We are currently **hiring a PhD student** to work in this project. More info [**here**](/emomis.md). 
 * Assessing **collective emotions and mental health** during the COVID-19 outbreak using social media analyses. Here is an [interactive visualization of the results](http://dgarcia.eu/COVID19-Emotions.html) of one example study, as well as two recorded talks: 
     - [Seminar at the Oxford Wellbeing Research Center](https://www.youtube.com/watch?v=d953J1vcH4s)
     - [DIGSUM seminar](https://www.youtube.com/watch?v=CLC4ga-H1r0).
@@ -48,7 +47,7 @@ With Franck Ramus at École Normale Supérieure Paris, I investigated anatomical
 In the [group of Nathalie George](https://socialaffectiveneuro.wixsite.com/thesanteam/nathalie-george) at the Brain and Spine Institute in Paris, I analyzed intracranial EEG data to examine the integration of gaze and emotional expression cues in the superior temporal sulcus, one of the core structures of the „social brain“. Finally, I explored the effect of power-related body postures on the recognition of threatening facial expressions in the [team of Julie Grèzes](https://lnc2.dec.ens.fr/en/research/teams/social-cognition-brain-society) (ENS Paris). I used a model-based approach to analyze how adopting expansive and contracted postures influences the recognition of angry and fearful faces depending on their gaze direction.
  
 **Gender differences in stress responses (Master)**  
-For my Master thesis, I worked in a large research project at the [SCAN-Unit][SCAN], that investigated gender differences and menstrual cycle effects in the response to different types of stressors. We compared the effects of social and achievement stress on subjective emotional responses, the social hormones testosterone and progesterone, and on neural activity measured with fMRI.  
+For my Master thesis, I worked in a research project at the [SCAN-Unit][SCAN], that investigated gender differences and menstrual cycle effects in the response to different types of stressors. We compared the effects of social and achievement stress on subjective emotional responses, the social hormones testosterone and progesterone, and on neural activity measured with fMRI.  
 My diploma thesis focused on [Sex differences in neural and hormonal responses to achievement stress](http://othes.univie.ac.at/27600/). 
 
 [ENPprogram]: http://www.paris-neuroscience.fr/en/graduate-program
