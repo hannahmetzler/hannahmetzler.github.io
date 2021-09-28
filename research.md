@@ -9,7 +9,7 @@ ___
 
 ### Computational Social Science
 
-As a postdoc in the [Computational Social Science lab](https://dgarcia.eu/) at the Complexity Science Hub, the Medical University of Vienna and Technical University Graz, I currently work on the following projects:
+As a postdoc in the [Computational Social Science lab](https://dgarcia.eu/about-us/) at the Complexity Science Hub, the Medical University of Vienna and Technical University Graz, I currently work on the following projects:
 
 * **[Emotional Misinformation Spreading](/emomis.md)**: How do emotions influence the spreading of misinformation? Could online interventions foster emotional awareness and reduce belief in and sharing of misinformation?
 * Assessing **collective emotions and mental health** during the COVID-19 outbreak using social media analyses. Here is an [interactive visualization of the results](http://dgarcia.eu/COVID19-Emotions.html) of one example study, as well as two recorded talks: 
