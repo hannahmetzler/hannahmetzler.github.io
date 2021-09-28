@@ -4,13 +4,6 @@ show-avatar: false
 title: Talks
 ---
 
-___
-
-### Upcoming talks
-
-
-* **24 September 2021, 11am Brisbane time (3am CET)** _A Machine Learning approach to media effects research on suicide: Detecting potentially harmful and protective content in social media postings_, [31st World Congress of the International Association for Suicide Prevention](https://www.iasp.info/goldcoast2021/), Symposium: _Research update on the Papageno effect_. Virtual talk. 
-
 ---
 
 ### Recorded Talks
@@ -24,6 +17,7 @@ ___
 
 ### Conference and Seminar Presentations
 
+* **24 September 2021** _A Machine Learning approach to media effects research on suicide: Detecting potentially harmful and protective content in social media postings_, [31st World Congress of the International Association for Suicide Prevention](https://www.iasp.info/goldcoast2021/), Symposium: _Research update on the Papageno effect_. Virtual talk. 
 * **30 July 2021 - 9h30 CET** _Collective Emotions during the COVID-19 Outbreak_, [7th International Conference on Computational Social Science ](https://ic2s2-2021.ethz.ch/). Virtual talk.
 * **6 July 2021** _Collective Emotions during the COVID-19 Outbreak_, [Networks 2021 Conference](https://networks2021.net). Virtual Talk. 
 * **5 June 2021** _Science Shorty: Assessing emotions using social media data_, 35st [WISIA](http://www.wisia.at) Symposium, Women in Science - an Interdisciplinary Association, Heiligenkreuz, Austria.
