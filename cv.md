@@ -91,7 +91,7 @@ ___
 [DEC]: https://cognition.ens.fr/en
 [SCAN]: https://scan-psy.univie.ac.at/
 [KNOW]: https://www.know-center.tugraz.at/
-[CSS]: https://dgarcia.eu
+[CSS]: https://dgarcia.eu/about-us/
 [Thomas]: https://www.meduniwien.ac.at/hp/fileadmin/sozialmedizin/Unit_Suizidforschung___Mental_Health_Promotion.pdf
 [CSH]: https://csh.ac.at
 [IGDORE]: https://igdore.org/

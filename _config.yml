@@ -18,6 +18,7 @@ navbar-links:
   CV: "cv"
   Research: "research"
   Publications: "publications"
+  Projects: "projects"
   Talks: "talks"
   #Resources:
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
