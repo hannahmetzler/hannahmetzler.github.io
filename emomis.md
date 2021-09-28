@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project on Emotional Misinformation Spreading
+title: Emotional Misinformation Spreading
 show-avatar: false
 ---
 
