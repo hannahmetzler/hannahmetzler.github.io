@@ -12,11 +12,17 @@ title: Talks
     - [Talk at the Oxford Wellbeing Research Center](https://www.youtube.com/watch?v=d953J1vcH4s), 21 May 2021 (20 minutes)
     - [Talk at the spring 2021 DIGSUM seminar](https://www.youtube.com/watch?v=CLC4ga-H1r0), 25 March 2021 (40 minutes)
 
+
+### Upcoming
+
+* **11 December 2021** _Collective emotions on social media: validity and applications to the COVID-19 pandemic_, [Workshop: Österreichisches Treffen zu Sentimentinferenz (ÖTSI) Österreichische Linguistik-Tagung 2021](https://evsl.univie.ac.at/digital-philology/oesterreichisches-treffen-zu-sentimentinferenz-oetsi/). Rgistration [here](https://oelt2021.univie.ac.at/). Virtual Talk. 
 ___
 
 
 ### Conference and Seminar Presentations
 
+* **18 November 2021** _Emotional Misinformation: The interplay of emotions and misinformation spreading on social media_, Vienna Art Week, Session on [„Regaining Control. Der Mensch im Zentrum der technologischen Entwicklung“](https://www.viennaartweek.at/de/program/losing-control-line-up/), Public talk.
+* **5 November 2021** _Detecting Potentially Harmful and Protective Suicide-related Content on Twitter: Machine Learning Classification of Tweets_, Complexity Science Hub Vienna, [Seminar "Analysis of Complex Systems"](https://www.csh.ac.at/event/webtalk-hannah-metzler-machine-learning-for-media-effects-research-on-suicide/). Talk. 
 * **24 September 2021** _A Machine Learning approach to media effects research on suicide: Detecting potentially harmful and protective content in social media postings_, [31st World Congress of the International Association for Suicide Prevention](https://www.iasp.info/goldcoast2021/), Symposium: _Research update on the Papageno effect_. Virtual talk. 
 * **30 July 2021** _Collective Emotions during the COVID-19 Outbreak_, [7th International Conference on Computational Social Science ](https://ic2s2-2021.ethz.ch/). Virtual talk.
 * **6 July 2021** _Collective Emotions during the COVID-19 Outbreak_, [Networks 2021 Conference](https://networks2021.net). Virtual Talk. 
