@@ -15,14 +15,24 @@ title: Talks
 
 ### Upcoming
 
+* **14 January 2022** _The crucial role of emotions in misinformation spreading_, Conference on Intelligent Machines, Emotions, and the Planet, Stockholm. Talk. 
 * **11 December 2021** _Collective emotions on social media: validity and applications to the COVID-19 pandemic_, [Workshop: Österreichisches Treffen zu Sentimentinferenz (ÖTSI) Österreichische Linguistik-Tagung 2021](https://evsl.univie.ac.at/digital-philology/oesterreichisches-treffen-zu-sentimentinferenz-oetsi/). [**Registration**](https://oelt2021.univie.ac.at/). Virtual Talk. 
+
 
 ___
 
 
+### Public presentations
+
+* **18 November 2021** _Emotional Misinformation: The interplay of emotions and misinformation spreading on social media_, Vienna Art Week, Session on [„Regaining Control. Der Mensch im Zentrum der technologischen Entwicklung“](https://www.viennaartweek.at/de/program/losing-control-line-up/), Vienna. Public talk.
+* **16 March 2017**: [“La neurobiologie des relations”](https://ethos.univ-rennes1.fr/evenements/semaine-du-cerveau) (Neurobiology of relationships), Semaine du Cerveau (Week of the Brain), Paris. Public talk. 
+
+
+---
+
 ### Conference and Seminar Presentations
 
-* **18 November 2021** _Emotional Misinformation: The interplay of emotions and misinformation spreading on social media_, Vienna Art Week, Session on [„Regaining Control. Der Mensch im Zentrum der technologischen Entwicklung“](https://www.viennaartweek.at/de/program/losing-control-line-up/), Public talk.
+
 * **5 November 2021** _Detecting Potentially Harmful and Protective Suicide-related Content on Twitter: Machine Learning Classification of Tweets_, Complexity Science Hub Vienna, [Seminar "Analysis of Complex Systems"](https://www.csh.ac.at/event/webtalk-hannah-metzler-machine-learning-for-media-effects-research-on-suicide/). Talk. 
 * **24 September 2021** _A Machine Learning approach to media effects research on suicide: Detecting potentially harmful and protective content in social media postings_, [31st World Congress of the International Association for Suicide Prevention](https://www.iasp.info/goldcoast2021/), Symposium: _Research update on the Papageno effect_. Virtual talk. 
 * **30 July 2021** _Collective Emotions during the COVID-19 Outbreak_, [7th International Conference on Computational Social Science ](https://ic2s2-2021.ethz.ch/). Virtual talk.
