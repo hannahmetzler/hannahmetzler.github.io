@@ -15,7 +15,7 @@ title: Talks
 
 ### Upcoming
 
-* **14 January 2022** _The crucial role of emotions in misinformation spreading_, Conference on Intelligent Machines, Emotions, and the Planet, Stockholm. Talk. 
+* **14 January 2022** _Emotional misinformation spreading: The interplay of emotions and misinformation on social media_, Conference on Intelligent Machines, Emotions, and the Planet, Stockholm. Talk. 
 * **11 December 2021** _Collective emotions on social media: validity and applications to the COVID-19 pandemic_, [Workshop: Österreichisches Treffen zu Sentimentinferenz (ÖTSI) Österreichische Linguistik-Tagung 2021](https://evsl.univie.ac.at/digital-philology/oesterreichisches-treffen-zu-sentimentinferenz-oetsi/). [**Registration**](https://oelt2021.univie.ac.at/). Virtual Talk. 
 
 
@@ -24,7 +24,7 @@ ___
 
 ### Public presentations
 
-* **18 November 2021** _Emotional Misinformation: The interplay of emotions and misinformation spreading on social media_, Vienna Art Week, Session on [„Regaining Control. Der Mensch im Zentrum der technologischen Entwicklung“](https://www.viennaartweek.at/de/program/losing-control-line-up/), Vienna. Public talk.
+* **18 November 2021** _Emotionen und die Verbreitung von Falschinformationen_, Vienna Art Week, Session on [„Regaining Control. Der Mensch im Zentrum der technologischen Entwicklung“](https://www.viennaartweek.at/de/program/losing-control-line-up/), Vienna. Public talk.
 * **16 March 2017**: [“La neurobiologie des relations”](https://ethos.univ-rennes1.fr/evenements/semaine-du-cerveau) (Neurobiology of relationships), Semaine du Cerveau (Week of the Brain), Paris. Public talk. 
 
 
