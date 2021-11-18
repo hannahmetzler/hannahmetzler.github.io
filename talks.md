@@ -4,7 +4,7 @@ show-avatar: false
 title: Talks
 ---
 
-Folien zum Vienna Art Week Vortrag: [_Emotionen und die Verbreitung von Falschinformationen_](http://hannahmetzler.eu/viennaartweek/)
+**Folien zum Vienna Art Week Vortrag:** [_Emotionen und die Verbreitung von Falschinformationen_](http://hannahmetzler.eu/viennaartweek/)
 
 ---
 
