@@ -4,6 +4,8 @@ show-avatar: false
 title: Talks
 ---
 
+Folien zum Vienna Art Week Vortrag: [_Emotionen und die Verbreitung von Falschinformationen_](http://hannahmetzler.eu/viennaartweek/)
+
 ---
 
 ### Recorded Talks
@@ -15,8 +17,9 @@ title: Talks
 
 ### Upcoming
 
-* **14 January 2022** _Emotional misinformation spreading: The interplay of emotions and misinformation on social media_, Conference on Intelligent Machines, Emotions, and the Planet, Stockholm. Talk. 
+* **18 November 2021** [_Emotionen und die Verbreitung von Falschinformationen_](http://hannahmetzler.eu/viennaartweek/), **Vienna Art Week**, Session on [„Regaining Control. Der Mensch im Zentrum der technologischen Entwicklung“](https://www.viennaartweek.at/de/program/losing-control-line-up/), Vienna. Public talk. 
 * **11 December 2021** _Collective emotions on social media: validity and applications to the COVID-19 pandemic_, [Workshop: Österreichisches Treffen zu Sentimentinferenz (ÖTSI) Österreichische Linguistik-Tagung 2021](https://evsl.univie.ac.at/digital-philology/oesterreichisches-treffen-zu-sentimentinferenz-oetsi/). [**Registration**](https://oelt2021.univie.ac.at/). Virtual Talk. 
+* **14 January 2022** _Emotional misinformation spreading: The interplay of emotions and misinformation on social media_, Conference on Intelligent Machines, Emotions, and the Planet, Stockholm. Talk. 
 
 
 ___
@@ -24,7 +27,6 @@ ___
 
 ### Public presentations
 
-* **18 November 2021** [_Emotionen und die Verbreitung von Falschinformationen_](http://hannahmetzler.eu/viennaartweek/), Vienna Art Week, Session on [„Regaining Control. Der Mensch im Zentrum der technologischen Entwicklung“](https://www.viennaartweek.at/de/program/losing-control-line-up/), Vienna. Public talk.
 * **16 March 2017**: _[La neurobiologie des relations](https://ethos.univ-rennes1.fr/evenements/semaine-du-cerveau) (Neurobiology of relationships)_, Semaine du Cerveau (Week of the Brain), Paris. Public talk. 
 
 
