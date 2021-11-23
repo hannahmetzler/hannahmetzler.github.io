@@ -18,7 +18,7 @@ title: Talks
 
 * **18 November 2021** [_Emotionen und die Verbreitung von Falschinformationen_](http://hannahmetzler.eu/viennaartweek/), **Vienna Art Week**, Session on [„Regaining Control. Der Mensch im Zentrum der technologischen Entwicklung“](https://www.viennaartweek.at/de/program/losing-control-line-up/), Vienna. Public talk. 
 * **11 December 2021** _Collective emotions on social media: validity and applications to the COVID-19 pandemic_, [Workshop: Österreichisches Treffen zu Sentimentinferenz (ÖTSI) Österreichische Linguistik-Tagung 2021](https://evsl.univie.ac.at/digital-philology/oesterreichisches-treffen-zu-sentimentinferenz-oetsi/). [**Registration**](https://oelt2021.univie.ac.at/). Virtual Talk. 
-* **14 January 2022** _Emotional misinformation spreading: The interplay of emotions and misinformation on social media_, Conference on Intelligent Machines, Emotions, and the Planet, Stockholm. Talk. 
+* **14 January 2022** _Emotional misinformation spreading: The interplay of emotions and misinformation on social media_, [Conference on Intelligent Machines, Emotions](https://hopin.com/events/intelligentmachinesemotionsourplanet#schedule), and the Planet, Stockholm. Talk. 
 
 
 ___
