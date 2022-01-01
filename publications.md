@@ -7,7 +7,7 @@ show-avatar: false
 ___
 
 
-### Pre-prints & Submissions
+### Pre-prints
 
 * **Metzler, H.**, Baginski, H., Niederkrotenthaler, T., & Garcia, D. (2021). [Detecting Potentially Harmful and Protective Suicide-related Content on Twitter: A Machine Learning Approach.](http://arxiv.org/abs/2112.04796) ArXiv:2112.04796 [Cs].
 * Pellert, M., **Metzler, H.**, Matzenberger, M., & Garcia, D. (2021). [Validating daily social media macroscopes of emotions.](http://arxiv.org/abs/2108.07646) ArXiv:2108.07646 [Cs]. 
