@@ -9,6 +9,9 @@ ___
 
 ### Pre-prints & Submissions
 
+* **Metzler, H.**, Baginski, H., Niederkrotenthaler, T., & Garcia, D. (2021). [Detecting Potentially Harmful and Protective Suicide-related Content on Twitter: A Machine Learning Approach.](http://arxiv.org/abs/2112.04796) ArXiv:2112.04796 [Cs].
+* Pellert, M., **Metzler, H.**, Matzenberger, M., & Garcia, D. (2021). [Validating daily social media macroscopes of emotions.](http://arxiv.org/abs/2108.07646) ArXiv:2108.07646 [Cs]. 
+* Garcia, D., Pellert, M., Lasser, J., & **Metzler, H.** (2021). [Social media emotion macroscopes reflect emotional experiences in society at large.]( http://arxiv.org/abs/2107.13236) ArXiv:2107.13236 [Cs].
 * **Metzler, H.**, Rimé, B., Pellert, M., Niederkrotenthaler, T., Natale, A. D., & Garcia, D. (2021). [Collective Emotions during the COVID-19 Outbreak.](https://doi.org/10.31234/osf.io/qejxv).  *PsyArXiv*. [Data & Code](https://osf.io/736kc/).
 * **Metzler, H.**, Vilarem, E., Petschen, A., & Grèzes, J. (2020). [Power posture effects on approach and avoidance decisions in response to social threat](https://doi.org/10.31234/osf.io/t8mhw). *PsyArXiv*. [Data & Code](https://osf.io/q8s3w).
 
