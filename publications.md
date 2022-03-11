@@ -7,7 +7,7 @@ show-avatar: false
 ___
 
 
-### Pre-prints
+## Pre-prints
 
 * **Metzler, H.**, Baginski, H., Niederkrotenthaler, T., & Garcia, D. (2021). [Detecting Potentially Harmful and Protective Suicide-related Content on Twitter: A Machine Learning Approach.](http://arxiv.org/abs/2112.04796) ArXiv:2112.04796 [Cs].
 * Pellert, M., **Metzler, H.**, Matzenberger, M., & Garcia, D. (2021). [Validating daily social media macroscopes of emotions.](http://arxiv.org/abs/2108.07646) ArXiv:2108.07646 [Cs]. 
@@ -17,7 +17,7 @@ ___
 
 ___
 
-### Journal Articles
+## Journal Articles
 
 * Niederkrotenthaler, T., Laido, Z., Kirchner, S., Braun, M., **Metzler, H.**, … Till, B. (2021). [Mental health over nine months during the SARS-CoV2 pandemic: Representative cross-sectional survey in twelve waves between April and December 2020 in Austria](https://doi.org/10.1016/j.jad.2021.08.153). Journal of Affective Disorders. 
 * Lasser, J., Ahne, V., Heiler, G., Klimek, P., **Metzler, H.**, Reisch, T., Sprenger, M., Thurner, S., & Sorger, J. (2020). [Complexity, transparency and time pressure: Practical insights into science communication in times of crisis](https://doi.org/10.22323/2.19050801). *Journal of Science Communication*, 19(5), N01. 
@@ -32,14 +32,14 @@ ___
 ___
 
 
-### Magazine Article
+## Magazine Article
 
 * Bouchat, P., **Metzler, H.**, & Rimé, B. (2020). [Crise et pandémie. Impact émotionnel et psychosocial du confinement. [Crisis and pandemics. Emotional and psychosocial impact of containment]](https://www.cairn.info/revue-le-journal-des-psychologues-2020-8-page-14.htm#). Le Journal des psychologues, (8), 14-20.
 
 ___
 
 
-### PhD Dissertation and Diploma thesis
+## PhD Dissertation and Diploma thesis
 
 * **Metzler, H.** (2018). [The influence of bodily actions on social perception and behaviour: Assessing effects of power postures](https://doi.org/10.13140/RG.2.2.12354.22728) [Doctoral Dissertation Thesis]. Paris: Sorbonne University.
 * **Metzler, H.** (2013). [Sex differences in neural and hormonal responses to achievement stress](http://othes.univie.ac.at/27600/) [Diploma thesis]. Faculty of Psychology, University of Vienna. 

@@ -7,7 +7,7 @@ show-avatar: false
 ___
 
 
-### Emotional Misinformation Spreading
+## Emotional Misinformation Spreading
 
 * Vienna Science and Technology Fund (WWTF) <br>
 * Amount: 400.000 Euro <br>
