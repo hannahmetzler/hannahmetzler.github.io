@@ -13,7 +13,7 @@ show-avatar: false
 
 ___
 
-### Education
+## Education
 
 * **2014-2018** PhD in Cognitive Neuroscience at Sorbonne University & École Normale Supérieure Paris, supervised by Julie Grèzes  
     Graduate Program at [École des Neurosciences Paris-Île de-France][ENP]
@@ -25,7 +25,7 @@ ___
 ___
 
 
-### Research Experience
+## Research Experience
 
 * **Since 2020** Postdoctoral researcher in Computational Social Science at the [Complexity Science Hub Vienna][CSH] and Medical University of Vienna  
 Research Groups: 
@@ -43,7 +43,7 @@ Research Groups:
 ___
 
 
-### Awards and Funding
+## Awards and Funding
 
 * **2021** [Digital Humanism](https://www.wwtf.at/digital_humanism/) Project Grant: _Emotional Misinformation - The Interplay of Emotion and Misinformation Spreading on Social Media._ [WWTF](https://wwtf.at/programmes/information_communication/#ICT20), Principal Investigator, Collaborators: Annie Waldherr & David Garcia,  Amount €399.540
 * **2018** End of thesis scholarship (3 months) from the [Department of Cognitive Science][DEC], École Normale Supérieure, Paris
@@ -56,7 +56,7 @@ ___
 ___
 
 
-### Professional and Scholarly Activities
+## Professional and Scholarly Activities
 
 * *Peer-review*: [Publons profile](https://publons.com/researcher/3462834/hannah-metzler/peer-review)
     - Scientific Reports, Emotion, Journal of Trial and Error
@@ -75,7 +75,7 @@ ___
 ___
 
 
-### Professional Associations
+## Professional Associations
 
 * Vice president of Women in Science – an Interdisciplinary Association - [WISIA](http://www.wisia.at/)
 * *Open Science*: 

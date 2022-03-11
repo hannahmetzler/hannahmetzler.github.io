@@ -26,7 +26,7 @@ p {
   margin: 1.875rem 0;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
   line-height: 1.1;
 }
@@ -83,12 +83,12 @@ hr.small {
 ::-moz-selection {
   color: #fff;
   text-shadow: none;
-  background-color: {{ site.hover-col | default: "#0085A1" }};
+  background-color: {{ site.hover-col | default: "#084da1" }};
 }
 ::selection {
   color: #fff;
   text-shadow: none;
-  background-color: {{ site.hover-col | default: "#0085A1" }};
+  background-color: {{ site.hover-col | default: "#084da1" }};
 }
 img::selection {
   color: #fff;
@@ -125,7 +125,7 @@ img {
 .navbar-custom {
   background-color: {{ site.navbar-col | default: "#EAEAEA" }};
   border-bottom: 1px solid {{ site.navbar-border-col | default: "#DDDDDD" }};
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-img %}
     background-image: url({{ site.navbar-img | relative_url }});
     background-attachment: fixed;
@@ -305,7 +305,7 @@ img {
 .navbar-custom .navbar-nav .nav-link:focus,
 .navbar-custom .navbar-nav .dropdown-menu .dropdown-item:hover,
 .navbar-custom .navbar-nav .dropdown-menu .dropdown-item:focus {
-  color: {{ site.hover-col | default: "#0085A1" }};
+  color: {{ site.hover-col | default: "#084da1" }};
 }
 
 .navbar-custom .avatar-container {
@@ -394,7 +394,7 @@ footer .list-inline {
   margin-bottom: 1.875rem;
 }
 footer .copyright {
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-align: center;
   margin-bottom: 0;
   margin-top: 0;
@@ -406,7 +406,7 @@ footer .theme-by {
 footer .footer-custom-content {
   text-align: center;
   margin-bottom: 0.9375rem;
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 @media (min-width: 768px) {
@@ -444,14 +444,14 @@ footer .footer-custom-content {
 
 .post-preview a {
   text-decoration: none;
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: {{ site.text-col | default: "#404040" }};
 }
 
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: {{ site.hover-col | default: "#0085A1" }};
+  color: {{ site.hover-col | default: "#084da1" }};
 }
 
 .post-preview .post-title {
@@ -546,7 +546,7 @@ footer .footer-custom-content {
 /* --- Tags --- */
 
 .blog-tags {
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 0.9375rem;
   margin-bottom: 1.875rem;
 }
@@ -589,7 +589,7 @@ footer .footer-custom-content {
 }
 
 #full-tags-list {
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 #full-tags-list .tag-entry {
@@ -663,7 +663,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   font-size: 1.6875rem;
   line-height: 1.1;
   display: block;
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   margin: 0.625rem 0 0;
 }
@@ -688,7 +688,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   padding: 0.3125rem 0.625rem;
   font-size: 0.6875rem;
   color: #EEE;
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   right: 0;
   bottom: 0;
   display: none;
@@ -780,7 +780,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 
 .pagination .page-item .page-link {
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 0.875rem;
   font-weight: 800;
@@ -798,8 +798,8 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 .pagination .page-item .page-link:hover,
 .pagination .page-item .page-link:focus {
   color: #FFF;
-  border: 1px solid {{ site.hover-col | default: "#0085A1" }};
-  background-color: {{ site.hover-col | default: "#0085A1" }};
+  border: 1px solid {{ site.hover-col | default: "#084da1" }};
+  background-color: {{ site.hover-col | default: "#084da1" }};
 }
 
 /* --- Tables --- */

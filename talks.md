@@ -7,21 +7,21 @@ title: Talks
 
 ---
 
-### Recorded Talks
+## Recorded Talks
 
 * **Collective Emotions during the COVID-19 Outbreak**
     - [Talk at the Oxford Wellbeing Research Center](https://www.youtube.com/watch?v=d953J1vcH4s), 21 May 2021 (20 minutes)
     - [Talk at the spring 2021 DIGSUM seminar](https://www.youtube.com/watch?v=CLC4ga-H1r0), 25 March 2021 (40 minutes)
 
 
-### Upcoming
+## Upcoming
 
 * **21 April 2022 - 12PM ET** Data Science/Computational Social Science seminar, University of Michigan (School of Information). Virtual Talk. 
 
 ___
 
 
-### Public presentations & panel discussions
+## Public presentations & panel discussions
 
 * **18 November 2021** [_Emotionen und die Verbreitung von Falschinformationen_](http://hannahmetzler.eu/viennaartweek/), Vienna Art Week, Panel on [„Regaining Control. Der Mensch im Zentrum der technologischen Entwicklung“](https://www.viennaartweek.at/de/program/losing-control-line-up/), Vienna. Public talk. 
 * **16 March 2017**: _[La neurobiologie des relations](https://ethos.univ-rennes1.fr/evenements/semaine-du-cerveau) (Neurobiology of relationships)_, Semaine du Cerveau (Week of the Brain), Paris. Public talk. 
@@ -29,7 +29,7 @@ ___
 
 ---
 
-### Conference and Seminar Presentations
+## Conference and Seminar Presentations
 
 
 * **14 January 2022** _Emotional misinformation spreading: The interplay of emotions and misinformation on social media_, [Conference on Intelligent Machines, Emotions](https://hopin.com/events/intelligentmachinesemotionsourplanet#schedule), and the Planet, Stockholm. Talk. 
