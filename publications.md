@@ -9,6 +9,7 @@ ___
 
 ## Pre-prints
 
+* Pontika, N., Klebel, T., Correia, A., Metzler, H., Knoth, P. & Ross-Hellauer, T. (2022). [Indicators of Research Quality, Quantity, Openness and Responsibility in Institutional Promotion, Review and Tenure Policies across Seven Countries.](https://doi.org/10.31222/osf.io/b9qaw) MetaArXiv.
 * **Metzler, H.**, Baginski, H., Niederkrotenthaler, T., & Garcia, D. (2021). [Detecting Potentially Harmful and Protective Suicide-related Content on Twitter: A Machine Learning Approach.](http://arxiv.org/abs/2112.04796) ArXiv:2112.04796 [Cs].
 * Pellert, M., **Metzler, H.**, Matzenberger, M., & Garcia, D. (2021). [Validating daily social media macroscopes of emotions.](http://arxiv.org/abs/2108.07646) ArXiv:2108.07646 [Cs]. 
 * Garcia, D., Pellert, M., Lasser, J., & **Metzler, H.** (2021). [Social media emotion macroscopes reflect emotional experiences in society at large.]( http://arxiv.org/abs/2107.13236) ArXiv:2107.13236 [Cs].
