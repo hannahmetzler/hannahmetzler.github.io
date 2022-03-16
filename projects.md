@@ -9,6 +9,7 @@ ___
 
 ## [Emotional Misinformation Spreading](/emomis.md)
 
+* Nov 2021 - Feb 2025
 * Vienna Science and Technology Fund (WWTF) <br>
 * Funding: 400.000 Euro <br>
 * Project team: 
