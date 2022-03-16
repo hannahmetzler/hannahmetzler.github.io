@@ -18,9 +18,16 @@ In December 2021, we started the project *Emotional Misinformation – The Inter
 
 ## About the project
 
+**Summary**
+
 The spreading of misinformation via social media contributes to a global threat to trust in science and democratic institutions, with consequences for public health and societal conflicts. Emotions influence how we process information, suggesting a link between certain emotional states and misinformation spreading – especially in times of high uncertainty. The project aims at understanding how emotions influence the tendency to believe and share inaccurate content, and to test intervention strategies to mitigate emotional misinformation spreading. Using digital data traces, the research team will analyze patterns of emotional misinformation spreading on social media and use experimental studies  testing the potential of individual emotion regulation interventions to reduce misinformation sharing. Finally, we will integrate results from social media analysis and experimental studies in an agent-based model to identify the most promising interventions to reduce misinformation spreading in social networks, and to simulate how algorithmic filters for emotional information affect the spreading of misinformation.
 
 * For an introduction to the project in English, have a look at the [**slides**](https://hannahmetzler.eu/emomis_stockholm) of a recent talk at the Conference on Intelligent Machines, Emotions and the Planet. 
+
+**Zusammenfassung**
+
+Die Verbreitung von falschen Information, z.B. über soziale Medien, bedroht das Vertrauen in die Wissenschaft und die Demokratie. Die COVID-19 Pandemie hat gezeigt, dass Fehlinformation durch diesen Vertrauensverlust die Gesundheit der Bevölkerung verschlechtern kann. Der Sturm auf das US-Kapitol während der letzten US-Präsidenten Wahl zeigt, dass Fehlinformation auch gesellschaftliche Konflikte schüren kann. In diesem Projekt analysieren wir, wie sich Gefühle auf die Verbreitung von Fehlinformation auswirken. Gefühle bestimmen mit, wie wir wahrnehmen und denken. Dies zeigt sich vor allem in Zeiten großer Unsicherheit, wie der COVID-19 Pandemie. Wir untersuchen, ob Gefühle wie Angst und Wut uns anfälliger dafür machen, falsche Informationen zu glauben und weiter zu teilen. Wir analysieren dafür zuerst, wie sich falsche Informationen auf sozialen Medien wie Twitter verbreiten. Dann testen wir in Online-Experimenten, ob psychologische Strategien zur Emotionsregulation die Verbreitung von solchen Informationen eindämmen können. Schlussendlich entwickeln wir ein Computermodell, mit dem wir simulieren, welche dieser Strategien in sozialen Netzwerken am besten funktionieren könnte. Dabei  simulieren wir auch, wie die Algorithmen der sozialen Plattformen, die emotionale Nachrichten bevorzugen, die Verbreitung von falschen Informationen verstärken. Unser Projekt möchte einen Beitrag dazu leisten, neue Kommunikationstechnologien so anzupassen, dass sie der menschlichen Art und Weise zu Denken und zu Handeln entsprechen.
+
 * Eine Übersicht zu unserem Projekt auf deutsch, inklusive Literaturempfehlungen, finden Sie [**hier**](https://hannahmetzler.eu/viennaartweek/). 
 
 

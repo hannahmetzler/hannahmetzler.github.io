@@ -10,6 +10,9 @@ ___
 ## [Emotional Misinformation Spreading](/emomis.md)
 
 * Vienna Science and Technology Fund (WWTF) <br>
-* Amount: 400.000 Euro <br>
-* With: [David Garcia](https://dgarcia.eu) (TU Graz, Complexity Science Hub) & [Annie Waldherr](https://compcommlab.univie.ac.at/team/annie-waldherr/) (University of Vienna).
-* [More about the project](/emomis.md)
+* Funding: 400.000 Euro <br>
+* Project team: 
+    * [David Garcia](https://dgarcia.eu) (TU Graz, Complexity Science Hub) 
+    * [Annie Waldherr](https://compcommlab.univie.ac.at/team/annie-waldherr/) (University of Vienna).
+    * [Apeksha Shetty](https://twitter.com/apeksha_sh) (PhD student), Complexity Science Hub Vienna
+    * [Jula Lühring](https://twitter.com/lue_jula) (PhD student), University of Vienna
