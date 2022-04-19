@@ -27,7 +27,7 @@ ___
 
 ## Research Experience
 
-* **2020-now** Postdoctoral researcher at the [Computational Social Science lab][CSS]  by David Garcia at the [Complexity Science Hub Vienna][CSH] and Medical University of Vienna
+* **2020-now** Postdoctoral researcher at the [Computational Social Science lab][CSS]  by David Garcia at the [Complexity Science Hub][CSH] and the Medical University in Vienna
     * 2020-2022 part-time @ [Unit Suicide Research and Mental Health Promotion][Thomas]
 * **2019–2020** Senior researcher and project manager at the Open and Reproducible Research Group at [Know-Center][KNOW] - Research Center for Data-Driven Business & Big Data Analytics, Graz
 * **2019** Independent researcher at the Institute for Globally Distributed Open Research and Education - [IGDORE][IGDORE] 
