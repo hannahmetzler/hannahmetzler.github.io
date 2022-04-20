@@ -16,14 +16,14 @@ title: Talks
 
 ## Upcoming
 
-* **21 April 2022 - 12PM ET** Data Science/Computational Social Science seminar, University of Michigan (School of Information). Virtual Talk. 
+* **28 April 2022 - 12PM ET**: _Collective emotions on social media: Validity and applications to the COVID-19 pandemic_, Data Science/Computational Social Science seminar, School of Information, University of Michigan. Virtual Talk. Free registration [here](umsi.info/DSCSS). 
 
 ___
 
 
 ## Public presentations & panel discussions
 
-* **18 November 2021** [_Emotionen und die Verbreitung von Falschinformationen_](http://hannahmetzler.eu/viennaartweek/), Vienna Art Week, Panel on [„Regaining Control. Der Mensch im Zentrum der technologischen Entwicklung“](https://www.viennaartweek.at/de/program/losing-control-line-up/), Vienna. Public talk. 
+* **18 November 2021** [Emotionen und die Verbreitung von Falschinformationen_](http://hannahmetzler.eu/viennaartweek/), Vienna Art Week, Panel on [„Regaining Control. Der Mensch im Zentrum der technologischen Entwicklung“](https://www.viennaartweek.at/de/program/losing-control-line-up/), Vienna. Public talk. 
 * **16 March 2017**: _[La neurobiologie des relations](https://ethos.univ-rennes1.fr/evenements/semaine-du-cerveau) (Neurobiology of relationships)_, Semaine du Cerveau (Week of the Brain), Paris. Public talk. 
 
 
