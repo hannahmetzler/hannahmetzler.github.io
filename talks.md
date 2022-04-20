@@ -16,14 +16,14 @@ title: Talks
 
 ## Upcoming
 
-* **28 April 2022 - 12PM ET**: _Collective emotions on social media: Validity and applications to the COVID-19 pandemic_, Data Science/Computational Social Science seminar, School of Information, University of Michigan. Virtual Talk. Free registration [here](umsi.info/DSCSS). 
+* **28 April 2022 - 12PM ET**: _Collective emotions on social media: Validity and applications to the COVID-19 pandemic_, Data Science/Computational Social Science seminar, School of Information, University of Michigan. Virtual Talk. Free registration [**here**](umsi.info/DSCSS). 
 
 ___
 
 
 ## Public presentations & panel discussions
 
-* **18 November 2021** [Emotionen und die Verbreitung von Falschinformationen_](http://hannahmetzler.eu/viennaartweek/), Vienna Art Week, Panel on [„Regaining Control. Der Mensch im Zentrum der technologischen Entwicklung“](https://www.viennaartweek.at/de/program/losing-control-line-up/), Vienna. Public talk. 
+* **18 November 2021** _Emotionen und die Verbreitung von Falschinformationen_, Vienna Art Week, Panel on [„Regaining Control. Der Mensch im Zentrum der technologischen Entwicklung“](https://www.viennaartweek.at/de/program/losing-control-line-up/), Vienna. Panel discussion. [Slides](http://hannahmetzler.eu/viennaartweek/).
 * **16 March 2017**: _[La neurobiologie des relations](https://ethos.univ-rennes1.fr/evenements/semaine-du-cerveau) (Neurobiology of relationships)_, Semaine du Cerveau (Week of the Brain), Paris. Public talk. 
 
 
@@ -32,7 +32,7 @@ ___
 ## Conference and Seminar Presentations
 
 
-* **14 January 2022** _Emotional misinformation spreading: The interplay of emotions and misinformation on social media_, [Conference on Intelligent Machines, Emotions](https://hopin.com/events/intelligentmachinesemotionsourplanet#schedule), and the Planet, Stockholm. Talk. 
+* **14 January 2022** _Emotional misinformation spreading: The interplay of emotions and misinformation on social media_, [Conference on Intelligent Machines, Emotions](https://hopin.com/events/intelligentmachinesemotionsourplanet#schedule), and the Planet, Stockholm. Talk. [Slides](https://hannahmetzler.eu/emomis_stockholm/).
 * **11 December 2021** _Collective emotions on social media: validity and applications to the COVID-19 pandemic_, [Workshop: Österreichisches Treffen zu Sentimentinferenz (ÖTSI) Österreichische Linguistik-Tagung 2021](https://evsl.univie.ac.at/digital-philology/oesterreichisches-treffen-zu-sentimentinferenz-oetsi/). [**Registration**](https://oelt2021.univie.ac.at/). Virtual Talk. 
 * **5 November 2021** _Detecting Potentially Harmful and Protective Suicide-related Content on Twitter: Machine Learning Classification of Tweets_, Complexity Science Hub Vienna, [Seminar "Analysis of Complex Systems"](https://www.csh.ac.at/event/webtalk-hannah-metzler-machine-learning-for-media-effects-research-on-suicide/). Talk. 
 * **24 September 2021** _A Machine Learning approach to media effects research on suicide: Detecting potentially harmful and protective content in social media postings_, [31st World Congress of the International Association for Suicide Prevention](https://www.iasp.info/goldcoast2021/), Symposium: _Research update on the Papageno effect_. Virtual talk. 
