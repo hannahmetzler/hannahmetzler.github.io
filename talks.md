@@ -23,6 +23,7 @@ ___
 
 ## Public presentations & panel discussions
 
+* **20 April 2022** _Digital Humanism - How to Put Humans at the Cente rof Emerging Tech_, Panel discussion, Wilson Center. [Video](https://www.wilsoncenter.org/event/digital-humanism-how-put-humans-center-emerging-tech) including a brief introduction to the our Emotion & Misinformation project (at 29 minutes). 
 * **18 November 2021** _Emotionen und die Verbreitung von Falschinformationen_, Vienna Art Week, Panel on [„Regaining Control. Der Mensch im Zentrum der technologischen Entwicklung“](https://www.viennaartweek.at/de/program/losing-control-line-up/), Vienna. Panel discussion. [Slides](http://hannahmetzler.eu/viennaartweek/).
 * **16 March 2017**: _[La neurobiologie des relations](https://ethos.univ-rennes1.fr/evenements/semaine-du-cerveau) (Neurobiology of relationships)_, Semaine du Cerveau (Week of the Brain), Paris. Public talk. 
 
