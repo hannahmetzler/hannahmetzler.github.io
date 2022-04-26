@@ -16,7 +16,7 @@ title: Talks
 
 ## Upcoming
 
-* **28 April 2022 - 12PM ET**: _Collective emotions on social media: Validity and applications to the COVID-19 pandemic_, Data Science/Computational Social Science seminar, School of Information, University of Michigan. Virtual Talk. Free registration [**here**](umsi.info/DSCSS). 
+* **28 April 2022 - 12PM ET**: [_Collective emotions on social media: Validity and applications to the COVID-19 pandemic_](https://www.si.umich.edu/about-umsi/events/data-science/computational-social-science-seminar-hannah-metzler), Data Science/Computational Social Science seminar, School of Information, University of Michigan. Virtual Talk. Free registration [**here**](umsi.info/DSCSS). 
 
 ___
 
