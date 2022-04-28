@@ -13,11 +13,6 @@ title: Talks
     - [Talk at the Oxford Wellbeing Research Center](https://www.youtube.com/watch?v=d953J1vcH4s), 21 May 2021 (20 minutes)
     - [Talk at the spring 2021 DIGSUM seminar](https://www.youtube.com/watch?v=CLC4ga-H1r0), 25 March 2021 (40 minutes)
 
-
-## Upcoming
-
-* **28 April 2022 - 12PM ET**: [_Collective emotions on social media: Validity and applications to the COVID-19 pandemic_](https://www.si.umich.edu/about-umsi/events/data-science/computational-social-science-seminar-hannah-metzler), Data Science/Computational Social Science seminar, School of Information, University of Michigan. Virtual Talk. Free registration [**here**](umsi.info/DSCSS). 
-
 ___
 
 
@@ -32,7 +27,7 @@ ___
 
 ## Conference and Seminar Presentations
 
-
+* **28 April 2022**: [_Collective emotions on social media: Validity and applications to the COVID-19 pandemic_](https://www.si.umich.edu/about-umsi/events/data-science/computational-social-science-seminar-hannah-metzler), Data Science/Computational Social Science seminar, School of Information, University of Michigan. Virtual Talk. 
 * **14 January 2022** _Emotional misinformation spreading: The interplay of emotions and misinformation on social media_, [Conference on Intelligent Machines, Emotions](https://hopin.com/events/intelligentmachinesemotionsourplanet#schedule), and the Planet, Stockholm. Talk. [Slides](https://hannahmetzler.eu/emomis_stockholm/).
 * **11 December 2021** _Collective emotions on social media: validity and applications to the COVID-19 pandemic_, [Workshop: Österreichisches Treffen zu Sentimentinferenz (ÖTSI) Österreichische Linguistik-Tagung 2021](https://evsl.univie.ac.at/digital-philology/oesterreichisches-treffen-zu-sentimentinferenz-oetsi/). [**Registration**](https://oelt2021.univie.ac.at/). Virtual Talk. 
 * **5 November 2021** _Detecting Potentially Harmful and Protective Suicide-related Content on Twitter: Machine Learning Classification of Tweets_, Complexity Science Hub Vienna, [Seminar "Analysis of Complex Systems"](https://www.csh.ac.at/event/webtalk-hannah-metzler-machine-learning-for-media-effects-research-on-suicide/). Talk. 
