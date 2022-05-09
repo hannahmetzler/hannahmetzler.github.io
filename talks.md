@@ -12,35 +12,37 @@ title: Talks
 * **Collective Emotions during the COVID-19 Outbreak**
     - [Talk at the Oxford Wellbeing Research Center](https://www.youtube.com/watch?v=d953J1vcH4s), 21 May 2021 (20 minutes)
     - [Talk at the spring 2021 DIGSUM seminar](https://www.youtube.com/watch?v=CLC4ga-H1r0), 25 March 2021 (40 minutes)
+* **Emotional Misinformation Spreading**
+    - Brief introduction to the Emotion & Misinformation project at 29 minutes into this [video](https://www.wilsoncenter.org/event/digital-humanism-how-put-humans-center-emerging-tech).
 
 ___
 
 
 ## Public presentations & panel discussions
 
-* **20 April 2022** _Digital Humanism - How to Put Humans at the Cente rof Emerging Tech_, Panel discussion, Wilson Center. [Video](https://www.wilsoncenter.org/event/digital-humanism-how-put-humans-center-emerging-tech) including a brief introduction to the our Emotion & Misinformation project (at 29 minutes). 
+* **20 April 2022** _Digital Humanism - How to Put Humans at the Center of Emerging Tech_, Panel discussion, Wilson Center. [Video](https://www.wilsoncenter.org/event/digital-humanism-how-put-humans-center-emerging-tech) including a brief introduction to the Emotion & Misinformation project (at 29 minutes). 
 * **18 November 2021** _Emotionen und die Verbreitung von Falschinformationen_, Vienna Art Week, Panel on [„Regaining Control. Der Mensch im Zentrum der technologischen Entwicklung“](https://www.viennaartweek.at/de/program/losing-control-line-up/), Vienna. Panel discussion. [Slides](http://hannahmetzler.eu/viennaartweek/).
-* **16 March 2017**: _[La neurobiologie des relations](https://ethos.univ-rennes1.fr/evenements/semaine-du-cerveau) (Neurobiology of relationships)_, Semaine du Cerveau (Week of the Brain), Paris. Public talk. 
+* **16 March 2017**: _[La neurobiologie des relations](https://ethos.univ-rennes1.fr/evenements/semaine-du-cerveau) (Neurobiology of relationships)_, Semaine du Cerveau (Week of the Brain), Paris.
 
 
 ---
 
 ## Conference and Seminar Presentations
 
-* **28 April 2022**: [_Collective emotions on social media: Validity and applications to the COVID-19 pandemic_](https://www.si.umich.edu/about-umsi/events/data-science/computational-social-science-seminar-hannah-metzler), Data Science/Computational Social Science seminar, School of Information, University of Michigan. Virtual Talk. 
-* **14 January 2022** _Emotional misinformation spreading: The interplay of emotions and misinformation on social media_, [Conference on Intelligent Machines, Emotions](https://hopin.com/events/intelligentmachinesemotionsourplanet#schedule), and the Planet, Stockholm. Talk. [Slides](https://hannahmetzler.eu/emomis_stockholm/).
-* **11 December 2021** _Collective emotions on social media: validity and applications to the COVID-19 pandemic_, [Workshop: Österreichisches Treffen zu Sentimentinferenz (ÖTSI) Österreichische Linguistik-Tagung 2021](https://evsl.univie.ac.at/digital-philology/oesterreichisches-treffen-zu-sentimentinferenz-oetsi/). [**Registration**](https://oelt2021.univie.ac.at/). Virtual Talk. 
-* **5 November 2021** _Detecting Potentially Harmful and Protective Suicide-related Content on Twitter: Machine Learning Classification of Tweets_, Complexity Science Hub Vienna, [Seminar "Analysis of Complex Systems"](https://www.csh.ac.at/event/webtalk-hannah-metzler-machine-learning-for-media-effects-research-on-suicide/). Talk. 
-* **24 September 2021** _A Machine Learning approach to media effects research on suicide: Detecting potentially harmful and protective content in social media postings_, [31st World Congress of the International Association for Suicide Prevention](https://www.iasp.info/goldcoast2021/), Symposium: _Research update on the Papageno effect_. Virtual talk. 
-* **30 July 2021** _Collective Emotions during the COVID-19 Outbreak_, [7th International Conference on Computational Social Science ](https://ic2s2-2021.ethz.ch/). Virtual talk.
-* **6 July 2021** _Collective Emotions during the COVID-19 Outbreak_, [Networks 2021 Conference](https://networks2021.net). Virtual Talk. 
+* **28 April 2022**: [_Collective emotions on social media: Validity and applications to the COVID-19 pandemic_](https://www.si.umich.edu/about-umsi/events/data-science/computational-social-science-seminar-hannah-metzler), Data Science/Computational Social Science seminar, School of Information, University of Michigan. 
+* **14 January 2022** _Emotional misinformation spreading: The interplay of emotions and misinformation on social media_, [Conference on Intelligent Machines, Emotions](https://hopin.com/events/intelligentmachinesemotionsourplanet#schedule), and the Planet, Stockholm. [Slides](https://hannahmetzler.eu/emomis_stockholm/).
+* **11 December 2021** _Collective emotions on social media: validity and applications to the COVID-19 pandemic_, [Workshop: Österreichisches Treffen zu Sentimentinferenz (ÖTSI) Österreichische Linguistik-Tagung 2021](https://evsl.univie.ac.at/digital-philology/oesterreichisches-treffen-zu-sentimentinferenz-oetsi/). 
+* **5 November 2021** _Detecting Potentially Harmful and Protective Suicide-related Content on Twitter: Machine Learning Classification of Tweets_, Complexity Science Hub Vienna, [Seminar "Analysis of Complex Systems"](https://www.csh.ac.at/event/webtalk-hannah-metzler-machine-learning-for-media-effects-research-on-suicide/). 
+* **24 September 2021** _A Machine Learning approach to media effects research on suicide: Detecting potentially harmful and protective content in social media postings_, [31st World Congress of the International Association for Suicide Prevention](https://www.iasp.info/goldcoast2021/), Symposium: _Research update on the Papageno effect_.  
+* **30 July 2021** _Collective Emotions during the COVID-19 Outbreak_, [7th International Conference on Computational Social Science ](https://ic2s2-2021.ethz.ch/). 
+* **6 July 2021** _Collective Emotions during the COVID-19 Outbreak_, [Networks 2021 Conference](https://networks2021.net).  
 * **5 June 2021** _Science Shorty: Assessing emotions using social media data_, 35st [WISIA](http://www.wisia.at) Symposium, Women in Science - an Interdisciplinary Association, Heiligenkreuz, Austria.
 * **21 May 2021** _Collective Emotions during the COVID-19 Outbreak_, [Oxford Wellbeing Research Centre Seminar Series](https://wellbeing.hmc.ox.ac.uk/seminars). Virtual talk, [Video](https://www.youtube.com/watch?v=d953J1vcH4s)
-* **12 April 2021** _Collective Emotions during the COVID-19 Outbreak_, [Royal Economic Society 2021 Annual Conference](https://editorialexpress.com/conference/RES2021/program/RES2021.html), Special session on _Social Media and NLP in Economics_. Virtual talk.
+* **12 April 2021** _Collective Emotions during the COVID-19 Outbreak_, [Royal Economic Society 2021 Annual Conference](https://editorialexpress.com/conference/RES2021/program/RES2021.html), Special session on _Social Media and NLP in Economics_. 
 * **25 March 2021** _Collective Emotions during the COVID-19 Outbreak_, [Spring 2021 DIGSUM seminar series](https://www.digsum.org/digzoom). Virtual Talk, [Video](https://www.youtube.com/watch?v=CLC4ga-H1r0).  
-* **12 February 2021** _Collective Emotions during the COVID-19 Outbreak_, [Annual Convention of the Society for Personality and Social Psychology](https://meeting.spsp.org), Symposium: _Crises through new lenses: Studying COVID with 21st century technology_. Virtual talk. 
-* **9 December 2020** _Collective Emotions during the COVID-19 Outbreak_, [8th Computational Social Science Satellite Event at the Conference on Complex Systems](https://sites.google.com/view/css-ccs20), Dublin, Ireland. Virtual talk.
-* **4 December 2020** _Collective Emotions during the COVID-19 Outbreak_, Complexity Science Hub Vienna, [Seminar "Analysis of Complex Systems"](https://www.csh.ac.at/event/csh-virtual-talk-by-hannah-metzler-collective-emotions-during-the-covid-19-outbreak/). Virtual talk. 
+* **12 February 2021** _Collective Emotions during the COVID-19 Outbreak_, [Annual Convention of the Society for Personality and Social Psychology](https://meeting.spsp.org), Symposium: _Crises through new lenses: Studying COVID with 21st century technology_.  
+* **9 December 2020** _Collective Emotions during the COVID-19 Outbreak_, [8th Computational Social Science Satellite Event at the Conference on Complex Systems](https://sites.google.com/view/css-ccs20), Dublin, Ireland. 
+* **4 December 2020** _Collective Emotions during the COVID-19 Outbreak_, Complexity Science Hub Vienna, [Seminar "Analysis of Complex Systems"](https://www.csh.ac.at/event/csh-virtual-talk-by-hannah-metzler-collective-emotions-during-the-covid-19-outbreak/).  
 * **8 November, 2019** _Science Shorty: From power postures to Open Science_, 31st [WISIA](http://www.wisia.at) Symposium, Women in Science - an Interdisciplinary Association, Vienna, Austria.
 * **21 July, 2018** _Body posture impact on action decisions under social threat_, Meeting of the European Society for Cognitive and Affective Neuroscience, Leiden, Netherlands. 
 * **2017** Metzler H., Grèzes J. _Your body affects your mind: Body posture effects on mental images of faces (studies 1-4)._ International Convention for Psychological Science, Vienna, Austria. Poster. 
