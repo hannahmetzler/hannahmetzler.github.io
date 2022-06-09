@@ -10,8 +10,6 @@ ___
 ## Pre-prints
 
 * Pontika, N., Klebel, T., Correia, A., **Metzler, H.**, Knoth, P. & Ross-Hellauer, T. (2022). [Indicators of Research Quality, Quantity, Openness and Responsibility in Institutional Promotion, Review and Tenure Policies across Seven Countries.](https://doi.org/10.31222/osf.io/b9qaw) MetaArXiv.
-* **Metzler, H.**, Baginski, H., Niederkrotenthaler, T., & Garcia, D. (2021). [Detecting Potentially Harmful and Protective Suicide-related Content on Twitter: A Machine Learning Approach.](http://arxiv.org/abs/2112.04796) ArXiv:2112.04796 [Cs].
-* Pellert, M., **Metzler, H.**, Matzenberger, M., & Garcia, D. (2021). [Validating daily social media macroscopes of emotions.](http://arxiv.org/abs/2108.07646) ArXiv:2108.07646 [Cs]. 
 * Garcia, D., Pellert, M., Lasser, J., & **Metzler, H.** (2021). [Social media emotion macroscopes reflect emotional experiences in society at large.]( http://arxiv.org/abs/2107.13236) ArXiv:2107.13236 [Cs].
 * **Metzler, H.**, Vilarem, E., Petschen, A., & Grèzes, J. (2020). [Power posture effects on approach and avoidance decisions in response to social threat](https://doi.org/10.31234/osf.io/t8mhw). *PsyArXiv*. [Data & Code](https://osf.io/q8s3w).
 
@@ -19,6 +17,8 @@ ___
 
 ## Journal Articles
 
+* Pellert, M., **Metzler, H.**, Matzenberger, M., & Garcia, D. (202). [Validating daily social media macroscopes of emotions.](http://arxiv.org/abs/2108.07646) Accepted at *Scientifi Reports*.
+* **Metzler, H.**, Baginski, H., Niederkrotenthaler, T., & Garcia, D. (2022). [Detecting Potentially Harmful and Protective Suicide-related Content on Twitter: A Machine Learning Approach.](http://arxiv.org/abs/2112.04796) Accepted at *Journal of Medical Internet Research*.
 * **Metzler, H.**, Rimé, B., Pellert, M., Niederkrotenthaler, T., Natale, A. D., & Garcia, D. (2022). Collective Emotions during the COVID-19 Outbreak. Accepted at *Emotion*. [Data & Code](https://osf.io/736kc/). [PDF](https://doi.org/10.31234/osf.io/qejxv).
 * Niederkrotenthaler, T., Laido, Z., Kirchner, S., Braun, M., **Metzler, H.**, … Till, B. (2021). [Mental health over nine months during the SARS-CoV2 pandemic: Representative cross-sectional survey in twelve waves between April and December 2020 in Austria](https://doi.org/10.1016/j.jad.2021.08.153). Journal of Affective Disorders. 
 * Lasser, J., Ahne, V., Heiler, G., Klimek, P., **Metzler, H.**, Reisch, T., Sprenger, M., Thurner, S., & Sorger, J. (2020). [Complexity, transparency and time pressure: Practical insights into science communication in times of crisis](https://doi.org/10.22323/2.19050801). *Journal of Science Communication*, 19(5), N01. 
