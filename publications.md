@@ -17,7 +17,7 @@ ___
 
 ## Journal Articles
 
-* Pellert, M., **Metzler, H.**, Matzenberger, M., & Garcia, D. (202). [Validating daily social media macroscopes of emotions.](http://arxiv.org/abs/2108.07646) Accepted at *Scientifi Reports*.
+* Pellert, M., **Metzler, H.**, Matzenberger, M., & Garcia, D. (2022). [Validating daily social media macroscopes of emotions.](http://arxiv.org/abs/2108.07646) Accepted at *Scientifi Reports*.
 * **Metzler, H.**, Baginski, H., Niederkrotenthaler, T., & Garcia, D. (2022). [Detecting Potentially Harmful and Protective Suicide-related Content on Twitter: A Machine Learning Approach.](http://arxiv.org/abs/2112.04796) Accepted at *Journal of Medical Internet Research*.
 * **Metzler, H.**, Rimé, B., Pellert, M., Niederkrotenthaler, T., Natale, A. D., & Garcia, D. (2022). Collective Emotions during the COVID-19 Outbreak. Accepted at *Emotion*. [Data & Code](https://osf.io/736kc/). [PDF](https://doi.org/10.31234/osf.io/qejxv).
 * Niederkrotenthaler, T., Laido, Z., Kirchner, S., Braun, M., **Metzler, H.**, … Till, B. (2021). [Mental health over nine months during the SARS-CoV2 pandemic: Representative cross-sectional survey in twelve waves between April and December 2020 in Austria](https://doi.org/10.1016/j.jad.2021.08.153). Journal of Affective Disorders. 
