@@ -83,7 +83,7 @@ ___
 
 
 
-[ENP]: http://www.paris-neuroscience.fr/en/enp
+[ENP]: https://universitypositions.eu/universities/france/ecole-des-neurosciences-de-paris-enp
 [ENPprogram]: http://www.paris-neuroscience.fr/en/graduate-program
 [DEC]: https://cognition.ens.fr/en
 [SCAN]: https://scan-psy.univie.ac.at/
