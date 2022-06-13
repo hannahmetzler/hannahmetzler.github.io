@@ -6,7 +6,7 @@ show-avatar: false
 
 ___
 
-In December 2021, we started the project *Emotional Misinformation – The Interplay of Emotion and Misinformation Spreading on Social Media* (EMOMIS). It is funded by the Vienna Science and Technology Fund ([WWTF](https://wwtf.at/programmes/information_communication/#ICT20)) for a period of three years and 4 months.
+In December 2021, we started the project *Emotional Misinformation – The Interplay of Emotion and Misinformation Spreading on Social Media* (EMOMIS). It is funded by the Vienna Science and Technology Fund ([WWTF](https://wwtf.at/funding/programmes/ict/ICT20-028/)) for a period of three years and 4 months.
 
 ## Project Team
 
