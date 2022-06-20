@@ -4,10 +4,16 @@ show-avatar: false
 title: Talks
 ---
 
+---
+
+## Upcoming talks
+
+* **July 19-23 2022** _Detecting Potentially Harmful and Protective Suicide-related Content on Twitter: A Machine Learning Approach_, [8th International Conference on Computational Social Science](https://www.ic2s2.org). 
+
 
 ---
 
-## Recorded Talks
+## Recorded talks
 
 * **Collective Emotions during the COVID-19 Outbreak**
     - [Talk at the Oxford Wellbeing Research Center](https://www.youtube.com/watch?v=d953J1vcH4s), 21 May 2021 (20 minutes)
@@ -27,7 +33,7 @@ ___
 
 ---
 
-## Conference and Seminar Presentations
+## Conference and seminar presentations
 
 * **28 April 2022**: [_Collective emotions on social media: Validity and applications to the COVID-19 pandemic_](https://www.si.umich.edu/about-umsi/events/data-science/computational-social-science-seminar-hannah-metzler), Data Science/Computational Social Science seminar, School of Information, University of Michigan. 
 * **14 January 2022** _Emotional misinformation spreading: The interplay of emotions and misinformation on social media_, [Conference on Intelligent Machines, Emotions](https://hopin.com/events/intelligentmachinesemotionsourplanet#schedule), and the Planet, Stockholm. [Slides](https://hannahmetzler.eu/emomis_stockholm/).
