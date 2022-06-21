@@ -28,7 +28,7 @@ ___
 
 * **20 April 2022** _Digital Humanism - How to Put Humans at the Center of Emerging Tech_, Panel discussion, Wilson Center. [Video](https://www.wilsoncenter.org/event/digital-humanism-how-put-humans-center-emerging-tech) including a brief introduction to the Emotion & Misinformation project (at 29 minutes). 
 * **18 November 2021** _Emotionen und die Verbreitung von Falschinformationen_, Vienna Art Week, Panel on [„Regaining Control. Der Mensch im Zentrum der technologischen Entwicklung“](https://www.viennaartweek.at/de/program/losing-control-line-up/), Vienna. Panel discussion. [Slides](http://hannahmetzler.eu/viennaartweek/).
-* **16 March 2017**: _[La neurobiologie des relations](https://ethos.univ-rennes1.fr/evenements/semaine-du-cerveau) (Neurobiology of relationships)_, Semaine du Cerveau (Week of the Brain), Paris.
+* **16 March 2017**: [_La neurobiologie des relations (Neurobiology of relationships)_](/downloads/Semaine_du_cerveau_ENP_2017_neurobiology_relationships.pdf) , Semaine du Cerveau (Week of the Brain), Paris.
 
 
 ---
@@ -52,7 +52,7 @@ ___
 * **8 November, 2019** _Science Shorty: From power postures to Open Science_, 31st [WISIA](http://www.wisia.at) Symposium, Women in Science - an Interdisciplinary Association, Vienna, Austria.
 * **21 July, 2018** _Body posture impact on action decisions under social threat_, Meeting of the European Society for Cognitive and Affective Neuroscience, Leiden, Netherlands. 
 * **2017** Metzler H., Grèzes J. _Your body affects your mind: Body posture effects on mental images of faces (studies 1-4)._ International Convention for Psychological Science, Vienna, Austria. Poster. 
-* **2016** _Power Postures and Social Cognition: A PhD Experience in the middle of a controversy_, ENP seminar _Statistics and Reproducibility: Current Challenges in Neuroscience_, École des Neurosciences, Paris. 
+* **2016** _Power Postures and Social Cognition: A PhD Experience in the middle of a controversy_, ENP seminar [_Statistics and Reproducibility: Current Challenges in Neuroscience_](/downloads/ENP_ seminar_Statistics_and_Reproducibility.pdf), École des Neurosciences, Paris. 
 * **2016** Metzler H., Grèzes J. _Your body affects your mind: Body posture effects on mental images of faces (studies 1-3)._ European Society for Cognitive and Affective Neuroscience, Porto, Portugal. Poster.
 * **2016** Metzler H., Grèzes J.  _Your body affects your mind: Body posture effects on mental images of faces._ Annual Meeting of the Société de Psychophysiologie et de Neurosciences Cognitives , Lille, France. Poster. 
 * **2015** Metzler, H., Chadwick, M., Grèzes, J. _The impact of power postures on mental representations of in- and outgroup faces (study 1)._ Aegina Summer School "The social self: how social interactions shape body and self-representations", Aegina, Greece. Poster and short presentation.
