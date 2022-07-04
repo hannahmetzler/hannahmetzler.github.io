@@ -57,7 +57,7 @@ ___
 ## Professional and Scholarly Activities
 
 * *Peer-review*: [Publons profile](https://publons.com/researcher/3462834/hannah-metzler/peer-review)
-    - Scientific Reports, Emotion, Journal of Trial and Error
+    - Scientific Advances, Scientific Reports, Emotion, Journal of Trial and Error
     - International Conference on Web Social Media, Network Science Society Conference, The Web Conference 2021 & 2022
     - Collaborative assessment of replicability & credibility of social science research at [RepliCATS](https://replicats.research.unimelb.edu.au/) 2020 & 2021
 * *Science outreach*: 
