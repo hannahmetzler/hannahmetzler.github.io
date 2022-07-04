@@ -18,6 +18,7 @@ title: Talks
 * **Collective Emotions during the COVID-19 Outbreak**
     - [Talk at the Oxford Wellbeing Research Center](https://www.youtube.com/watch?v=d953J1vcH4s), 21 May 2021 (20 minutes)
     - [Talk at the spring 2021 DIGSUM seminar](https://www.youtube.com/watch?v=CLC4ga-H1r0), 25 March 2021 (40 minutes)
+* [**Collective emotions on social media: Validity and applications to the COVID-19 pandemic**](https://www.youtube.com/watch?v=EUnLJoGj-3k&list=PLZFSaKAB4aZgLbocQT0_vv7Qn-bZfNcm3&index=36), 28 April 2022 (50 min including questions), University of Michigan. 
 * **Emotional Misinformation Spreading**
     - Brief introduction to the Emotion & Misinformation project at 29 minutes into this [video](https://www.wilsoncenter.org/event/digital-humanism-how-put-humans-center-emerging-tech).
 
