@@ -8,20 +8,22 @@ title: Talks
 
 ## Upcoming talks
 
-* **July 19-23 2022** _Detecting Potentially Harmful and Protective Suicide-related Content on Twitter: A Machine Learning Approach_, [8th International Conference on Computational Social Science](https://www.ic2s2.org). 
+* **July 19-23 2022** _Detecting Potentially Harmful and Protective Suicide-related Content on Twitter: A Machine Learning Approach_, [8th International Conference on Computational Social Science](https://www.ic2s2.org). Video available [here](https://www.youtube.com/watch?v=UykKQYPM1Kw). 
 
 
 ---
 
 ## Recorded talks
 
-* **Collective Emotions during the COVID-19 Outbreak**
+* **Collective emotions during the COVID-19 Outbreak**
     - [Talk at the Oxford Wellbeing Research Center](https://www.youtube.com/watch?v=d953J1vcH4s), 21 May 2021 (20 minutes)
     - [Talk at the spring 2021 DIGSUM seminar](https://www.youtube.com/watch?v=CLC4ga-H1r0), 25 March 2021 (40 minutes)
 * **Collective emotions on social media: Validity and applications to the COVID-19 pandemic**
     - [Seminar at University of Michigan](https://www.youtube.com/watch?v=EUnLJoGj-3k&list=PLZFSaKAB4aZgLbocQT0_vv7Qn-bZfNcm3&index=36), 28 April 2022 (55 min including questions) 
-* **Emotional Misinformation Spreading**
-    - Brief introduction to the Emotion & Misinformation project at 29 minutes into this [video](https://www.wilsoncenter.org/event/digital-humanism-how-put-humans-center-emerging-tech).
+* **Emotional misinformation spreading**
+    - Brief introduction to the project EMOMIS at 29 minutes into this [video](https://www.wilsoncenter.org/event/digital-humanism-how-put-humans-center-emerging-tech).
+* **Machine Learning classifications of suicide-related tweets**
+    - [Online presentation at IC2S2 2022]((https://www.youtube.com/watch?v=UykKQYPM1Kw) (6 minutes), summary of this [paper](https://arxiv.org/abs/2112.04796). 
 
 ___
 
