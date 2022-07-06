@@ -6,7 +6,9 @@ show-avatar: false
 
 ___
 
+## For the general public
 
+* **Metzler, H.**, Pellert, M., & Garcia, D. (2022). [Using social media data to capture emotions before and during COVID-19](https://worldhappiness.report/ed/2022/using-social-media-data-to-capture-emotions-before-and-during-covid-19/). _World Happiness Report_, 75–104.
 
 ## Pre-prints
 
@@ -34,9 +36,8 @@ ___
 ___
 
 
-## Other publications
+## Magazine articles
 
-* **Metzler, H.**, Pellert, M., & Garcia, D. (2022). [Using social media data to capture emotions before and during COVID-19](https://worldhappiness.report/ed/2022/using-social-media-data-to-capture-emotions-before-and-during-covid-19/). _World Happiness Report_, 75–104.
 * Bouchat, P., **Metzler, H.**, & Rimé, B. (2020). [Crise et pandémie. Impact émotionnel et psychosocial du confinement. [Crisis and pandemics. Emotional and psychosocial impact of containment]](https://www.cairn.info/revue-le-journal-des-psychologues-2020-8-page-14.htm#). Le Journal des psychologues, (8), 14-20.
 
 ___
