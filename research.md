@@ -16,6 +16,8 @@ As a postdoc in the [Computational Social Science lab](https://dgarcia.eu/about-
     - [Seminar at the Oxford Wellbeing Research Center](https://www.youtube.com/watch?v=d953J1vcH4s)
     - [DIGSUM seminar](https://www.youtube.com/watch?v=CLC4ga-H1r0).
 * Using machine learning for **suicide prevention**: Which features of news media reporting and social media content contribute to suicide prevention, and which have harmful effects on suicidal behavior?
+    - [Example paper](https://arxiv.org/abs/2112.04796) & [video summary](https://www.youtube.com/watch?v=UykKQYPM1Kw)
+
 
 
 ___
