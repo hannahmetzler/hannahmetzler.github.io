@@ -10,6 +10,8 @@ ___
 
 * **Metzler, H.**, Pellert, M., & Garcia, D. (2022). [Using social media data to capture emotions before and during COVID-19](https://worldhappiness.report/ed/2022/using-social-media-data-to-capture-emotions-before-and-during-covid-19/). _World Happiness Report_, 75–104.
 
+___
+
 ## Pre-prints
 
 * Pontika, N., Klebel, T., Correia, A., **Metzler, H.**, Knoth, P. & Ross-Hellauer, T. (2022). [Indicators of Research Quality, Quantity, Openness and Responsibility in Institutional Promotion, Review and Tenure Policies across Seven Countries.](https://doi.org/10.31222/osf.io/b9qaw) MetaArXiv.
@@ -22,7 +24,7 @@ ___
 
 * Pellert, M., **Metzler, H.**, Matzenberger, M., & Garcia, D. (2022). [Validating daily social media macroscopes of emotions.](https://www.nature.com/articles/s41598-022-14579-y) *Scientifi Reports*, 12(1), 11236. https://doi.org/10.1038/s41598-022-14579-y
 * **Metzler, H.**, Baginski, H., Niederkrotenthaler, T., & Garcia, D. (2022). [Detecting Potentially Harmful and Protective Suicide-related Content on Twitter: A Machine Learning Approach.](http://arxiv.org/abs/2112.04796) Accepted at *Journal of Medical Internet Research*. [Video summary](https://www.youtube.com/watch?v=UykKQYPM1Kw). Code & data for [model training](https://github.com/HubertBaginski/TwitterSuicideML) and [everything else](https://github.com/hannahmetzler/TwitterSuicideR). 
-* **Metzler, H.**, Rimé, B., Pellert, M., Niederkrotenthaler, T., Natale, A. D., & Garcia, D. (2022). Collective Emotions during the COVID-19 Outbreak. Accepted at *Emotion*. [Data & Code](https://osf.io/736kc/). [PDF](https://doi.org/10.31234/osf.io/qejxv).
+* **Metzler, H.**, Rimé, B., Pellert, M., Niederkrotenthaler, T., Natale, A. D., & Garcia, D. (2022). [Collective Emotions during the COVID-19 Outbreak](https://doi.org/10.1037/emo0001111). *Emotion*, Advance online publication. https://doi.org/10.1037/emo0001111. [Data & Code](https://osf.io/736kc/). [PDF](https://doi.org/10.31234/osf.io/qejxv).
 * Niederkrotenthaler, T., Laido, Z., Kirchner, S., Braun, M.,  **Metzler, H.**, Waldhör, T., Strauss, M. J., Garcia, D., & Till, B. (2022). [Mental health over nine months during the SARS-CoV2 pandemic: Representative cross-sectional survey in twelve waves between April and December 2020 in Austria.](https://doi.org/10.1016/j.jad.2021.08.153) *Journal of Affective Disorders, 296*, 49–58. https://doi.org/10.1016/j.jad.2021.08.153
 * Lasser, J., Ahne, V., Heiler, G., Klimek, P., **Metzler, H.**, Reisch, T., Sprenger, M., Thurner, S., & Sorger, J. (2020). [Complexity, transparency and time pressure: Practical insights into science communication in times of crisis](https://doi.org/10.22323/2.19050801). *Journal of Science Communication*, 19(5), N01. 
 * Pellert, M., Lasser, J., **Metzler, H.**, & Garcia, D. (2020). [Dashboard of sentiment in Austrian social media during COVID-19.](https://www.frontiersin.org/articles/10.3389/fdata.2020.00032/) *Frontiers in Big Data, 3*. [Preprint](http://arxiv.org/abs/2006.11158).
