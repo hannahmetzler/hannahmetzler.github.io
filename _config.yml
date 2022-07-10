@@ -53,7 +53,7 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-#  youtube: user/deanat78
+   youtube: user/hannahmetzler1
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -102,8 +102,8 @@ navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
-link-col: "#2a4e6c"
-hover-col: "#1c3448"
+link-col: "#106cba"
+hover-col: "#0c5694"
 footer-col: "#4682B4"
 footer-text-col: "#404040"
 footer-link-col: "#1c3448"
