@@ -14,8 +14,8 @@ As a postdoc in the [Computational Social Science lab](https://dgarcia.eu/about-
 * **[Emotional Misinformation Spreading](/emomis.md)**: How do emotions influence the spreading of misinformation? Could online interventions foster emotional awareness and reduce belief in and sharing of misinformation?
 * **Collective emotions and mental health**: Social media data analyses during the COVID-19 outbreak. 
     - [Interactive visualization of the results](http://dgarcia.eu/COVID19-Emotions.html) of one example study
-    - Recorded talk @ [Wellbeing Research Seminar Series 2021](https://www.youtube.com/watch?v=d953J1vcH4s), Oxford University
-    - Recorded talk @ [DIGSUM seminar 2021](https://www.youtube.com/watch?v=CLC4ga-H1r0), Umeå University
+    - Recorded talk @ [Wellbeing Research Seminar Series 2021](https://www.youtube.com/watch?v=d953J1vcH4s)
+    - Recorded talk @ [DIGSUM seminar 2021](https://www.youtube.com/watch?v=CLC4ga-H1r0)
 * Using machine learning for **suicide prevention**: Which features of news media reporting and social media content contribute to suicide prevention, and which have harmful effects on suicidal behavior?
     - [Example paper](https://arxiv.org/abs/2112.04796) & [video summary](https://www.youtube.com/watch?v=UykKQYPM1Kw)
 
