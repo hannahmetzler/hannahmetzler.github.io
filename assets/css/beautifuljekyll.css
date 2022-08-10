@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  font-family: 'Quicksand', 'Lora', serif;
+  font-family: 'Lora', 'Quicksand', serif;
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
@@ -31,10 +31,10 @@ h1,h2,h3,h4,h5,h6 {
   line-height: 1.1;
 }
 h1 {
-  font-size: 1.875rem;
+  font-size: 1.775rem;
 }
 h2 {
-  font-size: 1.5rem;
+  font-size: 1.4rem;
 }
 h3 {
   font-size: 1.125rem;
