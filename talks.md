@@ -8,7 +8,7 @@ title: Talks
 
 ## Upcoming talks & events
 
-* **20 October 2022** _Panel on "Digital Humanism in Practice: Are complex systems compatible with democratic processes?"[Digitaler Humanismus in der Praxis: sind komplexe Systeme vereinbar mit demokratischen Prozessen?], Digital Days [https://community.digitalcity.wien], Impact Hub, Vienna. 
+* **20 October 2022** _Digital Humanism in Practice: are complex systems compatible with democratic processes?_ [Digitaler Humanismus in der Praxis: sind komplexe Systeme vereinbar mit demokratischen Prozessen?], [Digital Days](https://community.digitalcity.wien), Impact Hub, Vienna. 
 
 
 ---
