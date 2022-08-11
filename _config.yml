@@ -53,7 +53,7 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-   youtube: user/hannahmetzler1
+#  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -102,11 +102,13 @@ navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
-link-col: "#0e50dd"
-hover-col: "#09389a"
+link-col: "#2a4e6c"
+#"#483D8B"
+hover-col: "#1c3448"
+#"#191970"
 footer-col: "#4682B4"
 footer-text-col: "#404040"
-footer-link-col: "#07286e"
+footer-link-col: "#483D8B"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
