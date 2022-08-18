@@ -31,6 +31,7 @@ ___
 ## Public presentations & panel discussions
 
 * **20 April 2022** _Digital Humanism - How to Put Humans at the Center of Emerging Tech_, Panel discussion, Wilson Center. [Video](https://www.wilsoncenter.org/event/digital-humanism-how-put-humans-center-emerging-tech) including a brief introduction to the Emotion & Misinformation project (at 29 minutes). 
+* **March 18, 2022** _Launch of World Happiness Report 2022_. [Video](https://www.youtube.com/watch?v=B8fejAwQivg) (Summary of our chapter at 19'20'').
 * **18 November 2021** _Emotionen und die Verbreitung von Falschinformationen_, Vienna Art Week, Panel on [„Regaining Control. Der Mensch im Zentrum der technologischen Entwicklung“](https://www.viennaartweek.at/de/program/losing-control-line-up/), Vienna. Panel discussion. [Slides](http://hannahmetzler.eu/viennaartweek/).
 * **16 March 2017**: [_La neurobiologie des relations (Neurobiology of relationships)_](/downloads/Semaine_du_cerveau_ENP_2017_neurobiology_relationships.pdf) , Semaine du Cerveau (Week of the Brain), Paris.
 
