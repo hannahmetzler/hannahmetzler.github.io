@@ -12,11 +12,13 @@ ___
 As a postdoc in the [Computational Social Science lab](https://dgarcia.eu/about-us/) at the Complexity Science Hub, the Medical University of Vienna and Technical University Graz, I currently work on the following projects:
 
 * **[Emotional Misinformation Spreading](/emomis.md)**: How do social motivations and emotions influence the spreading of misinformation? Could online interventions on an understanding of these psychological mechanisms help reduce belief in and sharing of misinformation?
-* **Collective emotions and mental health**: Social media data analyses during the COVID-19 outbreak. 
-    - [Interactive visualization of the results](http://dgarcia.eu/COVID19-Emotions.html) of one example study
-    - Recorded talk @ [Wellbeing Research Seminar Series 2021](https://www.youtube.com/watch?v=d953J1vcH4s)
-    - Recorded talk @ [DIGSUM seminar 2021](https://www.youtube.com/watch?v=CLC4ga-H1r0)
-    - [Paper](https://osf.io/736kc/)
+
+* **Emotions and mental health**: Using social media to measure emotions and mental health in societies at large
+    - Recorded talks @[Wellbeing Research Seminar Series 2021](https://www.youtube.com/watch?v=d953J1vcH4s) or [DIGSUM seminar 2021](https://www.youtube.com/watch?v=CLC4ga-H1r0)
+    - Papers: [Emotions during COVID-19](https://osf.io/736kc/), [Validating daily emotion macroscopes in Austria](https://www.nature.com/articles/s41598-022-14579-y), [Validating weekly emotion macroscopes in the UK](http://arxiv.org/abs/2107.13236)
+    - [Interactive visualization of COVID-19 emotions in 18 countries](http://dgarcia.eu/COVID19-Emotions.html)
+   
+
 * Using machine learning for **suicide prevention**: Which features of news media reporting and social media content contribute to suicide prevention, and which have harmful effects on suicidal behavior?
     - [Example paper](https://www.jmir.org/2022/8/e34705/)
     - [Video summary](https://www.youtube.com/watch?v=UykKQYPM1Kw)
