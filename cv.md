@@ -56,7 +56,7 @@ ___
 
 ## Professional and Scholarly Activities
 
-* *Peer-review*: [Web of Science profile](https://www.webofscience.com/wos/author/record/1963790)
+* *Peer-review*: [Reviewer profile](https://www.webofscience.com/wos/author/rid/AAH-4442-2020)
     - Scientific Advances, Scientific Reports, Emotion, Plos One, Journal of Trial and Error, Plos One
     - International Conference on Web Social Media, Network Science Society Conference, The Web Conference 2021 & 2022
     - Collaborative assessment of replicability & credibility of social science research at [RepliCATS](https://replicats.research.unimelb.edu.au/) 2020 & 2021
