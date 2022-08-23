@@ -27,9 +27,9 @@ ___
 
 ## Research Experience
 
-* **2020-now** Postdoctoral researcher at the [Computational Social Science lab][CSS]  by David Garcia at the [Complexity Science Hub][CSH] and the Medical University in Vienna
+* **2020-now** Postdoctoral researcher at the [Computational Social Science lab][CSS]  by David Garcia at [Complexity Science Hub][CSH], Medical University in Vienna & Graz University of Technology
     * 2020-2022 part-time @ [Unit Suicide Research and Mental Health Promotion][Thomas]
-* **2019–2020** Senior researcher and project manager at the Open and Reproducible Research Group at [Know-Center][KNOW] - Research Center for Data-Driven Business & Big Data Analytics, Graz
+* **2019–2020** Senior researcher and project manager @ Open and Reproducible Research Group at [Know-Center][KNOW] - Research Center for Data-Driven Business & Big Data Analytics, Graz
 * **2019** Independent researcher at the Institute for Globally Distributed Open Research and Education - [IGDORE][IGDORE] 
 * **2014-2018** Doctoral researcher at the Laboratory of Cognitive and Computational Neuroscience in the team of Julie Grèzes, École Normale Supérieure Paris
 * **2013-2014** Lab rotations during the first year of the [ENP Doctoral program][ENPprogram]
@@ -43,12 +43,12 @@ ___
 
 ## Awards and Funding
 
-* **2021** [Digital Humanism](https://www.wwtf.at/digital_humanism/) Project Grant: _Emotional Misinformation - The Interplay of Emotion and Misinformation Spreading on Social Media._ [WWTF](https://wwtf.at/programmes/information_communication/#ICT20), Principal Investigator, Collaborators: Annie Waldherr & David Garcia,  Amount €399.540
-* **2018** End of thesis scholarship (3 months) from the [Department of Cognitive Science][DEC], École Normale Supérieure, Paris
-* **2013–2017** 4 year PhD scholarship from [École des Neurosciences Paris Île-de-France][ENP]
+* **2021** [Digital Humanism](https://www.wwtf.at/digital_humanism/) Project Grant: _Emotional Misinformation - The Interplay of Emotion and Misinformation Spreading on Social Media._ [WWTF](https://wwtf.at/programmes/information_communication/#ICT20), Principal Investigator, Collaborators: Annie Waldherr & David Garcia,  Amount 399.540€
+* **2018** End of thesis scholarship (3 months) from the [Department of Cognitive Science][DEC], École Normale Supérieure, Paris, 7k€
+* **2013–2017** 4 year PhD scholarship from [École des Neurosciences Paris Île-de-France][ENP] 150k€
 * **2013** Honorary certificate for excellent diploma thesis, Dr. Maria-Schaumayer-Stiftung, Austria
 * **2013** Nomination for the honorary prize in science and research 2013, Austrian ministry for science and research
-* **2007–2013** 6 excellence scholarships from University of Vienna
+* **2007–2013** 6 excellence scholarships from University of Vienna 3.5k€
 * **2011** Joint Study scholarship from University of Vienna for an exchange semester in Montreal, Canada
 
 ___
@@ -57,7 +57,7 @@ ___
 ## Professional and Scholarly Activities
 
 * *Peer-review*: [Reviewer profile](https://www.webofscience.com/wos/author/rid/AAH-4442-2020)
-    - Scientific Advances, Scientific Reports, Emotion, Plos One, Journal of Trial and Error, Plos One
+    - Scientific Advances, Scientific Reports, Emotion, Plos One, Journal of Trial and Error
     - International Conference on Web Social Media, Network Science Society Conference, The Web Conference 2021 & 2022
     - Collaborative assessment of replicability & credibility of social science research at [RepliCATS](https://replicats.research.unimelb.edu.au/) 2020 & 2021
 * *Science outreach*: 
@@ -81,6 +81,17 @@ ___
     - Institute for Globally Distributed Open Research and Education - [IGDORE][IGDORE] 
 * Board member of Effective Altruism [community Austria](https://effectivealtruism.at/unser-team): A social movement that uses evidence and reason to do the most good - [Effective Altruism Global](https://www.effectivealtruism.org)
 
+
+___
+
+
+## Teaching & supervision
+* 2020-2022 Supervision or co-supervision of 2 PhD theses, 2 Master theses, internships of 8 Master students & 1 Bachelor student
+* 2021 2 day [course on Digitalisation in Research](https://github.com/JanaLasser/digitalisation-in-research-module-2) for PhD candidates & postdocs at _Ludwig Boltzmann society_ and WU Executive Academy, Vienna (16h)
+* 2021 Lecturer on Computational Social Science, Cognitive Science Lecture Series, Cognitive Science Master, University of Vienna (4h)
+* 2015 - 2017 Co-Supervision of 2 Bachelor and 2 Master student interns during PhD
+* 10/15 - 09/16 Teaching assistant at École Normale Supérieure, Master for Cognitive Science (48h) in the courses 
+_Introduction to cognitive science and neuroscience_ & _Improving scientific practices_
 
 
 [ENP]: https://universitypositions.eu/universities/france/ecole-des-neurosciences-de-paris-enp
