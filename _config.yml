@@ -48,13 +48,15 @@ social-network-links:
 #  facebook: yourname
   github: hannahmetzler
   twitter: hannahmetzler1
+  ORCID: 0000-0001-9254-3675
+  google-scholar: citations?user=fpkiNJYAAAAJ&hl=en
+  youtube: user/hannahmetzler
 #  reddit: yourname
   linkedin: hannah-metzler-61140695
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-#  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -63,8 +65,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-  ORCID: 0000-0001-9254-3675
-  google-scholar: citations?user=fpkiNJYAAAAJ&hl=en
+  
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
