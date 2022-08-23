@@ -45,14 +45,14 @@ navbar-links:
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "metzler@csh.ac.at"
-#  facebook: yourname
   github: hannahmetzler
   twitter: hannahmetzler1
   ORCID: 0000-0001-9254-3675
   google-scholar: citations?user=fpkiNJYAAAAJ&hl=en
   youtube: user/hannahmetzler
-#  reddit: yourname
   linkedin: hannah-metzler-61140695
+  #  facebook: yourname
+  #  reddit: yourname
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
