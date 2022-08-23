@@ -11,8 +11,8 @@ html {
 }
 
 body {
-  font-family:  'Poppins', 'Poppins', sans-serif;
-    /*Options: Quick-sand, sans-serif, Lato, Mukta*/
+  font-family:  'Quicksand', 'Quicksand', sans-serif;
+    /*Options: Poppins (very normal, thicker), Lato (thicker), Mukta (thicker)*/
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
@@ -27,8 +27,8 @@ p {
   margin: 1.875rem 0;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'GFS Neohellenic', 'GFS Neohellenic', sans-serif;
-  /*Options: Noto sans, PT Sans, Raleway*/
+  font-family: 'GFS Neohellenic', 'GFS Neohellenic', regular;
+  /*Options: Noto sans, PT Sans, Raleway, sans-serif*/
   font-weight: 800;
   line-height: 1.1;
 }
