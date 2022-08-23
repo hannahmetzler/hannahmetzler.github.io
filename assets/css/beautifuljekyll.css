@@ -12,7 +12,7 @@ html {
 
 body {
   font-family:  'Quicksand', 'Quicksand', sans-serif;
-    /*Options: Poppins (very normal, thicker), Lato (thicker), Mukta (thicker)*/
+    /*Options: Poppins (standard font, thicker), Lato (thicker), Mukta (thicker)*/
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
@@ -27,7 +27,7 @@ p {
   margin: 1.875rem 0;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'PT Sans', 'PT Sans', sans-serif;
+  font-family: 'Lato', 'Lato', sans-serif;
   /*Options: Noto sans, PT Sans, GFS Neohellenic, Raleway, sans-serif*/
   font-weight: 800;
   line-height: 1.1;
