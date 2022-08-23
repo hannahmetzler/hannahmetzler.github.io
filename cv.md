@@ -13,7 +13,7 @@ show-avatar: false
 
 ___
 
-# Education
+## Education
 
 * **2014-2018** PhD in Cognitive Neuroscience at Sorbonne University & École Normale Supérieure Paris, supervised by Julie Grèzes  
     Graduate Program at [École des Neurosciences Paris-Île de-France][ENP]
