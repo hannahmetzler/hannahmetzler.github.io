@@ -86,11 +86,11 @@ ___
 
 
 ## Teaching & supervision
-* 2020-2022 Supervision or co-supervision of 2 PhD theses, 2 Master theses, internships of 8 Master students & 1 Bachelor student
-* 2021 2 day [course on Digitalisation in Research](https://github.com/JanaLasser/digitalisation-in-research-module-2) for PhD candidates & postdocs at _Ludwig Boltzmann society_ and WU Executive Academy, Vienna (16h)
-* 2021 Lecturer on Computational Social Science, Cognitive Science Lecture Series, Cognitive Science Master, University of Vienna (4h)
-* 2015 - 2017 Co-Supervision of 2 Bachelor and 2 Master student interns during PhD
-* 10/15 - 09/16 Teaching assistant at École Normale Supérieure, Master for Cognitive Science (48h) in the courses 
+* **2020-2022** Supervision or co-supervision of 2 PhD theses, 2 Master theses, internships of 8 Master students & 1 Bachelor student
+* **2021** 2 day [course on Digitalisation in Research](https://github.com/JanaLasser/digitalisation-in-research-module-2) for PhD candidates & postdocs at _Ludwig Boltzmann society_ and WU Executive Academy, Vienna (16h)
+* **2021** Lecturer on Computational Social Science, Cognitive Science Lecture Series, Cognitive Science Master, University of Vienna (4h)
+* **2015 - 2017** Co-Supervision of 2 Bachelor and 2 Master student interns during PhD
+* **2015-2016** Teaching assistant at École Normale Supérieure, Master for Cognitive Science (48h) in the courses 
 _Introduction to cognitive science and neuroscience_ & _Improving scientific practices_
 
 
