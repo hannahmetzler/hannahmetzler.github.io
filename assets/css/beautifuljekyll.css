@@ -11,7 +11,8 @@ html {
 }
 
 body {
-  font-family:  'Poppins', 'Poppins', serif;
+  font-family:  'Poppins', 'Poppins', sans-serif;
+    /*Options: sans-serif, Lato, Mukta*/
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
@@ -27,6 +28,7 @@ p {
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'GFS Neohellenic', 'GFS Neohellenic', sans-serif;
+  /*Options: PT Sans, Raleway*/
   font-weight: 800;
   line-height: 1.1;
 }
