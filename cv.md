@@ -43,13 +43,13 @@ ___
 
 ## Awards and Funding
 
-* **2021** [Digital Humanism](https://www.wwtf.at/digital_humanism/) Project Grant: _Emotional Misinformation - The Interplay of Emotion and Misinformation Spreading on Social Media._ [WWTF](https://wwtf.at/programmes/information_communication/#ICT20), Principal Investigator, Collaborators: Annie Waldherr & David Garcia,  Amount 399.540€
+* **2021** [Digital Humanism](https://www.wwtf.at/digital_humanism/) Project Grant: _Emotional Misinformation - The Interplay of Emotion and Misinformation Spreading on Social Media._ [WWTF](https://wwtf.at/programmes/information_communication/#ICT20), Principal Investigator, Collaborators: Annie Waldherr & David Garcia,  Amount 400k€
 * **2018** End of thesis scholarship (3 months) from the [Department of Cognitive Science][DEC], École Normale Supérieure, Paris, 7k€
 * **2013–2017** 4 year PhD scholarship from [École des Neurosciences Paris Île-de-France][ENP] 150k€
 * **2013** Honorary certificate for excellent diploma thesis, Dr. Maria-Schaumayer-Stiftung, Austria
 * **2013** Nomination for the honorary prize in science and research 2013, Austrian ministry for science and research
-* **2007–2013** 6 excellence scholarships from University of Vienna 3.5k€
-* **2011** Joint Study scholarship from University of Vienna for an exchange semester in Montreal, Canada
+* **2007–2013** 6 excellence scholarships from University of Vienna, 3.5k€
+* **2011** Joint Study scholarship from University of Vienna for an exchange semester in Montreal, Canada, 2k€
 
 ___
 
