@@ -8,7 +8,7 @@ title: Talks
 
 ## Upcoming talks & events
 
-* **20 October 2022 - 14h** _Digital Humanism in Practice: are complex systems compatible with democratic processes?_ [Digitaler Humanismus in der Praxis: sind komplexe Systeme vereinbar mit demokratischen Prozessen?], panel at the [Digital Days](https://community.digitalcity.wien), Impact Hub, Vienna. 
+* **23-25 February 2023** _Detecting Potentially Harmful and Protective Suicide-related Content on Twitter: A Machine Learning Approach_, [Annual convention of the Society of Personality and Social Psychology](https://spsp.org/). 
 
 
 ---
@@ -30,6 +30,7 @@ ___
 
 ## Public presentations & panel discussions
 
+* **20 October 2022 - 14h** _Digital Humanism in Practice: are complex systems compatible with democratic processes?_ [Digitaler Humanismus in der Praxis: sind komplexe Systeme vereinbar mit demokratischen Prozessen?], panel at the [Digital Days](https://community.digitalcity.wien), Impact Hub, Vienna. 
 * **20 April 2022** _Digital Humanism - How to Put Humans at the Center of Emerging Tech_, Panel discussion, Wilson Center. [Video](https://www.wilsoncenter.org/event/digital-humanism-how-put-humans-center-emerging-tech) including a brief introduction to the Emotion & Misinformation project (at 29 minutes). 
 * **March 18, 2022** _Launch of World Happiness Report 2022_. [Video](https://www.youtube.com/watch?v=B8fejAwQivg) (Summary of our chapter at 19'20'').
 * **18 November 2021** _Emotionen und die Verbreitung von Falschinformationen_, Vienna Art Week, Panel on [„Regaining Control. Der Mensch im Zentrum der technologischen Entwicklung“](https://www.viennaartweek.at/de/program/losing-control-line-up/), Vienna. Panel discussion. [Slides](http://hannahmetzler.eu/viennaartweek/).
