@@ -22,6 +22,7 @@ ___
 
 ## Journal Articles
 
+* Pontika, N., Klebel, T., Correia, A., Metzler, H., Knoth, P., & Ross-Hellauer, T. (2022). [Indicators of research quality, quantity, openness and responsibility in institutional review, promotion and tenure policies across seven countries](https://doi.org/10.1162/qss_a_00224). *Quantitative Science Studies*, 1–49. https://doi.org/10.1162/qss_a_00224
 * Niederkrotenthaler, T., Tran, U. S., Baginski, H., Sinyor, M., Strauss, M. J., Sumner, S. A., Voracek, M., Till, B., Murphy, S., Gonzalez, F., Gould, M., Garcia, D., Draper, J., & **Metzler, H.** (2022). [Association of 7 million+ tweets featuring suicide-related content with daily calls to the Suicide Prevention Lifeline and with suicides, United States, 2016–2018](/downloads/Niederkrotenthaler2022_Twitter_Suicide_Timeseries_accepted_version.pdf
 ). Australian & New Zealand Journal of Psychiatry, 00(0). https://doi.org/10.1177/00048674221126649. [Supplementary Appendix](/downloads/Niederkrotenthaler2022_Supplementary_Appendix_R1.pdf).
 * **Metzler, H.**, Baginski, H., Niederkrotenthaler, T., & Garcia, D. (2022). [Detecting Potentially Harmful and Protective Suicide-related Content on Twitter: Machine Learning Approach.](https://www.jmir.org/2022/8/e34705/) *Journal of Medical Internet Research*, 24(8), e34705. https://doi.org/10.2196/34705. [Video summary](https://www.youtube.com/watch?v=UykKQYPM1Kw). Code & data for [model training](https://github.com/HubertBaginski/TwitterSuicideML) and [everything else](https://github.com/hannahmetzler/TwitterSuicideR). 
