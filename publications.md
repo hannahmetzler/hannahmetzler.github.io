@@ -14,6 +14,7 @@ ___
 
 ## Pre-prints
 
+* Metzler, H., & Garcia, D. (2022). [Social drivers and algorithmic mechanisms on digital media](https://psyarxiv.com/cxa9u/). PsyArXiv. https://doi.org/10.31234/osf.io/cxa9u
 * Pontika, N., Klebel, T., Correia, A., **Metzler, H.**, Knoth, P. & Ross-Hellauer, T. (2022). [Indicators of Research Quality, Quantity, Openness and Responsibility in Institutional Promotion, Review and Tenure Policies across Seven Countries.](https://doi.org/10.31222/osf.io/b9qaw) MetaArXiv.
 * Garcia, D., Pellert, M., Lasser, J., & **Metzler, H.** (2021). [Social media emotion macroscopes reflect emotional experiences in society at large.]( http://arxiv.org/abs/2107.13236) ArXiv:2107.13236 [Cs].
 * **Metzler, H.**, Vilarem, E., Petschen, A., & Grèzes, J. (2020). [Power posture effects on approach and avoidance decisions in response to social threat](https://doi.org/10.31234/osf.io/t8mhw). *PsyArXiv*. [Data & Code](https://osf.io/q8s3w).
