@@ -12,8 +12,9 @@ In November 2021, we started the project *Emotional Misinformation – The Inter
 
 <img src="/assets/img/emomis_team.svg"
      alt="team"
-     style="float: left; padding-bottom: 10px; width:700px" />
+     style="float: left; padding-bottom: 10px" />
 
+<br>
 
 * [Hannah Metzler](https://hannahmetzler.eu) (PI), Meduni Wien & Complexity Science Hub Vienna
 * [David Garcia](https://dgarcia.eu) (Co-PI), University of Konstanz & Complexity Science Hub Vienna
@@ -47,18 +48,18 @@ ___
 
 ### Upcoming
 
-* **23-25 February 2023, Apeksha Shetty\***, Jula Lühring\*, Corinna Koschmieder, David Garcia, Hannah Metzler (2022). Measuring emotions in misinformation studies: A replication and extension of Martel et al. (2020) [Online  presentation]. Annual Convention of the Society of Personality and Social Psychology. *Equal contributions
+* **23-25 February 2023, Apeksha Shetty\***, Jula Lühring\*, Corinna Koschmieder, David Garcia, Annie Waldherr, Hannah Metzler (2022). Measuring emotions in misinformation studies: A replication and extension of Martel et al. (2020) [Online  presentation]. Annual Convention of the Society of Personality and Social Psychology. *Equal contributions
 
 
 ### Conference talks
 
-* **Metzler, H.** (20 April 2022)._Digital Humanism - How to Put Humans at the Cente rof Emerging Tech_, Panel discussion, Wilson Center. [Video](https://www.wilsoncenter.org/event/digital-humanism-how-put-humans-center-emerging-tech) including a brief introduction to the Emotion & Misinformation project (at 29 minutes). 
+* **Metzler, H.** (20 April 2022)._Digital Humanism - How to Put Humans at the Cente rof Emerging Tech_, Panel discussion, Wilson Center. [**Video**](https://www.wilsoncenter.org/event/digital-humanism-how-put-humans-center-emerging-tech) including a brief introduction to the Emotion & Misinformation project (at 29 minutes). 
 * **Shetty, A.**, & Hannah Metzler (27 June 2022). Reducing belief in misinformation: Targeting emotional and social influences. [Pre-data poster](https://osf.io/z3x98). Society for the Improvement of Psychological Science, 7th Annual Conference.
 * __Lühring, J.\*, Shetty, A.\*__, Koschmieder, C., Garcia, D., Waldherr, A., & Metzler, H. (11 October 2022). Measuring emotions in misinformation studies: A replication and extension of Martel et al. (2020). [Accepted paper & presentation]. [ECREA Early Career Scholars Workshop in Political Communication: “Advancing Concepts and Methods in Political Communication.”](https://ecrea.eu/event-4795610) *Equal contributions.
 
 ### Public talks & panels
 
-* **Metzler, H.** (14 January 2022). _Emotional misinformation spreading: The interplay of emotions and misinformation on social media_, [Conference on Intelligent Machines, Emotions](https://hopin.com/events/intelligentmachinesemotionsourplanet#schedule), and the Planet, Stockholm. [Slides](https://hannahmetzler.eu/emomis_stockholm).
+* **Metzler, H.** (14 January 2022). _Emotional misinformation spreading: The interplay of emotions and misinformation on social media_, [Conference on Intelligent Machines, Emotions](https://hopin.com/events/intelligentmachinesemotionsourplanet#schedule), and the Planet, Stockholm. **[Slides](https://hannahmetzler.eu/emomis_stockholm)**.
 * **Metzler, H.**(18 November 2021). _Emotional Misinformation: The interplay of emotions and misinformation spreading on social media_, Vienna Art Week, Session on [„Regaining Control. Der Mensch im Zentrum der technologischen Entwicklung“](https://www.viennaartweek.at/de/program/losing-control-line-up/). **[Slides](https://hannahmetzler.eu/viennaartweek/)**.
 
 
