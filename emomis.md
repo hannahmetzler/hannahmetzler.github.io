@@ -16,9 +16,10 @@ In November 2021, we started the project *Emotional Misinformation – The Inter
 * [David Garcia](https://dgarcia.eu) (Co-PI), University of Konstanz & Complexity Science Hub Vienna
 * [Annie Waldherr](https://compcommlab.univie.ac.at/team/annie-waldherr/) (Co-PI), University of Vienna
 * [Apeksha Shetty](https://www.csh.ac.at/researcher/apeksha-shetty/)(PhD student), Complexity Science Hub Vienna
-* [Jula Lühring](https://twitter.com/lue_jula) (PhD student), University of Vienna
+* [Jula Lühring](https://publizistik.univie.ac.at/institut/mitarbeiterinnen-mitarbeiter/praedocs/luehring-jula/) (PhD student), University of Vienna
 
-Follow us on Twitter for regular updates! [Hannah](https://twitter.com/hannahmetzler1), [David](https://twitter.com/dgarcia_eu), [Annie], [Apeksha](https://twitter.com/apeksha_sh), [Jula]()
+Follow us on Twitter for regular updates! 
+Our profiles: [Hannah](https://twitter.com/hannahmetzler1), [David](https://twitter.com/dgarcia_eu), [Annie](https://twitter.com/annie_waldherr), [Apeksha](https://twitter.com/apeksha_sh), [Jula](https://twitter.com/lue_jula)
 
 ## About the project
 
