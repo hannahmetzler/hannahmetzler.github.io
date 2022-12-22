@@ -10,7 +10,9 @@ In November 2021, we started the project *Emotional Misinformation – The Inter
 
 ## Project Team
 
-![team](assets/img/emomis_team.svg?raw=true)
+<img src="/assets/img/emomis_team.svg"
+     alt="team"
+     style="float: left; margin-right: 10px;" />
 
 <br>
 
