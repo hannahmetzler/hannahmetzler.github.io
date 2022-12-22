@@ -56,7 +56,7 @@ ___
 
 ## Professional and Scholarly Activities
 
-* Editor at [Collabra](https://online.ucpress.edu/collabra) (Journal of the Society for the Improvement of Psychological Science)
+* *Editor* at [Collabra](https://online.ucpress.edu/collabra) (Journal of the Society for the Improvement of Psychological Science)
 * *Peer-review*: [Reviewer profile](https://www.webofscience.com/wos/author/rid/AAH-4442-2020)
     - Scientific Advances, Perspectives in Psychological Science, Scientific Reports, Emotion, Plos One, Journal of Trial and Error
     - International Conference on Web Social Media, Network Science Society Conference, The Web Conference 2021 & 2022
@@ -80,7 +80,7 @@ ___
 * *Open Science*: 
     - Society for the Improvement of Psychological Science - [SIPS](https://improvingpsych.org)
     - Institute for Globally Distributed Open Research and Education - [IGDORE][IGDORE] 
-* Board member of Effective Altruism [community Austria](https://effectivealtruism.at/unser-team): A social movement that uses evidence and reason to do the most good - [Effective Altruism Global](https://www.effectivealtruism.org)
+* Member of the Effective Altruism [community Austria](https://effectivealtruism.at/unser-team), board member in 2022: A social movement that uses evidence and reason to do the most good - [Effective Altruism Global](https://www.effectivealtruism.org)
 
 
 ___
