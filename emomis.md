@@ -10,15 +10,13 @@ In November 2021, we started the project *Emotional Misinformation – The Inter
 
 ## Project Team
 
-!img[team](/assets/img/emomis_team.svg)
-
 * [Hannah Metzler](https://hannahmetzler.eu) (PI), Meduni Wien & Complexity Science Hub Vienna
 * [David Garcia](https://dgarcia.eu) (Co-PI), University of Konstanz & Complexity Science Hub Vienna
 * [Annie Waldherr](https://compcommlab.univie.ac.at/team/annie-waldherr/) (Co-PI), University of Vienna
 * [Apeksha Shetty](https://www.csh.ac.at/researcher/apeksha-shetty/)(PhD student), Complexity Science Hub Vienna
 * [Jula Lühring](https://publizistik.univie.ac.at/institut/mitarbeiterinnen-mitarbeiter/praedocs/luehring-jula/) (PhD student), University of Vienna
 
-Follow us on Twitter for regular updates! 
+Follow us on Twitter for regular updates! <br>
 Our profiles: [Hannah](https://twitter.com/hannahmetzler1), [David](https://twitter.com/dgarcia_eu), [Annie](https://twitter.com/annie_waldherr), [Apeksha](https://twitter.com/apeksha_sh), [Jula](https://twitter.com/lue_jula)
 
 ## About the project
@@ -44,7 +42,7 @@ ___
 
 ### Upcoming
 
-* **23-25 February 2023, Apeksha Shetty\***, Jula Lühring\*, Corinna Koschmieder, David Garcia, Hannah Metzler (2022). Measuring emotions in misinformation studies: A replication and extension of Martel et al. (2020) [Online  presentation]. Annual Convention of the Society of Personality and Social Psychology.
+* **23-25 February 2023, Apeksha Shetty\***, Jula Lühring\*, Corinna Koschmieder, David Garcia, Hannah Metzler (2022). Measuring emotions in misinformation studies: A replication and extension of Martel et al. (2020) [Online  presentation]. Annual Convention of the Society of Personality and Social Psychology. *Equal contributions
 
 
 ### Conference talks
