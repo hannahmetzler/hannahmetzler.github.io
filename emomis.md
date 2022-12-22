@@ -15,8 +15,10 @@ In November 2021, we started the project *Emotional Misinformation – The Inter
 * [Hannah Metzler](https://hannahmetzler.eu) (PI), Meduni Wien & Complexity Science Hub Vienna
 * [David Garcia](https://dgarcia.eu) (Co-PI), University of Konstanz & Complexity Science Hub Vienna
 * [Annie Waldherr](https://compcommlab.univie.ac.at/team/annie-waldherr/) (Co-PI), University of Vienna
-* [Apeksha Shetty](https://twitter.com/apeksha_sh) (PhD student), Complexity Science Hub Vienna
+* [Apeksha Shetty](https://www.csh.ac.at/researcher/apeksha-shetty/)(PhD student), Complexity Science Hub Vienna
 * [Jula Lühring](https://twitter.com/lue_jula) (PhD student), University of Vienna
+
+Follow us on Twitter for regular updates! [Hannah](https://twitter.com/hannahmetzler1), [David](https://twitter.com/dgarcia_eu), [Annie], [Apeksha](https://twitter.com/apeksha_sh), [Jula]()
 
 ## About the project
 
@@ -50,7 +52,7 @@ ___
 * **Metzler, H.** (14 January 2022). _Emotional misinformation spreading: The interplay of emotions and misinformation on social media_, [Conference on Intelligent Machines, Emotions](https://hopin.com/events/intelligentmachinesemotionsourplanet#schedule), and the Planet, Stockholm. Talk. [Slides](https://hannahmetzler.eu/emomis_stockholm).
 * **Metzler, H.**(18 November 2021). _Emotional Misinformation: The interplay of emotions and misinformation spreading on social media_, Vienna Art Week, Session on [„Regaining Control. Der Mensch im Zentrum der technologischen Entwicklung“](https://www.viennaartweek.at/de/program/losing-control-line-up/), Public talk. [Slides](https://hannahmetzler.eu/viennaartweek/).
 * **Shetty, A.**, & Hannah Metzler (27 June 2022). Reducing belief in misinformation: Targeting emotional and social influences [Pre-data poster](https://osf.io/z3x98). Society for the Improvement of Psychological Science, 7th Annual Conference.
-* __Jula Lühring\*, Shetty, A.\*__, Koschmieder, C., Garcia, D., Waldherr, A., & Metzler, H. (11 October 2022). Measuring emotions in misinformation studies: A replication and extension of Martel et al. (2020). Accepted paper & presentation. ECREA Early Career Scholars Workshop in Political Communication: “Advancing Concepts and Methods in Political Communication.” https://ecrea.eu/event-4795610. *Equal contributions.
+* __Lühring, J.\*, Shetty, A.\*__, Koschmieder, C., Garcia, D., Waldherr, A., & Metzler, H. (11 October 2022). Measuring emotions in misinformation studies: A replication and extension of Martel et al. (2020). Accepted paper & presentation. [ECREA Early Career Scholars Workshop in Political Communication: “Advancing Concepts and Methods in Political Communication.”](https://ecrea.eu/event-4795610) *Equal contributions.
 
 
 
