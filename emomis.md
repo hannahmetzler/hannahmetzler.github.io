@@ -10,9 +10,9 @@ In November 2021, we started the project *Emotional Misinformation – The Inter
 
 ## Project Team
 
-<img src="/assets/img/emomis_team.svg"
-     alt="team"
-     style="float: left; margin-right: 10px;" />
+![team](assets/img/emomis_team.svg?raw=true)
+
+<br>
 
 * [Hannah Metzler](https://hannahmetzler.eu) (PI), Meduni Wien & Complexity Science Hub Vienna
 * [David Garcia](https://dgarcia.eu) (Co-PI), University of Konstanz & Complexity Science Hub Vienna
