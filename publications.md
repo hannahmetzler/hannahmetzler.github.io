@@ -14,14 +14,13 @@ ___
 
 ## Pre-prints
 
-* Metzler, H., & Garcia, D. (2022). [Social drivers and algorithmic mechanisms on digital media](https://psyarxiv.com/cxa9u/). PsyArXiv. https://doi.org/10.31234/osf.io/cxa9u
-* Pontika, N., Klebel, T., Correia, A., **Metzler, H.**, Knoth, P. & Ross-Hellauer, T. (2022). [Indicators of Research Quality, Quantity, Openness and Responsibility in Institutional Promotion, Review and Tenure Policies across Seven Countries.](https://doi.org/10.31222/osf.io/b9qaw) MetaArXiv.
+* **Metzler, H.**, & Garcia, D. (2022). [Social drivers and algorithmic mechanisms on digital media](https://psyarxiv.com/cxa9u/). PsyArXiv. https://doi.org/10.31234/osf.io/cxa9u
 * Garcia, D., Pellert, M., Lasser, J., & **Metzler, H.** (2021). [Social media emotion macroscopes reflect emotional experiences in society at large.]( http://arxiv.org/abs/2107.13236) ArXiv:2107.13236 [Cs].
 * **Metzler, H.**, Vilarem, E., Petschen, A., & Grèzes, J. (2020). [Power posture effects on approach and avoidance decisions in response to social threat](https://doi.org/10.31234/osf.io/t8mhw). *PsyArXiv*. [Data & Code](https://osf.io/q8s3w).
 
 ___
 
-## Journal Articles
+## Journal articles
 
 * Pontika, N., Klebel, T., Correia, A., Metzler, H., Knoth, P., & Ross-Hellauer, T. (2022). [Indicators of research quality, quantity, openness and responsibility in institutional review, promotion and tenure policies across seven countries](https://doi.org/10.1162/qss_a_00224). *Quantitative Science Studies*, 1–49. https://doi.org/10.1162/qss_a_00224
 * Niederkrotenthaler, T., Tran, U. S., Baginski, H., Sinyor, M., Strauss, M. J., Sumner, S. A., Voracek, M., Till, B., Murphy, S., Gonzalez, F., Gould, M., Garcia, D., Draper, J., & **Metzler, H.** (2022). [Association of 7 million+ tweets featuring suicide-related content with daily calls to the Suicide Prevention Lifeline and with suicides, United States, 2016–2018](/downloads/Niederkrotenthaler2022_Twitter_Suicide_Timeseries_accepted_version.pdf
@@ -49,7 +48,7 @@ ___
 ___
 
 
-## PhD Dissertation and Diploma thesis
+## PhD dissertation and diploma thesis
 
 * **Metzler, H.** (2018). [The influence of bodily actions on social perception and behaviour: Assessing effects of power postures](https://doi.org/10.13140/RG.2.2.12354.22728) [Doctoral Dissertation Thesis]. Paris: Sorbonne University.
 * **Metzler, H.** (2013). [Sex differences in neural and hormonal responses to achievement stress](http://othes.univie.ac.at/27600/) [Diploma thesis]. Faculty of Psychology, University of Vienna. 
