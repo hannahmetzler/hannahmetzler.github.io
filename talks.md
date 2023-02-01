@@ -8,6 +8,7 @@ title: Talks
 
 ## Upcoming talks & events
 
+* **8-9 February 2023** _Measuring emotions in misinformation studies: Distinguishing emotional state from response and misinformation recognition from susceptibility_, [Expert Workshop on Mis- and disinformation, Zürich](https://www.disinformation-project.com/activties), University of Zurich. 
 * **23-25 February 2023** _Detecting Potentially Harmful and Protective Suicide-related Content on Twitter: A Machine Learning Approach_, [Annual convention of the Society of Personality and Social Psychology](https://spsp.org/). 
 
 
