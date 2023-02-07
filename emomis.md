@@ -48,6 +48,7 @@ ___
 
 ### Upcoming
 
+* **8-9 February 2023** _Measuring emotions in misinformation studies: Distinguishing emotional state from response and misinformation recognition from susceptibility_, [Expert Workshop on Mis- and disinformation, Zürich](https://www.disinformation-project.com/activties), University of Zurich. [**Slides**](http://hannahmetzler.eu/measuring_emo_misinfo)
 * **23-25 February 2023, Apeksha Shetty\***, Jula Lühring\*, Corinna Koschmieder, David Garcia, Annie Waldherr, Hannah Metzler (2022). Measuring emotions in misinformation studies: A replication and extension of Martel et al. (2020) [Online  presentation]. Annual Convention of the Society of Personality and Social Psychology. *Equal contributions
 
 
