@@ -9,10 +9,11 @@ ___
 
 ## Computational Social Science
 
-As a postdoc in the [Computational Social Science lab](https://dgarcia.eu/about-us/) at the Complexity Science Hub Vienna, the Medical University of Vienna and Technical University Graz, I currently work on the following projects:
+As a postdoc in the [Computational Social Science lab](https://dgarcia.eu/about-us/) at the Complexity Science Hub Vienna, the Medical University of Vienna, I currently work on the following topics:
 
 * **Emotional Misinformation Spreading**: How do social motivations and emotions influence the spreading of misinformation? Could online interventions that consider these psychological mechanisms help reduce belief in and sharing of misinformation?
     - [More on this project](/emomis.md)
+    - Presentation on our first study  [**here.**](http://hannahmetzler.eu/measuring_emo_misinfo). 
 * **Emotions and mental health**: Using social media to measure emotions and mental health in societies at large
     - Recorded talks @[Wellbeing Research Seminar Series 2021](https://www.youtube.com/watch?v=d953J1vcH4s) or [DIGSUM seminar 2021](https://www.youtube.com/watch?v=CLC4ga-H1r0)
     - Papers: [Emotions during COVID-19](https://osf.io/736kc/), [Validating daily emotion macroscopes in Austria](https://www.nature.com/articles/s41598-022-14579-y), [Validating weekly emotion macroscopes in the UK](http://arxiv.org/abs/2107.13236)

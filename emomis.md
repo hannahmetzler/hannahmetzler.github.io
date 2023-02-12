@@ -30,7 +30,8 @@ Our profiles: [Hannah](https://twitter.com/hannahmetzler1), [David](https://twit
 The spreading of misinformation via social media contributes to a global threat to trust in science and democratic institutions, with consequences for public health and societal conflicts. Emotions influence how we process information, suggesting a link between certain emotional states and misinformation spreading – especially in times of high uncertainty. The project aims at understanding how emotions influence the tendency to believe and share inaccurate content, and to test intervention strategies to mitigate emotional misinformation spreading. Using digital data traces, the research team will analyze patterns of emotional misinformation spreading on social media and use experimental studies  testing the potential of individual emotion regulation interventions to reduce misinformation sharing. Finally, we will integrate results from social media analysis and experimental studies in an agent-based model to identify the most promising interventions to reduce misinformation spreading in social networks, and to simulate how algorithmic filters for emotional information affect the spreading of misinformation.
 
 **For more**: 
-* [**Slides**](https://hannahmetzler.eu/emomis_stockholm) of a recent talk at the Conference on Intelligent Machines, Emotions and the Planet
+* [**Slides**](https://hannahmetzler.eu/measuring_emo_misinfo) of our first online study on how emotions and fake news recognition are related. 
+* [**Slides**](https://hannahmetzler.eu/emomis_stockholm) of a talk at the Conference on Intelligent Machines, Emotions and the Planet
 * [**Video**](https://www.wilsoncenter.org/event/digital-humanism-how-put-humans-center-emerging-tech) of a panel discussion, including a brief introduction to EMOMIS, starting at at 29 minutes into the video. 
 
 ___
