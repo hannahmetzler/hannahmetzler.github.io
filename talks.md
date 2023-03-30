@@ -8,7 +8,7 @@ title: Talks
 
 ## Upcoming talks & events
 
-* **23-25/02/2023** _Detecting Potentially Harmful and Protective Suicide-related Content on Twitter: A Machine Learning Approach_, [Annual convention of the Society of Personality and Social Psychology](https://spsp.org/). 
+* **10-14/07/2023** Detecting Potentially Harmful and Protective Suicide-related Content on Twitter: A Machine Learning Approach. [Netsci 2023](https://netsci2023.wixsite.com/netsci2023). Lightening Talk. 
 
 
 ---
@@ -41,6 +41,7 @@ ___
 
 ## Conference and seminar presentations
 
+* **23-25/02/2023** _Detecting Potentially Harmful and Protective Suicide-related Content on Twitter: A Machine Learning Approach_, [Annual convention of the Society of Personality and Social Psychology](https://spsp.org/). 
 * **09/02/2023** _Measuring emotions in misinformation studies: Distinguishing emotional state from response and misinformation recognition from susceptibility_, [Expert Workshop on Mis- and disinformation, Zürich](https://www.disinformation-project.com/activties), University of Zurich. [**Slides.**](http://hannahmetzler.eu/measuring_emo_misinfo)
 * **19-23/07/2022** _Detecting Potentially Harmful and Protective Suicide-related Content on Twitter: A Machine Learning Approach_, [8th International Conference on Computational Social Science](https://www.ic2s2.org). Video available [here](https://www.youtube.com/watch?v=UykKQYPM1Kw). 
 * **28/04/2022**: [_Collective emotions on social media: Validity and applications to the COVID-19 pandemic_](https://www.si.umich.edu/about-umsi/events/data-science/computational-social-science-seminar-hannah-metzler), Data Science/Computational Social Science seminar, School of Information, University of Michigan. 
