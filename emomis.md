@@ -6,7 +6,10 @@ show-avatar: false
 
 ___
 
-In November 2021, we started the project *Emotional Misinformation – The Interplay of Emotion and Misinformation Spreading on Social Media* (EMOMIS). It is funded by the Vienna Science and Technology Fund ([WWTF](https://wwtf.at/funding/programmes/ict/ICT20-028/)) for a period of three years and 4 months.
+## Project News
+
+* We have our first pre-print out! Check out our [Twitter thread](https://twitter.com/hannahmetzler1/status/1643978293455241217) about it, or read the [full version](https://doi.org/10.31234/osf.io/udqms).
+* Jula will give a talk about this paper at [ICA 2023](https://www.icahdq.org/mpage/ICA23) in Toronto, 25-29 May 2023.
 
 ## Project Team
 
@@ -27,6 +30,8 @@ Our profiles: [Hannah](https://twitter.com/hannahmetzler1), [David](https://twit
 
 ## About the project
 
+In November 2021, we started the project *Emotional Misinformation – The Interplay of Emotion and Misinformation Spreading on Social Media* (EMOMIS). It is funded by the Vienna Science and Technology Fund ([WWTF](https://wwtf.at/funding/programmes/ict/ICT20-028/)) for a period of three years and 4 months.
+
 The spreading of misinformation via social media contributes to a global threat to trust in science and democratic institutions, with consequences for public health and societal conflicts. Emotions influence how we process information, suggesting a link between certain emotional states and misinformation spreading – especially in times of high uncertainty. The project aims at understanding how emotions influence the tendency to believe and share inaccurate content, and to test intervention strategies to mitigate emotional misinformation spreading. Using digital data traces, the research team will analyze patterns of emotional misinformation spreading on social media and use experimental studies  testing the potential of individual emotion regulation interventions to reduce misinformation sharing. Finally, we will integrate results from social media analysis and experimental studies in an agent-based model to identify the most promising interventions to reduce misinformation spreading in social networks, and to simulate how algorithmic filters for emotional information affect the spreading of misinformation.
 
 **For more**: 
@@ -45,16 +50,17 @@ Die Verbreitung von falschen Information, z.B. über soziale Medien, bedroht das
 
 ___
 
+
 ## Project talks
 
 ### Upcoming
 
-* **8-9 February 2023** _Measuring emotions in misinformation studies: Distinguishing emotional state from response and misinformation recognition from susceptibility_, [Expert Workshop on Mis- and disinformation, Zürich](https://www.disinformation-project.com/activties), University of Zurich. [**Slides**](http://hannahmetzler.eu/measuring_emo_misinfo)
-* **23-25 February 2023, Apeksha Shetty\***, Jula Lühring\*, Corinna Koschmieder, David Garcia, Annie Waldherr, Hannah Metzler (2022). Measuring emotions in misinformation studies: A replication and extension of Martel et al. (2020) [Online  presentation]. Annual Convention of the Society of Personality and Social Psychology. *Equal contributions
-
+* **Jula Lühring (25-29 May 2023)** _Measuring emotions in misinformation studies: Distinguishing emotional state from response and misinformation recognition from susceptibility_, [73rd Annual Conference of the International Communication Association (ICA)](https://www.icahdq.org/mpage/ICA23), Toronto. 
 
 ### Conference talks
 
+* **Metzler, H. (8 February 2023)** _Measuring emotions in misinformation studies: Distinguishing emotional state from response and misinformation recognition from susceptibility_, [Expert Workshop on Mis- and disinformation, Zürich](https://www.disinformation-project.com/activties), University of Zurich. [**Slides**](http://hannahmetzler.eu/measuring_emo_misinfo)
+* **Shetty, A. (23-25 February 2023)** Measuring emotions in misinformation studies: A replication and extension of Martel et al. (2020) [Online  presentation]. Annual Convention of the Society of Personality and Social Psychology. *Equal contributions
 * **Metzler, H.** (14 January 2022). _Emotional misinformation spreading: The interplay of emotions and misinformation on social media_, [Conference on Intelligent Machines, Emotions](https://hopin.com/events/intelligentmachinesemotionsourplanet#schedule), and the Planet, Stockholm. **[Slides](https://hannahmetzler.eu/emomis_stockholm)**.
 * **Shetty, A.**, & Hannah Metzler (27 June 2022). Reducing belief in misinformation: Targeting emotional and social influences. [Pre-data poster](https://osf.io/z3x98). Society for the Improvement of Psychological Science, 7th Annual Conference.
 * __Lühring, J.\*, Shetty, A.\*__, Koschmieder, C., Garcia, D., Waldherr, A., & Metzler, H. (11 October 2022). Measuring emotions in misinformation studies: A replication and extension of Martel et al. (2020). [Accepted paper & presentation]. [ECREA Early Career Scholars Workshop in Political Communication: “Advancing Concepts and Methods in Political Communication.”](https://ecrea.eu/event-4795610) *Equal contributions.
@@ -64,5 +70,11 @@ ___
 * **Metzler, H.** (20 April 2022)._Digital Humanism - How to Put Humans at the Cente rof Emerging Tech_, Panel discussion, Wilson Center. [**Video**](https://www.wilsoncenter.org/event/digital-humanism-how-put-humans-center-emerging-tech) including a brief introduction to the Emotion & Misinformation project (at 29 minutes). 
 * **Metzler, H.**(18 November 2021). _Emotional Misinformation: The interplay of emotions and misinformation spreading on social media_, Vienna Art Week, Session on [„Regaining Control. Der Mensch im Zentrum der technologischen Entwicklung“](https://www.viennaartweek.at/de/program/losing-control-line-up/). **[Slides](https://hannahmetzler.eu/viennaartweek/)**.
 
+
+## Publications
+
+### Pre-prints
+
+* Lühring, J.\*, Shetty, A.\*, Koschmieder, C., Garcia, D., Waldherr, A., & Metzler, H. (2023). Emotions in misinformation studies: Distinguishing affective state from emotional response and misinformation recognition from acceptance. PsyArXiv. https://doi.org/10.31234/osf.io/udqms
 
 

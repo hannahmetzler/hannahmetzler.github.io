@@ -14,6 +14,7 @@ ___
 
 ## Pre-prints
 
+* Lühring, J.\*, Shetty, A.\*, Koschmieder, C., Garcia, D., Waldherr, A., & **Metzler, H.** (2023). Emotions in misinformation studies: Distinguishing affective state from emotional response and misinformation recognition from acceptance. PsyArXiv. [https://doi.org/10.31234/osf.io/udqms](https://doi.org/10.31234/osf.io/udqms)
 * **Metzler, H.**, & Garcia, D. (2022). [Social drivers and algorithmic mechanisms on digital media](https://psyarxiv.com/cxa9u/). PsyArXiv. https://doi.org/10.31234/osf.io/cxa9u
 * Garcia, D., Pellert, M., Lasser, J., & **Metzler, H.** (2021). [Social media emotion macroscopes reflect emotional experiences in society at large.]( http://arxiv.org/abs/2107.13236) ArXiv:2107.13236 [Cs].
 * **Metzler, H.**, Vilarem, E., Petschen, A., & Grèzes, J. (2020). [Power posture effects on approach and avoidance decisions in response to social threat](https://doi.org/10.31234/osf.io/t8mhw). *PsyArXiv*. [Data & Code](https://osf.io/q8s3w).
