@@ -22,7 +22,7 @@ ___
 * [Hannah Metzler](https://hannahmetzler.eu) (PI), Meduni Wien & Complexity Science Hub Vienna
 * [David Garcia](https://dgarcia.eu) (Co-PI), University of Konstanz & Complexity Science Hub Vienna
 * [Annie Waldherr](https://compcommlab.univie.ac.at/team/annie-waldherr/) (Co-PI), University of Vienna
-* [Apeksha Shetty](https://www.csh.ac.at/researcher/apeksha-shetty/)(PhD student), Complexity Science Hub Vienna
+* [Apeksha Shetty](https://www.csh.ac.at/researcher/apeksha-shetty/) (PhD student), Complexity Science Hub Vienna
 * [Jula Lühring](https://publizistik.univie.ac.at/institut/mitarbeiterinnen-mitarbeiter/praedocs/luehring-jula/) (PhD student), University of Vienna
 
 Follow us on Twitter for regular updates! <br>
