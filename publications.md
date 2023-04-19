@@ -16,8 +16,8 @@ ___
 
 * Lühring, J.\*, Shetty, A.\*, Koschmieder, C., Garcia, D., Waldherr, A., & **Metzler, H.** (2023). Emotions in misinformation studies: Distinguishing affective state from emotional response and misinformation recognition from acceptance. _PsyArXiv_. [https://doi.org/10.31234/osf.io/udqms](https://psyarxiv.com/udqms/). [Data, Code, Pre-registration & SI](https://osf.io/tgzxr/).
 * **Metzler, H.**, & Garcia, D. (2022). Social drivers and algorithmic mechanisms on digital media. _PsyArXiv_. [https://doi.org/10.31234/osf.io/cxa9u](https://doi.org/10.31234/osf.io/cxa9u).
-* Garcia, D., Pellert, M., Lasser, J., & **Metzler, H.** (2021). Social media emotion macroscopes reflect emotional experiences in society at large. [http://arxiv.org/abs/2107.13236]( http://arxiv.org/abs/2107.13236). *ArXiv:2107.13236* [Cs].
-* **Metzler, H.**, Vilarem, E., Petschen, A., & Grèzes, J. (2020). Power posture effects on approach and avoidance decisions in response to social threat, [https://doi.org/10.31234/osf.io/t8mhw](https://doi.org/10.31234/osf.io/t8mhw). *PsyArXiv*. [Data & Code](https://osf.io/q8s3w).
+* Garcia, D., Pellert, M., Lasser, J., & **Metzler, H.** (2021). Social media emotion macroscopes reflect emotional experiences in society at large.  *ArXiv:2107.13236* [Cs]. [http://arxiv.org/abs/2107.13236]( http://arxiv.org/abs/2107.13236).
+* **Metzler, H.**, Vilarem, E., Petschen, A., & Grèzes, J. (2020). Power posture effects on approach and avoidance decisions in response to social threat, *PsyArXiv*. [https://doi.org/10.31234/osf.io/t8mhw](https://doi.org/10.31234/osf.io/t8mhw).  [Data & Code](https://osf.io/q8s3w).
 
 ___
 
