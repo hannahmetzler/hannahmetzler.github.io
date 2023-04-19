@@ -8,7 +8,7 @@ title: Talks
 
 ## Upcoming talks & events
 
-* **10-14/07/2023** _Detecting Potentially Harmful and Protective Suicide-related Content on Twitter: A Machine Learning Approach._ [Netsci 2023](https://netsci2023.wixsite.com/netsci2023). Lightening Talk. 
+* **10-14/07/2023** _Detecting Potentially Harmful and Protective Suicide-related Content on Twitter: A Machine Learning Approach._ [Netsci 2023](https://netsci2023.wixsite.com/netsci2023). Lightening Talk.
 
 
 ---

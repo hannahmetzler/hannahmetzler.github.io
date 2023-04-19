@@ -8,8 +8,8 @@ ___
 
 ## Project News
 
-* We have our first pre-print out! Check out our [Twitter thread](https://twitter.com/hannahmetzler1/status/1643978293455241217) about it, or read the [full version](https://doi.org/10.31234/osf.io/udqms).
-* Jula will give a talk about this paper at [ICA 2023](https://www.icahdq.org/mpage/ICA23) in Toronto, 25-29 May 2023.
+* We have our first pre-print out! Check out our [**Twitter thread**](https://twitter.com/hannahmetzler1/status/1643978293455241217) about it, or read the [**full version**](https://doi.org/10.31234/osf.io/udqms).
+* Jula will give a talk on the same study at [ICA 2023](https://www.icahdq.org/mpage/ICA23) in Toronto, 25-29 May 2023.
 
 ## Project Team
 
@@ -59,8 +59,8 @@ ___
 
 ### Conference talks
 
-* **Metzler, H. (8 February 2023)** _Measuring emotions in misinformation studies: Distinguishing emotional state from response and misinformation recognition from susceptibility_, [Expert Workshop on Mis- and disinformation, Zürich](https://www.disinformation-project.com/activties), University of Zurich. [**Slides**](http://hannahmetzler.eu/measuring_emo_misinfo)
-* **Shetty, A. (23-25 February 2023)** Measuring emotions in misinformation studies: A replication and extension of Martel et al. (2020) [Online  presentation]. Annual Convention of the Society of Personality and Social Psychology. *Equal contributions
+* **Metzler, H.** (8 February 2023) _Measuring emotions in misinformation studies: Distinguishing emotional state from response and misinformation recognition from susceptibility_, [Expert Workshop on Mis- and disinformation, Zürich](https://www.disinformation-project.com/activties), University of Zurich. [**Slides**](http://hannahmetzler.eu/measuring_emo_misinfo)
+* **Shetty, A.** (23-25 February 2023) _Measuring emotions in misinformation studies: A replication and extension of Martel et al. (2020)_ Online  presentation. Annual Convention of the Society of Personality and Social Psychology. *Equal contributions
 * **Metzler, H.** (14 January 2022). _Emotional misinformation spreading: The interplay of emotions and misinformation on social media_, [Conference on Intelligent Machines, Emotions](https://hopin.com/events/intelligentmachinesemotionsourplanet#schedule), and the Planet, Stockholm. **[Slides](https://hannahmetzler.eu/emomis_stockholm)**.
 * **Shetty, A.**, & Hannah Metzler (27 June 2022). Reducing belief in misinformation: Targeting emotional and social influences. [Pre-data poster](https://osf.io/z3x98). Society for the Improvement of Psychological Science, 7th Annual Conference.
 * __Lühring, J.\*, Shetty, A.\*__, Koschmieder, C., Garcia, D., Waldherr, A., & Metzler, H. (11 October 2022). Measuring emotions in misinformation studies: A replication and extension of Martel et al. (2020). [Accepted paper & presentation]. [ECREA Early Career Scholars Workshop in Political Communication: “Advancing Concepts and Methods in Political Communication.”](https://ecrea.eu/event-4795610) *Equal contributions.
@@ -75,6 +75,6 @@ ___
 
 ### Pre-prints
 
-* Lühring, J.\*, Shetty, A.\*, Koschmieder, C., Garcia, D., Waldherr, A., & Metzler, H. (2023). Emotions in misinformation studies: Distinguishing affective state from emotional response and misinformation recognition from acceptance. PsyArXiv. https://doi.org/10.31234/osf.io/udqms
+* Lühring, J.\*, Shetty, A.\*, Koschmieder, C., Garcia, D., Waldherr, A., & Metzler, H. (2023). Emotions in misinformation studies: Distinguishing affective state from emotional response and misinformation recognition from acceptance. PsyArXiv. [https://doi.org/10.31234/osf.io/udqms](https://doi.org/10.31234/osf.io/udqms). [Data, Code, Pre-registration & SI](https://osf.io/tgzxr/).
 
 
