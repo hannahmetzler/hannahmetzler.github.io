@@ -8,6 +8,7 @@ ___
 
 ## Project News
 
+* Our project in the news at Kurier: ["Wir sind nicht so einfach zu manipulieren"](https://kurier.at/wien-wills-wissen/wir-sind-nicht-so-einfach-zu-manipulieren/402428147)
 * We have our first pre-print out! Check out our [**Twitter thread**](https://twitter.com/hannahmetzler1/status/1643978293455241217) about it, or read the [**full version**](https://doi.org/10.31234/osf.io/udqms).
 * Jula will give a talk on the same study at [ICA 2023](https://www.icahdq.org/mpage/ICA23) in Toronto, 25-29 May 2023.
 
