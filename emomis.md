@@ -30,9 +30,9 @@ ___
 Follow us on Twitter for regular updates! <br>
 Our profiles: [Hannah](https://twitter.com/hannahmetzler1), [David](https://twitter.com/dgarcia_eu), [Annie](https://twitter.com/annie_waldherr), [Apeksha](https://twitter.com/apeksha_sh), [Jula](https://twitter.com/lue_jula)
 
-<img src="/assets/img/WWTF_solo_CMYK.eps"
+<img src="/assets/img/WWTF_solo_RGB_300dpi.png"
      alt="Vienna Science and Technology Fund"
-     style="float: right" />
+     style="float: right; width: 45%" />
 
 ## About the project
 
@@ -40,9 +40,7 @@ In November 2021, we started the project *Emotional Misinformation – The Inter
 
 <img src="/assets/img/WWTF_Text_E_RGB_300dpi.png"
      alt="Vienna Science and Technology Fund"
-     style="float: center; padding-bottom: 10px"
-     width="60%"
-     height-"auto"/>
+     style="float: center; padding-bottom: 10px; width:60%; height:auto"/>
 
 The spreading of misinformation via social media contributes to a global threat to trust in science and democratic institutions, with consequences for public health and societal conflicts. Emotions influence how we process information, suggesting a link between certain emotional states and misinformation spreading – especially in times of high uncertainty. The project aims at understanding how emotions influence the tendency to believe and share inaccurate content, and to test intervention strategies to mitigate emotional misinformation spreading. Using digital data traces, the research team will analyze patterns of emotional misinformation spreading on social media and use experimental studies  testing the potential of individual emotion regulation interventions to reduce misinformation sharing. Finally, we will integrate results from social media analysis and experimental studies in an agent-based model to identify the most promising interventions to reduce misinformation spreading in social networks, and to simulate how algorithmic filters for emotional information affect the spreading of misinformation.
 
