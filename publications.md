@@ -8,7 +8,7 @@ ___
 
 ## For the general public
 
-* **Metzler, H.** (2023). Emotions and group dynamics around misinformation on social media, Chapter 4, Synthesis Report on Climate misinformation in a climate of misinformation, Stockholm Resilience Centre.
+* **Metzler, H.** (2023). [Emotions and group dynamics around misinformation on social media](https://www.stockholmresilience.org/news--events/climate-misinformation/chapter-4-emotions-and-group-dynamics-around-misinformation-on-social-media.html), Chapter 4, Synthesis Report on Climate misinformation in a climate of misinformation, Stockholm Resilience Centre.
 * **Metzler, H.**, Pellert, M., & Garcia, D. (2022). [Using social media data to capture emotions before and during COVID-19](https://worldhappiness.report/ed/2022/using-social-media-data-to-capture-emotions-before-and-during-covid-19/). _World Happiness Report_, 75–104.
 
 ___
