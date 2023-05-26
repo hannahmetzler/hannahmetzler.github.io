@@ -48,11 +48,12 @@ h1, h2, h3, h4 {
   margin-top: 1.25rem;
 }
 a {
+  font-weight: bold;
   color: {{ site.link-col | default: "#0a60c9" }};
-
 }
 a:hover,
 a:focus {
+  font-weight: bold;
   color: {{ site.hover-col | default: "#084da1" }};
 }
 blockquote {
