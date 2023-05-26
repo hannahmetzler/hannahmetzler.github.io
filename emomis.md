@@ -8,7 +8,8 @@ ___
 
 ## Project News
 
-* Our project in the news at Kurier: ["Wir sind nicht so einfach zu manipulieren"](https://kurier.at/wien-wills-wissen/wir-sind-nicht-so-einfach-zu-manipulieren/402428147)
+* Checkout our blogpost on [**Emotions and gorup dynamics around misinformation on social media**](https://www.stockholmresilience.org/news--events/climate-misinformation/chapter-4-emotions-and-group-dynamics-around-misinformation-on-social-media.html) in a synthesis report on climate misinformation. 
+* Our project in the news at Kurier: [**"Wir sind nicht so einfach zu manipulieren"**](https://kurier.at/wien-wills-wissen/wir-sind-nicht-so-einfach-zu-manipulieren/402428147)
 * We have our first pre-print out! Check out our [**Twitter thread**](https://twitter.com/hannahmetzler1/status/1643978293455241217) about it, or read the [**full version**](https://doi.org/10.31234/osf.io/udqms).
 * Jula will give a talk on the same study at [ICA 2023](https://www.icahdq.org/mpage/ICA23) in Toronto, 25-29 May 2023.
 
@@ -32,6 +33,10 @@ Our profiles: [Hannah](https://twitter.com/hannahmetzler1), [David](https://twit
 ## About the project
 
 In November 2021, we started the project *Emotional Misinformation – The Interplay of Emotion and Misinformation Spreading on Social Media* (EMOMIS). It is funded by the Vienna Science and Technology Fund ([WWTF](https://wwtf.at/funding/programmes/ict/ICT20-028/)) for a period of three years and 4 months.
+
+<img src="/assets/img/WWTF_Text_E_RGB_300dpi.png"
+     alt="Vienna Science and Technology Fund"
+     style="float: center; padding-bottom: 10px" />
 
 The spreading of misinformation via social media contributes to a global threat to trust in science and democratic institutions, with consequences for public health and societal conflicts. Emotions influence how we process information, suggesting a link between certain emotional states and misinformation spreading – especially in times of high uncertainty. The project aims at understanding how emotions influence the tendency to believe and share inaccurate content, and to test intervention strategies to mitigate emotional misinformation spreading. Using digital data traces, the research team will analyze patterns of emotional misinformation spreading on social media and use experimental studies  testing the potential of individual emotion regulation interventions to reduce misinformation sharing. Finally, we will integrate results from social media analysis and experimental studies in an agent-based model to identify the most promising interventions to reduce misinformation spreading in social networks, and to simulate how algorithmic filters for emotional information affect the spreading of misinformation.
 
