@@ -27,12 +27,12 @@ ___
 * [Apeksha Shetty](https://www.csh.ac.at/researcher/apeksha-shetty/) (PhD student), Complexity Science Hub Vienna
 * [Jula Lühring](https://publizistik.univie.ac.at/institut/mitarbeiterinnen-mitarbeiter/praedocs/luehring-jula/) (PhD student), University of Vienna
 
-Follow us on Twitter for regular updates! <br>
-Our profiles: [Hannah](https://twitter.com/hannahmetzler1), [David](https://twitter.com/dgarcia_eu), [Annie](https://twitter.com/annie_waldherr), [Apeksha](https://twitter.com/apeksha_sh), [Jula](https://twitter.com/lue_jula)
-
 <img src="/assets/img/WWTF_Text_E_RGB_300dpi.png"
      alt="Vienna Science and Technology Fund"
      style="float: right; padding-bottom: 5px; width:50%; height:auto"/>
+
+Follow us on Twitter for regular updates! <br>
+Our profiles: [Hannah](https://twitter.com/hannahmetzler1), [David](https://twitter.com/dgarcia_eu), [Annie](https://twitter.com/annie_waldherr), [Apeksha](https://twitter.com/apeksha_sh), [Jula](https://twitter.com/lue_jula)
 
 ## About the project
 
