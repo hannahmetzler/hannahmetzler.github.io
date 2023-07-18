@@ -6,9 +6,7 @@ title: Talks
 
 ---
 
-## Upcoming talks & events
 
-* **10-14/07/2023** _Detecting Potentially Harmful and Protective Suicide-related Content on Twitter: A Machine Learning Approach._ [Netsci 2023](https://netsci2023.wixsite.com/netsci2023). Lightening Talk.
 
 
 ---
@@ -30,10 +28,11 @@ ___
 
 ## Public presentations & panel discussions
 
-* **20/10/2022** _Digital Humanism in Practice: are complex systems compatible with democratic processes?_ [Digitaler Humanismus in der Praxis: sind komplexe Systeme vereinbar mit demokratischen Prozessen?], panel at the [Digital Days](https://community.digitalcity.wien), Impact Hub, Vienna. 
+* **13/07/2023** [_Beyond Surviving: a Panel on Mental Well-Being in Academia._](https://sites.google.com/view/netplace/panelsnetsci2023/2nd-day) Panel discussion organized by NetPlace at [Netsci 2023](https://netsci2023.wixsite.com/netsci2023), Vienna. 
+* **20/10/2022** _Digital Humanism in Practice: are complex systems compatible with democratic processes?_ [Digitaler Humanismus in der Praxis: sind komplexe Systeme vereinbar mit demokratischen Prozessen?], panel discussion at the [Digital Days](https://community.digitalcity.wien), Impact Hub, Vienna. 
 * **20/04/2022** _Digital Humanism - How to Put Humans at the Center of Emerging Tech_, Panel discussion, Wilson Center. [Video](https://www.wilsoncenter.org/event/digital-humanism-how-put-humans-center-emerging-tech) including a brief introduction to the Emotion & Misinformation project (at 29 minutes). 
 * **18/03/2022** _Launch of World Happiness Report 2022_. [Video](https://www.youtube.com/watch?v=B8fejAwQivg) (Summary of our chapter at 19'20'').
-* **18/11/2021** _Emotionen und die Verbreitung von Falschinformationen_, Vienna Art Week, Panel on [„Regaining Control. Der Mensch im Zentrum der technologischen Entwicklung“](https://www.viennaartweek.at/de/program/losing-control-line-up/), Vienna. Panel discussion. [Slides](http://hannahmetzler.eu/viennaartweek/).
+* **18/11/2021** [_Emotionen und die Verbreitung von Falschinformationen_](http://hannahmetzler.eu/viennaartweek/), Vienna Art Week, Panel on [„Regaining Control. Der Mensch im Zentrum der technologischen Entwicklung“](https://www.viennaartweek.at/de/program/losing-control-line-up/), Vienna. Panel discussion.
 * **16/03/2017**: [_La neurobiologie des relations (Neurobiology of relationships)_](/downloads/Semaine_du_cerveau_ENP_2017_neurobiology_relationships.pdf) , Semaine du Cerveau (Week of the Brain), Paris.
 
 
@@ -41,6 +40,7 @@ ___
 
 ## Conference and seminar presentations
 
+* **13/07/2023** _Detecting Potentially Harmful and Protective Suicide-related Content on Twitter: A Machine Learning Approach._ [Netsci 2023](https://netsci2023.wixsite.com/netsci2023). Accepted lightening talk.
 * **23-25/02/2023** _Detecting Potentially Harmful and Protective Suicide-related Content on Twitter: A Machine Learning Approach_, [Annual convention of the Society of Personality and Social Psychology](https://spsp.org/). 
 * **09/02/2023** _Measuring emotions in misinformation studies: Distinguishing emotional state from response and misinformation recognition from susceptibility_, [Expert Workshop on Mis- and disinformation, Zürich](https://www.disinformation-project.com/activties), University of Zurich. [**Slides.**](http://hannahmetzler.eu/measuring_emo_misinfo)
 * **19-23/07/2022** _Detecting Potentially Harmful and Protective Suicide-related Content on Twitter: A Machine Learning Approach_, [8th International Conference on Computational Social Science](https://www.ic2s2.org). Video available [here](https://www.youtube.com/watch?v=UykKQYPM1Kw). 
