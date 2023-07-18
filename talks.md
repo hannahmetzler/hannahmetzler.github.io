@@ -8,9 +8,6 @@ title: Talks
 
 
 
-
----
-
 ## Recorded talks
 
 * **Collective emotions during the COVID-19 Outbreak**

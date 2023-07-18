@@ -16,14 +16,14 @@ ___
 ## Pre-prints
 
 * Lühring, J.\*, Shetty, A.\*, Koschmieder, C., Garcia, D., Waldherr, A., & **Metzler, H.** (2023). Emotions in misinformation studies: Distinguishing affective state from emotional response and misinformation recognition from acceptance. _PsyArXiv_. [https://doi.org/10.31234/osf.io/udqms](https://psyarxiv.com/udqms/). [Data, Code, Pre-registration & SI](https://osf.io/tgzxr/).
-* **Metzler, H.**, & Garcia, D. (2022). Social drivers and algorithmic mechanisms on digital media. _PsyArXiv_. [https://doi.org/10.31234/osf.io/cxa9u](https://doi.org/10.31234/osf.io/cxa9u).
 * Garcia, D., Pellert, M., Lasser, J., & **Metzler, H.** (2021). Social media emotion macroscopes reflect emotional experiences in society at large.  *ArXiv:2107.13236* [Cs]. [http://arxiv.org/abs/2107.13236]( http://arxiv.org/abs/2107.13236).
-* **Metzler, H.**, Vilarem, E., Petschen, A., & Grèzes, J. (2020). Power posture effects on approach and avoidance decisions in response to social threat, *PsyArXiv*. [https://doi.org/10.31234/osf.io/t8mhw](https://doi.org/10.31234/osf.io/t8mhw). [Data & Code](https://osf.io/q8s3w).
 
 ___
 
 ## Journal articles
 
+* **Metzler, H.**, & Garcia, D. (2023). Social drivers and algorithmic mechanisms on digital media. Accepted at _Perspectives on Psychological Science_. [Accepted version](https://doi.org/10.31234/osf.io/cxa9u).
+* **Metzler, H.**, Vilarem, E., Petschen, A., & Grèzes, J. (2023). Power posture effects on approach and avoidance decisions in response to social threat, Accepted at *PLOSONE*. [Preprint](https://doi.org/10.31234/osf.io/t8mhw). [Data & Code](https://osf.io/q8s3w).
 * Pontika, N., Klebel, T., Correia, A., Metzler, H., Knoth, P., & Ross-Hellauer, T. (2022). [Indicators of research quality, quantity, openness and responsibility in institutional review, promotion and tenure policies across seven countries](https://doi.org/10.1162/qss_a_00224). *Quantitative Science Studies*, 1–49. https://doi.org/10.1162/qss_a_00224
 * Niederkrotenthaler, T., Tran, U. S., Baginski, H., Sinyor, M., Strauss, M. J., Sumner, S. A., Voracek, M., Till, B., Murphy, S., Gonzalez, F., Gould, M., Garcia, D., Draper, J., & **Metzler, H.** (2022). [Association of 7 million+ tweets featuring suicide-related content with daily calls to the Suicide Prevention Lifeline and with suicides, United States, 2016–2018](/downloads/Niederkrotenthaler2022_Twitter_Suicide_Timeseries_accepted_version.pdf
 ). Australian & New Zealand Journal of Psychiatry, 00(0). https://doi.org/10.1177/00048674221126649. [Supplementary Appendix](/downloads/Niederkrotenthaler2022_Supplementary_Appendix_R1.pdf).
