@@ -22,7 +22,7 @@ ___
 
 ## Journal articles
 
-* **Metzler, H.**, & Garcia, D. (2023). Social drivers and algorithmic mechanisms on digital media. Accepted at _Perspectives on Psychological Science_. [Accepted version](https://doi.org/10.31234/osf.io/cxa9u).
+* **Metzler, H.**, & Garcia, D. (2023). [Social drivers and algorithmic mechanisms on digital media.](https://doi.org/10.1177/17456916231185057) _Perspectives on Psychological Science_. https://doi.org/10.1177/17456916231185057.
 * **Metzler, H.**, Vilarem, E., Petschen, A., & Grèzes, J. (2023). Power posture effects on approach and avoidance decisions in response to social threat, Accepted at *PLOSONE*. [Preprint](https://doi.org/10.31234/osf.io/t8mhw). [Data & Code](https://osf.io/q8s3w).
 * Pontika, N., Klebel, T., Correia, A., **Metzler, H.**, Knoth, P., & Ross-Hellauer, T. (2022). [Indicators of research quality, quantity, openness and responsibility in institutional review, promotion and tenure policies across seven countries](https://doi.org/10.1162/qss_a_00224). *Quantitative Science Studies*, 1–49. https://doi.org/10.1162/qss_a_00224
 * Niederkrotenthaler, T., Tran, U. S., Baginski, H., Sinyor, M., Strauss, M. J., Sumner, S. A., Voracek, M., Till, B., Murphy, S., Gonzalez, F., Gould, M., Garcia, D., Draper, J., & **Metzler, H.** (2022). [Association of 7 million+ tweets featuring suicide-related content with daily calls to the Suicide Prevention Lifeline and with suicides, United States, 2016–2018](/downloads/Niederkrotenthaler2022_Twitter_Suicide_Timeseries_accepted_version.pdf
