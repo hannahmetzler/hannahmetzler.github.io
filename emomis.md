@@ -8,10 +8,11 @@ ___
 
 ## Project News
 
-* Check our blogpost on [Emotions and group dynamics around misinformation on social media](https://www.stockholmresilience.org/news--events/climate-misinformation/chapter-4-emotions-and-group-dynamics-around-misinformation-on-social-media.html) in a synthesis report on climate misinformation. 
-* Our project in the news at Kurier: ["Wir sind nicht so einfach zu manipulieren"](https://kurier.at/wien-wills-wissen/wir-sind-nicht-so-einfach-zu-manipulieren/402428147)
+* Check our short chapter on [Emotions and group dynamics around misinformation on social media](https://www.stockholmresilience.org/news--events/climate-misinformation/chapter-4-emotions-and-group-dynamics-around-misinformation-on-social-media.html) in a synthesis report on climate misinformation. It got covered in news about climate misinformation in Austria at [APA](https://science.apa.at/power-search/12856578295990689252), [DerStandard](https://www.derstandard.de/story/3000000180511/expertin-sieht-in-social-media-keinen-klima-killer), [Science.ORF](https://science.orf.at/stories/3220488/), and in a [blogpost](https://steadyhq.com/de/mimikama/posts/7b0cb1c0-033d-4bfb-a15d-08c47d002ffa) by Mimikama.
+* Our perspective on emotions and misinformation in the news:
+     * ["Wir sind nicht so einfach zu manipulieren"](https://kurier.at/wien-wills-wissen/wir-sind-nicht-so-einfach-zu-manipulieren/402428147)
+     * [](https://science.apa.at/power-search/12856578295990689252)
 * We have our first pre-print out! Check out our [Twitter thread](https://twitter.com/hannahmetzler1/status/1643978293455241217) about it, or read the [full version](https://doi.org/10.31234/osf.io/udqms).
-* Jula will give a talk on the same study at [ICA 2023](https://www.icahdq.org/mpage/ICA23) in Toronto, 25-29 May 2023.
 
 ## Project Team
 
@@ -59,12 +60,9 @@ ___
 
 ## Project talks
 
-### Upcoming
-
-* **Jula Lühring (25-29 May 2023)** _Measuring emotions in misinformation studies: Distinguishing emotional state from response and misinformation recognition from susceptibility_, [73rd Annual Conference of the International Communication Association (ICA)](https://www.icahdq.org/mpage/ICA23), Toronto. 
-
 ### Conference talks
 
+* **Lühring, L.** (25-29 May 2023)** _Measuring emotions in misinformation studies: Distinguishing emotional state from response and misinformation recognition from susceptibility_, [73rd Annual Conference of the International Communication Association (ICA)](https://www.icahdq.org/mpage/ICA23), Toronto.
 * **Metzler, H.** (8 February 2023) _Measuring emotions in misinformation studies: Distinguishing emotional state from response and misinformation recognition from susceptibility_, [Expert Workshop on Mis- and disinformation, Zürich](https://www.disinformation-project.com/activties), University of Zurich. [Slides](http://hannahmetzler.eu/measuring_emo_misinfo)
 * **Shetty, A.** (23-25 February 2023) _Measuring emotions in misinformation studies: A replication and extension of Martel et al. (2020)_ Online  presentation. Annual Convention of the Society of Personality and Social Psychology. *Equal contributions
 * **Metzler, H.** (14 January 2022). _Emotional misinformation spreading: The interplay of emotions and misinformation on social media_, [Conference on Intelligent Machines, Emotions](https://hopin.com/events/intelligentmachinesemotionsourplanet#schedule), and the Planet, Stockholm. **[Slides](https://hannahmetzler.eu/emomis_stockholm)**.
@@ -73,7 +71,7 @@ ___
 
 ### Public talks & panels
 
-* **Metzler, H.** (20 April 2022)._Digital Humanism - How to Put Humans at the Cente rof Emerging Tech_, Panel discussion, Wilson Center. [Video](https://www.wilsoncenter.org/event/digital-humanism-how-put-humans-center-emerging-tech) including a brief introduction to the Emotion & Misinformation project (at 29 minutes). 
+* **Metzler, H.** (20 April 2022)._Digital Humanism - How to Put Humans at the Center of Emerging Tech_, Panel discussion, Wilson Center. [Video](https://www.wilsoncenter.org/event/digital-humanism-how-put-humans-center-emerging-tech) including a brief introduction to the Emotion & Misinformation project (at 29 minutes).
 * **Metzler, H.**(18 November 2021). _Emotional Misinformation: The interplay of emotions and misinformation spreading on social media_, Vienna Art Week, Session on [„Regaining Control. Der Mensch im Zentrum der technologischen Entwicklung“](https://www.viennaartweek.at/de/program/losing-control-line-up/). **[Slides](https://hannahmetzler.eu/viennaartweek/)**.
 
 
