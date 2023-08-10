@@ -10,8 +10,8 @@ ___
 
 * Check our short chapter on [Emotions and group dynamics around misinformation on social media](https://www.stockholmresilience.org/news--events/climate-misinformation/chapter-4-emotions-and-group-dynamics-around-misinformation-on-social-media.html) in a synthesis report on climate misinformation. It got covered in the news about climate misinformation in Austria, for example at [APA](https://science.apa.at/power-search/12856578295990689252), [DerStandard](https://www.derstandard.de/story/3000000180511/expertin-sieht-in-social-media-keinen-klima-killer), [Science.ORF](https://science.orf.at/stories/3220488/), or in a [blogpost](https://steadyhq.com/de/mimikama/posts/7b0cb1c0-033d-4bfb-a15d-08c47d002ffa) by Mimikama.
 * Our perspective on emotions and misinformation in the news:
-     * ["Wir sind nicht so einfach zu manipulieren"](https://kurier.at/wien-wills-wissen/wir-sind-nicht-so-einfach-zu-manipulieren/402428147)
-     * [](https://science.apa.at/power-search/12856578295990689252)
+     * This ["article at Kurier"](https://kurier.at/wien-wills-wissen/wir-sind-nicht-so-einfach-zu-manipulieren/402428147) explains why we need a more nuanced view on  misinformation, that considers social dynamics.
+     * This ["article at APA"](https://science.apa.at/power-search/12856578295990689252) argues for a nuanced perspective on the role of social media.
 * We have our first pre-print out! Check out our [Twitter thread](https://twitter.com/hannahmetzler1/status/1643978293455241217) about it, or read the [full version](https://doi.org/10.31234/osf.io/udqms).
 
 ## Project Team
