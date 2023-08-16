@@ -65,10 +65,10 @@ ___
     - **2021**: Emotionen und die Verbreitung von Falschinformationen, Vienna Art Week, talk & panel discussion.
     - **2020-2023**: Regular journalist interviews, examples:
         * Working conditions in academia: [Falter](https://www.falter.at/zeitung/20230322/sturm-statt-elfenbeinturm)
-        * Complexity Science: [(video)](https://www.facebook.com/alexandervanderbellen/videos/besuch-im-complexity-science-hub-vienna/731750567653204/)
+        * Complexity Science: [Video on van der Bellen's Facebook page](https://www.facebook.com/alexandervanderbellen/videos/besuch-im-complexity-science-hub-vienna/731750567653204/)
         * Misinformation on social media: [Kurier](https://kurier.at/wien-wills-wissen/wir-sind-nicht-so-einfach-zu-manipulieren/402428147), [Science APA](https://science.apa.at/power-search/12856578295990689252)
         * Suicide prevention via social media: [Die Presse](https://www.diepresse.com/6227205/wie-praevention-auf-twitter-suizide-verhindern-kann), [Science ORF](https://science.orf.at/stories/3216588/)
-        * Collective emotions during the  COVID-19 outbreak: ([DerStandard](https://www.derstandard.at/story/2000115973796/coronavirus-twitter-spiegelt-aengste-und-sorgen-der-menschen-wider), [Science ORF](https://science.orf.at/stories/3200583/)).
+        * Collective emotions during the  COVID-19 outbreak: [DerStandard](https://www.derstandard.at/story/2000115973796/coronavirus-twitter-spiegelt-aengste-und-sorgen-der-menschen-wider), [Science ORF](https://science.orf.at/stories/3200583/).
     - **2017**: [“La neurobiologie des relations”](http://www.paris-neuroscience.fr/en/compterendu/enp-normale-sup-brain-awareness-week-2017): Organizer and speaker of science communication event at Semaine du Cerveau 2017, Paris (Talk in French) 
 * *Event organization*:
     - **2021**: Conference session on Improving interdisciplinary peer review at [SIPS](https://www.improvingpsych.org/SIPS2021/)
