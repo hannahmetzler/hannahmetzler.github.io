@@ -63,7 +63,11 @@ ___
     - Collaborative assessment of replicability & credibility of social science research at [RepliCATS](https://replicats.research.unimelb.edu.au/) 2020 & 2021
 * *Science outreach*: 
     - **2021**: Emotionen und die Verbreitung von Falschinformationen, Vienna Art Week, talk & panel discussion.
-    - **2020**: Journalist interviews on Complexity Science [(video)](https://www.facebook.com/alexandervanderbellen/videos/besuch-im-complexity-science-hub-vienna/731750567653204/), and collective emotions in response to the  COVID-19 outbreak (example articles [1](https://www.derstandard.at/story/2000115973796/coronavirus-twitter-spiegelt-aengste-und-sorgen-der-menschen-wider) & [2](https://science.apa.at/site/kultur_und_gesellschaft/detail.html?key=SCI_20200417_SCI39351351654193650&))
+    - **2020-2023**: Regular journalist interviews, examples:
+            * Complexity Science [(video)](https://www.facebook.com/alexandervanderbellen/videos/besuch-im-complexity-science-hub-vienna/731750567653204/)
+            * misinformation on social media (articles [1](https://kurier.at/wien-wills-wissen/wir-sind-nicht-so-einfach-zu-manipulieren/402428147), [2],
+            * suicide prevention via social media (articles [1](), [2]()
+            * collective emotions during the  COVID-19 outbreak (articles [1](https://www.derstandard.at/story/2000115973796/coronavirus-twitter-spiegelt-aengste-und-sorgen-der-menschen-wider) & [2](https://science.apa.at/site/kultur_und_gesellschaft/detail.html?key=SCI_20200417_SCI39351351654193650&)).
     - **2017**: [“La neurobiologie des relations”](http://www.paris-neuroscience.fr/en/compterendu/enp-normale-sup-brain-awareness-week-2017): Organizer and speaker of science communication event at Semaine du Cerveau 2017, Paris (Talk in French) 
 * *Event organization*:
     - **2021**: Conference session on Improving interdisciplinary peer review at [SIPS](https://www.improvingpsych.org/SIPS2021/)
