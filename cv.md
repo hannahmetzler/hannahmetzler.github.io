@@ -64,10 +64,11 @@ ___
 * *Science outreach*: 
     - **2021**: Emotionen und die Verbreitung von Falschinformationen, Vienna Art Week, talk & panel discussion.
     - **2020-2023**: Regular journalist interviews, examples:
-            * Complexity Science [(video)](https://www.facebook.com/alexandervanderbellen/videos/besuch-im-complexity-science-hub-vienna/731750567653204/)
-            * misinformation on social media (articles [1](https://kurier.at/wien-wills-wissen/wir-sind-nicht-so-einfach-zu-manipulieren/402428147), [2],
-            * suicide prevention via social media (articles [1](), [2]()
-            * collective emotions during the  COVID-19 outbreak (articles [1](https://www.derstandard.at/story/2000115973796/coronavirus-twitter-spiegelt-aengste-und-sorgen-der-menschen-wider) & [2](https://science.apa.at/site/kultur_und_gesellschaft/detail.html?key=SCI_20200417_SCI39351351654193650&)).
+        * Working conditions in academia: [Falter](https://www.falter.at/zeitung/20230322/sturm-statt-elfenbeinturm)
+        * Complexity Science: [(video)](https://www.facebook.com/alexandervanderbellen/videos/besuch-im-complexity-science-hub-vienna/731750567653204/)
+        * Misinformation on social media: [Kurier](https://kurier.at/wien-wills-wissen/wir-sind-nicht-so-einfach-zu-manipulieren/402428147), [Science APA](https://science.apa.at/power-search/12856578295990689252)
+        * Suicide prevention via social media: [Die Presse](https://www.diepresse.com/6227205/wie-praevention-auf-twitter-suizide-verhindern-kann), [Science ORF](https://science.orf.at/stories/3216588/)
+        * Collective emotions during the  COVID-19 outbreak: ([DerStandard](https://www.derstandard.at/story/2000115973796/coronavirus-twitter-spiegelt-aengste-und-sorgen-der-menschen-wider), [Science ORF](https://science.orf.at/stories/3200583/)).
     - **2017**: [“La neurobiologie des relations”](http://www.paris-neuroscience.fr/en/compterendu/enp-normale-sup-brain-awareness-week-2017): Organizer and speaker of science communication event at Semaine du Cerveau 2017, Paris (Talk in French) 
 * *Event organization*:
     - **2021**: Conference session on Improving interdisciplinary peer review at [SIPS](https://www.improvingpsych.org/SIPS2021/)
