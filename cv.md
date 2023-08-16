@@ -57,8 +57,8 @@ ___
 ## Professional and Scholarly Activities
 
 * *Editor* at [Collabra](https://online.ucpress.edu/collabra) (Journal of the Society for the Improvement of Psychological Science)
-* *Peer-review*: [Reviewer profile](https://www.webofscience.com/wos/author/rid/AAH-4442-2020)
-    - Scientific Advances, Perspectives in Psychological Science, Scientific Reports, Emotion, Plos One, Journal of Trial and Error
+* *Peer-review*: [Reviewer profile](https://www.webofscience.com/wos/author/record/1963790)
+    - Scientific Advances, Perspectives in Psychological Science, Scientific Reports, Emotion, Plos One, Journal of Trial and Error, International Journal of Psychology
     - International Conference on Web Social Media, Network Science Society Conference, The Web Conference 2021 & 2022
     - Collaborative assessment of replicability & credibility of social science research at [RepliCATS](https://replicats.research.unimelb.edu.au/) 2020 & 2021
 * *Science outreach*: 
