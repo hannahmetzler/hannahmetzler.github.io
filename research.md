@@ -55,7 +55,7 @@ ___
 
 ## Social and Affective Neuroscience
 
-I explored various topics and brain imaging techniques in Social and Affective Neuroscience in three lab rotations during the first year of the [ENP Graduate Program][ENPprogram], and during my Master thesis at the University of Vienna. 
+My research in neuroscience was inspired by the complex relationship between social and emotional experiences and the body, including hormonal changes and brain activity. I investigated how we perceive others facial expressions, how we react to their non-verbal social signals, and how our own bodily state and and social power influence these social interactions. In three lab rotations during the [ENP Graduate Program][ENPprogram], and during my Master thesis at the University of Vienna, I explored the following topics:
 
 **Sexual cognition**  
 With Franck Ramus at École Normale Supérieure Paris, I investigated anatomical brain differences associated with the fraternal-birth-order-effect related to male homosexuality, and prepared seminars about the broader topic of "sexual cognition" and human sexuality. 
