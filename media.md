@@ -4,13 +4,15 @@ show-avatar: false
 title: Media Reactions
 ---
 
+---
 
 ## Highlights
 
 * 2023-03-22 in Falter: [Sturm statt Elfenbeinturm](https://www.falter.at/zeitung/20230322/sturm-statt-elfenbeinturm) - Zu viele Publikationen, zu wenige Stellen: Die Arbeitsbedingungen in der Wissenschaft sind schwierig. Gibt es Alternativen?
 * 2023-04-29 in Kurier: [Wir sind nicht so einfach zu manipulieren](https://kurier.at/wien-wills-wissen/wir-sind-nicht-so-einfach-zu-manipulieren/402428147) - Fake News: Hannah Metzler untersucht, wie Emotionen die Verbreitung von Falschinformationen beeinflussen.
-* 2020-06-17 video on Facebook on Complexity Science [Alexander Van der Bellen's Besuch im Comlexity Science Hub Vienna](https://www.facebook.com/alexandervanderbellen/videos/besuch-im-complexity-science-hub-vienna)
+* 2022-12-14 on Science APA: [Tweets zu Suizidprävention können Suizide verhindern](https://science.apa.at/power-search/14529582810589354089).
 
+---
 
 ## Other Examples
 
@@ -28,10 +30,11 @@ title: Media Reactions
     - [Kleine Zeitung](https://www.kleinezeitung.at/home/klistenspecial/klisteklein/6227173/Papageno-und-WertherEffekt_Forscher_Praevention-auf-Twitter-kann)
     - [Vorarlberg Online](https://www.vol.at/wie-twitter-sich-auf-suizide-auswirkt/7797967)
 * 2020-04-17 on Science APA: **Online-Emotionen: Mehr Trauer als Wut.** Featured for example on:
-    * [Science ORF](https://science.orf.at/stories/3200583/)
+    * [Science.ORF](https://science.orf.at/stories/3200583/)
     * [Key Media](https://www.keymedia.at/news/chronik/online-emotionen-im-foren-waehrend-der-coronakrise/)
     * [Vienna Online](https://www.vienna.at/analyse-zeigt-weniger-angst-und-wut-mehr-trauer-bei-online-kommentaren/6590284)
 * 2020-03-20 on Science APA: **Coronavirus: Twitter spiegelt Ängste und Sorgen der Menschen wider.** Featured for example on:
     * [DerStandard](https://www.derstandard.at/story/2000115973796/coronavirus-twitter-spiegelt-aengste-und-sorgen-der-menschen-wider)
     * [Kronen Zeitung](https://www.krone.at/2120986)
+* 2020-06-17 video on Facebook on Complexity Science [Alexander Van der Bellen's Besuch im Comlexity Science Hub Vienna](https://www.facebook.com/alexandervanderbellen/videos/besuch-im-complexity-science-hub-vienna)
 
