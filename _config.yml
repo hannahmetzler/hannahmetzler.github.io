@@ -21,7 +21,7 @@ navbar-links:
   Publications: "publications"
   Projects: "projects"
   Talks: "talks"
-  Media Reactions: "media"
+  Media: "media"
   #Resources:
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
    # - Learn markdown: "https://www.markdowntutorial.com/"
