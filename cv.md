@@ -56,7 +56,7 @@ ___
 
 ## Professional and Scholarly Activities
 
-* *Editor* at [Collabra](https://online.ucpress.edu/collabra) (Journal of the Society for the Improvement of Psychological Science)
+* *Editor* at [Collabra:Psychology](https://online.ucpress.edu/collabra) (Journal of the Society for the Improvement of Psychological Science)
 * *Peer-review*: [Reviewer profile](https://www.webofscience.com/wos/author/record/1963790)
     - Scientific Advances, Perspectives in Psychological Science, Scientific Reports, Emotion, Plos One, Journal of Trial and Error, International Journal of Psychology
     - International Conference on Web Social Media, Network Science Society Conference, The Web Conference 2021 & 2022
@@ -92,7 +92,7 @@ ___
 
 
 ## Teaching & supervision
-* **2020-2022** Supervision or co-supervision of 2 PhD theses, 2 Master theses, internships of 8 Master students & 1 Bachelor student
+* **2020-now** Supervision or co-supervision of 2 PhD theses, 3 Master theses, internships of 8 Master students & 1 Bachelor student
 * **2021** 2 day [course on Digitalisation in Research](https://github.com/JanaLasser/digitalisation-in-research-module-2) with [Jana Lasser](www.janalasser.at), for PhD candidates & postdocs at _Ludwig Boltzmann society_ and WU Executive Academy, Vienna (16h)
 * **2021** Lecturer on Computational Social Science, Cognitive Science Lecture Series, Cognitive Science Master, University of Vienna (4h)
 * **2015 - 2017** Co-Supervision of 2 Bachelor and 2 Master student interns during PhD
