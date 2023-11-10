@@ -43,6 +43,7 @@ ___
 
 ## Awards and Funding
 
+* **2023** Second prize and $400 award in The Unjournal's inaugural Evaluation Prize ([review for which I received the award](https://unjournal.pubpub.org/pub/cashtransferseval1/release/4)) 
 * **2021** [Digital Humanism](https://www.wwtf.at/digital_humanism/) Project Grant: _Emotional Misinformation - The Interplay of Emotion and Misinformation Spreading on Social Media._ [WWTF](https://wwtf.at/programmes/information_communication/#ICT20), Principal Investigator, Collaborators: Annie Waldherr & David Garcia,  Amount 400k€
 * **2018** End of thesis scholarship (3 months) from the [Department of Cognitive Science][DEC], École Normale Supérieure, Paris, 7k€
 * **2013–2017** 4 year PhD scholarship from [École des Neurosciences Paris Île-de-France][ENP] 150k€
@@ -58,7 +59,7 @@ ___
 
 * *Editor* at [Collabra:Psychology](https://online.ucpress.edu/collabra) (Journal of the Society for the Improvement of Psychological Science)
 * *Peer-review*: [Reviewer profile](https://www.webofscience.com/wos/author/record/1963790)
-    - Scientific Advances, Perspectives in Psychological Science, Scientific Reports, Emotion, Plos One, Journal of Trial and Error, International Journal of Psychology
+    - Scientific Advances, Perspectives in Psychological Science, Scientific Reports, Emotion, The Unjournal, Plos One, Journal of Trial and Error, International Journal of Psychology
     - International Conference on Web Social Media, Network Science Society Conference, The Web Conference 2021 & 2022
     - Collaborative assessment of replicability & credibility of social science research at [RepliCATS](https://replicats.research.unimelb.edu.au/) 2020 & 2021
 * *Science outreach*: 
