@@ -24,8 +24,8 @@ ___
 ## Slides
 
 * [Emotions in misinformation studies: Distinguishing emotional state from response & misinformation recognition from susceptibility](https://hannahmetzler.eu/measuring_emo_misinfo)
-* [Research summary October 2023]https://hannahmetzler.eu/HMResearchSummary/
-* [Detecting potentially harmful and protective suicide-related content on Twitter: A Machine Learning Approach](https://docs.google.com/presentation/d/1vV7wrQEwGvqy3cxezww-tLXwgPHRVaGFiin3f-goDm4/edit?usp=sharing
+* [Research summary October 2023](https://hannahmetzler.eu/HMResearchSummary/)
+* [Detecting potentially harmful and protective suicide-related content on Twitter: A Machine Learning Approach](https://docs.google.com/presentation/d/1vV7wrQEwGvqy3cxezww-tLXwgPHRVaGFiin3f-goDm4/edit?usp=sharing)
 * [Collective emotions during the COVID-19 outbreak](https://docs.google.com/presentation/d/1u8FJz2cpFbVUZ_UMsUqq_EyU9QNh2mAcTY_Q5J6j3eI/edit?usp=sharing)
 
 ---
