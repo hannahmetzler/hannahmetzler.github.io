@@ -57,7 +57,7 @@ ___
 
 ## Professional and Scholarly Activities
 
-* *Editor* at [Collabra:Psychology](https://online.ucpress.edu/collabra) (Journal of the Society for the Improvement of Psychological Science)
+* *Associate editor* for social psychology at [Collabra: Psychology](https://online.ucpress.edu/collabra) (Journal of the Society for the Improvement of Psychological Science)
 * *Peer-review*: [Reviewer profile](https://www.webofscience.com/wos/author/record/1963790)
     - Scientific Advances, Perspectives in Psychological Science, Scientific Reports, Emotion, The Unjournal, Plos One, Journal of Trial and Error, International Journal of Psychology
     - International Conference on Web Social Media, Network Science Society Conference, The Web Conference 2021 & 2022
