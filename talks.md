@@ -19,6 +19,7 @@ title: Talks
     - Brief introduction to the project EMOMIS at 29 minutes into this [video](https://www.wilsoncenter.org/event/digital-humanism-how-put-humans-center-emerging-tech).
 * **Machine learning classifications of suicide-related tweets**
     - [Online presentation at IC2S2 2022](https://www.youtube.com/watch?v=UykKQYPM1Kw) (6 minutes), summary of this [paper](https://arxiv.org/abs/2112.04796). 
+
 ___
 
 ## Slides
