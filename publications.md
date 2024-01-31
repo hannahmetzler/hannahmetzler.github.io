@@ -13,10 +13,12 @@ ___
 
 ___
 
-## Pre-prints
+## Pre-prints & manuscripts under review
 
 * Lühring, J.\*, Shetty, A.\*, Koschmieder, C., Garcia, D., Waldherr, A., & **Metzler, H.** (2023). Emotions in misinformation studies: Distinguishing affective state from emotional response and misinformation recognition from acceptance. _PsyArXiv_. [https://doi.org/10.31234/osf.io/udqms](https://psyarxiv.com/udqms/). [Data, Code, Pre-registration & SI](https://osf.io/tgzxr/).
 * Garcia, D., Pellert, M., Lasser, J., & **Metzler, H.** (2021). Social media emotion macroscopes reflect emotional experiences in society at large.  *ArXiv:2107.13236* [Cs]. [http://arxiv.org/abs/2107.13236]( http://arxiv.org/abs/2107.13236).
+* **Metzler, H.**, Baginski, H., Garcia, D., & Niederkrotenthaler, T. (under revision). A machine learning approach to detect potentially harmful and protective suicide-related content in broadcast media.
+* Niederkrotenthaler, T., **Metzler, H.**, Laido, Z., ... & Madely, G. (under review). “Breaking the Silence” suicide prevention media campaign  in Oregon, April 7-14, 2019: Content analysis of broadcast,  print and online media items and social media.
 
 ___
 
