@@ -67,6 +67,7 @@ ___
 
 ### Conference talks
 
+* **Shetty, A.** (21-22 November 2023) _Emotions in misinformation studies: Distinguishing affective state from emotional response and misinformation recognition from acceptance_, [5th Symposium on Multidisciplinary International Symposium on Disinformation in Open Online Media](https://event.cwi.nl/misdoom-2023/), Amsterdam. 
 * **Lühring, L.** (25-29 May 2023) _Measuring emotions in misinformation studies: Distinguishing emotional state from response and misinformation recognition from susceptibility_, [73rd Annual Conference of the International Communication Association (ICA)](https://www.icahdq.org/mpage/ICA23), Toronto.
 * **Metzler, H.** (8 February 2023) _Measuring emotions in misinformation studies: Distinguishing emotional state from response and misinformation recognition from susceptibility_, [Expert Workshop on Mis- and disinformation, Zürich](https://www.disinformation-project.com/activties), University of Zurich. [Slides](http://hannahmetzler.eu/measuring_emo_misinfo)
 * **Shetty, A.** (23-25 February 2023) _Measuring emotions in misinformation studies: A replication and extension of Martel et al. (2020)_ Online  presentation. Annual Convention of the Society of Personality and Social Psychology.
