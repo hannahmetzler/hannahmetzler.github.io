@@ -18,12 +18,11 @@ ___
 * Lühring, J.\*, Shetty, A.\*, Koschmieder, C., Garcia, D., Waldherr, A., & **Metzler, H.** (2023). Emotions in misinformation studies: Distinguishing affective state from emotional response and misinformation recognition from acceptance. _PsyArXiv_. [https://doi.org/10.31234/osf.io/udqms](https://psyarxiv.com/udqms/). [Data, Code, Pre-registration & SI](https://osf.io/tgzxr/).
 * Garcia, D., Pellert, M., Lasser, J., & **Metzler, H.** (2021). Social media emotion macroscopes reflect emotional experiences in society at large.  *ArXiv:2107.13236* [Cs]. [http://arxiv.org/abs/2107.13236]( http://arxiv.org/abs/2107.13236).
 * **Metzler, H.**, Baginski, H., Garcia, D., & Niederkrotenthaler, T. (under revision). A machine learning approach to detect potentially harmful and protective suicide-related content in broadcast media.
-* Niederkrotenthaler, T., **Metzler, H.**, Laido, Z., ... & Madely, G. (under review). “Breaking the Silence” suicide prevention media campaign  in Oregon, April 7-14, 2019: Content analysis of broadcast,  print and online media items and social media.
-
 ___
 
 ## Journal articles
 
+* Niederkrotenthaler, T., **Metzler, H.**, Laido, Z., ... & Madely, G. (Accepted). “Breaking the Silence” suicide prevention media campaign  in Oregon, April 7-14, 2019: Content analysis of broadcast,  print and online media items and social media. *Crisis: The Journal of Crisis Intervention and Suicide Prevention*. 
 * Aroyehun, S.T., Malik, L., **Metzler, H.**, Haimerl, N., Di Natale, A., & Garcia, D. (2023) [LEIA: Linguistic Embeddings for the Identification of Affect](https://doi.org/10.1140/epjds/s13688-023-00427-0). EPJ Data Science, 12, 52. https://doi.org/10.1140/epjds/s13688-023-00427-0 
 * **Metzler, H.**, & Garcia, D. (2023). [Social drivers and algorithmic mechanisms on digital media.](https://doi.org/10.1177/17456916231185057) _Perspectives on Psychological Science 0_(0). https://doi.org/10.1177/17456916231185057.
 * **Metzler, H.**, Vilarem, E., Petschen, A., & Grèzes, J. (2023). [Power posture effects on approach and avoidance decisions in response to social threat](https://doi.org/10.1371/journal.pone.0286904), *PLoSONE, 18*(8): e0286904, https://doi.org/10.1371/journal.pone.0286904. [Data & Code](https://osf.io/q8s3w).
