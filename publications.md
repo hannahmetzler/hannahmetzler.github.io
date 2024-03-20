@@ -10,6 +10,7 @@ ___
 
 * **Metzler, H.** (2023). [Emotions and group dynamics around misinformation on social media](https://www.stockholmresilience.org/news--events/climate-misinformation/chapter-4-emotions-and-group-dynamics-around-misinformation-on-social-media.html), Chapter 4, Synthesis Report on Climate misinformation in a climate of misinformation, Stockholm Resilience Centre.
 * **Metzler, H.**, Pellert, M., & Garcia, D. (2022). [Using social media data to capture emotions before and during COVID-19](https://worldhappiness.report/ed/2022/using-social-media-data-to-capture-emotions-before-and-during-covid-19/). _World Happiness Report_, 75–104.
+* * Bouchat, P., **Metzler, H.**, & Rimé, B. (2020). [Crise et pandémie. Impact émotionnel et psychosocial du confinement. [Crisis and pandemics. Emotional and psychosocial impact of containment]](https://www.cairn.info/revue-le-journal-des-psychologues-2020-8-page-14.htm#). Le Journal des psychologues, (8), 14-20.
 
 ___
 
@@ -23,7 +24,7 @@ ___
 ## Journal articles
 
 * **Metzler, H.**, & Garcia, D. (2023). [Social drivers and algorithmic mechanisms on digital media.](https://doi.org/10.1177/17456916231185057) _Perspectives on Psychological Science 0_(0). https://doi.org/10.1177/17456916231185057.
-* **Metzler, H.**, Vilarem, E., Petschen, A., & Grèzes, J. (2023). [Power posture effects on approach and avoidance decisions in response to social threat](https://doi.org/10.1371/journal.pone.0286904), *PLoSONE, 18*(8): e0286904, https://doi.org/10.1371/journal.pone.0286904. [Data & Code](https://osf.io/q8s3w).
+* **Metzler, H.**, Vilarem, E., Petschen, A., & Grèzes, J. (2023). [Power pose effects on approach and avoidance decisions in response to social threat](https://doi.org/10.1371/journal.pone.0286904), *PLoSONE, 18*(8): e0286904, https://doi.org/10.1371/journal.pone.0286904. [Data & Code](https://osf.io/q8s3w).
 * Pontika, N., Klebel, T., Correia, A., **Metzler, H.**, Knoth, P., & Ross-Hellauer, T. (2022). [Indicators of research quality, quantity, openness and responsibility in institutional review, promotion and tenure policies across seven countries](https://doi.org/10.1162/qss_a_00224). *Quantitative Science Studies*, 1–49. https://doi.org/10.1162/qss_a_00224
 * Niederkrotenthaler, T., Tran, U. S., Baginski, H., Sinyor, M., Strauss, M. J., Sumner, S. A., Voracek, M., Till, B., Murphy, S., Gonzalez, F., Gould, M., Garcia, D., Draper, J., & **Metzler, H.** (2022). [Association of 7 million+ tweets featuring suicide-related content with daily calls to the Suicide Prevention Lifeline and with suicides, United States, 2016–2018](/downloads/Niederkrotenthaler2022_Twitter_Suicide_Timeseries_accepted_version.pdf
 ). Australian & New Zealand Journal of Psychiatry, 00(0). https://doi.org/10.1177/00048674221126649. [Supplementary Appendix](/downloads/Niederkrotenthaler2022_Supplementary_Appendix_R1.pdf).
@@ -38,14 +39,6 @@ ___
 * Radke, S., Seidel, E. M., Boubela, R. N., Thaler, **Metzler, H.**, … Derntl, B. (2018). [Immediate and delayed neuroendocrine responses to social exclusion in males and females.](https://doi.org/10.1016/j.psyneuen.2018.04.005) *Psychoneuroendocrinology, 93*, 56–64.
 * Kogler, L., Seidel, E.M., **Metzler, H.**, Thaler, Boubela, R., … Derntl, B. (2017). [Impact of self-esteem and sex on stress reactions.](https://doi.org/10.1038/s41598-017-17485-w) *Scientific Reports 7*, 17210.
 * Seidel, E. M., Silani, G., **Metzler, H.**, Thaler, H., Lamm, C., Gur, R. C., … Derntl, B. (2013). [The impact of social exclusion vs. inclusion on subjective and hormonal reactions in females and males.](https://doi.org/10.1016/j.psyneuen.2013.07.021) *Psychoneuroendocrinology, 38*(12), 2925–2932.
-
-
-___
-
-
-## Magazine articles
-
-* Bouchat, P., **Metzler, H.**, & Rimé, B. (2020). [Crise et pandémie. Impact émotionnel et psychosocial du confinement. [Crisis and pandemics. Emotional and psychosocial impact of containment]](https://www.cairn.info/revue-le-journal-des-psychologues-2020-8-page-14.htm#). Le Journal des psychologues, (8), 14-20.
 
 ___
 
