@@ -22,9 +22,18 @@ title: Talks
 
 ___
 
+## Slides
+
+* [Emotions in misinformation studies: Distinguishing emotional state from response & misinformation recognition from susceptibility](https://hannahmetzler.eu/measuring_emo_misinfo)
+* [Research summary October 2023](https://hannahmetzler.eu/HMResearchSummary/)
+* [Detecting potentially harmful and protective suicide-related content on Twitter: A Machine Learning Approach](https://docs.google.com/presentation/d/1vV7wrQEwGvqy3cxezww-tLXwgPHRVaGFiin3f-goDm4/edit?usp=sharing)
+* [Collective emotions during the COVID-19 outbreak](https://docs.google.com/presentation/d/1u8FJz2cpFbVUZ_UMsUqq_EyU9QNh2mAcTY_Q5J6j3eI/edit?usp=sharing)
+
+---
 
 ## Public presentations & panel discussions
 
+* **12/03/2024** [_Der EU Digital Services Act: Chancen für den Forschungsstandort Wien_](https://www.wwtf.at/veranstaltung-der-eu-digital-services-act-chancen-fuer-den-forschungsstandort-wien/), panelist on the relevance of the DSA for research,  [event](https://www.linkedin.com/events/7158804834106671105/comments/) organized by MA23 and WWTF, at waff Vienna. 
 * **13/07/2023** [_Beyond Surviving: a Panel on Mental Well-Being in Academia._](https://sites.google.com/view/netplace/panelsnetsci2023/2nd-day) Panel discussion organized by NetPlace at [Netsci 2023](https://netsci2023.wixsite.com/netsci2023), Vienna. 
 * **20/10/2022** _Digital Humanism in Practice: are complex systems compatible with democratic processes?_ [Digitaler Humanismus in der Praxis: sind komplexe Systeme vereinbar mit demokratischen Prozessen?], panel discussion at the [Digital Days](https://community.digitalcity.wien), Impact Hub, Vienna. 
 * **20/04/2022** _Digital Humanism - How to Put Humans at the Center of Emerging Tech_, Panel discussion, Wilson Center. [Video](https://www.wilsoncenter.org/event/digital-humanism-how-put-humans-center-emerging-tech) including a brief introduction to the Emotion & Misinformation project (at 29 minutes). 

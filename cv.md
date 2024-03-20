@@ -43,6 +43,7 @@ ___
 
 ## Awards and Funding
 
+* **2023** Second prize & $400 award in [The Unjournal's Evaluation Prize](https://globalimpact.gitbook.io/the-unjournal-project-and-communication-space/readme-1/latest-updates/impactful-research-prize-winners) ([my review](https://unjournal.pubpub.org/pub/cashtransferseval1/release/4)) 
 * **2021** [Digital Humanism](https://www.wwtf.at/digital_humanism/) Project Grant: _Emotional Misinformation - The Interplay of Emotion and Misinformation Spreading on Social Media._ [WWTF](https://wwtf.at/programmes/information_communication/#ICT20), Principal Investigator, Collaborators: Annie Waldherr & David Garcia,  Amount 400k€
 * **2018** End of thesis scholarship (3 months) from the [Department of Cognitive Science][DEC], École Normale Supérieure, Paris, 7k€
 * **2013–2017** 4 year PhD scholarship from [École des Neurosciences Paris Île-de-France][ENP] 150k€
@@ -56,20 +57,20 @@ ___
 
 ## Professional and Scholarly Activities
 
-* *Editor* at [Collabra](https://online.ucpress.edu/collabra) (Journal of the Society for the Improvement of Psychological Science)
+* *Associate editor* for social psychology at [Collabra: Psychology](https://online.ucpress.edu/collabra) (Journal of the Society for the Improvement of Psychological Science)
 * *Peer-review*: [Reviewer profile](https://www.webofscience.com/wos/author/record/1963790)
-    - Scientific Advances, Perspectives in Psychological Science, Scientific Reports, Emotion, Plos One, Journal of Trial and Error, International Journal of Psychology
+    - Scientific Advances, Perspectives in Psychological Science, Scientific Reports, Emotion, The Unjournal, Plos One, Journal of Trial and Error, International Journal of Psychology
     - International Conference on Web Social Media, Network Science Society Conference, The Web Conference 2021 & 2022
     - Collaborative assessment of replicability & credibility of social science research at [RepliCATS](https://replicats.research.unimelb.edu.au/) 2020 & 2021
 * *Science outreach*: 
     - **2021**: Emotionen und die Verbreitung von Falschinformationen, Vienna Art Week, talk & panel discussion.
     - **2020-2023**: Regular journalist interviews, examples:
         * Working conditions in academia: [Falter](https://www.falter.at/zeitung/20230322/sturm-statt-elfenbeinturm)
-        * Complexity Science: [Video on van der Bellen's Facebook page](https://www.facebook.com/alexandervanderbellen/videos/besuch-im-complexity-science-hub-vienna/731750567653204/)
+        * Complexity Science: [Video on van der Bellen's Facebook page](https://www.facebook.com/watch/?v=731750567653204)
         * Misinformation on social media: [Kurier](https://kurier.at/wien-wills-wissen/wir-sind-nicht-so-einfach-zu-manipulieren/402428147), [Science APA](https://science.apa.at/power-search/12856578295990689252)
         * Suicide prevention via social media: [Die Presse](https://www.diepresse.com/6227205/wie-praevention-auf-twitter-suizide-verhindern-kann), [Science ORF](https://science.orf.at/stories/3216588/)
         * Collective emotions during the  COVID-19 outbreak: [DerStandard](https://www.derstandard.at/story/2000115973796/coronavirus-twitter-spiegelt-aengste-und-sorgen-der-menschen-wider), [Science ORF](https://science.orf.at/stories/3200583/).
-    - **2017**: [“La neurobiologie des relations”](http://www.paris-neuroscience.fr/en/compterendu/enp-normale-sup-brain-awareness-week-2017): Organizer and speaker of science communication event at Semaine du Cerveau 2017, Paris (Talk in French) 
+    - **2017**: [“Neurobiology of relationships”](https://hannahmetzler.eu/downloads/Semaine_du_cerveau_ENP_2017_neurobiology_relationships.pdf): Organizer and speaker of science communication event at Semaine du Cerveau 2017, Paris (Talk in French) 
 * *Event organization*:
     - **2021**: Conference session on Improving interdisciplinary peer review at [SIPS](https://www.improvingpsych.org/SIPS2021/)
     - **2019 - 2021**: Organizing symposia (No 31, 34, 35) for [WISIA](http://www.wisia.at/) (Women in Science)
@@ -79,22 +80,24 @@ ___
 ___
 
 
-## Professional Associations
+## Memberships and Affiliations
 
+* 2023 - now	Guest researcher at the University of Konstanz
 * Vice president of Women in Science – an Interdisciplinary Association - [WISIA](http://www.wisia.at/)
-* *Open Science*: 
-    - Society for the Improvement of Psychological Science - [SIPS](https://improvingpsych.org)
-    - Institute for Globally Distributed Open Research and Education - [IGDORE][IGDORE] 
-* Member of the Effective Altruism [community Austria](https://effectivealtruism.at/unser-team), board member in 2022: A social movement that uses evidence and reason to do the most good - [Effective Altruism Global](https://www.effectivealtruism.org)
+* Society for the Improvement of Psychological Science - [SIPS](https://improvingpsych.org)
+* Institute for Globally Distributed Open Research and Education - [IGDORE][IGDORE] 
+* Member of the Effective Altruism [community Austria](https://effectivealtruism.at/unser-team), board member in 2022, treasurer 2022-2023: A social movement that uses evidence and reason to do the most good - [Effective Altruism Global](https://www.effectivealtruism.org)
 
 
 ___
 
 
 ## Teaching & supervision
-* **2020-2022** Supervision or co-supervision of 2 PhD theses, 2 Master theses, internships of 8 Master students & 1 Bachelor student
-* **2021** 2 day [course on Digitalisation in Research](https://github.com/JanaLasser/digitalisation-in-research-module-2) with [Jana Lasser](www.janalasser.at), for PhD candidates & postdocs at _Ludwig Boltzmann society_ and WU Executive Academy, Vienna (16h)
-* **2021** Lecturer on Computational Social Science, Cognitive Science Lecture Series, Cognitive Science Master, University of Vienna (4h)
+
+* **2021-now** Lecturer on Computational Social Science, Cognitive Science Lecture Series, Cognitive Science Master, University of Vienna (4h)
+* **2020-now** Supervision or co-supervision of 2 PhD theses, 3 Master theses, 8 Master internships & 1 Bachelor internship. Areas: Computational Social Science, Psychology, Data Science. 
+* **2023** 8h Skill training [Digital tools for the research process](https://github.com/hannahmetzler/digital_tools_research) for PhD candidates & Postdocs at the LBG Career Center
+* **2021-2022** 2 day [course on Digitalisation in Research](https://github.com/JanaLasser/digitalisation-in-research-module-2) with [Jana Lasser](www.janalasser.at), for PhD candidates & postdocs, LBG Career Center & WU Executive Academy (16h)
 * **2015 - 2017** Co-Supervision of 2 Bachelor and 2 Master student interns during PhD
 * **2015-2016** Teaching assistant at École Normale Supérieure, Master for Cognitive Science (48h) in the courses 
 _Introduction to cognitive science and neuroscience_ & _Improving scientific practices_

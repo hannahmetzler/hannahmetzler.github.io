@@ -8,6 +8,8 @@ ___
 
 ## Project News
 
+* A very nice [update and description](https://publizistik.univie.ac.at/aktuelles/aktuelle-meldungen/news-einzelansicht/news/forschungsprojekte-am-institut-emomis-fehlinformationen-und-emotionen-auf-social-media/) about the part of the project carried out by our team at Uni Vienna. 
+* Hannah describes our research and how it is relevant to society in this short [video from the Digital Humanism series](https://www.youtube.com/watch?v=xpiiOqwGQa8).
 * Check our short chapter on [Emotions and group dynamics around misinformation on social media](https://www.stockholmresilience.org/news--events/climate-misinformation/chapter-4-emotions-and-group-dynamics-around-misinformation-on-social-media.html) in a synthesis report on climate misinformation. It got covered in the news about climate misinformation in Austria, for example at [APA](https://science.apa.at/power-search/12856578295990689252), [DerStandard](https://www.derstandard.de/story/3000000180511/expertin-sieht-in-social-media-keinen-klima-killer), [Science.ORF](https://science.orf.at/stories/3220488/), [FM4 news](https://rtv.defacto.at/?param=VF5ScoFA8ClZB77pQK8jHiIHAALxyQ2MGMQm2sXwWzOB5HZiOdjYmYzfUeXVDJVR6g1yi4NaUT3WVs7FjCdSK9twfxN0oqo%3D) or in a [blogpost](https://steadyhq.com/de/mimikama/posts/7b0cb1c0-033d-4bfb-a15d-08c47d002ffa) by Mimikama.
 * Our perspective on emotions and misinformation in the news:
      * This [article at Kurier](https://kurier.at/wien-wills-wissen/wir-sind-nicht-so-einfach-zu-manipulieren/402428147) explains the nuanced role of emotions around misinformation.
@@ -28,12 +30,15 @@ ___
 * [Apeksha Shetty](https://www.csh.ac.at/researcher/apeksha-shetty/) (PhD student), Complexity Science Hub Vienna
 * [Jula Lühring](https://publizistik.univie.ac.at/institut/mitarbeiterinnen-mitarbeiter/praedocs/luehring-jula/) (PhD student), University of Vienna
 
+### Follow us on social media for regular updates! <br>
+
+* Twitter/X: [Hannah](https://twitter.com/hannahmetzler1),  [Apeksha](https://twitter.com/apeksha_sh), [Jula](https://twitter.com/lue_jula), [David](https://twitter.com/dgarcia_eu), [Annie](https://twitter.com/annie_waldherr),
+* Bluesky: [Hannah](https://bsky.app/profile/hannahmetzler.bsky.social), [Apeksha](https://bsky.app/profile/apeksha.bsky.social), [Jula](https://bsky.app/julaluehring.bsky.social), [Annie](https://bsky.app/anniewald.bsky.social)
+
 <img src="/assets/img/WWTF_Text_E_RGB_300dpi.png"
      alt="Vienna Science and Technology Fund"
-     style="float: right; padding-bottom: 5px; width:50%; height:auto"/>
+     style="float: center; padding-bottom: 5px; width:50%; height:auto"/>
 
-Follow us on Twitter for regular updates! <br>
-Our profiles: [Hannah](https://twitter.com/hannahmetzler1), [David](https://twitter.com/dgarcia_eu), [Annie](https://twitter.com/annie_waldherr), [Apeksha](https://twitter.com/apeksha_sh), [Jula](https://twitter.com/lue_jula)
 
 ## About the project
 
@@ -62,14 +67,15 @@ ___
 
 ### Conference talks
 
+* **Shetty, A.** (21-22 November 2023) _Emotions in misinformation studies: Distinguishing affective state from emotional response and misinformation recognition from acceptance_, [5th Symposium on Multidisciplinary International Symposium on Disinformation in Open Online Media](https://event.cwi.nl/misdoom-2023/), Amsterdam. 
 * **Lühring, L.** (25-29 May 2023) _Measuring emotions in misinformation studies: Distinguishing emotional state from response and misinformation recognition from susceptibility_, [73rd Annual Conference of the International Communication Association (ICA)](https://www.icahdq.org/mpage/ICA23), Toronto.
 * **Metzler, H.** (8 February 2023) _Measuring emotions in misinformation studies: Distinguishing emotional state from response and misinformation recognition from susceptibility_, [Expert Workshop on Mis- and disinformation, Zürich](https://www.disinformation-project.com/activties), University of Zurich. [Slides](http://hannahmetzler.eu/measuring_emo_misinfo)
-* **Shetty, A.** (23-25 February 2023) _Measuring emotions in misinformation studies: A replication and extension of Martel et al. (2020)_ Online  presentation. Annual Convention of the Society of Personality and Social Psychology. *Equal contributions
+* **Shetty, A.** (23-25 February 2023) _Measuring emotions in misinformation studies: A replication and extension of Martel et al. (2020)_ Online  presentation. Annual Convention of the Society of Personality and Social Psychology.
 * **Metzler, H.** (14 January 2022). _Emotional misinformation spreading: The interplay of emotions and misinformation on social media_, [Conference on Intelligent Machines, Emotions](https://hopin.com/events/intelligentmachinesemotionsourplanet#schedule), and the Planet, Stockholm. **[Slides](https://hannahmetzler.eu/emomis_stockholm)**.
 * **Shetty, A.**, & Hannah Metzler (27 June 2022). Reducing belief in misinformation: Targeting emotional and social influences. [Pre-data poster](https://osf.io/z3x98). Society for the Improvement of Psychological Science, 7th Annual Conference.
 * __Lühring, J.\*, Shetty, A.\*__, Koschmieder, C., Garcia, D., Waldherr, A., & Metzler, H. (11 October 2022). Measuring emotions in misinformation studies: A replication and extension of Martel et al. (2020). [Accepted paper & presentation]. [ECREA Early Career Scholars Workshop in Political Communication: “Advancing Concepts and Methods in Political Communication.”](https://ecrea.eu/event-4795610) *Equal contributions.
 
-### Public talks & panels
+### Outreach
 
 * **Metzler, H.** (20 April 2022)._Digital Humanism - How to Put Humans at the Center of Emerging Tech_, Panel discussion, Wilson Center. [Video](https://www.wilsoncenter.org/event/digital-humanism-how-put-humans-center-emerging-tech) including a brief introduction to the Emotion & Misinformation project (at 29 minutes).
 * **Metzler, H.**(18 November 2021). _Emotional Misinformation: The interplay of emotions and misinformation spreading on social media_, Vienna Art Week, Session on [„Regaining Control. Der Mensch im Zentrum der technologischen Entwicklung“](https://www.viennaartweek.at/de/program/losing-control-line-up/). **[Slides](https://hannahmetzler.eu/viennaartweek/)**.
@@ -84,5 +90,15 @@ ___
 ### Pre-prints
 
 * Lühring, J.\*, Shetty, A.\*, Koschmieder, C., Garcia, D., Waldherr, A., & Metzler, H. (2023). Emotions in misinformation studies: Distinguishing affective state from emotional response and misinformation recognition from acceptance. PsyArXiv. [https://doi.org/10.31234/osf.io/udqms](https://doi.org/10.31234/osf.io/udqms). [Data, Code, Pre-registration & SI](https://osf.io/tgzxr/).
+
+### Publications
+
+* **Metzler, H.**, & Garcia, D. (2023). [Social drivers and algorithmic mechanisms on digital media.](https://doi.org/10.1177/17456916231185057) _Perspectives on Psychological Science 0_(0). https://doi.org/10.1177/17456916231185057.
+
+
+## Internships
+
+* June-August 2023: Ruggero Lazzaroni from RWTH Aachen did a summer research internship at the CSH, funded by an Erasmus scholraship, to investigate the validity of the NewsGuard news reliability ratings
+* Since September 2023: Adam Urosevic joined us for an internship with Jula Lühring on reconstructing the Austrian Twitter network around political news, in relation to the reliability of news shared.  
 
 
