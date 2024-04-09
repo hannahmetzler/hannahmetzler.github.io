@@ -6,7 +6,9 @@ title: Talks
 
 ---
 
+## Upcoming talks
 
+- Metzler H., 8/5/2024, Social Media sind (k)ein Klimakiller. Webinar von [klimaaktiv](https://www.klimaaktiv.at/bildung/klimadialog/webinare.html) (Initiative des Bundesministeriums für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie)
 
 ## Recorded talks
 
