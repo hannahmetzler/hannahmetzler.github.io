@@ -16,7 +16,8 @@ title: Media Reactions
 
 ## Other Examples
 
-[comment]: # * 2024-01: Women Balance - Filter Bubble
+[comment]: # * 2024-03: Raus aus der Blase. Women Balance.
+
 
 * 2023-07-26 on Science APA [Expertin sieht in Social Media keinen "Klima-Killer"](https://science.apa.at/power-search/12856578295990689252). Featured for example on:
     - [DerStandard](https://www.derstandard.de/story/3000000180511/expertin-sieht-in-social-media-keinen-klima-killer)
