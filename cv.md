@@ -15,7 +15,6 @@ ___
 
 ## Education summary
 
-* **2023-now** Foundational Training in Psychotherapy ([Psychotherapeutisches Propädeutikum)](https://www.bildungsmanagement.ac.at/bildungsangebote/diplomlehrgaenge/psychotherapeutisches-propaedeutikum.html), ARGE Bildungsmanagement Vienna
 * **2014-2018** PhD in Cognitive Neuroscience at Sorbonne University & École Normale Supérieure Paris, supervised by Julie Grèzes  
     Graduate Program at [École des Neurosciences Paris-Île de-France][ENP]
 * **2007-2013** Diploma program in Psychology at University of Vienna  
@@ -39,6 +38,20 @@ ___
     * Integration of emotion and gaze cues during attention orienting (Intracranial EEG study), Brain & Spine Institute, with Nathalie George
     * Power posture effects on emotion discrimination, École Normale Supérieure, with Julie Grèzes
 * **2012** Internship (10 months) at the [Social Cognitive and Affective Neuroscience Unit][SCAN], University of Vienna, with Eva-Maria Seidel
+
+___
+
+
+## Teaching & supervision
+
+* **2024** [Data analysis for beginners in R](https://github.com/hannahmetzler/R_intro), LBG Career Center (8h)
+* **2021-now** Introduction to Computational Social Science, Cognitive Science Lecture Series, Cognitive Science Master, University of Vienna (4h)
+* **2020-now** Supervision or co-supervision of 2 PhD theses, 3 Master theses, 8 Master internships & 1 Bachelor internship. Areas: Computational Social Science, Psychology, Data Science. 
+* **2023** [Digital tools for the research process](https://github.com/hannahmetzler/digital_tools_research), LBG Career Center (8h)
+* **2021-2022** [Digitalisation in Research](https://github.com/JanaLasser/digitalisation-in-research-module-2) with [Jana Lasser](www.janalasser.at), LBG Career Center & WU Executive Academy (16h)
+* **2015 - 2017** Co-Supervision of 2 Bachelor and 2 Master student interns during PhD
+* **2015-2016** Teaching assistant at École Normale Supérieure, Master for Cognitive Science (48h) in the courses 
+_Introduction to cognitive science and neuroscience_ & _Improving scientific practices_
 
 ___
 
@@ -81,6 +94,13 @@ ___
     
 ___
 
+## Additional qualifications
+
+* **2023-now** Foundational Training in Psychotherapy ([Psychotherapeutisches Propädeutikum)](https://www.bildungsmanagement.ac.at/bildungsangebote/diplomlehrgaenge/psychotherapeutisches-propaedeutikum.html), ARGE Bildungsmanagement Vienna
+* **2018** Certificate in Business Administration & Project Management, Sorbonne Paris Cité, Paris (3 weeks).
+
+___
+
 
 ## Memberships and Affiliations
 
@@ -93,17 +113,6 @@ ___
 
 ___
 
-
-## Teaching & supervision
-
-* **2024** Lecturer for [Data analysis for beginners in R](https://github.com/hannahmetzler/R_intro), LBG Career Center (8h)
-* **2021-now** Lecturer on Computational Social Science, Cognitive Science Lecture Series, Cognitive Science Master, University of Vienna (4h)
-* **2020-now** Supervision or co-supervision of 2 PhD theses, 3 Master theses, 8 Master internships & 1 Bachelor internship. Areas: Computational Social Science, Psychology, Data Science. 
-* **2023** 8h Skill training [Digital tools for the research process](https://github.com/hannahmetzler/digital_tools_research) for PhD candidates & Postdocs at the LBG Career Center
-* **2021-2022** 2 day [course on Digitalisation in Research](https://github.com/JanaLasser/digitalisation-in-research-module-2) with [Jana Lasser](www.janalasser.at), for PhD candidates & postdocs, LBG Career Center & WU Executive Academy (16h)
-* **2015 - 2017** Co-Supervision of 2 Bachelor and 2 Master student interns during PhD
-* **2015-2016** Teaching assistant at École Normale Supérieure, Master for Cognitive Science (48h) in the courses 
-_Introduction to cognitive science and neuroscience_ & _Improving scientific practices_
 
 
 [ENP]: https://universitypositions.eu/universities/france/ecole-des-neurosciences-de-paris-enp
