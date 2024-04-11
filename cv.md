@@ -15,7 +15,7 @@ ___
 
 ## Education summary
 
-* **2023-now** Foundational Training in Psychotherapy ([Psychotherapeutisches Propädeutikum](https://www.bildungsmanagement.ac.at/bildungsangebote/diplomlehrgaenge/psychotherapeutisches-propaedeutikum.html), ARGE Bildungsmanagement Vienna
+* **2023-now** Foundational Training in Psychotherapy ([Psychotherapeutisches Propädeutikum)](https://www.bildungsmanagement.ac.at/bildungsangebote/diplomlehrgaenge/psychotherapeutisches-propaedeutikum.html), ARGE Bildungsmanagement Vienna
 * **2014-2018** PhD in Cognitive Neuroscience at Sorbonne University & École Normale Supérieure Paris, supervised by Julie Grèzes  
     Graduate Program at [École des Neurosciences Paris-Île de-France][ENP]
 * **2007-2013** Diploma program in Psychology at University of Vienna  
@@ -96,6 +96,7 @@ ___
 
 ## Teaching & supervision
 
+* **2024** Lecturer for [Data analysis for beginners in R](https://github.com/hannahmetzler/R_intro), LBG Career Center (8h)
 * **2021-now** Lecturer on Computational Social Science, Cognitive Science Lecture Series, Cognitive Science Master, University of Vienna (4h)
 * **2020-now** Supervision or co-supervision of 2 PhD theses, 3 Master theses, 8 Master internships & 1 Bachelor internship. Areas: Computational Social Science, Psychology, Data Science. 
 * **2023** 8h Skill training [Digital tools for the research process](https://github.com/hannahmetzler/digital_tools_research) for PhD candidates & Postdocs at the LBG Career Center
