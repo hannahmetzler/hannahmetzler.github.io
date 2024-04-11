@@ -13,8 +13,9 @@ show-avatar: false
 
 ___
 
-## Education
+## Education summary
 
+* **2023-now** Foundational Training in Psychotherapy ([Psychotherapeutisches Propädeutikum](https://www.bildungsmanagement.ac.at/bildungsangebote/diplomlehrgaenge/psychotherapeutisches-propaedeutikum.html), ARGE Bildungsmanagement Vienna
 * **2014-2018** PhD in Cognitive Neuroscience at Sorbonne University & École Normale Supérieure Paris, supervised by Julie Grèzes  
     Graduate Program at [École des Neurosciences Paris-Île de-France][ENP]
 * **2007-2013** Diploma program in Psychology at University of Vienna  
@@ -27,8 +28,9 @@ ___
 
 ## Research Experience
 
-* **2020-now** Postdoctoral researcher at the [Computational Social Science lab][CSS]  by David Garcia at [Complexity Science Hub][CSH], Medical University in Vienna & Graz University of Technology
-    * 2020-2022 part-time @ [Unit Suicide Research and Mental Health Promotion][Thomas]
+* **2020-now** Postdoctoral researcher at the [Computational Social Science lab][CSS]  by David Garcia at [Complexity Science Hub][CSH] & Medical University in Vienna
+    * 2020-2022 10% @ Graz University of Technology
+    * 2020-2022 50% @ [Unit Suicide Research and Mental Health Promotion][Thomas]
 * **2019–2020** Senior researcher and project manager @ Open and Reproducible Research Group at [Know-Center][KNOW] - Research Center for Data-Driven Business & Big Data Analytics, Graz
 * **2019** Independent researcher at the Institute for Globally Distributed Open Research and Education - [IGDORE][IGDORE] 
 * **2014-2018** Doctoral researcher at the Laboratory of Cognitive and Computational Neuroscience in the team of Julie Grèzes, École Normale Supérieure Paris
