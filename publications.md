@@ -24,10 +24,8 @@ ___
 
 ## Journal articles
 
-## Journal articles
-
 1. **Metzler, H.**, Baginski, H., Garcia, D., & Niederkrotenthaler, T. (in press). A machine learning approach to detect potentially harmful and protective suicide-related content in broadcast media. PlosOne.
-2. Niederkrotenthaler, T., **Metzler, H.**, Z., Till, B., Lake, A. H., Noble, E., Chowdhury, S., Gonzalez, F., Garcia, D., Draper, J., Murphy, S., & Gould, M. (2024). [“Breaking the Silence” Suicide Prevention Media Campaign in Oregon, April 7–14, 2019: Content Analysis of Broadcast, Print and Online Media Items, and Social Media Footprint.](https://doi.org/10.1027/0227-5910/a000955) *Crisis*, 0227-5910/a000955. https://doi.org/10.1027/0227-5910/a000955
+2. Niederkrotenthaler, T., **Metzler, H.**, Z., Till, B., Lake, A. H., Noble, E., Chowdhury, S., Gonzalez, F., Garcia, D., Draper, J., Murphy, S., & Gould, M. (2024). [“Breaking the Silence” Suicide Prevention Media Campaign in Oregon, April 7–14, 2019: Content Analysis of Broadcast, Print and Online Media Items, and Social Media Footprint.](https://doi.org/10.1027/0227-5910/a000955) *Crisis*, 0227-5910/a000955. https://doi.org/10.1027/0227-5910/a000955. [PDF](/downloads/NiederkrotenthalerMetzler2024_crisis_Breaking_the_silence_campaign_evaluation.pdf)
 3. Aroyehun, S.T., Malik, L., **Metzler, H.**, Haimerl, N., Di Natale, A., & Garcia, D. (2023) [LEIA: Linguistic Embeddings for the Identification of Affect](https://doi.org/10.1140/epjds/s13688-023-00427-0). EPJ Data Science, 12, 52. https://doi.org/10.1140/epjds/s13688-023-00427-0
 4. **Metzler, H.**, & Garcia, D. (2023). [Social drivers and algorithmic mechanisms on digital media.](https://doi.org/10.1177/17456916231185057) _Perspectives on Psychological Science 0_(0). https://doi.org/10.1177/17456916231185057.
 5. **Metzler, H.**, Vilarem, E., Petschen, A., & Grèzes, J. (2023). [Power pose effects on approach and avoidance decisions in response to social threat](https://doi.org/10.1371/journal.pone.0286904), *PLoSONE, 18*(8): e0286904, https://doi.org/10.1371/journal.pone.0286904. [Data & Code](https://osf.io/q8s3w).
@@ -43,7 +41,7 @@ ___
 15. Chadwick, M.\*, __Metzler, H.\*__, Tijus, C., Armony, J.°, Grèzes, J.° (2019). [Stimulus and observer characteristics jointly determine the relevance of threatening facial expressions and their interaction with attention.](/downloads/Chadwick_2019_Stimulus_and_observer_characteristics_jointly_determine_the_relevance_of_threatening_facial_expressions.pdf) *Motivation and Emotion, 43*(2), 299–312. \*°Authors contributed equally. https://doi.org/10.1007/s11031-018-9730-2
 16. Radke, S., Seidel, E. M., Boubela, R. N., Thaler, **Metzler, H.**, … Derntl, B. (2018). [Immediate and delayed neuroendocrine responses to social exclusion in males and females.](https://doi.org/10.1016/j.psyneuen.2018.04.005) *Psychoneuroendocrinology, 93*, 56–64.
 17. Kogler, L., Seidel, E.M., **Metzler, H.**, Thaler, Boubela, R., … Derntl, B. (2017). [Impact of self-esteem and sex on stress reactions.](https://doi.org/10.1038/s41598-017-17485-w) *Scientific Reports 7*, 17210.
-18. Seidel, E. M., Silani, G., **Metzler, H.**, Thaler, H., Lamm, C., Gur, R. C., … Derntl, B. (2013
+18. Seidel, E. M., Silani, G., **Metzler, H.**, Thaler, H., Lamm, C., Gur, R. C., … Derntl, B. (2013). [The impact of social exclusion vs. inclusion on subjective and hormonal reactions in females and males.](https://doi.org/10.1016/j.psyneuen.2013.07.021) *Psychoneuroendocrinology, 38*(12), 2925–2932.
 
 ___
 
