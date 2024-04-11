@@ -8,25 +8,25 @@ ___
 
 ## For the general public
 
-1) **Metzler, H.** (2023). [Emotions and group dynamics around misinformation on social media](https://www.stockholmresilience.org/news--events/climate-misinformation/chapter-4-emotions-and-group-dynamics-around-misinformation-on-social-media.html), Chapter 4, Synthesis Report on Climate misinformation in a climate of misinformation, Stockholm Resilience Centre.
-2) **Metzler, H.**, Pellert, M., & Garcia, D. (2022). [Using social media data to capture emotions before and during COVID-19](https://worldhappiness.report/ed/2022/using-social-media-data-to-capture-emotions-before-and-during-covid-19/). _World Happiness Report_, 75–104.
-3) Bouchat, P., **Metzler, H.**, & Rimé, B. (2020). [Crise et pandémie. Impact émotionnel et psychosocial du confinement. [Crisis and pandemics. Emotional and psychosocial impact of containment]](https://www.cairn.info/revue-le-journal-des-psychologues-2020-8-page-14.htm#). Le Journal des psychologues, (8), 14-20.
+1. **Metzler, H.** (2023). [Emotions and group dynamics around misinformation on social media](https://www.stockholmresilience.org/news--events/climate-misinformation/chapter-4-emotions-and-group-dynamics-around-misinformation-on-social-media.html), Chapter 4, Synthesis Report on Climate misinformation in a climate of misinformation, Stockholm Resilience Centre.
+2. **Metzler, H.**, Pellert, M., & Garcia, D. (2022). [Using social media data to capture emotions before and during COVID-19](https://worldhappiness.report/ed/2022/using-social-media-data-to-capture-emotions-before-and-during-covid-19/). _World Happiness Report_, 75–104.
+3. Bouchat, P., **Metzler, H.**, & Rimé, B. (2020). [Crise et pandémie. Impact émotionnel et psychosocial du confinement. [Crisis and pandemics. Emotional and psychosocial impact of containment]](https://www.cairn.info/revue-le-journal-des-psychologues-2020-8-page-14.htm#). Le Journal des psychologues, (8), 14-20.
 
 ___
 
 ## Pre-prints & manuscripts under review
 
-1) Lühring, J.\*, Shetty, A.\*, Koschmieder, C., Garcia, D., Waldherr, A., & **Metzler, H.** (2023). Emotions in misinformation studies: Distinguishing affective state from emotional response and misinformation recognition from acceptance. _PsyArXiv_. [https://doi.org/10.31234/osf.io/udqms](https://psyarxiv.com/udqms/). [Data, Code, Pre-registration & SI](https://osf.io/tgzxr/).
-2) Garcia, D., Pellert, M., Lasser, J., & **Metzler, H.** (2021). Social media emotion macroscopes reflect emotional experiences in society at large.  *ArXiv:2107.13236* [Cs]. [http://arxiv.org/abs/2107.13236]( http://arxiv.org/abs/2107.13236).
-3) Galaz, V., Marklund, A., Galafassi, D., Lindahl, T., Castro, A.J., Schill, C., Daume, S., **Metzler, H.**, Peters, H., Bard, J., Ersin, E. H. (under review). Artificial intelligence, emotions and environmental sustainability.
+1. Lühring, J.\*, Shetty, A.\*, Koschmieder, C., Garcia, D., Waldherr, A., & **Metzler, H.** (2023). Emotions in misinformation studies: Distinguishing affective state from emotional response and misinformation recognition from acceptance. _PsyArXiv_. [https://doi.org/10.31234/osf.io/udqms](https://psyarxiv.com/udqms/). [Data, Code, Pre-registration & SI](https://osf.io/tgzxr/).
+2. Garcia, D., Pellert, M., Lasser, J., & **Metzler, H.** (2021). Social media emotion macroscopes reflect emotional experiences in society at large.  *ArXiv:2107.13236* [Cs]. [http://arxiv.org/abs/2107.13236]( http://arxiv.org/abs/2107.13236).
+3. Galaz, V., Marklund, A., Galafassi, D., Lindahl, T., Castro, A.J., Schill, C., Daume, S., **Metzler, H.**, Peters, H., Bard, J., Ersin, E. H. (under review). Artificial intelligence, emotions and environmental sustainability.
 
 ___
 
 ## Journal articles
 
-1) **Metzler, H.**, Baginski, H., Garcia, D., & Niederkrotenthaler, T. (in press). A machine learning approach to detect potentially harmful and protective suicide-related content in broadcast media. PlosOne.
-2) Niederkrotenthaler, T., **Metzler, H.**, Z., Till, B., Lake, A. H., Noble, E., Chowdhury, S., Gonzalez, F., Garcia, D., Draper, J., Murphy, S., & Gould, M. (2024). [“Breaking the Silence” Suicide Prevention Media Campaign in Oregon, April 7–14, 2019: Content Analysis of Broadcast, Print and Online Media Items, and Social Media Footprint.](https://doi.org/10.1027/0227-5910/a000955) *Crisis*, 0227-5910/a000955. https://doi.org/10.1027/0227-5910/a000955
-3) Aroyehun, S.T., Malik, L., **Metzler, H.**, Haimerl, N., Di Natale, A., & Garcia, D. (2023) [LEIA: Linguistic Embeddings for the Identification of Affect](https://doi.org/10.1140/epjds/s13688-023-00427-0). EPJ Data Science, 12, 52. https://doi.org/10.1140/epjds/s13688-023-00427-0
+1. **Metzler, H.**, Baginski, H., Garcia, D., & Niederkrotenthaler, T. (in press). A machine learning approach to detect potentially harmful and protective suicide-related content in broadcast media. PlosOne.
+2. Niederkrotenthaler, T., **Metzler, H.**, Z., Till, B., Lake, A. H., Noble, E., Chowdhury, S., Gonzalez, F., Garcia, D., Draper, J., Murphy, S., & Gould, M. (2024). [“Breaking the Silence” Suicide Prevention Media Campaign in Oregon, April 7–14, 2019: Content Analysis of Broadcast, Print and Online Media Items, and Social Media Footprint.](https://doi.org/10.1027/0227-5910/a000955) *Crisis*, 0227-5910/a000955. https://doi.org/10.1027/0227-5910/a000955
+3. Aroyehun, S.T., Malik, L., **Metzler, H.**, Haimerl, N., Di Natale, A., & Garcia, D. (2023) [LEIA: Linguistic Embeddings for the Identification of Affect](https://doi.org/10.1140/epjds/s13688-023-00427-0). EPJ Data Science, 12, 52. https://doi.org/10.1140/epjds/s13688-023-00427-0
 * **Metzler, H.**, & Garcia, D. (2023). [Social drivers and algorithmic mechanisms on digital media.](https://doi.org/10.1177/17456916231185057) _Perspectives on Psychological Science 0_(0). https://doi.org/10.1177/17456916231185057.
 * **Metzler, H.**, Vilarem, E., Petschen, A., & Grèzes, J. (2023). [Power pose effects on approach and avoidance decisions in response to social threat](https://doi.org/10.1371/journal.pone.0286904), *PLoSONE, 18*(8): e0286904, https://doi.org/10.1371/journal.pone.0286904. [Data & Code](https://osf.io/q8s3w).
 * Pontika, N., Klebel, T., Correia, A., **Metzler, H.**, Knoth, P., & Ross-Hellauer, T. (2022). [Indicators of research quality, quantity, openness and responsibility in institutional review, promotion and tenure policies across seven countries](https://doi.org/10.1162/qss_a_00224). *Quantitative Science Studies*, 1–49. https://doi.org/10.1162/qss_a_00224
