@@ -16,6 +16,8 @@ title: Media Reactions
 
 ## Other Examples
 
+* 2024-04: [ORF 1 documentary Dok 1](https://tv.orf.at/dok-1/index.html) “Everyone against Everyone: Austria goes berserk”, Interview on social media effects on hate speech
+* 2024-04: [DerStandard Podcast Edition Zukunft](https://www.derstandard.at/zukunft/podcast) on social media and climate change
 * 2024-03-24: Raus aus der Blase. Women Balance. 
 * 2023-07-26 on Science APA [Expertin sieht in Social Media keinen "Klima-Killer"](https://science.apa.at/power-search/12856578295990689252). Featured for example on:
     - [DerStandard](https://www.derstandard.de/story/3000000180511/expertin-sieht-in-social-media-keinen-klima-killer)
