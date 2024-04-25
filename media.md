@@ -8,23 +8,23 @@ title: Media Reactions
 
 ## Highlights
 
+* 2024-05-29: [Upcoming ORF 1 documentary Dok 1](https://tv.orf.at/dok-1/index.html) “Everyone against Everyone: Austria goes berserk” \["Jeder gegen Jeden? Österreich rastet au"\], Interview on social media effects on hate speech
+* 2024-05-02: [Upcoming DerStandard Podcast Edition Zukunft](https://www.derstandard.at/zukunft/podcast) on social media and climate change
 * 2023-03-22 in Falter: [Sturm statt Elfenbeinturm](https://www.falter.at/zeitung/20230322/sturm-statt-elfenbeinturm) - Zu viele Publikationen, zu wenige Stellen: Die Arbeitsbedingungen in der Wissenschaft sind schwierig. Gibt es Alternativen?
-* 2023-04-29 in Kurier: [Wir sind nicht so einfach zu manipulieren](https://kurier.at/wien-wills-wissen/wir-sind-nicht-so-einfach-zu-manipulieren/402428147) - Fake News: Hannah Metzler untersucht, wie Emotionen die Verbreitung von Falschinformationen beeinflussen.
-* 2022-12-14 on Science APA: [Tweets zu Suizidprävention können Suizide verhindern](https://science.apa.at/power-search/14529582810589354089).
 
 ---
 
 ## Other Examples
 
-* 2024-04: [ORF 1 documentary Dok 1](https://tv.orf.at/dok-1/index.html) “Everyone against Everyone: Austria goes berserk”, Interview on social media effects on hate speech
-* 2024-04: [DerStandard Podcast Edition Zukunft](https://www.derstandard.at/zukunft/podcast) on social media and climate change
+
 * 2024-03-24: Raus aus der Blase. Women Balance. 
 * 2023-07-26 on Science APA [Expertin sieht in Social Media keinen "Klima-Killer"](https://science.apa.at/power-search/12856578295990689252). Featured for example on:
     - [DerStandard](https://www.derstandard.de/story/3000000180511/expertin-sieht-in-social-media-keinen-klima-killer)
     - [Science.ORF](https://science.orf.at/stories/3220488/)
     - [FM4 news](https://rtv.defacto.at/?param=VF5ScoFA8ClZB77pQK8jHiIHAALxyQ2MGMQm2sXwWzOB5HZiOdjYmYzfUeXVDJVR6g1yi4NaUT3WVs7FjCdSK9twfxN0oqo%3D)
     - [Blogpost](https://steadyhq.com/de/mimikama/posts/7b0cb1c0-033d-4bfb-a15d-08c47d002ffa) by Mimikama
-* 2022-12-14 on Science APA: [Tweets zu Suizidprävention können Suizide verhindern](https://science.apa.at/power-search/14529582810589354089). Featured for example on:
+* 2023-04-29 in Kurier: [Wir sind nicht so einfach zu manipulieren](https://kurier.at/wien-wills-wissen/wir-sind-nicht-so-einfach-zu-manipulieren/402428147) - Fake News
+    * 2022-12-14 on Science APA: [Tweets zu Suizidprävention können Suizide verhindern](https://science.apa.at/power-search/14529582810589354089). Featured for example on:
     - [Alphagalileo](https://www.alphagalileo.org/en-gb/Item-Display?ItemId=228622)
     - [DerStandard](https://www.derstandard.at/story/2000141789752/praevention-auf-twitter-kann-suizide-verhindern)
     - [Die Presse](https://www.diepresse.com/6227205/wie-praevention-auf-twitter-suizide-verhindern-kann)
