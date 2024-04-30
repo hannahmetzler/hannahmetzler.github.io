@@ -8,7 +8,8 @@ title: Talks
 
 ## Upcoming talks
 
-- Metzler H., 8/5/2024, Social Media sind (k)ein Klimakiller. Webinar von [klimaaktiv](https://www.klimaaktiv.at/bildung/klimadialog/webinare.html) (Initiative des Bundesministeriums für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie)
+- Metzler H., 8/5/2024, 10h-11h30, [Social Media sind (k)ein Klimakiller](https://www.klimaaktiv.at/service/veranstaltungen/Allgemein/webinar-social-media.html). Webinar bei [klimaaktiv](https://www.klimaaktiv.at/bildung/klimadialog/webinare.html) (Initiative des Bundesministeriums für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie), Recording will be available [here](https://www.klimaaktiv.at/bildung/klimadialog/webinare.html).
+- Metzler H. 16/5/2024, Emotional Misinformation Spreading. Short talk at the Vienna Behavioral Circle Meeting (17h-18h30) at the Complexity Science Hub, Vienna. 
 
 ## Recorded talks
 
