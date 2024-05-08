@@ -8,7 +8,7 @@ title: Talks
 
 ## Upcoming talks
 
-- Metzler H., 8/5/2024, 10h-11h30, [Social Media sind (k)ein Klimakiller](https://www.klimaaktiv.at/service/veranstaltungen/Allgemein/webinar-social-media.html). Webinar bei [klimaaktiv](https://www.klimaaktiv.at/bildung/klimadialog/webinare.html) (Initiative des Bundesministeriums für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie), Recording will be available [here](https://www.klimaaktiv.at/bildung/klimadialog/webinare.html).
+
 - Metzler H. 16/5/2024, Emotional Misinformation Spreading. Short talk at the Vienna Behavioral Circle Meeting (17h-18h30) at the Complexity Science Hub, Vienna. 
 
 ## Recorded talks
@@ -27,6 +27,7 @@ ___
 
 ## Slides
 
+* [Social Media sind (k)ein Klimakiller](https://hannahmetzler.eu/klimaaktiv/). Der Einfluss von Algorithmen, Echokammern und KI auf den digitalen Diskurs und was zu tun ist.
 * [Emotional misinformation spreading project summary 2024](www.hannahmetzler.eu/emomis_update_2024)
 * [Emotions in misinformation studies: Distinguishing emotional state from response & misinformation recognition from susceptibility](https://hannahmetzler.eu/measuring_emo_misinfo)
 * [Research summary October 2023](https://hannahmetzler.eu/HMResearchSummary/)
@@ -37,6 +38,7 @@ ___
 
 ## Public presentations & panel discussions
 
+- **8/5/2024** [Social Media sind (k)ein Klimakiller](https://www.klimaaktiv.at/service/veranstaltungen/Allgemein/webinar-social-media.html). Webinar bei [klimaaktiv](https://www.klimaaktiv.at/bildung/klimadialog/webinare.html) (Initiative des Bundesministeriums für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie), [Recording](https://www.klimaaktiv.at/bildung/klimadialog/webinare.html). [Folien.](https://hannahmetzler.eu/klimaaktiv/)
 * **12/03/2024** [_Der EU Digital Services Act: Chancen für den Forschungsstandort Wien_](https://wwtf.at/veranstaltung-der-eu-digital-services-act-chancen-fuer-den-forschungsstandort-wien/), panelist on the relevance of the DSA for research,  [event](https://www.linkedin.com/events/7158804834106671105/comments/) organized by MA23 and WWTF, at waff Vienna.
 * **13/07/2023** [_Beyond Surviving: a Panel on Mental Well-Being in Academia._](https://sites.google.com/view/netplace/panelsnetsci2023/2nd-day) Panel discussion organized by NetPlace at [Netsci 2023](https://netsci2023.wixsite.com/netsci2023), Vienna. 
 * **20/10/2022** _Digital Humanism in Practice: are complex systems compatible with democratic processes?_ [Digitaler Humanismus in der Praxis: sind komplexe Systeme vereinbar mit demokratischen Prozessen?], panel discussion at the [Digital Days](https://community.digitalcity.wien), Impact Hub, Vienna. 
