@@ -8,8 +8,9 @@ title: Talks
 
 ## Upcoming talks
 
+- Metzler H. 16/5/2024, Emotional Misinformation Spreading. Short talk at the Vienna Behavioral Circle Meeting (17h-18h30) at the Complexity Science Hub, Vienna.
 
-- Metzler H. 16/5/2024, Emotional Misinformation Spreading. Short talk at the Vienna Behavioral Circle Meeting (17h-18h30) at the Complexity Science Hub, Vienna. 
+---
 
 ## Recorded talks
 
