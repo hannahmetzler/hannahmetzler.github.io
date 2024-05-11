@@ -39,5 +39,5 @@ title: Media Reactions
 * 2020-03-20 on Science APA: **Coronavirus: Twitter spiegelt Ängste und Sorgen der Menschen wider.** Featured for example on:
     * [DerStandard](https://www.derstandard.at/story/2000115973796/coronavirus-twitter-spiegelt-aengste-und-sorgen-der-menschen-wider)
     * [Kronen Zeitung](https://www.krone.at/2120986)
-* 2020-06-17 video on Facebook on Complexity Science [Alexander Van der Bellen's Besuch im Comlexity Science Hub Vienna](https://www.facebook.com/alexandervanderbellen/videos/besuch-im-complexity-science-hub-vienna)
+* 2020-06-17 video on Facebook on Complexity Science [Alexander Van der Bellen's Besuch im Comlexity Science Hub Vienna](https://www.facebook.com/watch/?v=731750567653204)
 
