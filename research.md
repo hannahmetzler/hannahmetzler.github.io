@@ -12,9 +12,9 @@ ___
 How do social motivations and emotions influence the spreading of misinformation? Could online interventions that consider these psychological mechanisms help reduce belief in and sharing of misinformation?
 
 - [Podcast interview](https://www.derstandard.at/story/3000000218043/wahrheit-gegen-luege-die-psychologie-hinter-fake-news) (German)
-- [More on this project](/emomis.md)
 - [Slides](https://hannahmetzler.eu/emomis_update_2024) on our results 
-- First [Pre-print](https://osf.io/udqms) & [slides](http://hannahmetzler.eu/measuring_emo_misinfo). 
+- First [Pre-print](https://osf.io/udqms) & [slides](http://hannahmetzler.eu/measuring_emo_misinfo).
+- [More on this project](/emomis.md)
 
 ___
 
@@ -25,7 +25,7 @@ Using social media to measure emotions and mental health in societies at large
 
 - Recorded talks @[Wellbeing Research Seminar Series 2021](https://www.youtube.com/watch?v=d953J1vcH4s) or [DIGSUM seminar 2021](https://www.youtube.com/watch?v=CLC4ga-H1r0)
 - Papers: [Emotions during COVID-19](https://osf.io/736kc/), [Validating daily emotion macroscopes in Austria](https://www.nature.com/articles/s41598-022-14579-y), [Validating weekly emotion macroscopes in the UK](http://arxiv.org/abs/2107.13236)
-- [Interactive visualization of COVID-19 emotions in 18 countries](http://hannahmetzler.eu/posts/COVID19-Emotions.html)
+- [Interactive visualization of COVID-19 emotions in 18 countries](http://hannahmetzler.eu/COVID19-Emotions.html)
 
 ___
 
