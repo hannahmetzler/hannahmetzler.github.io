@@ -11,9 +11,10 @@ ___
 
 How do social motivations and emotions influence the spreading of misinformation? Could online interventions that consider these psychological mechanisms help reduce belief in and sharing of misinformation?
 
+- [Podcast interview](https://www.derstandard.at/story/3000000218043/wahrheit-gegen-luege-die-psychologie-hinter-fake-news) (German)
 - [More on this project](/emomis.md)
 - [Slides](https://hannahmetzler.eu/emomis_update_2024) on our results 
-- First [Pre-print] & [slides](http://hannahmetzler.eu/measuring_emo_misinfo). 
+- First [Pre-print](https://osf.io/udqms) & [slides](http://hannahmetzler.eu/measuring_emo_misinfo). 
 
 ___
 

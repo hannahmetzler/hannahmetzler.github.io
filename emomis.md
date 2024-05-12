@@ -8,13 +8,23 @@ ___
 
 ## Project News
 
+* [Podcast](https://www.derstandard.at/story/3000000218043/wahrheit-gegen-luege-die-psychologie-hinter-fake-news) by Hannah at DerStandard on social media, emotions, misinformation & climate change
 * A very nice [update and description](https://publizistik.univie.ac.at/aktuelles/aktuelle-meldungen/news-einzelansicht/news/forschungsprojekte-am-institut-emomis-fehlinformationen-und-emotionen-auf-social-media/) about the part of the project carried out by our team at Uni Vienna. 
 * Hannah describes our research and how it is relevant to society in this short [video from the Digital Humanism series](https://www.youtube.com/watch?v=xpiiOqwGQa8).
-* Check our short chapter on [Emotions and group dynamics around misinformation on social media](https://www.stockholmresilience.org/news--events/climate-misinformation/chapter-4-emotions-and-group-dynamics-around-misinformation-on-social-media.html) in a synthesis report on climate misinformation. It got covered in the news about climate misinformation in Austria, for example at [APA](https://science.apa.at/power-search/12856578295990689252), [DerStandard](https://www.derstandard.de/story/3000000180511/expertin-sieht-in-social-media-keinen-klima-killer), [Science.ORF](https://science.orf.at/stories/3220488/), [FM4 news](https://rtv.defacto.at/?param=VF5ScoFA8ClZB77pQK8jHiIHAALxyQ2MGMQm2sXwWzOB5HZiOdjYmYzfUeXVDJVR6g1yi4NaUT3WVs7FjCdSK9twfxN0oqo%3D) or in a [blogpost](https://steadyhq.com/de/mimikama/posts/7b0cb1c0-033d-4bfb-a15d-08c47d002ffa) by Mimikama.
-* Our perspective on emotions and misinformation in the news:
-     * This [article at Kurier](https://kurier.at/wien-wills-wissen/wir-sind-nicht-so-einfach-zu-manipulieren/402428147) explains the nuanced role of emotions around misinformation.
-     * This [article at APA](https://science.apa.at/power-search/12856578295990689252) argues for a nuanced perspective on the role of social media.
+* Check our short chapter on [Emotions and group dynamics around misinformation on social media](https://www.stockholmresilience.org/news--events/climate-misinformation/chapter-4-emotions-and-group-dynamics-around-misinformation-on-social-media.html) in a synthesis report on climate misinformation.
 * We have our first pre-print out! Check out our [Twitter thread](https://twitter.com/hannahmetzler1/status/1643978293455241217) about it, or read the [full version](https://doi.org/10.31234/osf.io/udqms).
+
+## Our project in the media
+
+* Social media and debates about climate change
+ - [APA](https://science.apa.at/power-search/12856578295990689252)
+ - [DerStandard](https://www.derstandard.de/story/3000000180511/expertin-sieht-in-social-media-keinen-klima-killer)
+ - [Science.ORF](https://science.orf.at/stories/3220488/)
+ - [FM4 news](https://rtv.defacto.at/?param=VF5ScoFA8ClZB77pQK8jHiIHAALxyQ2MGMQm2sXwWzOB5HZiOdjYmYzfUeXVDJVR6g1yi4NaUT3WVs7FjCdSK9twfxN0oqo%3D) or in a
+ - [blogpost](https://steadyhq.com/de/mimikama/posts/7b0cb1c0-033d-4bfb-a15d-08c47d002ffa) by Mimikama.
+* This [article at Kurier](https://kurier.at/wien-wills-wissen/wir-sind-nicht-so-einfach-zu-manipulieren/402428147) explains the nuanced role of emotions around misinformation.
+* This [article at APA](https://science.apa.at/power-search/12856578295990689252) argues for a nuanced perspective on the role of social media.
+
 
 ## Project Team
 
@@ -74,6 +84,7 @@ ___
 * **Metzler, H.** (14 January 2022). _Emotional misinformation spreading: The interplay of emotions and misinformation on social media_, [Conference on Intelligent Machines, Emotions](https://hopin.com/events/intelligentmachinesemotionsourplanet#schedule), and the Planet, Stockholm. **[Slides](https://hannahmetzler.eu/emomis_stockholm)**.
 * **Shetty, A.**, & Hannah Metzler (27 June 2022). Reducing belief in misinformation: Targeting emotional and social influences. [Pre-data poster](https://osf.io/z3x98). Society for the Improvement of Psychological Science, 7th Annual Conference.
 * __Lühring, J.\*, Shetty, A.\*__, Koschmieder, C., Garcia, D., Waldherr, A., & Metzler, H. (11 October 2022). Measuring emotions in misinformation studies: A replication and extension of Martel et al. (2020). [Accepted paper & presentation]. [ECREA Early Career Scholars Workshop in Political Communication: “Advancing Concepts and Methods in Political Communication.”](https://ecrea.eu/event-4795610) *Equal contributions.
+
 
 ### Outreach
 
