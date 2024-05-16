@@ -90,9 +90,11 @@ ___
 
 ### Outreach
 
-* Hannah gave a presentation with the title "[Social Media sind (k)ein Klimakiller](https://www.klimaaktiv.at/service/veranstaltungen/Allgemein/webinar-social-media.html)". Webinar bei [klimaaktiv](https://www.klimaaktiv.at/bildung/klimadialog/webinare.html)
-* [Podcast](https://www.derstandard.at/story/3000000218043/wahrheit-gegen-luege-die-psychologie-hinter-fake-news) by Hannah at DerStandard on social media, emotions, misinformation & climate change
-* [Update](https://publizistik.univie.ac.at/aktuelles/aktuelle-meldungen/news-einzelansicht/news/forschungsprojekte-am-institut-emomis-fehlinformationen-und-emotionen-auf-social-media/) about research in our project at Uni Vienna.
+* 2024-05-29: [Upcoming ORF 1 documentary Dok 1](https://tv.orf.at/dok-1/index.html): "Jeder gegen Jeden? Österreich rastet aus" \[“Everyone against Everyone: Austria goes berserk”\], social media effects on hate speech
+* 2024-05-08: [Social Media sind (k)ein Klimakiller](https://www.klimaaktiv.at/service/veranstaltungen/Allgemein/webinar-social-media.html). Webinar bei [klimaaktiv](https://www.klimaaktiv.at/bildung/klimadialog/webinare.html) (Initiative des Bundesministeriums für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie), [Recording](https://www.klimaaktiv.at/bildung/klimadialog/webinare.html). [Folien.](https://hannahmetzler.eu/klimaaktiv/)
+* 2024-05-03: DerStandard Podcast: Edition Zukunft Klimafragen, [Wahrheit gegen Lüge: Die Psychologie hinter Fake News](https://www.derstandard.at/story/3000000218043/wahrheit-gegen-luege-die-psychologie-hinter-fake-news). Podcast on Misinformation, social media & climate change.
+* **12/03/2024** [_Der EU Digital Services Act: Chancen für den Forschungsstandort Wien_](https://wwtf.at/veranstaltung-der-eu-digital-services-act-chancen-fuer-den-forschungsstandort-wien/), panelist on the relevance of the DSA for research,  [event](https://www.linkedin.com/events/7158804834106671105/comments/) organized by MA23 and WWTF, at waff Vienna.
+* [Update and description](https://publizistik.univie.ac.at/aktuelles/aktuelle-meldungen/news-einzelansicht/news/forschungsprojekte-am-institut-emomis-fehlinformationen-und-emotionen-auf-social-media/) about the research in our project at Uni Vienna.
 * [Video](https://www.youtube.com/watch?v=xpiiOqwGQa8) on our research and its relevance in the Digital Humanism series
 * **Metzler, H.** (20 April 2022)._Digital Humanism - How to Put Humans at the Center of Emerging Tech_, Panel discussion, Wilson Center. [Video](https://www.wilsoncenter.org/event/digital-humanism-how-put-humans-center-emerging-tech) including a brief introduction to the Emotion & Misinformation project (at 29 minutes).
 * **Metzler, H.**(18 November 2021). _Emotional Misinformation: The interplay of emotions and misinformation spreading on social media_, Vienna Art Week, Session on [„Regaining Control. Der Mensch im Zentrum der technologischen Entwicklung“](https://www.viennaartweek.at/de/program/losing-control-line-up/). **[Slides](https://hannahmetzler.eu/viennaartweek/)**.
@@ -115,7 +117,7 @@ ___
 
 ## Internships
 
-* March-July 2024: Gabija Auilute
+* March-July 2024: Gabija Aurylaite from University of Vienna runs our first large social identity intervention. 
 * June-August 2023: Ruggero Lazzaroni from RWTH Aachen did a summer research internship at the CSH, funded by an Erasmus scholraship, to investigate the validity of the NewsGuard news reliability ratings
 * Since September 2023: Adam Urosevic joined us for an internship with Jula Lühring on reconstructing the Austrian Twitter network around political news, in relation to the reliability of news shared.  
 
