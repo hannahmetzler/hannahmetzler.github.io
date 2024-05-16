@@ -9,7 +9,7 @@ ___
 ## Project News
 
 * Jula presented her [research on emotions in online discussions](https://julaluehring.github.io/emo_discussions_comptext) at COMPTEXT Amsterdam
-* Hannah gave a presentation with the title "[Social Media sind (k)ein Klimakiller](https://www.klimaaktiv.at/service/veranstaltungen/Allgemein/webinar-social-media.html)". Webinar bei [klimaaktiv](https://www.klimaaktiv.at/bildung/klimadialog/webinare.html)
+* Hannah gave a Webinar at [klimaaktiv](https://www.klimaaktiv.at/bildung/klimadialog/webinare.html) with the title "[Social Media sind (k)ein Klimakiller](https://www.klimaaktiv.at/service/veranstaltungen/Allgemein/webinar-social-media.html)".
 * [Podcast](https://www.derstandard.at/story/3000000218043/wahrheit-gegen-luege-die-psychologie-hinter-fake-news) by Hannah at DerStandard on social media, emotions, misinformation & climate change
 * [Update](https://publizistik.univie.ac.at/aktuelles/aktuelle-meldungen/news-einzelansicht/news/forschungsprojekte-am-institut-emomis-fehlinformationen-und-emotionen-auf-social-media/) about research on our project at Uni Vienna.
 * [Video](https://www.youtube.com/watch?v=xpiiOqwGQa8) on our research and its relevance in the Digital Humanism series
