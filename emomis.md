@@ -52,23 +52,21 @@ ___
 
 ## About the project
 
-In November 2021, we started the project *Emotional Misinformation – The Interplay of Emotion and Misinformation Spreading on Social Media* (EMOMIS). It is funded by the Vienna Science and Technology Fund ([WWTF](https://wwtf.at/funding/programmes/ict/ICT20-028/)) for a period of three years and 4 months.
+In November 2021, we started the project *Emotional Misinformation – The Interplay of Emotion and Misinformation Spreading on Social Media* (EMOMIS). It is funded by the Vienna Science and Technology Fund ([WWTF](https://wwtf.at/funding/programmes/ict/ICT20-028/)) for a period of three years and 4 months. What we do in 5 bullet points: 
 
-The spreading of misinformation via social media contributes to a global threat to trust in science and democratic institutions, with consequences for public health and societal conflicts. Emotions influence how we process information, suggesting a link between certain emotional states and misinformation spreading – especially in times of high uncertainty. The project aims at understanding how emotions influence the tendency to believe and share inaccurate content, and to test intervention strategies to mitigate emotional misinformation spreading. Using digital data traces, the research team will analyze patterns of emotional misinformation spreading on social media and use experimental studies  testing the potential of individual emotion regulation interventions to reduce misinformation sharing. Finally, we will integrate results from social media analysis and experimental studies in an agent-based model to identify the most promising interventions to reduce misinformation spreading in social networks, and to simulate how algorithmic filters for emotional information affect the spreading of misinformation.
+* We have investigated how emotional state influences discernment between true and false news, and which emotions such news trigger, and what their function in the processing of misinformation is. 
+* We investigate the large-scale interplay of emotions around news of different trustworthiness on Twitter from 2020 to 2023. 
+* We evaluate ways of measuring misinformation in social media data. 
+* We develop novel interventions that consider the social identities our believes and emotions around them are linked to.
+* We simulate the dynamics of emotions around news, and the potential effect of algorithmic interventions on misinformation spreading using Agent Based Modelling.
 
-**For more**: 
+For more: 
+
+* [Summary](https://hannahmetzler.eu/emomis_update_2024) of project results in April 2024
 * [Slides](https://hannahmetzler.eu/measuring_emo_misinfo) of our first online study on how emotions and fake news recognition are related. 
 * [Slides](https://hannahmetzler.eu/emomis_stockholm) of a talk at the Conference on Intelligent Machines, Emotions and the Planet
 * [Video](https://www.wilsoncenter.org/event/digital-humanism-how-put-humans-center-emerging-tech) of a panel discussion, including a brief introduction to EMOMIS, starting at at 29 minutes into the video. 
-
-___
-
-
-**German Summary - Zusammenfassung**
-
-Die Verbreitung von falschen Information, z.B. über soziale Medien, bedroht das Vertrauen in die Wissenschaft und die Demokratie. Die COVID-19 Pandemie hat gezeigt, dass Fehlinformation durch diesen Vertrauensverlust die Gesundheit der Bevölkerung verschlechtern kann. Der Sturm auf das US-Kapitol während der letzten US-Präsidenten Wahl zeigt, dass Fehlinformation auch gesellschaftliche Konflikte schüren kann. In diesem Projekt analysieren wir, wie sich Gefühle auf die Verbreitung von Fehlinformation auswirken. Gefühle bestimmen mit, wie wir wahrnehmen und denken. Dies zeigt sich vor allem in Zeiten großer Unsicherheit, wie der COVID-19 Pandemie. Wir untersuchen, ob Gefühle wie Angst und Wut uns anfälliger dafür machen, falsche Informationen zu glauben und weiter zu teilen. Wir analysieren dafür zuerst, wie sich falsche Informationen auf sozialen Medien wie Twitter verbreiten. Dann testen wir in Online-Experimenten, ob psychologische Strategien zur Emotionsregulation die Verbreitung von solchen Informationen eindämmen können. Schlussendlich entwickeln wir ein Computermodell, mit dem wir simulieren, welche dieser Strategien in sozialen Netzwerken am besten funktionieren könnte. Dabei  simulieren wir auch, wie die Algorithmen der sozialen Plattformen, die emotionale Nachrichten bevorzugen, die Verbreitung von falschen Informationen verstärken. Unser Projekt möchte einen Beitrag dazu leisten, neue Kommunikationstechnologien so anzupassen, dass sie der menschlichen Art und Weise zu Denken und zu Handeln entsprechen.
-
-* Eine Übersicht zu unserem Projekt auf deutsch, inklusive Literaturempfehlungen, finden Sie [hier](https://hannahmetzler.eu/viennaartweek/). 
+* Eine Übersicht zu unserem Projekt auf deutsch, mit vielen anderen spannenden Forschungsergebnissen gibt es [hier](https://hannahmetzler.eu/klimaaktiv). 
 
 ___
 
