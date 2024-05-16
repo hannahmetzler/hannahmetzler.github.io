@@ -75,8 +75,9 @@ ___
 
 ## Project talks
 
-### Conference talks
+### Conference and seminar talks
 
+* **Lühring, J.** (14 May 2024) [_Misinformation in den sozialen Medien_](https://julaluehring.github.io/misinformation_in_den_sozialen_medien/), guest lecture. 
 * **Shetty, A.** (16 May 2024) _Emotional Dynamics and Algorithmic Interventions: Curbing Misinformation Among Political Elites on Twitter_, University of Konstanz.
 * **Lühring, J.** (4 May 2024) [_Effects of Misinformation on Emotions in Online Discussions_](https://julaluehring.github.io/emo_discussions_comptext/#/title-slide), COMPTEXT, Amsterdam. 
 * **Shetty, A.** (21-22 November 2023) _Emotions in misinformation studies: Distinguishing affective state from emotional response and misinformation recognition from acceptance_, [5th Symposium on Multidisciplinary International Symposium on Disinformation in Open Online Media](https://event.cwi.nl/misdoom-2023/), Amsterdam. 
@@ -91,11 +92,11 @@ ___
 ### Outreach
 
 * 2024-05-29: [Upcoming ORF 1 documentary Dok 1](https://tv.orf.at/dok-1/index.html): "Jeder gegen Jeden? Österreich rastet aus" \[“Everyone against Everyone: Austria goes berserk”\], social media effects on hate speech
-* 2024-05-08: [Social Media sind (k)ein Klimakiller](https://www.klimaaktiv.at/service/veranstaltungen/Allgemein/webinar-social-media.html). Webinar bei [klimaaktiv](https://www.klimaaktiv.at/bildung/klimadialog/webinare.html) (Initiative des Bundesministeriums für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie), [Recording](https://www.klimaaktiv.at/bildung/klimadialog/webinare.html). [Folien.](https://hannahmetzler.eu/klimaaktiv/)
-* 2024-05-03: DerStandard Podcast: Edition Zukunft Klimafragen, [Wahrheit gegen Lüge: Die Psychologie hinter Fake News](https://www.derstandard.at/story/3000000218043/wahrheit-gegen-luege-die-psychologie-hinter-fake-news). Podcast on Misinformation, social media & climate change.
-* **12/03/2024** [_Der EU Digital Services Act: Chancen für den Forschungsstandort Wien_](https://wwtf.at/veranstaltung-der-eu-digital-services-act-chancen-fuer-den-forschungsstandort-wien/), panelist on the relevance of the DSA for research,  [event](https://www.linkedin.com/events/7158804834106671105/comments/) organized by MA23 and WWTF, at waff Vienna.
-* [Update and description](https://publizistik.univie.ac.at/aktuelles/aktuelle-meldungen/news-einzelansicht/news/forschungsprojekte-am-institut-emomis-fehlinformationen-und-emotionen-auf-social-media/) about the research in our project at Uni Vienna.
-* [Video](https://www.youtube.com/watch?v=xpiiOqwGQa8) on our research and its relevance in the Digital Humanism series
+* **Metzler, H.** (6 May 2024). [Social Media sind (k)ein Klimakiller](https://www.klimaaktiv.at/service/veranstaltungen/Allgemein/webinar-social-media.html). Webinar bei [klimaaktiv](https://www.klimaaktiv.at/bildung/klimadialog/webinare.html) (Initiative des Bundesministeriums für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie), [Recording](https://www.klimaaktiv.at/bildung/klimadialog/webinare.html). [Folien.](https://hannahmetzler.eu/klimaaktiv/)
+* **Metzler, H.** (3 May 2024). [Wahrheit gegen Lüge: Die Psychologie hinter Fake News](https://www.derstandard.at/story/3000000218043/wahrheit-gegen-luege-die-psychologie-hinter-fake-news). DerStandard Podcast Edition Zukunft Klimafragen.
+* **Metzler, H.** (12 March 2024). [_Der EU Digital Services Act: Chancen für den Forschungsstandort Wien_](https://wwtf.at/veranstaltung-der-eu-digital-services-act-chancen-fuer-den-forschungsstandort-wien/), panelist on the relevance of the DSA for research,  [event](https://www.linkedin.com/events/7158804834106671105/comments/) organized by MA23 and WWTF, at waff Vienna.
+* Arndt, A., Lühring, J. & Waldherr, A. (17 November 2023). [Forschungsprojekte am Institut: EMOMIS – Fehlinformationen und Emotionen auf Social Media](https://publizistik.univie.ac.at/aktuelles/aktuelle-meldungen/news-einzelansicht/news/forschungsprojekte-am-institut-emomis-fehlinformationen-und-emotionen-auf-social-media/), Blog post, University of Vienna. 
+* **Metzler, H.** (27 September 2023). [Science communication video](https://www.youtube.com/watch?v=xpiiOqwGQa8) on our research and its relevance in the Digital Humanism series, Complexity Science Hub Vienna. 
 * **Metzler, H.** (20 April 2022)._Digital Humanism - How to Put Humans at the Center of Emerging Tech_, Panel discussion, Wilson Center. [Video](https://www.wilsoncenter.org/event/digital-humanism-how-put-humans-center-emerging-tech) including a brief introduction to the Emotion & Misinformation project (at 29 minutes).
 * **Metzler, H.**(18 November 2021). _Emotional Misinformation: The interplay of emotions and misinformation spreading on social media_, Vienna Art Week, Session on [„Regaining Control. Der Mensch im Zentrum der technologischen Entwicklung“](https://www.viennaartweek.at/de/program/losing-control-line-up/). **[Slides](https://hannahmetzler.eu/viennaartweek/)**.
 
