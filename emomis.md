@@ -77,7 +77,7 @@ ___
 
 ### Conference and seminar talks
 
-* **Lühring, J.** (14 May 2024) [_Misinformation in den sozialen Medien_](https://julaluehring.github.io/misinformation_in_den_sozialen_medien/), guest lecture. 
+* **Lühring, J.** (14 May 2024) [_Misinformation in den sozialen Medien_](https://julaluehring.github.io/misinformation_in_den_sozialen_medien/), guest lecture, University of Vienna. 
 * **Shetty, A.** (16 May 2024) _Emotional Dynamics and Algorithmic Interventions: Curbing Misinformation Among Political Elites on Twitter_, University of Konstanz.
 * **Lühring, J.** (4 May 2024) [_Effects of Misinformation on Emotions in Online Discussions_](https://julaluehring.github.io/emo_discussions_comptext/#/title-slide), COMPTEXT, Amsterdam. 
 * **Shetty, A.** (21-22 November 2023) _Emotions in misinformation studies: Distinguishing affective state from emotional response and misinformation recognition from acceptance_, [5th Symposium on Multidisciplinary International Symposium on Disinformation in Open Online Media](https://event.cwi.nl/misdoom-2023/), Amsterdam. 
