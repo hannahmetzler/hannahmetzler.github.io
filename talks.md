@@ -8,7 +8,7 @@ title: Talks
 
 ## Upcoming talks
 
-- German Political Psychology Conference, Vienna. 
+- **19-20/09/2024** [German Political Psychology Conference](https://24hpolpsy.univie.ac.at/#:~:text=on%20September%2019th%20and,afternoon)%20and%2020%20September%202024.), Vienna. 
 
 ---
 
