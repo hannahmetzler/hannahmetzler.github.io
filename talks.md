@@ -28,7 +28,7 @@ ___
 
 ## Slides
 
-* [5 myths about social media](https://hannahmetzler.eu/misinfomyths)
+* [5 Myths about Misinformation](https://hannahmetzler.eu/misinfomyths)
 * [Social Media sind (k)ein Klimakiller](https://hannahmetzler.eu/klimaaktiv/). Der Einfluss von Algorithmen, Echokammern und KI auf den digitalen Diskurs und was zu tun ist.
 * [Emotional misinformation spreading project summary 2024](https://hannahmetzler.eu/emomis_update_2024)
 * [Emotions in misinformation studies: Distinguishing emotional state from response & misinformation recognition from susceptibility](https://hannahmetzler.eu/measuring_emo_misinfo)
