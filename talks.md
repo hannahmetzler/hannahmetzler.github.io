@@ -8,7 +8,7 @@ title: Talks
 
 ## Upcoming talks
 
-- Metzler H. 16/5/2024, Emotional Misinformation Spreading. Short talk at the Vienna Behavioral Circle Meeting (17h-18h30) at the Complexity Science Hub, Vienna.
+- German Political Psychology Conference, Vienna. 
 
 ---
 
@@ -55,6 +55,7 @@ ___
 
 ## Conference and seminar presentations
 
+* **16/05/2024**, [5 myths about social media: What I was wrong about when I wrote our grant proposal](https://hannahmetzler.eu/misinfomyths). Talk, Vienna Behavioral Circle Meeting, Complexity Science Hub, Vienna.
 * **13/07/2023** _Detecting Potentially Harmful and Protective Suicide-related Content on Twitter: A Machine Learning Approach._ [Netsci 2023](https://netsci2023.wixsite.com/netsci2023). Accepted lightening talk.
 * **23-25/02/2023** _Detecting Potentially Harmful and Protective Suicide-related Content on Twitter: A Machine Learning Approach_, [Annual convention of the Society of Personality and Social Psychology](https://spsp.org/). 
 * **09/02/2023** _Measuring emotions in misinformation studies: Distinguishing emotional state from response and misinformation recognition from susceptibility_, [Expert Workshop on Mis- and disinformation, Zürich](https://www.disinformation-project.com/activties), University of Zurich. [**Slides.**](http://hannahmetzler.eu/measuring_emo_misinfo)
