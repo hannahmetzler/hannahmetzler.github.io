@@ -8,7 +8,7 @@ title: Talks
 
 ## Upcoming talks
 
-- **19-20/09/2024** _Polarization and misinformation: Social drivers and algorithmic mechanisms on digital media_, [German Political Psychology Conference](https://24hpolpsy.univie.ac.at/#:~:text=on%20September%2019th%20and,afternoon)%20and%2020%20September%202024.), Vienna. 
+- **19-20/09/2024** _Polarization and misinformation: Social drivers and algorithmic mechanisms on digital media_, [German Political Psychology Conference](https://24hpolpsy.univie.ac.at), Vienna. 
 
 ---
 
