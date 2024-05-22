@@ -11,9 +11,12 @@ ___
 
 How do social motivations and emotions influence the spreading of misinformation? Could online interventions that consider these psychological mechanisms help reduce belief in and sharing of misinformation?
 
+- [Talk](https://hannahmetzler.eu/misinfomyths/#/five-myths-about-misinformation about 5 myths about misinformation
+- [Vortrag](https://hannahmetzler.eu/klimaaktiv/#/soziale-medien-sind-kein-klimakiller) über die Rolle von Social Media in gesellschaftlichen Debatten
 - [Podcast interview](https://www.derstandard.at/story/3000000218043/wahrheit-gegen-luege-die-psychologie-hinter-fake-news) (German)
 - [Slides](https://hannahmetzler.eu/emomis_update_2024) on our results 
-- First [Pre-print](https://osf.io/udqms) & [slides](http://hannahmetzler.eu/measuring_emo_misinfo).
+- Opinion piece on [Social interaction & algorithms on digital media](https://doi.org/10.1177/17456916231185057)
+- First [Pre-print](https://osf.io/udqms) & [slides](http://hannahmetzler.eu/measuring_emo_misinfo)
 - [More on this project](/emomis.md)
 
 ___
@@ -36,7 +39,9 @@ Which features of news media reporting and social media content contribute to su
 
 - [Detecting prevention-related tweets](https://www.jmir.org/2022/8/e34705/)
     * [Video summary](https://www.youtube.com/watch?v=UykKQYPM1Kw)
-- [Associations of tweets with suicide helpline calls and cases](https://doi.org/10.1177/00048674221126649)
+- [Associations of prevention-related tweets with suicide helpline calls and cases](https://doi.org/10.1177/00048674221126649)
+- [Classifying 10 different suicide-related characteristics in broadcast media](https://doi.org/10.1371/journal.pone.0300917)
+- [Evaluation of a suicide prevention media campaign](https://doi.org/10.1027/0227-5910/a000955)
 
 
 ___
@@ -45,6 +50,8 @@ ___
 # Open Science
 
 I helped launch the Horizon 2020 project [ON-MERRIT](https://on-merrit.eu/) on Matthew effects in academia, industry and policy, coordinating the activities of several research institutions as the project manager. Together with the ON-MERRIT team, I investigated how the open science movement could be shaped so that the scientific system actually becomes more equitable and participatory. 
+
+- [Institutional review, promotion and tenure policies](https://doi.org/10.1162/qss_a_00224)
 
 ___
 
