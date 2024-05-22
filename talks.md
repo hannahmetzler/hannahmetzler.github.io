@@ -14,6 +14,7 @@ title: Talks
 
 ## Recorded talks
 
+* [Social Media sind (k)ein Klimkaller.](https://www.klimaaktiv.at/bildung/klimadialog/webinare/social-media.html)
 * **Collective emotions during the COVID-19 Outbreak**
     - [Oxford Wellbeing Research Centre Seminar Series 2021](https://www.youtube.com/watch?v=d953J1vcH4s) (20 minutes)
     - [Spring 2021 DIGSUM seminar](https://www.youtube.com/watch?v=CLC4ga-H1r0) (40 minutes)
