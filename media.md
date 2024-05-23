@@ -9,7 +9,7 @@ title: Media Reactions
 ## Highlights
 
 1. 2024-05-29: [Upcoming ORF 1 documentary Dok 1](https://tv.orf.at/dok-1/index.html): "Jeder gegen Jeden? Österreich rastet aus" \[“Everyone against Everyone: Austria goes berserk”\], social media effects on hate speech
-2. 2024-05-03: DerStandard Podcast: Edition Zukunft Klimafragen, [Wahrheit gegen Lüge: Die Psychologie hinter Fake News](https://www.derstandard.at/story/3000000218043/wahrheit-gegen-luege-die-psychologie-hinter-fake-news). Podcast on Misinformation, social media & climate change.
+2. 2024-05-03: DerStandard Podcast and [Article](https://www.derstandard.at/story/3000000220181/wieso-glauben-menschen-falschnachrichten-uebers-klima): Edition Zukunft Klimafragen, [Wahrheit gegen Lüge: Die Psychologie hinter Fake News](https://www.derstandard.at/story/3000000218043/wahrheit-gegen-luege-die-psychologie-hinter-fake-news). Podcast and on Misinformation, social media & climate change.
 3. 2023-03-22 in Falter: [Sturm statt Elfenbeinturm](https://www.falter.at/zeitung/20230322/sturm-statt-elfenbeinturm) - Zu viele Publikationen, zu wenige Stellen: Die Arbeitsbedingungen in der Wissenschaft sind schwierig. Gibt es Alternativen?
 
 ---
