@@ -20,6 +20,8 @@ ___
 2. Garcia, D., Pellert, M., Lasser, J., & **Metzler, H.** (2021). Social media emotion macroscopes reflect emotional experiences in society at large.  *ArXiv:2107.13236* [Cs]. [http://arxiv.org/abs/2107.13236]( http://arxiv.org/abs/2107.13236).
 3. Galaz, V., Marklund, A., Galafassi, D., Lindahl, T., Castro, A.J., Schill, C., Daume, S., **Metzler, H.**, Peters, H., Bard, J., Ersin, E. H. (under review). Artificial intelligence, emotions and environmental sustainability.
 4. Brohmer, H., Hofer, G. et al. (2024). Effects of the Generic Masculine and its Alternatives in Germanophone countries - A Multi-lab Replication and Extension of Stahlberg, Sczesny, and Braun, 2001. [*OSF Preprints*](https://osf.io/preprints/osf/q56rk).
+
+
 ___
 
 ## Journal articles
