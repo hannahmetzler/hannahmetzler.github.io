@@ -6,18 +6,25 @@ show-avatar: false
 
 ___
 
+
+
+## Upcoming talks
+
+- **19/09/2024, 14h45** _Polarization and misinformation: Social drivers and algorithmic mechanisms on digital media_, [German Political Psychology Conference](https://24hpolpsy.univie.ac.at), Vienna.
+- **23/10/2024, 9h** [_Digitalisierte Demkratie im Wandel: Chancen und Risiken durch Künstliche Intelligenz_](https://community.digitalcity.wien/agenda?session=c2Vzc2lvbjoxODAwOTU%3D), Panel discussion, [Digital Days 2024](https://www.digitalcity.wien/digital-days-2024), Digital City.Wien, Vienna.
+- **24/10/2024, 17h** [_Radikale Hoffnung - wie überwinden wir die Polarisierung?_](https://www.ideale-konferenz.at/timetable-24), Panel discussion with Rudi Anschober & Ingrid Brodnig, IDEALE Konferenz, Vienna.
+- **13/11/2024, 16h30** _The Social Dynamics around Misinformation Spreading on Social Media_, Guest lecture in the lecture series "Foundation and Methods of Digital Humanism" at University of Vienna. 
+
 ## Project News
 
-* Jula presented her [research on emotions in online discussions](https://julaluehring.github.io/emo_discussions_comptext) at COMPTEXT Amsterdam
-* Hannah gave a Webinar at [klimaaktiv](https://www.klimaaktiv.at/bildung/klimadialog/webinare.html) with the title "[Social Media sind (k)ein Klimakiller](https://www.klimaaktiv.at/service/veranstaltungen/Allgemein/webinar-social-media.html)".
-* [Podcast](https://www.derstandard.at/story/3000000218043/wahrheit-gegen-luege-die-psychologie-hinter-fake-news) and [Article](https://www.derstandard.at/story/3000000220181/wieso-glauben-menschen-falschnachrichten-uebers-klima) by Hannah at DerStandard on social media, emotions, misinformation & climate change
-* [Update](https://publizistik.univie.ac.at/aktuelles/aktuelle-meldungen/news-einzelansicht/news/forschungsprojekte-am-institut-emomis-fehlinformationen-und-emotionen-auf-social-media/) about research on our project at Uni Vienna.
-* [Video](https://www.youtube.com/watch?v=xpiiOqwGQa8) on our research and its relevance in the Digital Humanism series
-* A one-page chapter on [Emotions and group dynamics around misinformation on social media](https://www.stockholmresilience.org/news--events/climate-misinformation/chapter-4-emotions-and-group-dynamics-around-misinformation-on-social-media.html).
+* Hannah's article in 'Spektrum der Wissenschaften' on political misinformation, propaganda, elections, algorithms and AI: [Mythos Fehlinformation: Warum soziale Medien weniger gefährlich sind, als wir denken](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667), Spektrum der Wissenschaft [online](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667) and in the print edition [Spektrum - Die Woche 35/2024](https://www.spektrum.de/pdf/35-2024-spektrum-die-woche-35-2024/2214951).
+* Jula & Apeksha presented their work at the [Symposium MISDOOM 2024](https://www.misdoom2024.uni-muenster.de/program/) in Münster.
 * Our first pre-print: [Twitter thread](https://twitter.com/hannahmetzler1/status/1643978293455241217) or [full version](https://doi.org/10.31234/osf.io/udqms).
 
 ## Our project in the media
 
+* [Mythos Fehlinformation: Warum soziale Medien weniger gefährlich sind, als wir denken](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667), Spektrum der Wissenschaft [online](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667) and in the print edition [Spektrum - Die Woche 35/2024](https://www.spektrum.de/pdf/35-2024-spektrum-die-woche-35-2024/2214951). 
+* [Podcast](https://www.derstandard.at/story/3000000218043/wahrheit-gegen-luege-die-psychologie-hinter-fake-news) and [Article](https://www.derstandard.at/story/3000000220181/wieso-glauben-menschen-falschnachrichten-uebers-klima) by Hannah at DerStandard on social media, emotions, misinformation & climate change
 * Social media and debates about climate change
      - [APA](https://science.apa.at/power-search/12856578295990689252)
      - [DerStandard](https://www.derstandard.de/story/3000000180511/expertin-sieht-in-social-media-keinen-klima-killer)
@@ -77,9 +84,11 @@ ___
 
 ### Conference and seminar talks
 
+* **Lühring, J.** (4 September 2024) Effects of Misinformation on Online Dicussions, [Symposium MISDOOM 2024](https://www.misdoom2024.uni-muenster.de/program/), Münster.
+* **Shetty, A.** (4 September 2024) Emotional Dynamics and Algorithmic Interventions: Curbing Misinformation Among Political Elites on Twitter, [Symposium MISDOOM 2024](https://www.misdoom2024.uni-muenster.de/program/), Münster.
 * **Lühring, J.** (14 May 2024) [_Misinformation in den sozialen Medien_](https://julaluehring.github.io/misinformation_in_den_sozialen_medien/), guest lecture, University of Vienna. 
 * **Shetty, A.** (16 May 2024) _Emotional Dynamics and Algorithmic Interventions: Curbing Misinformation Among Political Elites on Twitter_, University of Konstanz.
-* **Lühring, J.** (4 May 2024) [_Effects of Misinformation on Emotions in Online Discussions_](https://julaluehring.github.io/emo_discussions_comptext/#/title-slide), COMPTEXT, Amsterdam. 
+* **Lühring, J.** (4 May 2024) [_Effects of Misinformation on Emotions in Online Discussions_](https://julaluehring.github.io/emo_discussions_comptext/), COMPTEXT, Amsterdam. 
 * **Shetty, A.** (21-22 November 2023) _Emotions in misinformation studies: Distinguishing affective state from emotional response and misinformation recognition from acceptance_, [5th Symposium on Multidisciplinary International Symposium on Disinformation in Open Online Media](https://event.cwi.nl/misdoom-2023/), Amsterdam. 
 * **Lühring, J.** (25-29 May 2023) _Measuring emotions in misinformation studies: Distinguishing emotional state from response and misinformation recognition from susceptibility_, [73rd Annual Conference of the International Communication Association (ICA)](https://www.icahdq.org/mpage/ICA23), Toronto.
 * **Metzler, H.** (8 February 2023) _Measuring emotions in misinformation studies: Distinguishing emotional state from response and misinformation recognition from susceptibility_, [Expert Workshop on Mis- and disinformation, Zürich](https://www.disinformation-project.com/activties), University of Zurich. [Slides](http://hannahmetzler.eu/measuring_emo_misinfo)
@@ -91,6 +100,8 @@ ___
 
 ### Outreach
 
+* [Update](https://publizistik.univie.ac.at/aktuelles/aktuelle-meldungen/news-einzelansicht/news/forschungsprojekte-am-institut-emomis-fehlinformationen-und-emotionen-auf-social-media/) about research on our project at Uni Vienna.
+* [Video](https://www.youtube.com/watch?v=xpiiOqwGQa8) on our research and its relevance in the Digital Humanism series
 * 2024-05-29: [Upcoming ORF 1 documentary Dok 1](https://tv.orf.at/dok-1/index.html): "Jeder gegen Jeden? Österreich rastet aus" \[“Everyone against Everyone: Austria goes berserk”\], social media effects on hate speech
 * **Metzler, H.** (6 May 2024). [Social Media sind (k)ein Klimakiller](https://www.klimaaktiv.at/service/veranstaltungen/Allgemein/webinar-social-media.html). Webinar bei [klimaaktiv](https://www.klimaaktiv.at/bildung/klimadialog/webinare.html) (Initiative des Bundesministeriums für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie), [Recording](https://www.klimaaktiv.at/bildung/klimadialog/webinare.html). [Folien.](https://hannahmetzler.eu/klimaaktiv/)
 * **Metzler, H.** (3 May 2024). [Wahrheit gegen Lüge: Die Psychologie hinter Fake News](https://www.derstandard.at/story/3000000218043/wahrheit-gegen-luege-die-psychologie-hinter-fake-news). DerStandard Podcast Edition Zukunft Klimafragen.
@@ -105,6 +116,8 @@ ___
 
 ### For the general public
 
+* Metzler, H. (2024). [Mythos Fehlinformation: Warum soziale Medien weniger gefährlich sind, als wir denken](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667), Spektrum der Wissenschaft online. 
+* Metzler, H. (2024). [Mythos Fehlinformation: Warum soziale Medien weniger gefährlich sind, als wir denken](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667), [Spektrum - Die Woche 35/2024](https://www.spektrum.de/pdf/35-2024-spektrum-die-woche-35-2024/2214951).
 * Metzler, H. (2023). [Emotions and group dynamics around misinformation on social media](https://www.stockholmresilience.org/news--events/climate-misinformation/chapter-4-emotions-and-group-dynamics-around-misinformation-on-social-media.html), Chapter 4, Synthesis Report on __Climate misinformation in a climate of misinformation__, Stockholm Resilience Centre. 
 
 ### Pre-prints
@@ -118,7 +131,9 @@ ___
 
 ## Internships
 
-* March-July 2024: Gabija Aurylaite from University of Vienna runs our first large social identity intervention. 
+* March-July 2024: Gabija Aurylaite from University of Vienna runs a large experiment with our social identity intervention.
+* 2023: Esther Simmendinger, Master thesis with David Garcia at University of Konstanz
+* 2023: Nele Hapig, Master thesis with David Garcia at University of Konstanz
 * June-August 2023: Ruggero Lazzaroni from RWTH Aachen did a summer research internship at the CSH, funded by an Erasmus scholraship, to investigate the validity of the NewsGuard news reliability ratings
 * Since September 2023: Adam Urosevic joined us for an internship with Jula Lühring on reconstructing the Austrian Twitter network around political news, in relation to the reliability of news shared.  
 
