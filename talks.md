@@ -8,7 +8,10 @@ title: Talks
 
 ## Upcoming talks
 
-- **19-20/09/2024** _Polarization and misinformation: Social drivers and algorithmic mechanisms on digital media_, [German Political Psychology Conference](https://24hpolpsy.univie.ac.at), Vienna. 
+- **19-20/09/2024, 14h45** _Polarization and misinformation: Social drivers and algorithmic mechanisms on digital media_, [German Political Psychology Conference](https://24hpolpsy.univie.ac.at), Vienna.
+- **23/10/2024, 9h** [_Digitalisierte Demkratie im Wandel: Chancen und Risiken durch Künstliche Intelligenz_](https://community.digitalcity.wien/agenda?session=c2Vzc2lvbjoxODAwOTU%3D), Panel discussion, [Digital Days 2024](https://www.digitalcity.wien/digital-days-2024), Digital City.Wien, Vienna.
+- **24/10/2024, 17h** [_Radikale Hoffnung - wie überwinden wir die Polarisierung?_](https://www.ideale-konferenz.at/timetable-24), Panel discussion with Rudi Anschober & Ingrid Brodnig, IDEALE Konferenz, Vienna.
+- **13/11/2024, 16h30** _The Social Dynamics around Misinformation Spreading on Social Media_, Guest lecture in the lecture series "Foundation and Methods of Digital Humanism" at University of Vienna. 
 
 ---
 
