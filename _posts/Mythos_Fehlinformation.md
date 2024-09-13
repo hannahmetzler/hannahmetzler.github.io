@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Mythos Fehlinformation: Warum soziale Medien weniger gefährlich sind, als wir denken
-subtitle: Artikel für Spektrum der Wissenschaft, Version der Autorin
-gh-repo: hannahmetzler/hannahmetzler.github.io
-gh-badge: [star, fork, follow]
-tags: [test]
+title: "Mythos Fehlinformation: Warum soziale Medien weniger gefährlich sind, als wir denken"
+subtitle: "Artikel für Spektrum der Wissenschaft, Version der Autorin"
+date: 2024-09-13
+tags: [misinformation, social media]
 comments: true
 mathjax: true
 author: Hannah Metzler
