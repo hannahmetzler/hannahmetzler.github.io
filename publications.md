@@ -26,6 +26,7 @@ ___
 
 ## Journal articles
 
+1. Lühring, J., **Metzler, H.**, Lazzaroni, R. M., Shetty, A., & Lasser, J. (2024). [Best practices for source-based research on misinformation and news trustworthiness](https://doi.org/10.31234/osf.io/v6e4b). OSF. https://doi.org/10.31234/osf.io/v6e4b
 1. **Metzler, H.**, Baginski, H., Garcia, D., & Niederkrotenthaler, T. (2024). [A machine learning approach to detect potentially harmful and protective suicide-related content in broadcast media](https://doi.org/10.1371/journal.pone.0300917) . PLOS ONE, 19(5), e0300917. https://doi.org/10.1371/journal.pone.0300917. [Code, data & models](https://github.com/HubertBaginski/TranscriptsSuicideML).
 2. Niederkrotenthaler, T., **Metzler, H.**, Z., Till, B., Lake, A. H., Noble, E., Chowdhury, S., Gonzalez, F., Garcia, D., Draper, J., Murphy, S., & Gould, M. (2024). [“Breaking the Silence” Suicide Prevention Media Campaign in Oregon, April 7–14, 2019: Content Analysis of Broadcast, Print and Online Media Items, and Social Media Footprint.](https://doi.org/10.1027/0227-5910/a000955) *Crisis*, 0227-5910/a000955. https://doi.org/10.1027/0227-5910/a000955. [PDF](/downloads/NiederkrotenthalerMetzler2024_crisis_Breaking_the_silence_campaign_evaluation.pdf)
 3. Aroyehun, S.T., Malik, L., **Metzler, H.**, Haimerl, N., Di Natale, A., & Garcia, D. (2023) [LEIA: Linguistic Embeddings for the Identification of Affect](https://doi.org/10.1140/epjds/s13688-023-00427-0). EPJ Data Science, 12, 52. https://doi.org/10.1140/epjds/s13688-023-00427-0

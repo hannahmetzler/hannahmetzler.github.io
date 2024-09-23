@@ -10,13 +10,13 @@ ___
 
 ## Upcoming talks
 
-- **19/09/2024, 14h45** _Polarization and misinformation: Social drivers and algorithmic mechanisms on digital media_, [German Political Psychology Conference](https://24hpolpsy.univie.ac.at), Vienna.
 - **23/10/2024, 9h** [_Digitalisierte Demkratie im Wandel: Chancen und Risiken durch Künstliche Intelligenz_](https://community.digitalcity.wien/agenda?session=c2Vzc2lvbjoxODAwOTU%3D), Panel discussion, [Digital Days 2024](https://www.digitalcity.wien/digital-days-2024), Digital City.Wien, Vienna.
 - **24/10/2024, 17h** [_Radikale Hoffnung - wie überwinden wir die Polarisierung?_](https://www.ideale-konferenz.at/timetable-24), Panel discussion with Rudi Anschober & Ingrid Brodnig, IDEALE Konferenz, Vienna.
 - **13/11/2024, 16h30** _The Social Dynamics around Misinformation Spreading on Social Media_, Guest lecture in the lecture series "Foundation and Methods of Digital Humanism" at University of Vienna. 
 
 ## Project News
 
+* We have published a new [pre-print on best practices on measuring news trustworthiness via source links](https://doi.org/10.31234/osf.io/v6e4b) led by Jula!
 * Hannah's article in 'Spektrum der Wissenschaften' on political misinformation, propaganda, elections, algorithms and AI: [Mythos Fehlinformation: Warum soziale Medien weniger gefährlich sind, als wir denken](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667), Spektrum der Wissenschaft [online](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667) and in the print edition [Spektrum - Die Woche 35/2024](https://www.spektrum.de/pdf/35-2024-spektrum-die-woche-35-2024/2214951). [Author version of the article](downloads/20240918_Metzler_Mythos_Fehlinformation_Spektrum.pdf)
 * Jula & Apeksha presented their work at the [Symposium MISDOOM 2024](https://www.misdoom2024.uni-muenster.de/program/) in Münster.
 * Our first pre-print: [Twitter thread](https://twitter.com/hannahmetzler1/status/1643978293455241217) or [full version](https://doi.org/10.31234/osf.io/udqms).
@@ -122,11 +122,12 @@ ___
 
 ### Pre-prints
 
-* Lühring, J.\*, Shetty, A.\*, Koschmieder, C., Garcia, D., Waldherr, A., & Metzler, H. (2023). Emotions in misinformation studies: Distinguishing affective state from emotional response and misinformation recognition from acceptance. PsyArXiv. [https://doi.org/10.31234/osf.io/udqms](https://doi.org/10.31234/osf.io/udqms). [Data, Code, Pre-registration & SI](https://osf.io/tgzxr/).
+* Lühring, J., Metzler, H., Lazzaroni, R. M., Shetty, A., & Lasser, J. (2024). Best practices for source-based research on misinformation and news trustworthiness. OSF. <https://doi.org/10.31234/osf.io/v6e4b>
+* Lühring, J.\*, Shetty, A.\*, Koschmieder, C., Garcia, D., Waldherr, A., & Metzler, H. (2023). Emotions in misinformation studies: Distinguishing affective state from emotional response and misinformation recognition from acceptance. PsyArXiv. <https://doi.org/10.31234/osf.io/udqms>. [Data, Code, Pre-registration & SI](https://osf.io/tgzxr/).
 
 ### Publications
 
-* **Metzler, H.**, & Garcia, D. (2023). [Social drivers and algorithmic mechanisms on digital media.](https://doi.org/10.1177/17456916231185057) _Perspectives on Psychological Science 0_(0). https://doi.org/10.1177/17456916231185057.
+* Metzler, H., & Garcia, D. (2023). [Social drivers and algorithmic mechanisms on digital media.](https://doi.org/10.1177/17456916231185057) _Perspectives on Psychological Science 0_(0). https://doi.org/10.1177/17456916231185057.
 
 
 ## Internships
