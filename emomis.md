@@ -1,12 +1,11 @@
 ---
 layout: page
 title: Emotional Misinformation Spreading
+subtitle: The interplay of emotions and misinformation spreading on social media
 show-avatar: false
 ---
 
 ___
-
-
 
 ## Upcoming talks
 
@@ -61,7 +60,7 @@ ___
 
 ## About the project
 
-In November 2021, we started the project *Emotional Misinformation – The Interplay of Emotion and Misinformation Spreading on Social Media* (EMOMIS). It is funded by the Vienna Science and Technology Fund ([WWTF](https://wwtf.at/funding/programmes/ict/ICT20-028/)) for a period of three years and 4 months. What we do in 5 bullet points: 
+In November 2021, we started the project *Emotional Misinformation – The Interplay of Emotion and Misinformation Spreading on Social Media* (EMOMIS). It is funded with 400.000 Euros by the Vienna Science and Technology Fund ([WWTF](https://wwtf.at/funding/programmes/ict/ICT20-028/)) until February 2025. What we do in 5 bullet points: 
 
 * We have investigated how emotional state influences discernment between true and false news, and which emotions such news trigger, and what their function in the processing of misinformation is. 
 * We investigate the large-scale interplay of emotions around news of different trustworthiness on Twitter from 2020 to 2023. 
