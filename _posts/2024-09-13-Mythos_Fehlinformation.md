@@ -9,6 +9,11 @@ mathjax: true
 author: Hannah Metzler
 ---
 
+Veröffentlicht in abgeänderter Version in Spektrum der Wissenschaft:
+
+- [Online](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667) 
+- [Print Edition [Spektrum - Die Woche 35/2024](https://www.spektrum.de/pdf/35-2024-spektrum-die-woche-35-2024/2214951).
+
 *Sorgen um die Folgen von Desinformation für die Demokratie sind weit verbreitet. Doch die öffentliche Meinung und die wissenschaftlichen Daten klaffen bei diesem Thema weit auseinander. Aufklärung ist wichtig, damit sich die öffentliche Aufmerksamkeit und gesetzliche Regulierungen auf Lösungen für die richtigen Probleme konzentrieren.*
 
 Viele weit verbreitete Annahmen über Social Media lassen katastrophale Folgen für unsere Gesellschaft vermuten. Dazu gehören Befürchtungen über *Fake News* und andere Formen der Fehlinformationen, z.B. absichtlich verbreitete *Desinformation*. Wir glauben zum Beispiel, dass Social Media uns ([und vor allem Andere](https://journals.sagepub.com/doi/10.1177/14614448231153379)) mit einer Unmenge an sensationsheischenden, polarisierenden und faktisch fragwürdigen Inhalten überfluten. Dass Donald Trump die Präsidentschaftswahl mit Hilfe russischer Propaganda gewann, die dank Cambridge Analytica genau auf einzelne Nutzer zugeschnitten werden konnte. Wir befürchten, dass wir alle in digitalen Echokammern gefangen sind, die permanent eigene Sichtweisen bestätigen. Es gibt Geschichten darüber, wie Menschen auf YouTube durch immer extremere Video-Empfehlungen in Radikalisierungs-Spiralen hineingezogen wurden. Das Ganze scheint von Algorithmen angetrieben, die nur das Ziel haben, uns möglichst lange auf einer Plattform zu halten und Klicks zu generieren. Extreme, schockierende und hasserfüllte Inhalte können das am besten. So spaltet sich die Gesellschaft zunehmend, befürchten wir, und immer mehr Menschen wählen rechts-extreme Parteien. Sachliche Debatten zu dringenden Fragen sind kaum mehr möglich. Kurz: Die Demokratie ist in Gefahr.
@@ -19,7 +24,7 @@ Es gibt eine gute, [wissenschaftlich belegte Erklärung für diesen scheinbaren 
 
 Meinungsänderungen im Alltag sind also selten, weil es so schwer ist, andere von etwas zu überzeugen. Wenn Menschen ihre Meinung aber nicht leicht ändern, wie können dann Social Media die Einstellung ganzer Gesellschaftsgruppen manipulieren? Und warum halten die vom Weltwirtschaftsforum befragten Experten [Desinformation für die größte globale Gefahr in den nächsten 2 Jahren](https://www.weforum.org/publications/global-risks-report-2024/digest/)? Irgendwie scheint hier etwas nicht zusammenzupassen.
 
-### **Fehlinformation ist selten, und vor allem das Problem einer Minderheit mit politisch extremen Einstellungen**
+## Fehlinformation ist selten, und vor allem das Problem einer Minderheit mit politisch extremen Einstellungen
 
 Tatsächlich passt hier einiges nicht zusammen. Die öffentliche, mediale und politische Meinung zu Social Media und Algorithmen ist weit von dem entfernt, was wissenschaftliche Studien nahelegen. Mythos Nr. 1 ist, dass Fehlinformationen weit verbreitet sind. Je nach Plattform, Land und Jahr, machen [Fehlinformationen zwischen 0.1 und 6.7% des Nachrichtenkonsums aus](https://www.nature.com/articles/s41586-024-07417-w). Dazu kommt, dass nur wenige Menschen überhaupt Nachrichten lesen. Auf Facebook in den USA machen politische News zum Beispiel nur [3% aller geteilten Posts aus](https://www.science.org/doi/10.1126/science.ade7138). Und 1-6% dieser 3% sind dann eben aus wenig vertrauenswürdigen Quellen.
 
@@ -27,7 +32,7 @@ Hinzu kommt, dass nur wenige Social Media-Nutzer für den Großteil der Interakt
 
 Wer sind die Menschen, die den Großteil der Fehlinformationen lesen und teilen? Es sind [Menschen mit starken Meinungen, die sich oft extremen politischen Gruppen zugehörig fühlen](https://www.cambridge.org/core/journals/american-political-science-review/article/partisan-polarization-is-the-primary-psychological-motivation-behind-political-fake-news-sharing-on-twitter/3F7D2098CD87AE5501F7AD4A7FA83602). Diese Supersharer haben tendenziell ein niedriges Vertrauen in Institutionen wie Politik, Medien, Wissenschaft und Medizin, und fühlen sich von ihnen [nicht vertreten](https://www.cambridge.org/core/journals/american-political-science-review/article/partisan-polarization-is-the-primary-psychological-motivation-behind-political-fake-news-sharing-on-twitter/3F7D2098CD87AE5501F7AD4A7FA83602). [Einige Studien zeigen](https://www.science.org/doi/10.1126/science.adl4435), dass in westlichen Demokratien unter den “Supersharern” von Fehlinformation tendenziell mehr Menschen mit rechten politischen Einstellungen sind. Vermutlich eben auch, weil Ihre Sichtweisen in traditionellen Medien und Institutionen wie der Wissenschaft tatsächlich [schlecht vertreten sind](https://www.cambridge.org/core/journals/american-political-science-review/article/partisan-polarization-is-the-primary-psychological-motivation-behind-political-fake-news-sharing-on-twitter/3F7D2098CD87AE5501F7AD4A7FA83602).
 
-### **Und was ist mit Social Media Algorithmen?**
+## Und was ist mit Social Media Algorithmen?
 
 Auch wenn wir also nicht alle von Desinformation überflutet werden, bleibt die Sorge um Radikalisierung durch Algorithmen und digitale Echokammern. Bis vor kurzem gab es [nur sehr wenige Studien zu den Effekten von Algorithmen](https://doi.org/10.1177/17456916231185057), weil es einfach keine Daten dazu gab. In den letzten Jahren zeigten aber über zehn Studien zu Twitter, Facebook, Instagram, Youtube und Google relativ durchgängig, dass die Nachfrage nach extremen Inhalten die größte Rolle spielt. Menschen mit extremen Einstellungen suchen aktiv nach Inhalten, die ihr Misstrauen ins System bestätigen. [Gruppen auf Facebook](https://www.science.org/doi/10.1126/science.ade7138), Telegram und Co. sind Orte, wo Menschen mit extremen, oft rechten Einstellungen diese Bestätigung finden. Algorithmen hingegen haben eher kleine Effekte, schlagen den meisten Menschen moderate Posts und Videos vor, oder haben sogar [einen linken politischen Bias](https://doi.org/10.1093/pnasnexus/pgad264). Extreme Inhalte empfehlen sie nur Menschen, die bereits [viele extreme Inhalte konsumiert haben](https://www.science.org/doi/full/10.1126/science.abp9364). Die [Klicks auf radikale Youtube-Videos](https://www.science.org/doi/10.1126/sciadv.add8080) kommen meist von externen Links, oder von Accounts, denen User selbst folgen.
 
@@ -35,7 +40,7 @@ Bei einer der vier groß angelegten “Facebook-Instagram Election Studies” wu
 
 Echokammern sind [offline tendenziell stärker](https://doi.org/10.1093/qje/qjr044) als online. Wie stark sie online ausgeprägt sind, variiert stark: [23.1% der Facebook-Nutzer sehen weniger als 25% der Inhalte aus Quellen](https://www.nature.com/articles/s41586-023-06297-w), die mit ihrer Sichtweise übereinstimmen. Bei anderen 20.6% der Nutzer sind es hingegen 75%. Und Echokammern aufzulösen ist nicht unbedingt hilfreich. [Ein Experiment auf Twitter](https://www.pnas.org/content/115/37/9216) zeigte, dass User noch mehr polarisiert werden, wenn sie für einen Monat Posts von Meinungsführern der anderen politischen Seite sehen. Kontakt mit extremen Meinungen auf Social Media führt also eher zu Konflikten, als zu gegenseitigem Verständnis.
 
-### **Wie sich Propaganda, Nachrichten und politischen Kampagnen auf Einstellungen auswirken**
+## Wie sich Propaganda, Nachrichten und politischen Kampagnen auf Einstellungen auswirken
 
 Nicht nur Algorithmen, sondern sogar Propaganda, Werbung und politische Kampagnen scheinen nur kleine Effekte zu haben. Zwei Studien zeigen, dass die russischen Desinformationsattacken während der US-Wahlen 2016 *keine Effekte auf Einstellungen, Wahlentscheidung und Polarisierung* hatten. Warum? User sahen viel [mehr Mainstream-News und -Posts von Politiker](https://www.nature.com/articles/s41467-022-35576-9) als von russischen Accounts. Die wenigen User, die den Großteil der Desinformation sahen, waren sowieso schon überzeugte Trump-Wähler und [bereits stark polarisiert](https://www.pnas.org/doi/full/10.1073/pnas.1906420116) – und damit erneut eine kleine, politisch motivierte und extreme Minderheit.
 
@@ -49,13 +54,13 @@ Zusammenfassend lässt sich also sagen, dass Mainstream-Medien und Informationen
 
 Dass Effekte klein sind, zeigt, dass [Menschen neuen Informationen gegenüber grundsätzlich skeptisch und nicht leichtgläubig sind](https://www.goodreads.com/book/show/45358676-not-born-yesterday). Überzeugen ist schwer und braucht gute Argumente aus Quellen, denen Menschen vertrauen. Deswegen haben wir das Gefühl, irgendwie gegen eine Wand anzureden, wenn wir versuchen, die Einstellung von anderen zu verändern.
 
-### **KI kann überzeugend sein, aber nicht Aufmerksamkeit vervielfachen**
+## KI kann überzeugend sein, aber nicht Aufmerksamkeit vervielfachen
 
 Könnte KI so überzeugend sein, dass sie es schafft, die Meinung der Massen zu manipulieren? Auch hier [vermuten Fehlinformationsforscher mit guten Argumenten keine Katastrophe.](https://ora.ox.ac.uk/objects/uuid:bfa56657-6e42-4839-876f-26eabd9807b3) In westlichen Demokratien wird Nachrichtenkonsum vor allem über die Nachfrage gesteuert. Verschiedene Medien kämpfen um Aufmerksamkeit und publizieren deswegen, was Menschen lesen wollen. Nur sehr wenige Menschen interessieren sich für Nachrichten, und auch sie lesen oft nur die Headlines. Und KI wird nicht dabei helfen können, mehr Aufmerksamkeit zu generieren. Es gibt schon jetzt eine Menge Unsinn im Internet, aber niemand hat die Zeit, das alles zu konsumieren. Vieles (inklusive Social Media) wird auch für seinen Unterhaltungswert konsumiert, und nicht unbedingt geglaubt.
 
 [Mit Hilfe von Chat GPT-4 personalisierte überzeugende politische Botschaften](https://www.pnas.org/doi/10.1073/pnas.2403116121) waren in einer Studie nicht überzeugender als nicht personalisierte Botschaften. Botschaften von den besten aktuell verfügbaren Sprachmodellen [sind nicht überzeugender](https://arxiv.org/abs/2406.14508), als solche von älteren Modellen. Journalisten sind bereits so überzeugend, dass es nicht leicht ist, noch viel überzeugender zu sein. Ob Menschen einer Information vertrauen, hängt stark davon ab, von wem sie kommt. Traditionelle Zeitungen und Fernsehsender genießen viel höheres Vertrauen als dubiose Internetseiten. Solange die großen Medien also gut recherchieren und sich nicht blind auf KI verlassen, ist es nicht so leicht, die große Masse mit KI hinters Licht zu führen.
 
-### **Nicht fehlinformiert, sondern uninformiert**
+## Nicht fehlinformiert, sondern uninformiert
 
 Vielleicht wirft dieser Beitrag bei Ihnen mehr Fragen auf als er beantwortet. Wenn Fehlinformation, Algorithmen und KI nicht das Problem sind, warum glauben dann so viele Menschen so viel Unsinn, der nichts mit Wissenschaft oder der Realität zu tun hat? Warum gibt es so starke Tendenzen zu populistischen und rechtsextremen Parteien? Das sind gute und wichtige Fragen.
 
@@ -63,7 +68,7 @@ Viele Menschen sind tatsächlich sehr schlecht informiert und glauben viele unse
 
 Umso tragischer ist es, dass das Interesse vieler Menschen an Medien, Politik und Wissenschaft sinkt. Die Interaktion mit Nachrichten, auch auf Social Media, nahm [seit 2015 in 46 Ländern um 25% ab](https://doi.org/10.1177/14614448241247822). Die meisten Menschen sind *nicht fehlinformiert, sondern uninformiert.* Sie glauben nicht zu vielen Fehlinformationen, sondern vertrauen der Wissenschaft und den Medien zu wenig. Im mangelnden Vertrauen in gesellschaftliche Institutionen liegt das eigentliche Problem - und auch der Ansatz für eine nachhaltige Lösung.
 
-### **Fehlinformation ist das Symptom, nicht die Krankheit.**
+## Fehlinformation ist das Symptom, nicht die Krankheit.
 
 Was bei Diskussionen rund um Social Media, Algorithmen und KI leider übersehen wird, sind [die eigentlichen Ursachen der Fehlinformation](https://journalqd.org/article/view/3318) und die große Rolle von Eliten und Mainstream-Medien für ihre Verbreitung. Fehlinformation ist vor allem ein [Symptom von gesellschaftlicher Polarisierung](https://psyarxiv.com/sm3vk/) und mangelndem Vertrauen in Institutionen wie die Regierung, die Medien, die Wissenschaft und die Medizin.
 
@@ -71,7 +76,7 @@ Dass Institutionen dabei versagen, reale Probleme zu lösen und es nicht schaffe
 
 Social Media spiegeln diese gesellschaftlichen Konflikte wider. Sie lassen sie schlimmer erscheinen, als sie sind, indem sie vor allem extremen Stimmen eine Bühne bieten. Menschen, die sich nicht wirklich für ein Thema interessieren, melden sich dazu natürlich nicht zu Wort. Deswegen ist die große Mehrheit, die moderatere Einstellungen hat, auf Social Media ziemlich unsichtbar (die sogenannte “Silent Majority”). So entsteht ein Bild [scheinbarer Polarisierung, das die tatsächliche Polarisierung verstärken kann](https://press.princeton.edu/books/hardcover/9780691203423/breaking-the-social-media-prism).
 
-### **Was tun? Mögliche Lösungswege.**
+## Was tun? Mögliche Lösungswege.
 
 Versuche, die Verbreitung von Fehlinformation in der allgemeinen Bevölkerung einzudämmen, können nur kleine Effekte erreichen, weil das Problem von politischen Eliten und einer kleinen politisch motivierten Minderheit ausgeht. Dafür hilft alles, das Vertrauen in demokratische Institutionen stärkt, weil es Polarisierung verringert, und damit auch Fehlinformation zurückgeht. Leider gibt es dafür keine schnellen und einfachen Lösungen. Wir müssen Schritt für Schritt transparentere und effizientere Institutionen schaffen, die gesellschaftliche Probleme tatsächlich lösen. Wir brauchen Medien, die tatsächlich nützlich für ihre Leser sind, statt nur vom Spiel mit der Aufmerksamkeit zu leben. Wir brauchen Interventionen, die Vertrauen in die Medien stärken, z.B. indem Menschen lernen, wie Journalist recherchieren und Fakten überprüfen. Wir brauchen eine zuverlässige und transparente Wissenschaft, die sich selbst kritisiert und in Frage stellt, und immer weiter verbessert. Wir brauchen vertrauenswürdige Politiker, die transparent kommunizieren, Menschen die Wahrheit zutrauen, und nicht nur die Probleme von Eliten lösen.
 
