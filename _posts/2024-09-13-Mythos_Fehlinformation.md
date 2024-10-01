@@ -9,10 +9,7 @@ mathjax: true
 author: Hannah Metzler
 ---
 
-Veröffentlicht in abgeänderter Version in Spektrum der Wissenschaft:
-
-- [Online](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667) 
-- [Print Edition [Spektrum - Die Woche 35/2024](https://www.spektrum.de/pdf/35-2024-spektrum-die-woche-35-2024/2214951).
+Veröffentlicht in abgeänderter Version in Spektrum der Wissenschaft [online](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667) und im Print Magazin [Spektrum - Die Woche 35/2024](https://www.spektrum.de/pdf/35-2024-spektrum-die-woche-35-2024/2214951).
 
 *Sorgen um die Folgen von Desinformation für die Demokratie sind weit verbreitet. Doch die öffentliche Meinung und die wissenschaftlichen Daten klaffen bei diesem Thema weit auseinander. Aufklärung ist wichtig, damit sich die öffentliche Aufmerksamkeit und gesetzliche Regulierungen auf Lösungen für die richtigen Probleme konzentrieren.*
 
