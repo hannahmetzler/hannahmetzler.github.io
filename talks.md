@@ -8,8 +8,8 @@ title: Talks
 
 ## Upcoming talks
 
-- **19/09/2024, 14h45** _Polarization and misinformation: Social drivers and algorithmic mechanisms on digital media_, [German Political Psychology Conference](https://24hpolpsy.univie.ac.at), Vienna.
-- **23/10/2024, 9h** [_Digitalisierte Demkratie im Wandel: Chancen und Risiken durch Künstliche Intelligenz_](https://community.digitalcity.wien/agenda?session=c2Vzc2lvbjoxODAwOTU%3D), Panel discussion, [Digital Days 2024](https://www.digitalcity.wien/digital-days-2024), Digital City.Wien, Vienna.
+- **23/10/2024, 9h** [_Digitalisierte Demkratie im Wandel: Chancen und Risiken durch Künstliche Intelligenz_](https://community.digitalcity.wien/agenda?session=c2Vzc2lvbjoxODAwOTU%3D) at the [Digital Days 2024](https://www.digitalcity.wien/digital-days-2024), Digital City.Wien, Vienna.
+    - Talk on "Polarisierung durch Algorithmen? Demokratie und Meinungsbildung im digitalen Zeitalter – Mythen auf dem Prüfstand" & panel discussion
 - **24/10/2024, 17h** [_Radikale Hoffnung - wie überwinden wir die Polarisierung?_](https://www.ideale-konferenz.at/timetable-24), Panel discussion with Rudi Anschober & Ingrid Brodnig, IDEALE Konferenz, Vienna.
 - **13/11/2024, 16h30** _The Social Dynamics around Misinformation Spreading on Social Media_, Guest lecture in the lecture series "Foundation and Methods of Digital Humanism" at University of Vienna. 
 
@@ -59,6 +59,7 @@ ___
 
 ## Conference and seminar presentations
 
+* **19/09/2024, 14h45** _Polarization and misinformation: Social drivers and algorithmic mechanisms on digital media_, [German Political Psychology Conference](https://24hpolpsy.univie.ac.at), Vienna. Accepted talk. 
 * **16/05/2024**, [5 myths about social media: What I was wrong about when I wrote our grant proposal](https://hannahmetzler.eu/misinfomyths). Talk, Vienna Behavioral Circle Meeting, Complexity Science Hub, Vienna.
 * **13/07/2023** _Detecting Potentially Harmful and Protective Suicide-related Content on Twitter: A Machine Learning Approach._ [Netsci 2023](https://netsci2023.wixsite.com/netsci2023). Accepted lightening talk.
 * **23-25/02/2023** _Detecting Potentially Harmful and Protective Suicide-related Content on Twitter: A Machine Learning Approach_, [Annual convention of the Society of Personality and Social Psychology](https://spsp.org/). 
