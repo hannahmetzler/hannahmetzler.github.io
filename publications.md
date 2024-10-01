@@ -8,6 +8,7 @@ ___
 
 ## For the general public
 
+1. **Metzler, H.** (2024). [Mythos Fehlinformation: Warum soziale Medien weniger gefährlich sind, als wir denken](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667), Spektrum der Wissenschaft [online](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667) and in the print edition [Spektrum - Die Woche 35/2024](https://www.spektrum.de/pdf/35-2024-spektrum-die-woche-35-2024/2214951). On political misinformation, propaganda, elections, algorithms and AI. [Author version of the article](blog/2024-09-13-Mythos_Fehlinformation/).
 1. **Metzler, H.** (2023). [Emotions and group dynamics around misinformation on social media](https://www.stockholmresilience.org/news--events/climate-misinformation/chapter-4-emotions-and-group-dynamics-around-misinformation-on-social-media.html), Chapter 4, Synthesis Report on Climate misinformation in a climate of misinformation, Stockholm Resilience Centre.
 2. **Metzler, H.**, Pellert, M., & Garcia, D. (2022). [Using social media data to capture emotions before and during COVID-19](https://worldhappiness.report/ed/2022/using-social-media-data-to-capture-emotions-before-and-during-covid-19/). _World Happiness Report_, 75–104.
 3. Bouchat, P., **Metzler, H.**, & Rimé, B. (2020). [Crise et pandémie. Impact émotionnel et psychosocial du confinement. [Crisis and pandemics. Emotional and psychosocial impact of containment]](https://www.cairn.info/revue-le-journal-des-psychologues-2020-8-page-14.htm#). Le Journal des psychologues, (8), 14-20.
@@ -20,7 +21,6 @@ ___
 1. Lühring, J.\*, Shetty, A.\*, Koschmieder, C., Garcia, D., Waldherr, A., & **Metzler, H.** (2023). Emotions in misinformation studies: Distinguishing affective state from emotional response and misinformation recognition from acceptance. _PsyArXiv_. [https://doi.org/10.31234/osf.io/udqms](https://psyarxiv.com/udqms/). [Data, Code, Pre-registration & SI](https://osf.io/tgzxr/).
 2. Garcia, D., Pellert, M., Lasser, J., & **Metzler, H.** (2021). Social media emotion macroscopes reflect emotional experiences in society at large.  *ArXiv:2107.13236* [Cs]. [http://arxiv.org/abs/2107.13236]( http://arxiv.org/abs/2107.13236).
 3. Galaz, V., Marklund, A., Galafassi, D., Lindahl, T., Castro, A.J., Schill, C., Daume, S., **Metzler, H.**, Peters, H., Bard, J., Ersin, E. H. (under review). Artificial intelligence, emotions and environmental sustainability.
-
 
 
 ___
