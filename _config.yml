@@ -16,13 +16,13 @@ author: Hannah Metzler
 
 navbar-links:
   About Me: "index"
-  Blog: "blog"
   CV: "cv"
   Research: "research"
   Publications: "publications"
   Projects: "projects"
   Talks: "talks"
   In the media: "media"
+  Blog: "blog"
   #Resources:
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
    # - Learn markdown: "https://www.markdowntutorial.com/"
@@ -51,7 +51,7 @@ social-network-links:
   twitter: hannahmetzler1
   ORCID: 0000-0001-9254-3675
   google-scholar: citations?user=fpkiNJYAAAAJ&hl=en
-  linkedin: dr-hannah-metzler-%F0%9F%94%B8-61140695/
+  linkedin: hannah-metzler-61140695/
   youtube: hmetzler
   #  facebook: yourname
   #  reddit: yourname
