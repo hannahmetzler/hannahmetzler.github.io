@@ -19,8 +19,11 @@ navbar-links:
   CV: "cv"
   Research: "research"
   Publications: "publications"
-  Projects: "projects"
-    - Emotions & misinformation: "emomis"
+  Projects:
+    - title: "Projects"    # Top-level link to the "Projects" page
+      url: "projects"
+    - title: "Emotions & misinformation"   # Submenu item under "Projects"
+      url: "emomis"
   Talks: "talks"
   In the media: "media"
   Blog: "blog"
