@@ -20,10 +20,8 @@ navbar-links:
   Research: "research"
   Publications: "publications"
   Projects:
-    - title: "Projects"    # Top-level link to the "Projects" page
-      url: "projects"
-    - title: "Emotions & misinformation"   # Submenu item under "Projects"
-      url: "emomis"
+    Projects: "projects"
+    Emotions & misinformation: "emomis"
   Talks: "talks"
   In the media: "media"
   Blog: "blog"
