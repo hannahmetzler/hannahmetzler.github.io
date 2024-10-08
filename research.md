@@ -66,7 +66,7 @@ I applied experimental techniques from cognitive science, statistical models and
 The "replication crisis" in psychology sparked an intense discussion about the research my project was built on. 
 Really caring about the quality of my own contributions to science, I therefore made my own research as rigorous and reproducible as possible, and became involved in the [open science community](http://improvingpsych.org/). In the end, I learned a ton about what good evidence is, and a lot less about actual effects of power poses.
 
-<br> <br>
+<br>
 
 You can have a look at my PhD thesis here: [The influence of bodily actions on social cognition and behavior: Assessing effects of power postures](https://tel.archives-ouvertes.fr/tel-02372963)
 
