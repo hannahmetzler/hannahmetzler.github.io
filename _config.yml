@@ -20,8 +20,8 @@ navbar-links:
   Research: "research"
   Publications: "publications"
   Projects:
-    Projects: "projects"
-    Emotions & misinformation: "emomis"
+    - Emotions & misinformation: "emomis"
+    #not sure how to include the main project page (called "projects")
   Talks: "talks"
   In the media: "media"
   Blog: "blog"
