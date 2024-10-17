@@ -8,10 +8,9 @@ title: Talks
 
 ## Upcoming talks
 
-- **23/10/2024, 9h** [_Digitalisierte Demkratie im Wandel: Chancen und Risiken durch Künstliche Intelligenz_](https://community.digitalcity.wien/agenda?session=c2Vzc2lvbjoxODAwOTU%3D) at the [Digital Days 2024](https://www.digitalcity.wien/digital-days-2024), Digital City.Wien, Vienna.
-    - Talk on "Polarisierung durch Algorithmen? Demokratie und Meinungsbildung im digitalen Zeitalter – Mythen auf dem Prüfstand" & panel discussion
-- **24/10/2024, 17h** [_Radikale Hoffnung - wie überwinden wir die Polarisierung?_](https://www.ideale-konferenz.at/timetable-24), Panel discussion with Rudi Anschober & Ingrid Brodnig, IDEALE Konferenz, Vienna.
-- **13/11/2024, 16h30** _The Social Dynamics around Misinformation Spreading on Social Media_, Guest lecture in the lecture series "Foundation and Methods of Digital Humanism" at University of Vienna. 
+- **23/10/2024, 10h15-12h**, **Polarisierung durch Algorithmen? Demokratie und Meinungsbildung im digitalen Zeitalter -  – Mythen auf dem Prüfstand**, Impulsvortrag und anschließendes Panel [_Digitalisierte Demkratie im Wandel: Chancen und Risiken durch Künstliche Intelligenz_](https://community.digitalcity.wien/agenda?session=c2Vzc2lvbjoxODAwOTU%3D) bei den [Digital Days 2024](https://www.digitalcity.wien/digital-days-2024), Technisches Museum, Wien.
+- **24/10/2024, 17h** [_Radikale Hoffnung - wie überwinden wir die Polarisierung?_](https://www.ideale-konferenz.at/timetable-24), Panel Diskussion mit Rudi Anschober & Ingrid Brodnig, IDEALE Konferenz, Wien.
+- **13/11/2024, 16h30** _The Social Dynamics around Misinformation Spreading on Social Media_, Guest lecture in the lecture series "Foundation and Methods of Digital Humanism", BIG Hörsaal, University of Vienna. 
 
 ---
 
