@@ -43,7 +43,7 @@ ___
 
 ## Public presentations & panel discussions
 
-- **23/10/2024**, [**Polarisierung durch Algorithmen? Demokratie und Meinungsbildung im digitalen Zeitalter – Mythen auf dem Prüfstand**](https://hannahmetzler.eu/digitaldays), Impulsvortrag & Panel at the [Digital Days 2024](https://www.digitalcity.wien/digital-days-2024), Technical Museum, Vienna.
+- **23/10/2024** [**Polarisierung durch Algorithmen? Demokratie und Meinungsbildung im digitalen Zeitalter – Mythen auf dem Prüfstand**](https://hannahmetzler.eu/digitaldays), Impulsvortrag & Panel at the [Digital Days 2024](https://www.digitalcity.wien/digital-days-2024), Technical Museum, Vienna.
 - **21/05/2024**[Transparenz von Plattformdaten: Wie tickt der Algorithmus?](https://www.rtr.at/medien/aktuelles/veranstaltungen/Veranstaltungen/2024/DSA-veranstaltung_2105.html), panelist, discussion of the Digital Services Act, RTR & KommAustria, Vienna. 
 - **08/05/2024** [Social Media sind (k)ein Klimakiller](https://www.klimaaktiv.at/service/veranstaltungen/Allgemein/webinar-social-media.html). Webinar bei [klimaaktiv](https://www.klimaaktiv.at/bildung/klimadialog/webinare.html) (Initiative des Bundesministeriums für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie), [Recording](https://www.klimaaktiv.at/bildung/klimadialog/webinare.html). [Folien.](https://hannahmetzler.eu/klimaaktiv/)
 * **12/03/2024** [_Der EU Digital Services Act: Chancen für den Forschungsstandort Wien_](https://wwtf.at/veranstaltung-der-eu-digital-services-act-chancen-fuer-den-forschungsstandort-wien/), panelist on the relevance of the DSA for research,  [event](https://www.linkedin.com/events/7158804834106671105/comments/) organized by MA23 and WWTF, at waff Vienna.
