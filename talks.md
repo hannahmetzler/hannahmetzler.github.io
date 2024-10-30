@@ -8,8 +8,7 @@ title: Talks
 
 ## Upcoming talks
 
-- **24/10/2024, 17h** [_Radikale Hoffnung - wie überwinden wir die Polarisierung?_](https://www.ideale-konferenz.at/timetable-24), Panel Diskussion mit Rudi Anschober & Ingrid Brodnig, IDEALE Konferenz, Wien.
-- **13/11/2024, 16h30** _The Social Dynamics around Misinformation Spreading on Social Media_, Guest lecture in the lecture series [Foundation and Methods of Digital Humanism](https://sci-comm.univie.ac.at/lecture-series-and-events/digital-humanism/), BIG Hörsaal, Main building, University of Vienna. 
+- **13/11/2024, 16h30** _The Social Dynamics around Misinformation Spreading on Social Media_, Lecture Series: [Foundation and Methods of Digital Humanism](https://sci-comm.univie.ac.at/lecture-series-and-events/digital-humanism/), BIG Hörsaal, Main building, University of Vienna. 
 
 ---
 
@@ -43,6 +42,7 @@ ___
 
 ## Public presentations & panel discussions
 
+- **24/10/2024, 17h** [_Radikale Hoffnung - wie überwinden wir die Polarisierung?_](https://www.ideale-konferenz.at/timetable-24), Panel Diskussion mit Rudi Anschober & Ingrid Brodnig, IDEALE Konferenz, Wien.
 - **23/10/2024** [**Polarisierung durch Algorithmen? Demokratie und Meinungsbildung im digitalen Zeitalter – Mythen auf dem Prüfstand**](https://hannahmetzler.eu/digitaldays), Impulsvortrag & Panel at the [Digital Days 2024](https://www.digitalcity.wien/digital-days-2024), Technical Museum, Vienna.
 - **21/05/2024**[Transparenz von Plattformdaten: Wie tickt der Algorithmus?](https://www.rtr.at/medien/aktuelles/veranstaltungen/Veranstaltungen/2024/DSA-veranstaltung_2105.html), panelist, discussion of the Digital Services Act, RTR & KommAustria, Vienna. 
 - **08/05/2024** [Social Media sind (k)ein Klimakiller](https://www.klimaaktiv.at/service/veranstaltungen/Allgemein/webinar-social-media.html). Webinar bei [klimaaktiv](https://www.klimaaktiv.at/bildung/klimadialog/webinare.html) (Initiative des Bundesministeriums für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie), [Recording](https://www.klimaaktiv.at/bildung/klimadialog/webinare.html). [Folien.](https://hannahmetzler.eu/klimaaktiv/)
