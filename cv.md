@@ -15,7 +15,7 @@ ___
 
 ## Education summary
 
-* **2014-2018** PhD in Cognitive Neuroscience at Sorbonne University & École Normale Supérieure Paris, supervised by Julie Grèzes  
+* **2014-2018** PhD in Social Neuroscience at Sorbonne University & École Normale Supérieure Paris, supervised by Julie Grèzes  
     Graduate Program at [École des Neurosciences Paris-Île de-France][ENP]
 * **2007-2013** Diploma program in Psychology at University of Vienna  
     Master thesis supervised by Eva-Maria Seidel & Claus Lamm 
@@ -27,7 +27,7 @@ ___
 
 ## Research Experience
 
-* **2020-now** Postdoctoral researcher at the [Computational Social Science lab][CSS]  by David Garcia at [Complexity Science Hub][CSH] & Medical University in Vienna
+* **2020-now** Postdoctoral researcher and project lead at the [Computational Social Science lab][CSS]  by David Garcia at [Complexity Science Hub][CSH] & Medical University in Vienna
     * 2020-2022 10% @ Graz University of Technology
     * 2020-2022 50% @ [Unit Suicide Research and Mental Health Promotion][Thomas]
 * **2019–2020** Senior researcher and project manager @ Open and Reproducible Research Group at [Know-Center][KNOW] - Research Center for Data-Driven Business & Big Data Analytics, Graz
@@ -44,6 +44,7 @@ ___
 
 ## Teaching & supervision
 
+* **2024** [Mastering AI Chatbots: Optimizing Research through Effective Use](https://github.com/hannahmetzler/ai_skills), LBG Career Center
 * **2024** [Data analysis for beginners in R](https://github.com/hannahmetzler/R_intro), LBG Career Center (8h)
 * **2021-now** Introduction to Computational Social Science, Cognitive Science Lecture Series, Cognitive Science Master, University of Vienna (4h)
 * **2020-now** Supervision or co-supervision of 2 PhD theses, 3 Master theses, 8 Master internships & 1 Bachelor internship. Areas: Computational Social Science, Psychology, Data Science. 

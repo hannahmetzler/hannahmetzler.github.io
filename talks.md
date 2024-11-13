@@ -8,7 +8,9 @@ title: Talks
 
 ## Upcoming talks
 
-- **13/11/2024, 16h30** _The Social Dynamics around Misinformation Spreading on Social Media_, Lecture Series: [Foundation and Methods of Digital Humanism](https://sci-comm.univie.ac.at/lecture-series-and-events/digital-humanism/), BIG Hörsaal, Main building, University of Vienna. 
+- **13/11/2024, 16h45** [_The Social Dynamics around Misinformation Spreading on Social Media_](https://hannahmetzler.eu/dighum), Lecture Series: [Foundation and Methods of Digital Humanism](https://sci-comm.univie.ac.at/lecture-series-and-events/digital-humanism/), BIG Hörsaal, Main building, University of Vienna. 
+
+
 
 ---
 
@@ -29,6 +31,7 @@ ___
 
 ## Slides
 
+* [_The Social Dynamics around Misinformation Spreading on Social Media_](https://hannahmetzler.eu/dighum)
 * [Polarisierung durch Algorithmen? Demokratie und Meinungsbildung im digitalen Zeitalter – Mythen auf dem Prüfstand](https://hannahmetzler.eu/digitaldays).
 * [5 Myths about Misinformation](https://hannahmetzler.eu/misinfomyths)
 * [Social Media sind (k)ein Klimakiller](https://hannahmetzler.eu/klimaaktiv/). Der Einfluss von Algorithmen, Echokammern und KI auf den digitalen Diskurs und was zu tun ist.
