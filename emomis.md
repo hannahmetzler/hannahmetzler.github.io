@@ -12,6 +12,7 @@ ___
 
 ## Project News
 
+* Hannah gave a talk on your project results and the bigger picture of [the Social Dynamics around Misinformation Spreading on Social Media](https://hannahmetzler.eu/dighum) in the [Digital Humanism Lecture Series](https://sci-comm.univie.ac.at/lecture-series-and-events/digital-humanism/).
 * Jula gave a public talk at VHS on [Misinformation und Fake News in den sozialen Medien: Einblicke in die interdisziplinäre Forschungslage](https://julaluehring.github.io/vhs-misinformation).
 * Hannah gave a talk at the Digital Days Vienna, on polarization and algorithms and their role for democracy and opinions. The German slides are online here: [Polarisierung durch Algorithmen? Demokratie und Meinungsbildung im digitalen Zeitalter – Mythen auf dem Prüfstand](https://hannahmetzler.eu/digitaldays)."
 * We have published a new [pre-print on best practices on measuring news trustworthiness via source links](https://doi.org/10.31234/osf.io/v6e4b) led by Jula!
@@ -69,7 +70,7 @@ In November 2021, we started the project *Emotional Misinformation – The Inter
 
 For more: 
 
-* [Summary](https://hannahmetzler.eu/emomis_update_2024) of project results in April 2024
+* [Summary](https://hannahmetzler.eu/dighum) of project results in November 2024 ([Recording](https://www.youtube.com/watch?v=nVavOHdwRPg&t=4s)
 * [Slides](https://hannahmetzler.eu/measuring_emo_misinfo) of our first online study on how emotions and fake news recognition are related. 
 * [Slides](https://hannahmetzler.eu/emomis_stockholm) of a talk at the Conference on Intelligent Machines, Emotions and the Planet
 * [Video](https://www.wilsoncenter.org/event/digital-humanism-how-put-humans-center-emerging-tech) of a panel discussion, including a brief introduction to EMOMIS, starting at at 29 minutes into the video. 
