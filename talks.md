@@ -6,16 +6,9 @@ title: Talks
 
 ---
 
-## Upcoming talks
-
-- **13/11/2024, 16h45** [_The Social Dynamics around Misinformation Spreading on Social Media_](https://hannahmetzler.eu/dighum), Lecture Series: [Foundation and Methods of Digital Humanism](https://sci-comm.univie.ac.at/lecture-series-and-events/digital-humanism/), BIG Hörsaal, Main building, University of Vienna. 
-
-
-
----
-
 ## Recorded talks
 
+* [The Social Dynamics around Misinformation Spreading on Social Media](https://www.youtube.com/watch?v=nVavOHdwRPg&t=4s)
 * [Social Media sind (k)ein Klimkaller.](https://www.klimaaktiv.at/bildung/klimadialog/webinare/social-media.html)
 * **Collective emotions during the COVID-19 Outbreak**
     - [Oxford Wellbeing Research Centre Seminar Series 2021](https://www.youtube.com/watch?v=d953J1vcH4s) (20 minutes)
@@ -45,6 +38,7 @@ ___
 
 ## Public presentations & panel discussions
 
+1. **13/11/2024** [_The Social Dynamics around Misinformation Spreading on Social Media_](https://hannahmetzler.eu/dighum), Lecture Series: [Foundation and Methods of Digital Humanism](https://sci-comm.univie.ac.at/lecture-series-and-events/digital-humanism/), BIG Lecture room, University of Vienna. 
 1. **24/10/2024, 17h** [_Radikale Hoffnung - wie überwinden wir die Polarisierung?_](https://www.ideale-konferenz.at/timetable-24), Panel Diskussion mit Rudi Anschober & Ingrid Brodnig, IDEALE Konferenz, Wien.
 1. **23/10/2024** [**Polarisierung durch Algorithmen? Demokratie und Meinungsbildung im digitalen Zeitalter – Mythen auf dem Prüfstand**](https://hannahmetzler.eu/digitaldays), Impulsvortrag & Panel at the [Digital Days 2024](https://www.digitalcity.wien/digital-days-2024), Technical Museum, Vienna.
 1. **21/05/2024**[Transparenz von Plattformdaten: Wie tickt der Algorithmus?](https://www.rtr.at/medien/aktuelles/veranstaltungen/Veranstaltungen/2024/DSA-veranstaltung_2105.html), panelist, discussion of the Digital Services Act, RTR & KommAustria, Vienna. 
