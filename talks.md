@@ -24,7 +24,7 @@ ___
 
 ## Slides
 
-* [_The Social Dynamics around Misinformation Spreading on Social Media_](https://hannahmetzler.eu/dighum)
+* [The Social Dynamics around Misinformation Spreading on Social Media](https://hannahmetzler.eu/dighum)
 * [Polarisierung durch Algorithmen? Demokratie und Meinungsbildung im digitalen Zeitalter – Mythen auf dem Prüfstand](https://hannahmetzler.eu/digitaldays).
 * [5 Myths about Misinformation](https://hannahmetzler.eu/misinfomyths)
 * [Social Media sind (k)ein Klimakiller](https://hannahmetzler.eu/klimaaktiv/). Der Einfluss von Algorithmen, Echokammern und KI auf den digitalen Diskurs und was zu tun ist.
