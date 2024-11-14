@@ -12,7 +12,7 @@ ___
 
 ## Project News
 
-* Jula gave a public talk at VHS on [(https://julaluehring.github.io/vhs-misinformation).: Einblicke in die interdisziplinäre Forschungslage. 
+* Jula gave a public talk at VHS on [Misinformation und Fake News in den sozialen Medien: Einblicke in die interdisziplinäre Forschungslage.](https://julaluehring.github.io/vhs-misinformation).
 * Hannah gave a talk at the Digital Days Vienna, on polarization and algorithms and their role for democracy and opinions. The German slides are online here: [Polarisierung durch Algorithmen? Demokratie und Meinungsbildung im digitalen Zeitalter – Mythen auf dem Prüfstand](https://hannahmetzler.eu/digitaldays)."
 * We have published a new [pre-print on best practices on measuring news trustworthiness via source links](https://doi.org/10.31234/osf.io/v6e4b) led by Jula!
 * Hannah's article in 'Spektrum der Wissenschaften' on political misinformation, propaganda, elections, algorithms and AI: [Mythos Fehlinformation: Warum soziale Medien weniger gefährlich sind, als wir denken](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667), Spektrum der Wissenschaft [online](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667) and in the print edition [Spektrum - Die Woche 35/2024](https://www.spektrum.de/pdf/35-2024-spektrum-die-woche-35-2024/2214951). [Author version of the article]({% post_url 2024-09-13-Mythos_Fehlinformation %}).
@@ -102,8 +102,8 @@ ___
 ### Outreach
 
 
-1. Metzler, H. (13 November 2024) [_The Social Dynamics around Misinformation Spreading on Social Media_](https://hannahmetzler.eu/dighum), Lecture Series: [Foundation and Methods of Digital Humanism](https://sci-comm.univie.ac.at/lecture-series-and-events/digital-humanism/), BIG Lecture room, University of Vienna.  
-1. Metzler, H. (24 October 2024) [_Radikale Hoffnung - wie überwinden wir die Polarisierung?_](https://www.ideale-konferenz.at/timetable-24), Panel discussion with Rudi Anschober & Ingrid Brodnig, IDEALE Konferenz, Vienna.
+1. Metzler, H. (13 November 2024) [The Social Dynamics around Misinformation Spreading on Social Media](https://hannahmetzler.eu/dighum), Lecture Series: [Foundation and Methods of Digital Humanism](https://sci-comm.univie.ac.at/lecture-series-and-events/digital-humanism/), BIG Lecture room, University of Vienna.  
+1. Metzler, H. (24 October 2024) [Radikale Hoffnung - wie überwinden wir die Polarisierung?](https://www.ideale-konferenz.at/timetable-24), Panel discussion with Rudi Anschober & Ingrid Brodnig, IDEALE Konferenz, Vienna.
 1. Luehring, J. (2024, October). [Misinformation und Fake News in den sozialen Medien: Einblicke in die interdisziplinäre Forschungslage.](https://julaluehring.github.io/vhs-misinformation), [VHS Urania Schwerpunkt Demokratie](https://www.vhs.at/de/k/287686761).
 1. Metzler, H. (23 October 2024) [Polarisierung durch Algorithmen? Demokratie und Meinungsbildung im digitalen Zeitalter – Mythen auf dem Prüfstand](https://hannahmetzler.eu/digitaldays), Impulsvortrag & Panel at the [Digital Days 2024](https://www.digitalcity.wien/digital-days-2024), Technical Museum, Vienna.
 1. Jula, L & Waldherr, A. [Update](https://publizistik.univie.ac.at/aktuelles/aktuelle-meldungen/news-einzelansicht/news/forschungsprojekte-am-institut-emomis-fehlinformationen-und-emotionen-auf-social-media/) about research on our project at Uni Vienna.
