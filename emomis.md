@@ -17,6 +17,7 @@ ___
 * Hannah gave a talk at the Digital Days Vienna, on polarization and algorithms and their role for democracy and opinions. The German slides are online here: [Polarisierung durch Algorithmen? Demokratie und Meinungsbildung im digitalen Zeitalter – Mythen auf dem Prüfstand](https://hannahmetzler.eu/digitaldays)."
 * We have published a new [pre-print on best practices on measuring news trustworthiness via source links](https://doi.org/10.31234/osf.io/v6e4b) led by Jula!
 * Hannah's article in 'Spektrum der Wissenschaften' on political misinformation, propaganda, elections, algorithms and AI: [Mythos Fehlinformation: Warum soziale Medien weniger gefährlich sind, als wir denken](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667), Spektrum der Wissenschaft [online](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667) and in the print edition [Spektrum - Die Woche 35/2024](https://www.spektrum.de/pdf/35-2024-spektrum-die-woche-35-2024/2214951). [Author version of the article]({% post_url 2024-09-13-Mythos_Fehlinformation %}).
+* Jula explains her research on Emotions & Misinformation in this 3-minutes [video](https://www.youtube.com/watch?v=8uoJVLcbHJU&t=8s).
 * Jula & Apeksha presented their work at the [Symposium MISDOOM 2024](https://www.misdoom2024.uni-muenster.de/program/) in Münster.
 * Our first pre-print: [Twitter thread](https://twitter.com/hannahmetzler1/status/1643978293455241217) or [full version](https://doi.org/10.31234/osf.io/udqms).
 
@@ -43,14 +44,14 @@ ___
 <br>
 
 * [Hannah Metzler](https://hannahmetzler.eu) (PI), Meduni Wien & Complexity Science Hub Vienna
+* [Apeksha Shetty](https://www.csh.ac.at/researcher/apeksha-shetty/) (PhD student), Complexity Science Hub Vienna
+* [Jula Lühring](https://julaluehring.github.io/) (PhD student), University of Vienna
 * [David Garcia](https://dgarcia.eu) (Co-PI), University of Konstanz & Complexity Science Hub Vienna
 * [Annie Waldherr](https://compcommlab.univie.ac.at/team/annie-waldherr/) (Co-PI), University of Vienna
-* [Apeksha Shetty](https://www.csh.ac.at/researcher/apeksha-shetty/) (PhD student), Complexity Science Hub Vienna
-* [Jula Lühring](https://publizistik.univie.ac.at/institut/mitarbeiterinnen-mitarbeiter/praedocs/luehring-jula/) (PhD student), University of Vienna
+
 
 ### Follow us on social media for regular updates! <br>
 
-* Twitter/X: [Hannah](https://twitter.com/hannahmetzler1),  [Apeksha](https://twitter.com/apeksha_sh), [Jula](https://twitter.com/lue_jula), [David](https://twitter.com/dgarcia_eu), [Annie](https://twitter.com/annie_waldherr),
 * Bluesky: [Hannah](https://bsky.app/profile/hannahmetzler.bsky.social), [Apeksha](https://bsky.app/profile/apeksha.bsky.social), [Jula](https://bsky.app/julaluehring.bsky.social), [Annie](https://bsky.app/anniewald.bsky.social)
 
 <img src="/assets/img/WWTF_Text_E_RGB_300dpi.png"
