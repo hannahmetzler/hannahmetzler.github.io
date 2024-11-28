@@ -98,7 +98,7 @@ ___
 1. Shetty, A. (23-25 February 2023) _Measuring emotions in misinformation studies: A replication and extension of Martel et al. (2020)_ Online  presentation. Annual Convention of the Society of Personality and Social Psychology.
 1. Metzler, H. (14 January 2022). _Emotional misinformation spreading: The interplay of emotions and misinformation on social media_, [Conference on Intelligent Machines, Emotions](https://hopin.com/events/intelligentmachinesemotionsourplanet#schedule), and the Planet, Stockholm. [Slides](https://hannahmetzler.eu/emomis_stockholm).
 1. Shetty, A., & Hannah Metzler (27 June 2022). Reducing belief in misinformation: Targeting emotional and social influences. [Pre-data poster](https://osf.io/z3x98). Society for the Improvement of Psychological Science, 7th Annual Conference.
-* Lühring, J.\*, Shetty, A.\*, Koschmieder, C., Garcia, D., Waldherr, A., & Metzler, H. (11 October 2022). Measuring emotions in misinformation studies: A replication and extension of Martel et al. (2020). [Accepted paper & presentation]. [ECREA Early Career Scholars Workshop in Political Communication: “Advancing Concepts and Methods in Political Communication.”](https://ecrea.eu/event-4795610) *Equal contributions.
+1. Lühring, J.\*, Shetty, A.\*, Koschmieder, C., Garcia, D., Waldherr, A., & Metzler, H. (11 October 2022). Measuring emotions in misinformation studies: A replication and extension of Martel et al. (2020). [Accepted paper & presentation]. [ECREA Early Career Scholars Workshop in Political Communication: “Advancing Concepts and Methods in Political Communication.”](https://ecrea.eu/event-4795610) *Equal contributions.
 
 
 ### Outreach
