@@ -25,6 +25,7 @@ ___
 
 * [Mythos Fehlinformation: Warum soziale Medien weniger gefährlich sind, als wir denken](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667), Spektrum der Wissenschaft online  and in the print edition [Spektrum - Die Woche 35/2024](https://www.spektrum.de/pdf/35-2024-spektrum-die-woche-35-2024/2214951). [Author version of the article]({% post_url 2024-09-13-Mythos_Fehlinformation %}).
 * [Podcast](https://www.derstandard.at/story/3000000218043/wahrheit-gegen-luege-die-psychologie-hinter-fake-news) and [Article](https://www.derstandard.at/story/3000000220181/wieso-glauben-menschen-falschnachrichten-uebers-klima) by Hannah at DerStandard on social media, emotions, misinformation & climate change
+* [ORF 1 documentary Dok 1](https://tv.orf.at/dok-1/index.html): Hannah talked about social media & hate speech.
 * Social media and debates about climate change
      - [APA](https://science.apa.at/power-search/12856578295990689252)
      - [DerStandard](https://www.derstandard.de/story/3000000180511/expertin-sieht-in-social-media-keinen-klima-killer)
@@ -58,7 +59,6 @@ ___
      alt="Vienna Science and Technology Fund"
      style="float: center; padding-bottom: 5px; width:50%; height:auto"/>
 
-
 ## About the project
 
 In November 2021, we started the project *Emotional Misinformation – The Interplay of Emotion and Misinformation Spreading on Social Media* (EMOMIS). It is funded with 400.000 Euros by the Vienna Science and Technology Fund ([WWTF](https://wwtf.at/funding/programmes/ict/ICT20-028/)) until February 2025. What we do in 5 bullet points: 
@@ -79,26 +79,26 @@ For more:
 
 ___
 
-## Conference and seminar talks
+## Publications
 
 
-1. Lühring, J. (4 September 2024) Effects of Misinformation on Online Dicussions, [Symposium MISDOOM 2024](https://www.misdoom2024.uni-muenster.de/program/), Münster.
-1. Shetty, A. (4 September 2024) Emotional Dynamics and Algorithmic Interventions: Curbing Misinformation Among Political Elites on Twitter, [Symposium MISDOOM 2024](https://www.misdoom2024.uni-muenster.de/program/), Münster, Germany.
-1. Luehring, J. (July 2024). [Emotional misinformation diffusion: Mapping socio-affective dynamics in the digital information ecosystem](https://julaluehring.github.io/emotional-speech-workshop/). Invited talk at the Emotional Speech Worksho, Ruhr-Universität Bochum, Germany. 
-1. Lühring, J. (14 May 2024) [_Misinformation in den sozialen Medien_](https://julaluehring.github.io/misinformation_in_den_sozialen_medien/), guest lecture, University of Vienna. 
-1. Lühring, J. (June 2024) [Effects of misinformation on online discussions](https://julaluehring.github.io/emomis-csh-friday-talk/), Invited talk at the Friday Talk Series (Complexity Science Hub, Vienna).
-1. Shetty, A. (16 May 2024) _Emotional Dynamics and Algorithmic Interventions: Curbing Misinformation Among Political Elites on Twitter_, University of Konstanz.
-1. Lühring, J. (4 May 2024) [_Effects of source trustworthiness on online discussions_](https://julaluehring.github.io/emo_discussions_comptext/), 2024 COMPTEXT Meeting, Amsterdam, Netherlands. 
-1. Shetty, A. (21-22 November 2023) _Emotions in misinformation studies: Distinguishing affective state from emotional response and misinformation recognition from acceptance_, [5th Symposium on Multidisciplinary International Symposium on Disinformation in Open Online Media](https://event.cwi.nl/misdoom-2023/), Amsterdam. 
-1. Lühring, J. (25-29 May 2023) _Measuring emotions in misinformation studies: Distinguishing emotional state from response and misinformation recognition from susceptibility_, [73rd Annual Conference of the International Communication Association (ICA)](https://www.icahdq.org/mpage/ICA23), Toronto, Canada.
-1. Metzler, H. (8 February 2023) _Measuring emotions in misinformation studies: Distinguishing emotional state from response and misinformation recognition from susceptibility_, [Expert Workshop on Mis- and disinformation, Zürich](https://www.disinformation-project.com/activties), University of Zurich. [Slides](http://hannahmetzler.eu/measuring_emo_misinfo)
-1. Shetty, A. (23-25 February 2023) _Measuring emotions in misinformation studies: A replication and extension of Martel et al. (2020)_ Online  presentation. Annual Convention of the Society of Personality and Social Psychology.
-1. Metzler, H. (14 January 2022). _Emotional misinformation spreading: The interplay of emotions and misinformation on social media_, [Conference on Intelligent Machines, Emotions](https://hopin.com/events/intelligentmachinesemotionsourplanet#schedule), and the Planet, Stockholm. [Slides](https://hannahmetzler.eu/emomis_stockholm).
-1. Shetty, A., & Hannah Metzler (27 June 2022). Reducing belief in misinformation: Targeting emotional and social influences. [Pre-data poster](https://osf.io/z3x98). Society for the Improvement of Psychological Science, 7th Annual Conference.
-1. Lühring, J.\*, Shetty, A.\*, Koschmieder, C., Garcia, D., Waldherr, A., & Metzler, H. (11 October 2022). Measuring emotions in misinformation studies: A replication and extension of Martel et al. (2020). [Accepted paper & presentation]. [ECREA Early Career Scholars Workshop in Political Communication: “Advancing Concepts and Methods in Political Communication.”](https://ecrea.eu/event-4795610) *Equal contributions.
+### Pre-prints
+
+1. Lühring, J., Metzler, H., Lazzaroni, R. M., Shetty, A., & Lasser, J. (2024). Best practices for source-based research on misinformation and news trustworthiness. OSF. <https://doi.org/10.31234/osf.io/v6e4b>
+1. Lühring, J.\*, Shetty, A.\*, Koschmieder, C., Garcia, D., Waldherr, A., & Metzler, H. (2023). Emotions in misinformation studies: Distinguishing affective state from emotional response and misinformation recognition from acceptance. PsyArXiv. <https://doi.org/10.31234/osf.io/udqms>. [Data, Code, Pre-registration & SI](https://osf.io/tgzxr/).
+
+### Scientific journal articles
+
+1. Metzler, H., & Garcia, D. (2023). [Social drivers and algorithmic mechanisms on digital media.](https://doi.org/10.1177/17456916231185057) _Perspectives on Psychological Science 0_(0). https://doi.org/10.1177/17456916231185057.
+
+### For the general public: 
+
+1. Metzler, H. (22.08.2024). [Mythos Fehlinformation: Warum soziale Medien weniger gefährlich sind, als wir denken](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667), Spektrum der Wissenschaft online. 
+2. Metzler, H. (26.08.2024). [Mythos Fehlinformation: Warum soziale Medien weniger gefährlich sind, als wir denken](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667), [Spektrum - Die Woche 35/2024](https://www.spektrum.de/pdf/35-2024-spektrum-die-woche-35-2024/2214951).
+3. Metzler, H. (2023). [Emotions and group dynamics around misinformation on social media](https://www.stockholmresilience.org/news--events/climate-misinformation/chapter-4-emotions-and-group-dynamics-around-misinformation-on-social-media.html), Chapter 4, Synthesis Report on __Climate misinformation in a climate of misinformation__, Stockholm Resilience Centre. 
 
 
-## Public Outreach
+## Public talks, videos, podcasts, blogposts & more
 
 
 1. Metzler, H. (13 November 2024) [The Social Dynamics around Misinformation Spreading on Social Media](https://hannahmetzler.eu/dighum), Lecture Series: [Foundation and Methods of Digital Humanism](https://sci-comm.univie.ac.at/lecture-series-and-events/digital-humanism/), BIG Lecture room, University of Vienna.  
@@ -116,22 +116,22 @@ ___
 1. Metzler, H.(18 November 2021). _Emotional Misinformation: The interplay of emotions and misinformation spreading on social media_, Vienna Art Week, Session on [„Regaining Control. Der Mensch im Zentrum der technologischen Entwicklung“](https://www.viennaartweek.at/de/program/losing-control-line-up/). [Slides](https://hannahmetzler.eu/viennaartweek/).
 
 
-## Publications
+## Conference and seminar talks
 
-### For the general public
-
-1. Metzler, H. (22.08.2024). [Mythos Fehlinformation: Warum soziale Medien weniger gefährlich sind, als wir denken](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667), Spektrum der Wissenschaft online. 
-2. Metzler, H. (26.08.2024). [Mythos Fehlinformation: Warum soziale Medien weniger gefährlich sind, als wir denken](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667), [Spektrum - Die Woche 35/2024](https://www.spektrum.de/pdf/35-2024-spektrum-die-woche-35-2024/2214951).
-3. Metzler, H. (2023). [Emotions and group dynamics around misinformation on social media](https://www.stockholmresilience.org/news--events/climate-misinformation/chapter-4-emotions-and-group-dynamics-around-misinformation-on-social-media.html), Chapter 4, Synthesis Report on __Climate misinformation in a climate of misinformation__, Stockholm Resilience Centre. 
-
-### Pre-prints
-
-1. Lühring, J., Metzler, H., Lazzaroni, R. M., Shetty, A., & Lasser, J. (2024). Best practices for source-based research on misinformation and news trustworthiness. OSF. <https://doi.org/10.31234/osf.io/v6e4b>
-1. Lühring, J.\*, Shetty, A.\*, Koschmieder, C., Garcia, D., Waldherr, A., & Metzler, H. (2023). Emotions in misinformation studies: Distinguishing affective state from emotional response and misinformation recognition from acceptance. PsyArXiv. <https://doi.org/10.31234/osf.io/udqms>. [Data, Code, Pre-registration & SI](https://osf.io/tgzxr/).
-
-### Publications
-
-1. Metzler, H., & Garcia, D. (2023). [Social drivers and algorithmic mechanisms on digital media.](https://doi.org/10.1177/17456916231185057) _Perspectives on Psychological Science 0_(0). https://doi.org/10.1177/17456916231185057.
+1. Lühring, J. (4 September 2024) Effects of Misinformation on Online Dicussions, [Symposium MISDOOM 2024](https://www.misdoom2024.uni-muenster.de/program/), Münster, Germany. 
+1. Shetty, A. (4 September 2024) Emotional Dynamics and Algorithmic Interventions: Curbing Misinformation Among Political Elites on Twitter, [Symposium MISDOOM 2024](https://www.misdoom2024.uni-muenster.de/program/), Münster, Germany.
+1. Luehring, J. (5 July 2024). [Emotional misinformation diffusion: Mapping socio-affective dynamics in the digital information ecosystem](https://julaluehring.github.io/emotional-speech-workshop/). Invited talk at the Emotional Speech Workshop, Ruhr-Universität Bochum, Germany. 
+1. Lühring, J. (14 May 2024) [_Misinformation in den sozialen Medien_](https://julaluehring.github.io/misinformation-in-den-sozialen-medien/), guest lecture in “Theories and Practices of Social Media Communication”, University of Vienna.
+1. Lühring, J. (June 2024) [Effects of misinformation on online discussions](https://julaluehring.github.io/emomis-csh-friday-talk/), Invited talk at the Friday Talk Series (Complexity Science Hub, Vienna).
+1. Shetty, A. (16 May 2024) _Emotional Dynamics and Algorithmic Interventions: Curbing Misinformation Among Political Elites on Twitter_, University of Konstanz.
+1. Lühring, J. (4 May 2024) [_Effects of source trustworthiness on online discussions, 2024 COMPTEXT Meeting_](https://julaluehring.github.io/emo_discussions_comptext/), 2024 COMPTEXT Meeting, Amsterdam, Netherlands. 
+1. Shetty, A. (21-22 November 2023) _Emotions in misinformation studies: Distinguishing affective state from emotional response and misinformation recognition from acceptance_, [5th Symposium on Multidisciplinary International Symposium on Disinformation in Open Online Media](https://event.cwi.nl/misdoom-2023/), Amsterdam. 
+1. Lühring, J. (25-29 May 2023) _Measuring emotions in misinformation studies: Distinguishing emotional state from response and misinformation recognition from susceptibility_, [73rd Annual Conference of the International Communication Association (ICA)](https://www.icahdq.org/mpage/ICA23), Toronto, Canada.
+1. Metzler, H. (8 February 2023) _Measuring emotions in misinformation studies: Distinguishing emotional state from response and misinformation recognition from susceptibility_, [Expert Workshop on Mis- and disinformation, Zürich](https://www.disinformation-project.com/activties), University of Zurich. [Slides](http://hannahmetzler.eu/measuring_emo_misinfo)
+1. Shetty, A. (23-25 February 2023) _Measuring emotions in misinformation studies: A replication and extension of Martel et al. (2020)_ Online  presentation. Annual Convention of the Society of Personality and Social Psychology.
+1. Metzler, H. (14 January 2022). _Emotional misinformation spreading: The interplay of emotions and misinformation on social media_, [Conference on Intelligent Machines, Emotions](https://hopin.com/events/intelligentmachinesemotionsourplanet#schedule), and the Planet, Stockholm. [Slides](https://hannahmetzler.eu/emomis_stockholm).
+1. Shetty, A., & Hannah Metzler (27 June 2022). Reducing belief in misinformation: Targeting emotional and social influences. [Pre-data poster](https://osf.io/z3x98). Society for the Improvement of Psychological Science, 7th Annual Conference.
+1. Lühring, J.\*, Shetty, A.\*, Koschmieder, C., Garcia, D., Waldherr, A., & Metzler, H. (11 October 2022). Measuring emotions in misinformation studies: A replication and extension of Martel et al. (2020). [Accepted paper & presentation]. [ECREA Early Career Scholars Workshop in Political Communication: “Advancing Concepts and Methods in Political Communication.”](https://ecrea.eu/event-4795610) *Equal contributions.
 
 
 ## Internships
