@@ -79,10 +79,7 @@ For more:
 
 ___
 
-
-## Project talks
-
-### Conference and seminar talks
+## Conference and seminar talks
 
 
 1. Lühring, J. (4 September 2024) Effects of Misinformation on Online Dicussions, [Symposium MISDOOM 2024](https://www.misdoom2024.uni-muenster.de/program/), Münster.
@@ -101,20 +98,19 @@ ___
 1. Lühring, J.\*, Shetty, A.\*, Koschmieder, C., Garcia, D., Waldherr, A., & Metzler, H. (11 October 2022). Measuring emotions in misinformation studies: A replication and extension of Martel et al. (2020). [Accepted paper & presentation]. [ECREA Early Career Scholars Workshop in Political Communication: “Advancing Concepts and Methods in Political Communication.”](https://ecrea.eu/event-4795610) *Equal contributions.
 
 
-### Outreach
+## Public Outreach
 
 
 1. Metzler, H. (13 November 2024) [The Social Dynamics around Misinformation Spreading on Social Media](https://hannahmetzler.eu/dighum), Lecture Series: [Foundation and Methods of Digital Humanism](https://sci-comm.univie.ac.at/lecture-series-and-events/digital-humanism/), BIG Lecture room, University of Vienna.  
 1. Metzler, H. (24 October 2024) [Radikale Hoffnung - wie überwinden wir die Polarisierung?](https://www.ideale-konferenz.at/timetable-24), Panel discussion with Rudi Anschober & Ingrid Brodnig, IDEALE Konferenz, Vienna.
-1. Luehring, J. (2024, October). [Misinformation und Fake News in den sozialen Medien: Einblicke in die interdisziplinäre Forschungslage.](https://julaluehring.github.io/vhs-misinformation), [VHS Urania Schwerpunkt Demokratie](https://www.vhs.at/de/k/287686761).
-1. Metzler, H. (23 October 2024) [Polarisierung durch Algorithmen? Demokratie und Meinungsbildung im digitalen Zeitalter – Mythen auf dem Prüfstand](https://hannahmetzler.eu/digitaldays), Impulsvortrag & Panel at the [Digital Days 2024](https://www.digitalcity.wien/digital-days-2024), Technical Museum, Vienna.
-1. Jula, L & Waldherr, A. [Update](https://publizistik.univie.ac.at/aktuelles/aktuelle-meldungen/news-einzelansicht/news/forschungsprojekte-am-institut-emomis-fehlinformationen-und-emotionen-auf-social-media/) about research on our project at Uni Vienna.
-1. Metzler H. [Video](https://www.youtube.com/watch?v=xpiiOqwGQa8) on our research and its relevance in the Digital Humanism series
-1. Metzler H. (29 May 2025) [ORF 1 documentary Dok 1](https://tv.orf.at/dok-1/index.html): "Jeder gegen Jeden? Österreich rastet aus" \[“Everyone against Everyone: Austria goes berserk”\], social media effects on hate speech
+1. Luehring, J. (07.10.2024). [Misinformation und Fake News in den sozialen Medien: Einblicke in die interdisziplinäre Forschungslage.](https://julaluehring.github.io/vhs-misinformation), VHS Urania Schwerpunkt Demokratie.
+1. Metzler, H. (23 October 2024) [Polarisierung durch Algorithmen? Demokratie und Meinungsbildung im digitalen Zeitalter – Mythen auf dem Prüfstand](https://hannahmetzler.eu/digitaldays), Keynote speech & Panel at the [Digital Days 2024](https://www.digitalcity.wien/digital-days-2024), Technical Museum, Vienna.
+1. Metzler H. (29 May 2024) [ORF 1 documentary Dok 1](https://tv.orf.at/dok-1/index.html): "Jeder gegen Jeden? Österreich rastet aus" \[“Everyone against Everyone: Austria goes berserk”\]
 1. Metzler, H. (6 May 2024). [Social Media sind (k)ein Klimakiller](https://www.klimaaktiv.at/service/veranstaltungen/Allgemein/webinar-social-media.html). Webinar bei [klimaaktiv](https://www.klimaaktiv.at/bildung/klimadialog/webinare.html) (Initiative des Bundesministeriums für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie), [Recording](https://www.klimaaktiv.at/bildung/klimadialog/webinare.html). [Folien.](https://hannahmetzler.eu/klimaaktiv/)
+1. Breit, L. & Metzler, H. (23.05.2024) [Wieso glauben Menschen Falschnachrichten übers Klima?](https://www.derstandard.at/story/3000000220181/wieso-glauben-menschen-falschnachrichten-uebers-klima), DerStandard, Edition Zukunft. 
 1. Metzler, H. (3 May 2024). [Wahrheit gegen Lüge: Die Psychologie hinter Fake News](https://www.derstandard.at/story/3000000218043/wahrheit-gegen-luege-die-psychologie-hinter-fake-news). DerStandard Podcast Edition Zukunft Klimafragen.
 1. Metzler, H. (12 March 2024). [_Der EU Digital Services Act: Chancen für den Forschungsstandort Wien_](https://wwtf.at/veranstaltung-der-eu-digital-services-act-chancen-fuer-den-forschungsstandort-wien/), panelist on the relevance of the DSA for research,  [event](https://www.linkedin.com/events/7158804834106671105/comments/) organized by MA23 and WWTF, at waff Vienna.
-* Arndt, A., Lühring, J. & Waldherr, A. (17 November 2023). [Forschungsprojekte am Institut: EMOMIS – Fehlinformationen und Emotionen auf Social Media](https://publizistik.univie.ac.at/aktuelles/aktuelle-meldungen/news-einzelansicht/news/forschungsprojekte-am-institut-emomis-fehlinformationen-und-emotionen-auf-social-media/), Blog post, University of Vienna. 
+1. Arndt, A., Lühring, J. & Waldherr, A. (17 November 2023). [Forschungsprojekte am Institut: EMOMIS – Fehlinformationen und Emotionen auf Social Media](https://publizistik.univie.ac.at/aktuelles/aktuelle-meldungen/news-einzelansicht/news/forschungsprojekte-am-institut-emomis-fehlinformationen-und-emotionen-auf-social-media/), Blog post, University of Vienna. 
 1. Metzler, H. (27 September 2023). [Science communication video](https://www.youtube.com/watch?v=xpiiOqwGQa8) on our research and its relevance in the Digital Humanism series, Complexity Science Hub Vienna. 
 1. Metzler, H. (20 April 2022)._Digital Humanism - How to Put Humans at the Center of Emerging Tech_, Panel discussion, Wilson Center. [Video](https://www.wilsoncenter.org/event/digital-humanism-how-put-humans-center-emerging-tech) including a brief introduction to the Emotion & Misinformation project (at 29 minutes).
 1. Metzler, H.(18 November 2021). _Emotional Misinformation: The interplay of emotions and misinformation spreading on social media_, Vienna Art Week, Session on [„Regaining Control. Der Mensch im Zentrum der technologischen Entwicklung“](https://www.viennaartweek.at/de/program/losing-control-line-up/). [Slides](https://hannahmetzler.eu/viennaartweek/).
@@ -124,8 +120,8 @@ ___
 
 ### For the general public
 
-1. Metzler, H. (2024). [Mythos Fehlinformation: Warum soziale Medien weniger gefährlich sind, als wir denken](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667), Spektrum der Wissenschaft online. 
-2. Metzler, H. (2024). [Mythos Fehlinformation: Warum soziale Medien weniger gefährlich sind, als wir denken](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667), [Spektrum - Die Woche 35/2024](https://www.spektrum.de/pdf/35-2024-spektrum-die-woche-35-2024/2214951).
+1. Metzler, H. (22.08.2024). [Mythos Fehlinformation: Warum soziale Medien weniger gefährlich sind, als wir denken](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667), Spektrum der Wissenschaft online. 
+2. Metzler, H. (26.08.2024). [Mythos Fehlinformation: Warum soziale Medien weniger gefährlich sind, als wir denken](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667), [Spektrum - Die Woche 35/2024](https://www.spektrum.de/pdf/35-2024-spektrum-die-woche-35-2024/2214951).
 3. Metzler, H. (2023). [Emotions and group dynamics around misinformation on social media](https://www.stockholmresilience.org/news--events/climate-misinformation/chapter-4-emotions-and-group-dynamics-around-misinformation-on-social-media.html), Chapter 4, Synthesis Report on __Climate misinformation in a climate of misinformation__, Stockholm Resilience Centre. 
 
 ### Pre-prints
