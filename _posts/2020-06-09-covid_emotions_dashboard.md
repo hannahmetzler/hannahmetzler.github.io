@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Dashboard of Austrian sentiments during COVID-19
-thumbnail-img: /assets/img/Austria_allemo_2020_timeline.pdf
 tags: [publications, covid-19, emotions]
 date: 2020-06-19
 comments: true
