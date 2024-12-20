@@ -16,8 +16,7 @@ ___
 
 ## Pre-prints & manuscripts under review
 
-1. Lühring, J.\*, Shetty, A.\*, Koschmieder, C., Garcia, D., Waldherr, A., & **Metzler, H.** (2023). Emotions in misinformation studies: Distinguishing affective state from emotional response and misinformation recognition from acceptance. _PsyArXiv_. [https://doi.org/10.31234/osf.io/udqms](https://psyarxiv.com/udqms/). [Data, Code, Pre-registration & SI](https://osf.io/tgzxr/).
-2. Garcia, D., Pellert, M., Lasser, J., & **Metzler, H.** (2021). Social media emotion macroscopes reflect emotional experiences in society at large.  *ArXiv:2107.13236* [Cs]. [http://arxiv.org/abs/2107.13236]( http://arxiv.org/abs/2107.13236).
+1. Garcia, D., Pellert, M., Lasser, J., & **Metzler, H.** (2021). Social media emotion macroscopes reflect emotional experiences in society at large.  *ArXiv:2107.13236* [Cs]. [http://arxiv.org/abs/2107.13236]( http://arxiv.org/abs/2107.13236).
 3. Galaz, V., Marklund, A., Galafassi, D., Lindahl, T., Castro, A.J., Schill, C., Daume, S., **Metzler, H.**, Peters, H., Bard, J., Ersin, E. H. (under review). Artificial intelligence, emotions and environmental sustainability.
 4. Brohmer, H., Hofer, G. et al. (2024). Effects of the Generic Masculine and its Alternatives in Germanophone countries - A Multi-lab Replication and Extension of Stahlberg, Sczesny, and Braun, 2001. [*OSF Preprints*](https://osf.io/preprints/osf/q56rk).
 
@@ -26,6 +25,7 @@ ___
 
 ## Journal articles
 
+1. Lühring, J.\*, Shetty, A.\*, Koschmieder, C., Garcia, D., Waldherr, A., & **Metzler, H.** (2024). [Emotions in misinformation studies: Distinguishing affective state from emotional response and misinformation recognition from acceptance.](https://rdcu.be/d36bX) _Cognitive Research: Principles and Implications, 9_(1), 82. https://doi.org/10.1186/s41235-024-00607-0. [Data, Code, Pre-registration & SI](https://osf.io/tgzxr/).
 1. **Metzler, H.**, Baginski, H., Garcia, D., & Niederkrotenthaler, T. (2024). [A machine learning approach to detect potentially harmful and protective suicide-related content in broadcast media](https://doi.org/10.1371/journal.pone.0300917) . PLOS ONE, 19(5), e0300917. https://doi.org/10.1371/journal.pone.0300917. [Code, data & models](https://github.com/HubertBaginski/TranscriptsSuicideML).
 2. Niederkrotenthaler, T., **Metzler, H.**, Z., Till, B., Lake, A. H., Noble, E., Chowdhury, S., Gonzalez, F., Garcia, D., Draper, J., Murphy, S., & Gould, M. (2024). [“Breaking the Silence” Suicide Prevention Media Campaign in Oregon, April 7–14, 2019: Content Analysis of Broadcast, Print and Online Media Items, and Social Media Footprint.](https://doi.org/10.1027/0227-5910/a000955) *Crisis*, 0227-5910/a000955. https://doi.org/10.1027/0227-5910/a000955. [PDF](/downloads/NiederkrotenthalerMetzler2024_crisis_Breaking_the_silence_campaign_evaluation.pdf)
 3. Aroyehun, S.T., Malik, L., **Metzler, H.**, Haimerl, N., Di Natale, A., & Garcia, D. (2023) [LEIA: Linguistic Embeddings for the Identification of Affect](https://doi.org/10.1140/epjds/s13688-023-00427-0). EPJ Data Science, 12, 52. https://doi.org/10.1140/epjds/s13688-023-00427-0

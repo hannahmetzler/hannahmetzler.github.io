@@ -17,9 +17,9 @@ ___
 
 ## Project News
 
+* Jula's and Apeksha's first [paper](https://rdcu.be/d36bX) as first authors is out! [Twitter thread on the pre-print](https://twitter.com/hannahmetzler1/status/1643978293455241217)
 * Hannah's article in 'Spektrum der Wissenschaften' on political misinformation, propaganda, elections, algorithms and AI: [Mythos Fehlinformation: Warum soziale Medien weniger gefährlich sind, als wir denken](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667), Spektrum der Wissenschaft [online](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667) and in the print edition [Spektrum - Die Woche 35/2024](https://www.spektrum.de/pdf/35-2024-spektrum-die-woche-35-2024/2214951). [Author version of the article](downloads/20240918_Metzler_Mythos_Fehlinformation_Spektrum.pdf)
 * Jula & Apeksha presented their work at the [Symposium MISDOOM 2024](https://www.misdoom2024.uni-muenster.de/program/) in Münster.
-* Our first pre-print: [Twitter thread](https://twitter.com/hannahmetzler1/status/1643978293455241217) or [full version](https://doi.org/10.31234/osf.io/udqms).
 
 ## Our project in the media
 
@@ -126,6 +126,7 @@ ___
 
 ### Publications
 
+* Lühring, J.\*, Shetty, A.\*, Koschmieder, C., Garcia, D., Waldherr, A., & **Metzler, H.** (2024). [Emotions in misinformation studies: Distinguishing affective state from emotional response and misinformation recognition from acceptance.](https://rdcu.be/d36bX) _Cognitive Research: Principles and Implications, 9_(1), 82. https://doi.org/10.1186/s41235-024-00607-0. [Data, Code, Pre-registration & SI](https://osf.io/tgzxr/).
 * **Metzler, H.**, & Garcia, D. (2023). [Social drivers and algorithmic mechanisms on digital media.](https://doi.org/10.1177/17456916231185057) _Perspectives on Psychological Science 0_(0). https://doi.org/10.1177/17456916231185057.
 
 
