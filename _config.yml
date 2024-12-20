@@ -15,13 +15,16 @@ author: Hannah Metzler
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "index"
+  About Me: "index"
   CV: "cv"
   Research: "research"
   Publications: "publications"
-  Projects: "projects"
+  Projects:
+    - Emotions & misinformation: "emomis"
+    #not sure how to include the main project page (called "projects")
   Talks: "talks"
   In the media: "media"
+  Blog: "blog"
   #Resources:
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
    # - Learn markdown: "https://www.markdowntutorial.com/"
@@ -33,7 +36,7 @@ navbar-links:
 #avatar: /assets/img/Hannah_Metzler_ORRG.jpg
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-#round-avatar: true
+round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -50,7 +53,7 @@ social-network-links:
   twitter: hannahmetzler1
   ORCID: 0000-0001-9254-3675
   google-scholar: citations?user=fpkiNJYAAAAJ&hl=en
-  linkedin: dr-hannah-metzler-%F0%9F%94%B8-61140695/
+  linkedin: hannah-metzler-61140695/
   youtube: hmetzler
   #  facebook: yourname
   #  reddit: yourname
@@ -83,6 +86,10 @@ share-links-active:
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
 #url-pretty: Image by Thomas Klebel
+
+### Blog Settings
+
+paginate_path: "/blog/page:num/"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
