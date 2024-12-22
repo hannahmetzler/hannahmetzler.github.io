@@ -8,15 +8,15 @@ title: Talks
 
 ## Recorded talks
 
-* [The Social Dynamics around Misinformation Spreading on Social Media](https://www.youtube.com/watch?v=nVavOHdwRPg&t=4s)
-* [Social Media sind (k)ein Klimkaller.](https://www.klimaaktiv.at/bildung/klimadialog/webinare/social-media.html)
+* **Emotional misinformation spreading**
+  - [The Social Dynamics around Misinformation Spreading on Social Media](https://www.youtube.com/watch?v=nVavOHdwRPg&t=4s)
+  - [Social Media sind (k)ein Klimkaller.](https://www.klimaaktiv.at/bildung/klimadialog/webinare/social-media.html)
+  - Brief introduction to the project EMOMIS at 29 minutes into this [video](https://www.wilsoncenter.org/event/digital-humanism-how-put-humans-center-emerging-tech).
 * **Collective emotions during the COVID-19 Outbreak**
     - [Oxford Wellbeing Research Centre Seminar Series 2021](https://www.youtube.com/watch?v=d953J1vcH4s) (20 minutes)
     - [Spring 2021 DIGSUM seminar](https://www.youtube.com/watch?v=CLC4ga-H1r0) (40 minutes)
 * **Collective emotions on social media: Validity and applications to the COVID-19 pandemic**
     - [Seminar at University of Michigan](https://www.youtube.com/watch?v=EUnLJoGj-3k&list=PLZFSaKAB4aZgLbocQT0_vv7Qn-bZfNcm3&index=36), 28/04/2022 (55 min including questions) 
-* **Emotional misinformation spreading**
-    - Brief introduction to the project EMOMIS at 29 minutes into this [video](https://www.wilsoncenter.org/event/digital-humanism-how-put-humans-center-emerging-tech).
 * **Machine learning classifications of suicide-related tweets**
     - [Online presentation at IC2S2 2022](https://www.youtube.com/watch?v=UykKQYPM1Kw) (6 minutes), summary of this [paper](https://arxiv.org/abs/2112.04796). 
 
