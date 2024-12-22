@@ -17,7 +17,6 @@ ___
 
 ## Pre-prints & manuscripts under review
 
-1. Garcia, D., Pellert, M., Lasser, J., & **Metzler, H.** (2021). Social media emotion macroscopes reflect emotional experiences in society at large.  *ArXiv:2107.13236* [Cs]. [http://arxiv.org/abs/2107.13236]( http://arxiv.org/abs/2107.13236).
 1. Lühring, J., **Metzler, H.**, Lazzaroni, R. M., Shetty, A., & Lasser, J. (2024). [Best practices for source-based research on misinformation and news trustworthiness](https://doi.org/10.31234/osf.io/v6e4b). OSF. https://doi.org/10.31234/osf.io/v6e4b
 2. Garcia, D., Pellert, M., Lasser, J., & **Metzler, H.** (2021). Social media emotion macroscopes reflect emotional experiences in society at large.  *ArXiv:2107.13236* [Cs]. [http://arxiv.org/abs/2107.13236]( http://arxiv.org/abs/2107.13236).
 3. Galaz, V., Marklund, A., Galafassi, D., Lindahl, T., Castro, A.J., Schill, C., Daume, S., **Metzler, H.**, Peters, H., Bard, J., Ersin, E. H. (under review). Artificial intelligence, emotions and environmental sustainability.
