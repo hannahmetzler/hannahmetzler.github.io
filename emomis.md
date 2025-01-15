@@ -50,7 +50,7 @@ ___
 
 ### Follow us on social media for regular updates! <br>
 
-* Bluesky: [Hannah](https://bsky.app/profile/hannahmetzler.bsky.social), [Apeksha](https://bsky.app/profile/apeksha.bsky.social), [Jula](https://bsky.app/julaluehring.bsky.social), [Annie](https://bsky.app/anniewald.bsky.social)
+* Bluesky: [Hannah](https://bsky.app/profile/hannahmetzler.bsky.social), [Apeksha](https://bsky.app/profile/apeksha.bsky.social), [Jula](https://bsky.app/julaluehring.bsky.social), [Annie](https://bsky.app/anniewald.bsky.social), [David](https://bsky.app/profile/dgarcia.eu)
 
 <img src="/assets/img/WWTF_Text_E_RGB_300dpi.png"
      alt="Vienna Science and Technology Fund"
