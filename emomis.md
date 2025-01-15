@@ -12,12 +12,11 @@ ___
 
 ## Project News
 
-* Jula's and Apeksha's first PhD [paper](https://rdcu.be/d36bX) is out! [Twitter thread on the pre-print](https://twitter.com/hannahmetzler1/status/1643978293455241217)
+* Our first two papers got published in December and January! They are about the role of [emotions in misinformation](https://rdcu.be/d36bX) and best-practices for measuring [news trustworthiness using the NewsGuard database](https://journalqd.org/article/view/4500). Here's a [summary](https://twitter.com/hannahmetzler1/status/1643978293455241217) of the emotions paper. 
 * Hannah's article in 'Spektrum der Wissenschaften' on political misinformation, propaganda, elections, algorithms and AI: [Mythos Fehlinformation: Warum soziale Medien weniger gefährlich sind, als wir denken](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667), Spektrum der Wissenschaft [online](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667) and in the print edition [Spektrum - Die Woche 35/2024](https://www.spektrum.de/pdf/35-2024-spektrum-die-woche-35-2024/2214951). [Author version of the article](downloads/20240918_Metzler_Mythos_Fehlinformation_Spektrum.pdf)
 * Hannah's talk on our project results and the bigger picture of [the Social Dynamics around Misinformation Spreading on Social Media](https://hannahmetzler.eu/dighum) in the [Digital Humanism Lecture Series](https://sci-comm.univie.ac.at/lecture-series-and-events/digital-humanism/).
 * Jula gab einen VHS-Vortrag zu [Misinformation und Fake News in den sozialen Medien: Einblicke in die interdisziplinäre Forschungslage](https://julaluehring.github.io/vhs-misinformation).
 * Hannah's Vortrag bei den Digital Days Vienna: [Polarisierung durch Algorithmen? Demokratie und Meinungsbildung im digitalen Zeitalter – Mythen auf dem Prüfstand](https://hannahmetzler.eu/digitaldays)."
-* We have published a new [pre-print on best practices on measuring news trustworthiness via source links](https://doi.org/10.31234/osf.io/v6e4b) led by Jula!
 
 ## Our project in the media
 
