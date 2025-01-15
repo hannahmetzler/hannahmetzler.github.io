@@ -79,14 +79,10 @@ ___
 ## Publications
 
 
-### Pre-prints
-
-1. Lühring, J., Metzler, H., Lazzaroni, R. M., Shetty, A., & Lasser, J. (2024). Best practices for source-based research on misinformation and news trustworthiness. OSF. <https://doi.org/10.31234/osf.io/v6e4b>
-1. Lühring, J.\*, Shetty, A.\*, Koschmieder, C., Garcia, D., Waldherr, A., & Metzler, H. (2023). Emotions in misinformation studies: Distinguishing affective state from emotional response and misinformation recognition from acceptance. PsyArXiv. <https://doi.org/10.31234/osf.io/udqms>. [Data, Code, Pre-registration & SI](https://osf.io/tgzxr/).
-
 ### Scientific journal articles
 
-1. Lühring, J.\*, Shetty, A.\*, Koschmieder, C., Garcia, D., Waldherr, A., & **Metzler, H.** (2024). [Emotions in misinformation studies: Distinguishing affective state from emotional response and misinformation recognition from acceptance.](https://rdcu.be/d36bX) _Cognitive Research: Principles and Implications, 9_(1), 82. https://doi.org/10.1186/s41235-024-00607-0. [Data, Code, Pre-registration & SI](https://osf.io/tgzxr/).
+1. Lühring, J., Metzler, H., Lazzaroni, R., Shetty, A., & Lasser, J. (2025). [Best practices for source-based research on misinformation and news trustworthiness using NewsGuard.](https://doi.org/10.51685/jqd.2025.003) Journal of Quantitative Description: Digital Media, 5. https://doi.org/10.51685/jqd.2025.003
+1. Lühring, J.\*, Shetty, A.\*, Koschmieder, C., Garcia, D., Waldherr, A., & Metzler, H. (2024). [Emotions in misinformation studies: Distinguishing affective state from emotional response and misinformation recognition from acceptance.](https://rdcu.be/d36bX) _Cognitive Research: Principles and Implications, 9_(1), 82. https://doi.org/10.1186/s41235-024-00607-0. [Data, Code, Pre-registration & SI](https://osf.io/tgzxr/).
 1. Metzler, H., & Garcia, D. (2023). [Social drivers and algorithmic mechanisms on digital media.](https://doi.org/10.1177/17456916231185057) _Perspectives on Psychological Science 0_(0). https://doi.org/10.1177/17456916231185057.
 
 ### For the general public 
@@ -129,7 +125,6 @@ ___
 1. Metzler, H. (14 January 2022). _Emotional misinformation spreading: The interplay of emotions and misinformation on social media_, [Conference on Intelligent Machines, Emotions](https://hopin.com/events/intelligentmachinesemotionsourplanet#schedule), and the Planet, Stockholm. [Slides](https://hannahmetzler.eu/emomis_stockholm).
 1. Shetty, A., & Hannah Metzler (27 June 2022). Reducing belief in misinformation: Targeting emotional and social influences. [Pre-data poster](https://osf.io/z3x98). Society for the Improvement of Psychological Science, 7th Annual Conference.
 1. Lühring, J.\*, Shetty, A.\*, Koschmieder, C., Garcia, D., Waldherr, A., & Metzler, H. (11 October 2022). Measuring emotions in misinformation studies: A replication and extension of Martel et al. (2020). [Accepted paper & presentation]. [ECREA Early Career Scholars Workshop in Political Communication: “Advancing Concepts and Methods in Political Communication.”](https://ecrea.eu/event-4795610) *Equal contributions.
->>>>>>> c88f8350983f353f466ab42fb27671c074148bdb
 
 
 ## Internships
