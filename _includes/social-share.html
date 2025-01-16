@@ -41,6 +41,14 @@
       <span class="sr-only">VK</span>
     </a>
   {% endif %}
+  
+  {% if site.share-links-active.bluesky %}
+    <a href="https://bsky.app/profile/hannahmetzler.bsky.social/post?url={{ page.url | absolute_url | url_encode }}" 
+      class="btn btn-social-icon btn-bluesky" title="Share on Bluesky"> 
+      <span class="fa-brands fa-bluesky" aria-hidden="true"></span> 
+      <span class="sr-only">Bluesky</span>
+    </a>
+  {% endif %}
 
 </section>
 
