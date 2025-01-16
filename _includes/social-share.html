@@ -43,13 +43,15 @@
   {% endif %}
   
   {% if site.share-links-active.bluesky %}
-    <a href="https://bsky.app/profile/hannahmetzler.bsky.social/post?url={{ page.url | absolute_url | url_encode }}" 
-      class="btn btn-social-icon btn-bluesky" title="Share on Bluesky"> 
-      <span class="fa-brands fa-bluesky" aria-hidden="true"></span> 
-      <span class="sr-only">Bluesky</span>
-    </a>
-  {% endif %}
+   <a href="https://bsky.app/compose?url={{ page.url | absolute_url | url_encode }}" 
+     class="btn btn-social-icon btn-bluesky" title="Share on Bluesky"> 
+     <i class="fab fa-bluesky" aria-hidden="true"></i> 
+     <span class="sr-only">Bluesky</span>
+   </a>
+ {% endif %}
 
 </section>
 
 {% endif %}
+
+https://bsky.app/profile/hannahmetzler.bsky.social/post?url=https%3A%2F%2Fhannahmetzler.eu%2F2024-04-18-Hassrede%2F
