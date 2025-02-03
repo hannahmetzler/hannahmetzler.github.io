@@ -20,6 +20,7 @@ ___
 
 ## Our project in the media
 
+* [Angst und Wut sind effektive Treiber.](https://www.das-parlament.de/kultur/medien/angst-und-wut-sind-effektive-treiber). Interview in der Wochenzeitung Das Parlament.
 * [Mythos Fehlinformation: Warum soziale Medien weniger gefährlich sind, als wir denken](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667), Spektrum der Wissenschaft online  and in the print edition [Spektrum - Die Woche 35/2024](https://www.spektrum.de/pdf/35-2024-spektrum-die-woche-35-2024/2214951). [Author version of the article]({% post_url 2024-09-13-Mythos_Fehlinformation %}).
 * [Podcast](https://www.derstandard.at/story/3000000218043/wahrheit-gegen-luege-die-psychologie-hinter-fake-news) and [Article](https://www.derstandard.at/story/3000000220181/wieso-glauben-menschen-falschnachrichten-uebers-klima) by Hannah at DerStandard on social media, emotions, misinformation & climate change
 * [ORF 1 documentary Dok 1](https://tv.orf.at/dok-1/index.html): Hannah talked about social media & hate speech.
