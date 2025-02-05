@@ -23,6 +23,7 @@ navbar-links:
     - Emotions & misinformation: "emomis"
     #not sure how to include the main project page (called "projects")
   Talks: "talks"
+  Teaching: "teaching"
   In the media: "media"
   Blog: "blog"
   #Resources:
