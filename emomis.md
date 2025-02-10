@@ -12,6 +12,8 @@ ___
 
 ## Project News
 
+* Our paper on NewsGuard was widely discussed in international news media: 
+    - [How NewsGuard became democracy’s digital fact-checker – and why critics got it wrong](https://www.msn.com/en-us/news/technology/how-newsguard-became-democracy-s-digital-fact-checker-and-why-critics-got-it-wrong/ar-AA1yoZM3)
 * Our first two papers got published in December and January! They are about the role of [emotions for misinformation](https://rdcu.be/d36bX) and best-practices for measuring [news trustworthiness using NewsGuard ratings](https://journalqd.org/article/view/4500). Here are a Bluesky thread summarizing the paper on [emotions and misinformation](https://bsky.app/profile/hannahmetzler.bsky.social/post/3lfwnawlgp22k) and the [NewsGuard paper](https://bsky.app/profile/julaluehring.bsky.social/post/3lfwm6rsfvs2a).
 * Hannah's article in 'Spektrum der Wissenschaften' on political misinformation, propaganda, elections, algorithms and AI: [Mythos Fehlinformation: Warum soziale Medien weniger gefährlich sind, als wir denken](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667), Spektrum der Wissenschaft [online](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667) and in the print edition [Spektrum - Die Woche 35/2024](https://www.spektrum.de/pdf/35-2024-spektrum-die-woche-35-2024/2214951). [Author version of the article]({% post_url 2024-09-13-Mythos_Fehlinformation %}).
 * Hannah's talk on our project results and the bigger picture of [the Social Dynamics around Misinformation Spreading on Social Media](https://hannahmetzler.eu/dighum) in the [Digital Humanism Lecture Series](https://sci-comm.univie.ac.at/lecture-series-and-events/digital-humanism/).
@@ -20,6 +22,7 @@ ___
 
 ## Our project in the media
 
+* [How NewsGuard became democracy’s digital fact-checker – and why critics got it wrong](https://www.msn.com/en-us/news/technology/how-newsguard-became-democracy-s-digital-fact-checker-and-why-critics-got-it-wrong/ar-AA1yoZM3)
 * [Angst und Wut sind effektive Treiber.](https://www.das-parlament.de/kultur/medien/angst-und-wut-sind-effektive-treiber). Interview in der Wochenzeitung Das Parlament.
 * [Mythos Fehlinformation: Warum soziale Medien weniger gefährlich sind, als wir denken](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667), Spektrum der Wissenschaft online  and in the print edition [Spektrum - Die Woche 35/2024](https://www.spektrum.de/pdf/35-2024-spektrum-die-woche-35-2024/2214951). [Author version of the article]({% post_url 2024-09-13-Mythos_Fehlinformation %}).
 * [Podcast](https://www.derstandard.at/story/3000000218043/wahrheit-gegen-luege-die-psychologie-hinter-fake-news) and [Article](https://www.derstandard.at/story/3000000220181/wieso-glauben-menschen-falschnachrichten-uebers-klima) by Hannah at DerStandard on social media, emotions, misinformation & climate change
