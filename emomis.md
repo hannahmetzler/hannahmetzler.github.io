@@ -19,7 +19,7 @@ ___
 
 ## Our project in the media
 
-* Our paper analying the NewsGuard database is discussed in national and international news media: 
+* Our paper analyzing the NewsGuard database in national and international news media: 
     * [How NewsGuard became democracy’s digital fact-checker – and why critics got it wrong](https://www.msn.com/en-us/news/technology/how-newsguard-became-democracy-s-digital-fact-checker-and-why-critics-got-it-wrong/ar-AA1yoZM3), MSN news. 
     * [Neue Studien bestätigen, dass Fake News vor allem aus dem rechten Lager stammen](https://www.derstandard.at/story/3000000256944/neue-studien-bestaetigen-dass-fake-news-vor-allem-aus-dem-rechten-lager-stammen), DerStandard. 
     - [Medien in Östereich relativ vertrauenswürdig](https://science.orf.at/stories/3228849/), Science ORF.at
