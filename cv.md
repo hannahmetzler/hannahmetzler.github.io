@@ -27,7 +27,8 @@ ___
 
 ## Research Experience
 
-* **2020-now** Postdoctoral researcher and project lead at [Complexity Science Hub][CSH] & Medical University in Vienna
+* **2020-now** Postdoctoral researcher and project lead at [Complexity Science Hub][CSH]
+* **2020-2025** Postdoctoral researcher and project lead at Medical University in Vienna, Center for Medical Data Science
     * 2020-2022 10% @ Graz University of Technology
     * 2020-2022 50% @ [Unit Suicide Research and Mental Health Promotion][Thomas]
 * **2019–2020** Senior researcher and project manager @ Open and Reproducible Research Group at [Know-Center][KNOW] - Research Center for Data-Driven Business & Big Data Analytics, Graz
