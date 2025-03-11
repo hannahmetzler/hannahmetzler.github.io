@@ -23,6 +23,7 @@ ___
     * [How NewsGuard became democracy’s digital fact-checker – and why critics got it wrong](https://www.msn.com/en-us/news/technology/how-newsguard-became-democracy-s-digital-fact-checker-and-why-critics-got-it-wrong/ar-AA1yoZM3), MSN news. 
     * [Neue Studien bestätigen, dass Fake News vor allem aus dem rechten Lager stammen](https://www.derstandard.at/story/3000000256944/neue-studien-bestaetigen-dass-fake-news-vor-allem-aus-dem-rechten-lager-stammen), DerStandard. 
     - [Medien in Östereich relativ vertrauenswürdig](https://science.orf.at/stories/3228849/), Science ORF.at
+    - [Online-Medien in Österreich sind weit vertrauenswürdiger als jene in den USA](https://www.diepresse.com/19359597/online-medien-in-oesterreich-sind-weit-vertrauenswuerdiger-als-jene-in-den-usa)
     - [Medien in Österreich weit vertrauenswürdiger als in den USA bewertet](https://science.apa.at/power-search/17014299128480821896), Science APA. 
 * [Angst und Wut sind effektive Treiber.](https://www.das-parlament.de/kultur/medien/angst-und-wut-sind-effektive-treiber). Interview in der Wochenzeitung Das Parlament.
 * [Mythos Fehlinformation: Warum soziale Medien weniger gefährlich sind, als wir denken](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667), Spektrum der Wissenschaft online  and in the print edition [Spektrum - Die Woche 35/2024](https://www.spektrum.de/pdf/35-2024-spektrum-die-woche-35-2024/2214951). [Author version of the article]({% post_url 2024-09-13-Mythos_Fehlinformation %}).
