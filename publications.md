@@ -22,7 +22,7 @@ ___
 
 ## Journal articles
 
-1. Galaz, V., Metzler, H., Schill, C., Lindahl, T., Daume, S., Marklund, A., ..., Peters, H. (in print). Artificial intelligence, digital social networks, and climate emotions. npj Climate Action. 
+1. Galaz, V., **Metzler, H.**, Schill, C., Lindahl, T., Daume, S., Marklund, A., ..., Peters, H. (2025). [Artificial intelligence, digital social networks, and climate emotions.](https://www.nature.com/articles/s44168-025-00225-6) Npj Climate Action, 4(1), 1–9. https://doi.org/10.1038/s44168-025-00225-6
 1. Lühring, J., **Metzler, H.**, Lazzaroni, R., Shetty, A., & Lasser, J. (2025). [Best practices for source-based research on misinformation and news trustworthiness using NewsGuard.](https://doi.org/10.51685/jqd.2025.003) Journal of Quantitative Description: Digital Media, 5. https://doi.org/10.51685/jqd.2025.003
 1. Lühring, J.\*, Shetty, A.\*, Koschmieder, C., Garcia, D., Waldherr, A., & **Metzler, H.** (2024). [Emotions in misinformation studies: Distinguishing affective state from emotional response and misinformation recognition from acceptance.](https://rdcu.be/d36bX) _Cognitive Research: Principles and Implications, 9_(1), 82. https://doi.org/10.1186/s41235-024-00607-0. [Data, Code, Pre-registration & SI](https://osf.io/tgzxr/).
 1. Brohmer, H., Hofer, G., … Athenstaedt, U. (2024).  [Effects of the Generic Masculine and its Alternatives in Germanophone countries - A Multi-lab Replication and Extension of Stahlberg, Sczesny, and Braun, 2001.](https://rips-irsp.com/articles/10.5334/irsp.522) _International Review of Social Psychology, 37_(1), 17. https://doi.org/10.5334/irsp.522
