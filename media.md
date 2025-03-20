@@ -17,9 +17,9 @@ title: Media Reactions
 
 ## Other articles & videos
 
-5. 2025-01-17: Interview in der Wochenzeitung Das Parlement: [Angst und Wut sind effektive Treiber.](https://www.das-parlament.de/kultur/medien/angst-und-wut-sind-effektive-treiber). 
-5. 2024-03-24: [Raus aus der Blase](downloads/20240324__Woman_Balance.pdf). Women Balance.
-6. 2023-07-26 on Science APA [Expertin sieht in Social Media keinen "Klima-Killer"](https://science.apa.at/power-search/12856578295990689252). Featured for example on:
+1. 2025-01-17: Interview in der Wochenzeitung Das Parlement: [Angst und Wut sind effektive Treiber](https://www.das-parlament.de/kultur/medien/angst-und-wut-sind-effektive-treiber). 
+1. 2024-03-24: [Raus aus der Blase](downloads/20240324__Woman_Balance.pdf). Women Balance.
+1. 2023-07-26 on Science APA [Expertin sieht in Social Media keinen "Klima-Killer"](https://science.apa.at/power-search/12856578295990689252). Featured for example on:
     - [DerStandard](https://www.derstandard.de/story/3000000180511/expertin-sieht-in-social-media-keinen-klima-killer)
     - [Science.ORF](https://science.orf.at/stories/3220488/)
     - [FM4 news](https://rtv.defacto.at/?param=VF5ScoFA8ClZB77pQK8jHiIHAALxyQ2MGMQm2sXwWzOB5HZiOdjYmYzfUeXVDJVR6g1yi4NaUT3WVs7FjCdSK9twfxN0oqo%3D)
