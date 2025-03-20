@@ -19,12 +19,12 @@ ___
 
 ## Our project in the media
 
-* Our paper analyzing the NewsGuard database in national and international news media:  
-    * [How NewsGuard became democracy’s digital fact-checker – and why critics got it wrong](https://www.msn.com/en-us/news/technology/how-newsguard-became-democracy-s-digital-fact-checker-and-why-critics-got-it-wrong/ar-AA1yoZM3), MSN news. (14.03.2025)  
-    * [Neue Studien bestätigen, dass Fake News vor allem aus dem rechten Lager stammen](https://www.derstandard.at/story/3000000256944/neue-studien-bestaetigen-dass-fake-news-vor-allem-aus-dem-rechten-lager-stammen), DerStandard. (14.03.2025)  
-    * [Medien in Österreich relativ vertrauenswürdig](https://science.orf.at/stories/3228849/), Science ORF.at. (14.03.2025)  
-    * [Online-Medien in Österreich sind weit vertrauenswürdiger als jene in den USA](https://www.diepresse.com/19359597/online-medien-in-oesterreich-sind-weit-vertrauenswuerdiger-als-jene-in-den-usa), DiePresse. (14.03.2025)  
-    * [Medien in Österreich weit vertrauenswürdiger als in den USA bewertet](https://science.apa.at/power-search/17014299128480821896), Science APA. (14.03.2025)  
+* Our paper analyzing the NewsGuard database in national and international news media: (14.03.2025)  
+    * [How NewsGuard became democracy’s digital fact-checker – and why critics got it wrong](https://www.msn.com/en-us/news/technology/how-newsguard-became-democracy-s-digital-fact-checker-and-why-critics-got-it-wrong/ar-AA1yoZM3), MSN news.  
+    * [Neue Studien bestätigen, dass Fake News vor allem aus dem rechten Lager stammen](https://www.derstandard.at/story/3000000256944/neue-studien-bestaetigen-dass-fake-news-vor-allem-aus-dem-rechten-lager-stammen), DerStandard.  
+    * [Medien in Österreich relativ vertrauenswürdig](https://science.orf.at/stories/3228849/), Science ORF.at.  
+    * [Online-Medien in Österreich sind weit vertrauenswürdiger als jene in den USA](https://www.diepresse.com/19359597/online-medien-in-oesterreich-sind-weit-vertrauenswuerdiger-als-jene-in-den-usa).  
+    * [Medien in Österreich weit vertrauenswürdiger als in den USA bewertet](https://science.apa.at/power-search/17014299128480821896), Science APA.  
 
 * Interview in der Wochenzeitung Das Parlament: [Angst und Wut sind effektive Treiber](https://www.das-parlament.de/kultur/medien/angst-und-wut-sind-effektive-treiber). (17.01.2025)  
 
@@ -36,14 +36,11 @@ ___
 
 * [Wahrheit gegen Lüge: Die Psychologie hinter Fake News](https://www.derstandard.at/story/3000000218043/wahrheit-gegen-luege-die-psychologie-hinter-fake-news), DerStandard Podcast and [Article](https://www.derstandard.at/story/3000000220181/wieso-glauben-menschen-falschnachrichten-uebers-klima): Edition Zukunft Klimafragen. On misinformation, social media, and climate change. (03.05.2024)  
 
-* Social media and debates about climate change: (26.07.2023)  
+* Social media and debates about climate change (26.07.2023)  
     * [APA](https://science.apa.at/power-search/12856578295990689252)  
     * [DerStandard](https://www.derstandard.de/story/3000000180511/expertin-sieht-in-social-media-keinen-klima-killer)  
     * [Science.ORF](https://science.orf.at/stories/3220488/)  
-    * [FM4 news](https://rtv.defacto.at/?param=VF5ScoFA8ClZB77pQK8jHiIHAALxyQ2MGMQm2sXwWzOB5HZiOdjYmYzfUeXVDJVR6g1yi4NaUT3WVs7FjCdSK9twfxN0oqo%3D)  
-    * [Blogpost](https://steadyhq.com/de/mimikama/posts/7b0cb1c0-033d-4bfb-a15d-08c47d002ffa) by Mimikama.  
-
-* This [article at Kurier](https://kurier.at/wien-wills-wissen/wir-sind-nicht-so-einfach-zu-manipulieren/402428147) explains the nuanced role of emotions around misinformation. (29.04.2023)  
+    * [FM4 news](https://rtv.defacto.at/?param=VF5ScoFA8ClZB77pQK8jHiIHAALxyQ2MGMQm2sXwWzOB5HZiOdjYmYzfUeXVDJVR6g1yi4NaUT3WVs7FjCdSK9twfxN0oq
 
 
 ## Project Team
