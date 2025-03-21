@@ -34,7 +34,7 @@ ___
     * [APA](https://science.apa.at/power-search/12856578295990689252)  
     * [DerStandard](https://www.derstandard.de/story/3000000180511/expertin-sieht-in-social-media-keinen-klima-killer)  
     * [Science.ORF](https://science.orf.at/stories/3220488/)  
-    * [FM4 news](https://rtv.defacto.at/?param=VF5ScoFA8ClZB77pQK8jHiIHAALxyQ2MGMQm2sXwWzOB5HZiOdjYmYzfUeXVDJVR6g1yi4NaUT3WVs7FjCdSK9twfxN0oq
+    * [FM4 news](https://rtv.defacto.at/?param=VF5ScoFA8ClZB77pQK8jHiIHAALxyQ2MGMQm2sXwWzOB5HZiOdjYmYzfUeXVDJVR6g1yi4NaUT3WVs7FjCdSK9twfxN0oq)
 
 
 ## Project Team
