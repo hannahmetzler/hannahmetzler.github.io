@@ -21,8 +21,8 @@ title: Talks
     - [20 minute video](https://www.youtube.com/watch?v=d953J1vcH4s)
     - [40 minute video](https://www.youtube.com/watch?v=CLC4ga-H1r0)
 * **Validity of collection emotion measures from social media**: [Video](https://www.youtube.com/watch?v=EUnLJoGj-3k&list=PLZFSaKAB4aZgLbocQT0_vv7Qn-bZfNcm3&index=36). 
-* **Using Machine Learning for detecting potentially harmful and protective suicide-related Tweets**
-    - [Online presentation at IC2S2 2022](https://www.youtube.com/watch?v=UykKQYPM1Kw) (6 minutes). [Slides of a longer talk](https://docs.google.com/presentation/d/1vV7wrQEwGvqy3cxezww-tLXwgPHRVaGFiin3f-goDm4/edit?usp=sharing). 
+* **Using Machine Learning and social media content for suicide prevention**
+    - [6 minute video](https://www.youtube.com/watch?v=UykKQYPM1Kw) & [Slides of a longer talk](https://docs.google.com/presentation/d/1vV7wrQEwGvqy3cxezww-tLXwgPHRVaGFiin3f-goDm4/edit?usp=sharing). 
 
 ___
 
