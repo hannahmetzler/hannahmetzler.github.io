@@ -8,13 +8,11 @@ title: Talks
 
 ## Videos (with slides) 
 
-- **Polarisierung durch Algorithmen? Demokratie und Meinungsbildung im digitalen Zeitalter – Mythen auf dem Prüfstand** 
-    - [Video](https://www.youtube.com/watch?v=rJJXxf_JNLU) & [Folien](https://hannahmetzler.eu/digitaldays).
-- **The Social Dynamics around Misinformation Spreading on Social Media**
-  - [Video](https://www.youtube.com/watch?v=nVavOHdwRPg&t=4s) & [Slides](https://hannahmetzler.eu/dighum).
-- **Social Media sind (k)ein Klimkaller**: Der Einfluss von Algorithmen, Echokammern und KI auf den digitalen Diskurs und was zu tun ist.
-  - [Video](https://www.youtube.com/watch?v=PksGA-RUQ9g) & [Folien](https://hannahmetzler.eu/klimaaktiv/).
-- **From the emotions & misinformation project**
+- **Zusammenfassung der Forschung zu Fehlinformation, Polarisierung & Social Media** 
+    - Polarisierung durch Algorithmen? Demokratie und Meinungsbildung im digitalen Zeitalter – Mythen auf dem Prüfstand: [Video](https://www.youtube.com/watch?v=rJJXxf_JNLU) & [Folien](https://hannahmetzler.eu/digitaldays).
+    - Social Media sind (k)ein Klimkaller: Der Einfluss von Algorithmen, Echokammern und KI auf den digitalen Diskurs und was zu tun ist: [Video](https://www.youtube.com/watch?v=PksGA-RUQ9g) & [Folien](https://hannahmetzler.eu/klimaaktiv/).
+- **About our project on emotions & misinformation**
+  - The Social Dynamics around Misinformation Spreading on Social Media: [Video](https://www.youtube.com/watch?v=nVavOHdwRPg&t=4s) & [Slides](https://hannahmetzler.eu/dighum).
   - [Social media research at the Complexity Science Hub](https://www.youtube.com/watch?v=xpiiOqwGQa8)
   - Brief introduction in this [video](https://www.wilsoncenter.org/event/digital-humanism-how-put-humans-center-emerging-tech) at 29 minutes.
 * **Collective emotions during the COVID-19 Outbreak**. [Slides](https://docs.google.com/presentation/d/1u8FJz2cpFbVUZ_UMsUqq_EyU9QNh2mAcTY_Q5J6j3eI/edit?usp=sharing).
