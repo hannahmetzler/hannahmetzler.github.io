@@ -13,7 +13,7 @@ title: Talks
 - **The Social Dynamics around Misinformation Spreading on Social Media**
   - [Video](https://www.youtube.com/watch?v=nVavOHdwRPg&t=4s) & [Slides](https://hannahmetzler.eu/dighum).
 - **Social Media sind (k)ein Klimkaller**: Der Einfluss von Algorithmen, Echokammern und KI auf den digitalen Diskurs und was zu tun ist.
-  - [Video](https://www.klimaaktiv.at/bildung/klimadialog/webinare/social-media.html) & [Folien](https://hannahmetzler.eu/klimaaktiv/).
+  - [Video](https://www.youtube.com/watch?v=PksGA-RUQ9g) & [Folien](https://hannahmetzler.eu/klimaaktiv/).
 - **From the emotions & misinformation project**
   - [Social media research at the Complexity Science Hub](https://www.youtube.com/watch?v=xpiiOqwGQa8)
   - Brief introduction in this [video](https://www.wilsoncenter.org/event/digital-humanism-how-put-humans-center-emerging-tech) at 29 minutes.
