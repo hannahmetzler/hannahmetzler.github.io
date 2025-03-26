@@ -6,30 +6,32 @@ title: Talks
 
 ---
 
-## Recorded talks with slides (Aufgezeichnete Vorträge)
+## Videos (with slides) 
 
-* **Misinformation, Polarization & Emotions**
-  - Polarisierung durch Algorithmen? Demokratie und Meinungsbildung im digitalen Zeitalter – Mythen auf dem Prüfstand: 
-  [Video](https://www.youtube.com/watch?v=rJJXxf_JNLU) & [Folien](https://hannahmetzler.eu/digitaldays).
-  - The Social Dynamics around Misinformation Spreading on Social Media: [Video](https://www.youtube.com/watch?v=nVavOHdwRPg&t=4s) & [Slides](https://hannahmetzler.eu/dighum).
-  - Social Media sind (k)ein Klimkaller: [Video](https://www.klimaaktiv.at/bildung/klimadialog/webinare/social-media.html) & [Folien](https://hannahmetzler.eu/klimaaktiv/).
-  - Brief introduction to the project EMOMIS at 29 minutes into this [video](https://www.wilsoncenter.org/event/digital-humanism-how-put-humans-center-emerging-tech).
+- **Polarisierung durch Algorithmen? Demokratie und Meinungsbildung im digitalen Zeitalter – Mythen auf dem Prüfstand** 
+    - [Video](https://www.youtube.com/watch?v=rJJXxf_JNLU) & [Folien](https://hannahmetzler.eu/digitaldays).
+- **The Social Dynamics around Misinformation Spreading on Social Media**
+  - [Video](https://www.youtube.com/watch?v=nVavOHdwRPg&t=4s) & [Slides](https://hannahmetzler.eu/dighum).
+- **Social Media sind (k)ein Klimkaller**
+  - [Video](https://www.klimaaktiv.at/bildung/klimadialog/webinare/social-media.html) & [Folien](https://hannahmetzler.eu/klimaaktiv/).
+- **From the emotions & misinformation project**
+  - [Social media research at the Complexity Science Hub](https://www.youtube.com/watch?v=xpiiOqwGQa8)
+  - Brief introduction in this [video](https://www.wilsoncenter.org/event/digital-humanism-how-put-humans-center-emerging-tech) at 29 minutes.
 * **Collective emotions during the COVID-19 Outbreak**. [Slides](https://docs.google.com/presentation/d/1u8FJz2cpFbVUZ_UMsUqq_EyU9QNh2mAcTY_Q5J6j3eI/edit?usp=sharing).
-    - [20 minute video](https://www.youtube.com/watch?v=d953J1vcH4s) (20 minutes)
-    - [40 minute video](https://www.youtube.com/watch?v=CLC4ga-H1r0) (40 minutes)
-* **Collective emotions on social media: Validity and applications to the COVID-19 pandemic**: [Video](https://www.youtube.com/watch?v=EUnLJoGj-3k&list=PLZFSaKAB4aZgLbocQT0_vv7Qn-bZfNcm3&index=36), 28/04/2022 (55 min including questions) 
-* **Machine learning classifications of suicide-related tweets for suicide prevention**
-    - [Online presentation at IC2S2 2022](https://www.youtube.com/watch?v=UykKQYPM1Kw) (6 minutes), summary of this [paper](https://arxiv.org/abs/2112.04796). 
+    - [20 minute video](https://www.youtube.com/watch?v=d953J1vcH4s)
+    - [40 minute video](https://www.youtube.com/watch?v=CLC4ga-H1r0)
+* **Validity of collection emotion measures from social media**: [Video](https://www.youtube.com/watch?v=EUnLJoGj-3k&list=PLZFSaKAB4aZgLbocQT0_vv7Qn-bZfNcm3&index=36). 
+* **Using Machine Learning for detecting potentially harmful and protective suicide-related Tweets**
+    - [Online presentation at IC2S2 2022](https://www.youtube.com/watch?v=UykKQYPM1Kw) (6 minutes). [Slides of a longer talk](https://docs.google.com/presentation/d/1vV7wrQEwGvqy3cxezww-tLXwgPHRVaGFiin3f-goDm4/edit?usp=sharing). 
 
 ___
 
-## Slides for other talks (Folien weiterer Vorträge)
+## Slides for other talks
 
 * [5 Myths about Misinformation](https://hannahmetzler.eu/misinfomyths)
 * [Emotional misinformation spreading project summary 2024](https://hannahmetzler.eu/emomis_update_2024)
 * [Emotions in misinformation studies: Distinguishing emotional state from response & misinformation recognition from susceptibility](https://hannahmetzler.eu/measuring_emo_misinfo)
 * [Research summary October 2023](https://hannahmetzler.eu/HMResearchSummary/)
-* [Detecting potentially harmful and protective suicide-related content on Twitter: A Machine Learning Approach](https://docs.google.com/presentation/d/1vV7wrQEwGvqy3cxezww-tLXwgPHRVaGFiin3f-goDm4/edit?usp=sharing)
 
 ---
 
