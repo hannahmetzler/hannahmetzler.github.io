@@ -12,10 +12,10 @@ ___
 
 ## Project News
 
+* Hannah's Vortrag über [Polarisierung durch Algorithmen? Demokratie und Meinungsbildung im digitalen Zeitalter – Mythen auf dem Prüfstand](https://www.youtube.com/watch?v=rJJXxf_JNLU) ist online nachzuhören, die Folien gibt's [hier](https://hannahmetzler.eu/digitaldays)."
 * Our first two papers got published in December and January! They are about the role of [emotions for misinformation](https://rdcu.be/d36bX) and best-practices for measuring [news trustworthiness using NewsGuard ratings](https://journalqd.org/article/view/4500). Here are a Bluesky thread summarizing the paper on [emotions and misinformation](https://bsky.app/profile/hannahmetzler.bsky.social/post/3lfwnawlgp22k) and the [NewsGuard paper](https://bsky.app/profile/julaluehring.bsky.social/post/3lfwm6rsfvs2a).
 * Hannah's talk on our project results and the bigger picture of [the Social Dynamics around Misinformation Spreading on Social Media](https://hannahmetzler.eu/dighum) in the [Digital Humanism Lecture Series](https://sci-comm.univie.ac.at/lecture-series-and-events/digital-humanism/).
 * Jula gab einen VHS-Vortrag zu [Misinformation und Fake News in den sozialen Medien: Einblicke in die interdisziplinäre Forschungslage](https://julaluehring.github.io/vhs-misinformation).
-* Hannah's Vortrag bei den Digital Days Vienna: [Polarisierung durch Algorithmen? Demokratie und Meinungsbildung im digitalen Zeitalter – Mythen auf dem Prüfstand](https://hannahmetzler.eu/digitaldays)."
 
 ## Our project in the media
 
