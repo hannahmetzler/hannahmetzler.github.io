@@ -9,16 +9,15 @@ title: Talks
 ## Recorded talks with slides (Aufgezeichnete Vorträge)
 
 * **Misinformation, Polarization & Emotions**
-  - [Polarisierung durch Algorithmen? Demokratie und Meinungsbildung im digitalen Zeitalter – Mythen auf dem Prüfstand](https://www.youtube.com/watch?v=rJJXxf_JNLU), 
-  [Folien](https://hannahmetzler.eu/digitaldays)."
-  - [The Social Dynamics around Misinformation Spreading on Social Media](https://www.youtube.com/watch?v=nVavOHdwRPg&t=4s), [Slides](https://hannahmetzler.eu/dighum).
-  - [Social Media sind (k)ein Klimkaller.](https://www.klimaaktiv.at/bildung/klimadialog/webinare/social-media.html), [Folien](https://hannahmetzler.eu/klimaaktiv/).
+  - Polarisierung durch Algorithmen? Demokratie und Meinungsbildung im digitalen Zeitalter – Mythen auf dem Prüfstand: 
+  [Video](https://www.youtube.com/watch?v=rJJXxf_JNLU) & [Folien](https://hannahmetzler.eu/digitaldays).
+  - The Social Dynamics around Misinformation Spreading on Social Media: [Video](https://www.youtube.com/watch?v=nVavOHdwRPg&t=4s) & [Slides](https://hannahmetzler.eu/dighum).
+  - Social Media sind (k)ein Klimkaller: [Video](https://www.klimaaktiv.at/bildung/klimadialog/webinare/social-media.html) & [Folien](https://hannahmetzler.eu/klimaaktiv/).
   - Brief introduction to the project EMOMIS at 29 minutes into this [video](https://www.wilsoncenter.org/event/digital-humanism-how-put-humans-center-emerging-tech).
 * **Collective emotions during the COVID-19 Outbreak**. [Slides](https://docs.google.com/presentation/d/1u8FJz2cpFbVUZ_UMsUqq_EyU9QNh2mAcTY_Q5J6j3eI/edit?usp=sharing).
-    - [Oxford Wellbeing Research Centre Seminar Series 2021](https://www.youtube.com/watch?v=d953J1vcH4s) (20 minutes)
-    - [Spring 2021 DIGSUM seminar](https://www.youtube.com/watch?v=CLC4ga-H1r0) (40 minutes)
-* **Collective emotions on social media: Validity and applications to the COVID-19 pandemic**
-    - [Seminar at University of Michigan](https://www.youtube.com/watch?v=EUnLJoGj-3k&list=PLZFSaKAB4aZgLbocQT0_vv7Qn-bZfNcm3&index=36), 28/04/2022 (55 min including questions) 
+    - [20 minute video](https://www.youtube.com/watch?v=d953J1vcH4s) (20 minutes)
+    - [40 minute video](https://www.youtube.com/watch?v=CLC4ga-H1r0) (40 minutes)
+* **Collective emotions on social media: Validity and applications to the COVID-19 pandemic**: [Video](https://www.youtube.com/watch?v=EUnLJoGj-3k&list=PLZFSaKAB4aZgLbocQT0_vv7Qn-bZfNcm3&index=36), 28/04/2022 (55 min including questions) 
 * **Machine learning classifications of suicide-related tweets for suicide prevention**
     - [Online presentation at IC2S2 2022](https://www.youtube.com/watch?v=UykKQYPM1Kw) (6 minutes), summary of this [paper](https://arxiv.org/abs/2112.04796). 
 
