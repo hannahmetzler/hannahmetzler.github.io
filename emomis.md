@@ -15,13 +15,23 @@ ___
 * Hannah's Vortrag über [Polarisierung durch Algorithmen? Demokratie und Meinungsbildung im digitalen Zeitalter – Mythen auf dem Prüfstand](https://www.youtube.com/watch?v=rJJXxf_JNLU) ist online nachzuhören, 
   die Folien gibt's [hier](https://hannahmetzler.eu/digitaldays).
 * Our first two papers got published in December and January! They are about the role of [emotions for misinformation](https://rdcu.be/d36bX) 
-and best-practices for measuring [news trustworthiness using NewsGuard ratings](https://journalqd.org/article/view/4500). 
-Here are Bluesky threads summarizing them: [emotions and misinformation paper](https://bsky.app/profile/hannahmetzler.bsky.social/post/3lfwnawlgp22k), [NewsGuard paper](https://bsky.app/profile/julaluehring.bsky.social/post/3lfwm6rsfvs2a).
+and best-practices for measuring [news trustworthiness using NewsGuard ratings](https://journalqd.org/article/view/4500).
+  - News article about the [emotions study](https://science.apa.at/power-search/11930571756735064709)) and the [NewsGuard study](https://science.apa.at/power-search/17014299128480821896). 
+  - Bluesky threads summarizing the [emotions paper](https://bsky.app/profile/hannahmetzler.bsky.social/post/3lfwnawlgp22k) & [NewsGuard paper](https://bsky.app/profile/julaluehring.bsky.social/post/3lfwm6rsfvs2a).
 * Hannah's talk on our project results and the bigger picture of [the Social Dynamics around Misinformation Spreading on Social Media](https://hannahmetzler.eu/dighum) in the [Digital Humanism Lecture Series](https://sci-comm.univie.ac.at/lecture-series-and-events/digital-humanism/).
 * Jula gab einen VHS-Vortrag zu [Misinformation und Fake News in den sozialen Medien: Einblicke in die interdisziplinäre Forschungslage](https://julaluehring.github.io/vhs-misinformation).
 
 ## Our project in the media
 
+* Our paper about the the role of emotions for misinformation: (31.03.2025)
+    - [APA Science](https://science.apa.at/power-search/11930571756735064709)
+    - [ORF Ö3](https://oe3.orf.at/stories/3047105/)
+    - [Krone](https://www.krone.at/3742989)
+    - [MSN](https://www.msn.com/de-de/gesundheit/other/gef%C3%BChle-allein-machen-nicht-anf%C3%A4llig-f%C3%BCr-fake-news/ar-AA1BY5ao)
+    - [NÖN](https://www.noen.at/in-ausland/gefuehle-allein-machen-nicht-anfaellig-fuer-fake-news-467535955)
+    - [Puls24](https://www.puls24.at/news/chronik/gefuehle-allein-machen-nicht-anfaellig-fuer-fake-news/398168)
+    - [Oberösterreichsche Nachrichten.at](https://www.nachrichten.at/panorama/web/forscherin-emotionen-allein-machen-nicht-anfaellig-fuer-fake-news;art122,4038328)
+    - [Salzburger Nachrichten](https://www.sn.at/panorama/wissen/gefuehle-fake-news-176042827)
 * Our paper analyzing the NewsGuard database in national and international news media: (14.03.2025)  
     * [How NewsGuard became democracy’s digital fact-checker – and why critics got it wrong](https://www.msn.com/en-us/news/technology/how-newsguard-became-democracy-s-digital-fact-checker-and-why-critics-got-it-wrong/ar-AA1yoZM3), MSN news.  
     * [Neue Studien bestätigen, dass Fake News vor allem aus dem rechten Lager stammen](https://www.derstandard.at/story/3000000256944/neue-studien-bestaetigen-dass-fake-news-vor-allem-aus-dem-rechten-lager-stammen), DerStandard.  
@@ -42,7 +52,7 @@ Here are Bluesky threads summarizing them: [emotions and misinformation paper](h
 
 ## Project Team
 
-<img src="/assets/img/emomis_team.svg"
+<img src="./assets/img/emomis_team.svg"
      alt="team"
      style="float: left; padding-bottom: 10px" />
 
