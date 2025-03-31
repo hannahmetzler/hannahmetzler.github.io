@@ -79,16 +79,7 @@ ___
     - Scientific Advances, Perspectives in Psychological Science, Scientific Reports, Emotion, The Unjournal, Plos One, Journal of Trial and Error, International Journal of Psychology
     - International Conference on Web Social Media, Network Science Society Conference, The Web Conference 2021 & 2022
     - Collaborative assessment of replicability & credibility of social science research at [RepliCATS](https://replicats.research.unimelb.edu.au/) 2020 & 2021
-* *Science outreach*: 
-    - **2021**: Emotionen und die Verbreitung von Falschinformationen, Vienna Art Week, talk & panel discussion.
-    - **2020-2023**: Regular journalist interviews, examples:
-        * Working conditions in academia: [Falter](https://www.falter.at/zeitung/20230322/sturm-statt-elfenbeinturm)
-        * Complexity Science: [Video on van der Bellen's Facebook page](https://www.facebook.com/watch/?v=731750567653204)
-        * Misinformation on social media: [Kurier](https://kurier.at/wien-wills-wissen/wir-sind-nicht-so-einfach-zu-manipulieren/402428147), [Science APA](https://science.apa.at/power-search/12856578295990689252)
-        * Suicide prevention via social media: [Die Presse](https://www.diepresse.com/6227205/wie-praevention-auf-twitter-suizide-verhindern-kann), [Science ORF](https://science.orf.at/stories/3216588/)
-        * Collective emotions during the  COVID-19 outbreak: [DerStandard](https://www.derstandard.at/story/2000115973796/coronavirus-twitter-spiegelt-aengste-und-sorgen-der-menschen-wider), [Science ORF](https://science.orf.at/stories/3200583/).
-    - **2017**: [“Neurobiology of relationships”](https://hannahmetzler.eu/downloads/Semaine_du_cerveau_ENP_2017_neurobiology_relationships.pdf): Organizer and speaker of science communication event at Semaine du Cerveau 2017, Paris (Talk in French) 
-* *Event organization*:
+ * *Event organization*:
     - **2021**: Conference session on Improving interdisciplinary peer review at [SIPS](https://www.improvingpsych.org/SIPS2021/)
     - **2019 - 2021**: Organizing symposia (No 31, 34, 35) for [WISIA](http://www.wisia.at/) (Women in Science)
     - **2015-2016**: [ENP][ENPprogram] student representative. Event organization and communication: Scientific seminars, career events and social activities for PhD students
@@ -98,6 +89,7 @@ ___
 
 ## Additional qualifications
 
+* **2024-now** Clinical Psychologist in training
 * **2023-now** Foundational Training in Psychotherapy ([Psychotherapeutisches Propädeutikum)](https://www.bildungsmanagement.ac.at/bildungsangebote/diplomlehrgaenge/psychotherapeutisches-propaedeutikum.html), ARGE Bildungsmanagement Vienna
 * **2018** Certificate in Business Administration & Project Management, Sorbonne Paris Cité, Paris (3 weeks).
 
