@@ -29,7 +29,7 @@ Covered by [ORF Ö3](https://oe3.orf.at/stories/3047105/),
 [MSN](https://www.msn.com/de-de/gesundheit/other/gef%C3%BChle-allein-machen-nicht-anf%C3%A4llig-f%C3%BCr-fake-news/ar-AA1BY5ao), 
 [NÖN](https://www.noen.at/in-ausland/gefuehle-allein-machen-nicht-anfaellig-fuer-fake-news-467535955), [Puls24](https://www.puls24.at/news/chronik/gefuehle-allein-machen-nicht-anfaellig-fuer-fake-news/398168), 
 [Oberösterreichsche Nachrichten.at](https://www.nachrichten.at/panorama/web/forscherin-emotionen-allein-machen-nicht-anfaellig-fuer-fake-news;art122,4038328), 
-[Salzburger Nachrichten](https://www.sn.at/panorama/wissen/gefuehle-fake-news-176042827)
+[Salzburger Nachrichten](https://www.sn.at/panorama/wissen/gefuehle-fake-news-176042827).
 * Our paper analyzing the NewsGuard database in national and international news media: (14.03.2025)  
     * [How NewsGuard became democracy’s digital fact-checker – and why critics got it wrong](https://www.msn.com/en-us/news/technology/how-newsguard-became-democracy-s-digital-fact-checker-and-why-critics-got-it-wrong/ar-AA1yoZM3), MSN news.  
     * [Neue Studien bestätigen, dass Fake News vor allem aus dem rechten Lager stammen](https://www.derstandard.at/story/3000000256944/neue-studien-bestaetigen-dass-fake-news-vor-allem-aus-dem-rechten-lager-stammen), DerStandard.  

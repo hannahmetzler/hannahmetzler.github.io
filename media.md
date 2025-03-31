@@ -17,7 +17,7 @@ title: In den Medien
 
 ## Zeitungsartikel
 
-1. 2025-03-31: on Science APA [Forscherin: Emotionen allein machen nicht anfällig für Fake News](https://science.apa.at/power-search/11930571756735064709)
+1. 2025-03-31: Science APA [Forscherin: Emotionen allein machen nicht anfällig für Fake News](https://science.apa.at/power-search/11930571756735064709)
     - [ORF Ö3](https://oe3.orf.at/stories/3047105/)
     - [Krone](https://www.krone.at/3742989)
     - [MSN](https://www.msn.com/de-de/gesundheit/other/gef%C3%BChle-allein-machen-nicht-anf%C3%A4llig-f%C3%BCr-fake-news/ar-AA1BY5ao)
