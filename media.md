@@ -17,23 +17,24 @@ title: In den Medien
 
 ## Zeitungsartikel
 
-1. 2025-03-31: Science APA [Forscherin: Emotionen allein machen nicht anfällig für Fake News](https://science.apa.at/power-search/11930571756735064709)
-    - [ORF Ö3](https://oe3.orf.at/stories/3047105/)
-    - [Krone](https://www.krone.at/3742989)
-    - [MSN](https://www.msn.com/de-de/gesundheit/other/gef%C3%BChle-allein-machen-nicht-anf%C3%A4llig-f%C3%BCr-fake-news/ar-AA1BY5ao)
-    - [NÖN](https://www.noen.at/in-ausland/gefuehle-allein-machen-nicht-anfaellig-fuer-fake-news-467535955)
-    - [Puls24](https://www.puls24.at/news/chronik/gefuehle-allein-machen-nicht-anfaellig-fuer-fake-news/398168)
-    - [Oberösterreichsche Nachrichten.at](https://www.nachrichten.at/panorama/web/forscherin-emotionen-allein-machen-nicht-anfaellig-fuer-fake-news;art122,4038328)
-    - [Salzburger Nachrichten](https://www.sn.at/panorama/wissen/gefuehle-fake-news-176042827)
-1.  2025-01-17: Interview in der Wochenzeitung Das Parlement: [Angst und Wut sind effektive Treiber](https://www.das-parlament.de/kultur/medien/angst-und-wut-sind-effektive-treiber).
-2.  2024-03-24: [Raus aus der Blase](downloads/20240324__Woman_Balance.pdf). Women Balance.
-3.  2023-07-26 on Science APA [Expertin sieht in Social Media keinen "Klima-Killer"](https://science.apa.at/power-search/12856578295990689252). Featured for example on:
+1.  2025-03-31: Science APA [Forscherin: Emotionen allein machen nicht anfällig für Fake News](https://science.apa.at/power-search/11930571756735064709) (Emotions alone don’t make people believe fake news)
+    -   [ORF Ö3](https://oe3.orf.at/stories/3047105/)
+    -   [Krone](https://www.krone.at/3742989)
+    -   [MSN](https://www.msn.com/de-de/gesundheit/other/gef%C3%BChle-allein-machen-nicht-anf%C3%A4llig-f%C3%BCr-fake-news/ar-AA1BY5ao)
+    -   [NÖN](https://www.noen.at/in-ausland/gefuehle-allein-machen-nicht-anfaellig-fuer-fake-news-467535955)
+    -   [Puls24](https://www.puls24.at/news/chronik/gefuehle-allein-machen-nicht-anfaellig-fuer-fake-news/398168)
+    -   [Oberösterreichsche Nachrichten.at](https://www.nachrichten.at/panorama/web/forscherin-emotionen-allein-machen-nicht-anfaellig-fuer-fake-news;art122,4038328)
+    -   [Salzburger Nachrichten](https://www.sn.at/panorama/wissen/gefuehle-fake-news-176042827)
+    -   [The International](https://www.theinternational.at/study-emotions-dont-make-people-believe-fake-news/):
+2.  2025-01-17: Interview in der Wochenzeitung Das Parlement: [Angst und Wut sind effektive Treiber](https://www.das-parlament.de/kultur/medien/angst-und-wut-sind-effektive-treiber).
+3.  2024-03-24: [Raus aus der Blase](downloads/20240324__Woman_Balance.pdf). Women Balance.
+4.  2023-07-26 on Science APA [Expertin sieht in Social Media keinen "Klima-Killer"](https://science.apa.at/power-search/12856578295990689252). Featured for example on:
     -   [DerStandard](https://www.derstandard.de/story/3000000180511/expertin-sieht-in-social-media-keinen-klima-killer)
     -   [Science.ORF](https://science.orf.at/stories/3220488/)
     -   [FM4 news](https://rtv.defacto.at/?param=VF5ScoFA8ClZB77pQK8jHiIHAALxyQ2MGMQm2sXwWzOB5HZiOdjYmYzfUeXVDJVR6g1yi4NaUT3WVs7FjCdSK9twfxN0oqo%3D)
     -   [Blogpost](https://steadyhq.com/de/mimikama/posts/7b0cb1c0-033d-4bfb-a15d-08c47d002ffa) by Mimikama
-4.  2023-04-29 in Kurier: [Wir sind nicht so einfach zu manipulieren](https://kurier.at/wien-wills-wissen/wir-sind-nicht-so-einfach-zu-manipulieren/402428147) - Fake News
-5.  2022-12-14 on Science APA: [Tweets zu Suizidprävention können Suizide verhindern](https://science.apa.at/power-search/14529582810589354089). Featured for example on:
+5.  2023-04-29 in Kurier: [Wir sind nicht so einfach zu manipulieren](https://kurier.at/wien-wills-wissen/wir-sind-nicht-so-einfach-zu-manipulieren/402428147) - Fake News
+6.  2022-12-14 on Science APA: [Tweets zu Suizidprävention können Suizide verhindern](https://science.apa.at/power-search/14529582810589354089). Featured for example on:
     -   [Alphagalileo](https://www.alphagalileo.org/en-gb/Item-Display?ItemId=228622)
     -   [DerStandard](https://www.derstandard.at/story/2000141789752/praevention-auf-twitter-kann-suizide-verhindern)
     -   [Die Presse](https://www.diepresse.com/6227205/wie-praevention-auf-twitter-suizide-verhindern-kann)
@@ -41,11 +42,11 @@ title: In den Medien
     -   [Science ORF](https://science.orf.at/stories/3216588/)
     -   [Kleine Zeitung](https://www.kleinezeitung.at/home/klistenspecial/klisteklein/6227173/Papageno-und-WertherEffekt_Forscher_Praevention-auf-Twitter-kann)
     -   [Vorarlberg Online](https://www.vol.at/wie-twitter-sich-auf-suizide-auswirkt/7797967)
-6.  2020-04-17 on Science APA: **Online-Emotionen: Mehr Trauer als Wut.** Featured for example on:
+7.  2020-04-17 on Science APA: **Online-Emotionen: Mehr Trauer als Wut.** Featured for example on:
     -   [Science.ORF](https://science.orf.at/stories/3200583/)
     -   [Key Media](https://www.keymedia.at/news/chronik/online-emotionen-im-foren-waehrend-der-coronakrise/)
     -   [Vienna Online](https://www.vienna.at/analyse-zeigt-weniger-angst-und-wut-mehr-trauer-bei-online-kommentaren/6590284)
-7.  2020-03-20 on Science APA: **Coronavirus: Twitter spiegelt Ängste und Sorgen der Menschen wider.** Featured for example on:
+8.  2020-03-20 on Science APA: **Coronavirus: Twitter spiegelt Ängste und Sorgen der Menschen wider.** Featured for example on:
     -   [DerStandard](https://www.derstandard.at/story/2000115973796/coronavirus-twitter-spiegelt-aengste-und-sorgen-der-menschen-wider)
     -   [Kronen Zeitung](https://www.krone.at/2120986)
 

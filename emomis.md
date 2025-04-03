@@ -24,7 +24,9 @@ and best-practices for measuring [news trustworthiness using NewsGuard ratings](
 ## Our project in the media
 
 * APA Science about [our paper on the the role of emotions for misinformation](https://science.apa.at/power-search/11930571756735064709) (31.03.2025). 
-Covered by [ORF Ö3](https://oe3.orf.at/stories/3047105/), 
+Covered by 
+[ORF Ö3](https://oe3.orf.at/stories/3047105/), 
+[The International](https://www.theinternational.at/study-emotions-dont-make-people-believe-fake-news/),
 [Krone](https://www.krone.at/3742989), 
 [MSN](https://www.msn.com/de-de/gesundheit/other/gef%C3%BChle-allein-machen-nicht-anf%C3%A4llig-f%C3%BCr-fake-news/ar-AA1BY5ao), 
 [NÖN](https://www.noen.at/in-ausland/gefuehle-allein-machen-nicht-anfaellig-fuer-fake-news-467535955), [Puls24](https://www.puls24.at/news/chronik/gefuehle-allein-machen-nicht-anfaellig-fuer-fake-news/398168), 
