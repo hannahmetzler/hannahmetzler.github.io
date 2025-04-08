@@ -35,7 +35,7 @@ ___
 
 ## Public presentations & panel discussions
 
-1. **07/04/2025** Gespräch im Anschluss an die Doku [How to build a truth engine](https://www.leokino.at/index.php?disp=film&fid=F16719) beim Osterfestival Tirol, Leokino, Innsbruck. 
+1. **07/04/2025** Gespräch im Anschluss an die Doku [How to build a truth engine](https://www.osterfestival.at/programm/how-to-build-a-truth-engine/) beim Osterfestival Tirol, Leokino, Innsbruck. 
 1. **13/11/2024** [_The Social Dynamics around Misinformation Spreading on Social Media_](https://hannahmetzler.eu/dighum), Lecture Series: [Foundation and Methods of Digital Humanism](https://sci-comm.univie.ac.at/lecture-series-and-events/digital-humanism/), BIG Lecture room, University of Vienna. 
 1. **24/10/2024, 17h** [_Radikale Hoffnung - wie überwinden wir die Polarisierung?_](https://www.ideale-konferenz.at/timetable-24), Panel Diskussion mit Rudi Anschober & Ingrid Brodnig, IDEALE Konferenz, Wien.
 1. **23/10/2024** [**Polarisierung durch Algorithmen? Demokratie und Meinungsbildung im digitalen Zeitalter – Mythen auf dem Prüfstand**](https://hannahmetzler.eu/digitaldays), Impulsvortrag & Panel at the [Digital Days 2024](https://www.digitalcity.wien/digital-days-2024), Technical Museum, Vienna.
