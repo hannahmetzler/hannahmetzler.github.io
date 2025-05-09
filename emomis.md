@@ -59,6 +59,8 @@ Covered by
 [FM4 news](https://rtv.defacto.at/?param=VF5ScoFA8ClZB77pQK8jHiIHAALxyQ2MGMQm2sXwWzOB5HZiOdjYmYzfUeXVDJVR6g1yi4NaUT3WVs7FjCdSK9twfxN0oq).
 
 
+___
+
 ## Project Team
 
 <img src="./assets/img/emomis_team.png"
@@ -93,7 +95,8 @@ What we do in 5 bullet points:
 * We develop novel interventions that consider the social identities our believes and emotions around them are linked to.
 * We simulate the dynamics of emotions around news shared by politicians, and the potential effect of algorithmic interventions on misinformation spreading using Agent Based Modelling.
 
-__
+___
+
 
 ## Publications
 
