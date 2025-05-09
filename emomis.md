@@ -61,7 +61,7 @@ Covered by
 
 ## Project Team
 
-<img src="./assets/img/emomis_team.svg"
+<img src="./assets/img/emomis_team.png"
      alt="team"
      style="float: left; padding-bottom: 10px" />
 
