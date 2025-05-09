@@ -5,25 +5,37 @@ subtitle: The interplay of emotions and misinformation spreading on social media
 show-avatar: false
 ---
 
-
-
 ___
 
 
 ## Project News
 
-* Hannah gave a puglic talk on polarization and the role of social media algorithms (in German): _Polarisierung durch Algorithmen? Demokratie und Meinungsbildung im digitalen Zeitalter – Mythen auf dem Prüfstand._ 
-  You can look at it on [Youtube](https://www.youtube.com/watch?v=rJJXxf_JNLU) and check out the [slides](https://hannahmetzler.eu/digitaldays).
-* Our first two papers got published in December and January! They are about the role of [emotions for misinformation](https://rdcu.be/d36bX) 
+* Our first two papers got published! They are about the role of [emotions for misinformation](https://rdcu.be/d36bX) 
 and best-practices for measuring [news trustworthiness using NewsGuard ratings](https://journalqd.org/article/view/4500).
   - News article about the [emotions study](https://science.apa.at/power-search/11930571756735064709) and the [NewsGuard study](https://science.apa.at/power-search/17014299128480821896). 
   - Bluesky threads summarizing the [emotions paper](https://bsky.app/profile/hannahmetzler.bsky.social/post/3lfwnawlgp22k) & [NewsGuard paper](https://bsky.app/profile/julaluehring.bsky.social/post/3lfwm6rsfvs2a).
-* Hannah's talk on our project results and the bigger picture of [the Social Dynamics around Misinformation Spreading on Social Media](https://hannahmetzler.eu/dighum) in the [Digital Humanism Lecture Series](https://sci-comm.univie.ac.at/lecture-series-and-events/digital-humanism/).
-* Jula gave a talk on misinformation (in German) at VHS Vienna: [Misinformation und Fake News in den sozialen Medien: Einblicke in die interdisziplinäre Forschungslage](https://julaluehring.github.io/vhs-misinformation).
 
-## Our project in the media
+## Blogposts
+
+-  [Mythos Fehlinformation: Warum soziale Medien weniger gefährlich sind als wir denken](https://hannahmetzler.eu/2024-09-13-Mythos_Fehlinformation/).
+
+## Podcasts & videos
+
+* German: 
+  * DerStandard Podcast: [Wahrheit gegen Lüge: Die Psychologie hinter Fake News](https://www.derstandard.at/story/3000000218043/wahrheit-gegen-luege-die-psychologie-hinter-fake-news). 
+  * Vortrag: [Polarisierung durch Algorithmen? Demokratie und Meinungsbildung im digitalen Zeitalter – Mythen auf dem Prüfstand](https://www.youtube.com/watch?v=rJJXxf_JNLU)
+* English
+  - Talk about our project results on [the Social Dynamics around Misinformation Spreading on Social Media](https://www.youtube.com/watch?v=nVavOHdwRPg) 
+  * [Jula introducing her research](https://www.youtube.com/watch?v=8uoJVLcbHJU&t=22s)
+  * [Hannah about her research at the Complexity Science Hub](https://www.youtube.com/watch?v=xpiiOqwGQa8)
+
+## News articles (in English)
 
 * [Spotting climate misinformation with AI requires expertly trained models](https://www.sciencenews.org/article/climate-misinformation-ai-experts), Science News (14.04.2025)
+* [How NewsGuard became democracy’s digital fact-checker – and why critics got it wrong](https://www.msn.com/en-us/news/technology/how-newsguard-became-democracy-s-digital-fact-checker-and-why-critics-got-it-wrong/ar-AA1yoZM3), MSN news.  
+
+## News articles (in German)
+
 * APA Science about [our paper on the role of emotions for misinformation](https://science.apa.at/power-search/11930571756735064709) (31.03.2025). 
 Covered by 
 [ORF Ö3](https://oe3.orf.at/stories/3047105/), 
@@ -34,16 +46,13 @@ Covered by
 [Oberösterreichsche Nachrichten.at](https://www.nachrichten.at/panorama/web/forscherin-emotionen-allein-machen-nicht-anfaellig-fuer-fake-news;art122,4038328), 
 [Salzburger Nachrichten](https://www.sn.at/panorama/wissen/gefuehle-fake-news-176042827).
 * Our paper analysing the NewsGuard database in international and national news media (14.03.2025):
-    * [How NewsGuard became democracy’s digital fact-checker – and why critics got it wrong](https://www.msn.com/en-us/news/technology/how-newsguard-became-democracy-s-digital-fact-checker-and-why-critics-got-it-wrong/ar-AA1yoZM3), MSN news.  
     * [Neue Studien bestätigen, dass Fake News vor allem aus dem rechten Lager stammen](https://www.derstandard.at/story/3000000256944/neue-studien-bestaetigen-dass-fake-news-vor-allem-aus-dem-rechten-lager-stammen), DerStandard.  
     * [Medien in Österreich relativ vertrauenswürdig](https://science.orf.at/stories/3228849/), Science ORF.at.  
     * [Online-Medien in Österreich sind weit vertrauenswürdiger als jene in den USA](https://www.diepresse.com/19359597/online-medien-in-oesterreich-sind-weit-vertrauenswuerdiger-als-jene-in-den-usa).  Die Presse. 
     * [Medien in Österreich weit vertrauenswürdiger als in den USA bewertet](https://science.apa.at/power-search/17014299128480821896), Science APA.  
 * Hannah gave an interview for the weekly newspaper "Das Parlament" (in German): [Angst und Wut sind effektive Treiber](https://www.das-parlament.de/kultur/medien/angst-und-wut-sind-effektive-treiber). (17.01.2025)  
-* Apeksha is featured in an [article](https://kurier.at/wien-wills-wissen/interdisziplinaeres-doktoratskolleg/402987748) about the new digital humanism doctoral college. (03.12.2024)  
+* Apeksha is featured in a (German) [article](https://kurier.at/wien-wills-wissen/interdisziplinaeres-doktoratskolleg/402987748) about the new digital humanism doctoral college. (03.12.2024)  
 * [Mythos Fehlinformation: Warum soziale Medien weniger gefährlich sind, als wir denken]({% post_url 2024-09-13-Mythos_Fehlinformation %}), Spektrum der Wissenschaft [online](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667) and in the print edition [Spektrum - Die Woche 35/2024](https://www.spektrum.de/pdf/35-2024-spektrum-die-woche-35-2024/2214951). On political misinformation, propaganda, elections, algorithms, and AI. (22.08.2024)  
-* [ORF 1 documentary Dok 1](https://on.orf.at/video/14228328/dok-1-oesterreich-rastet-aus-jeder-gegen-jeden): Jeder gegen Jeden? Österreich rastet aus, \[“Everyone against Everyone: Austria goes berserk\]. Do social media make us all angrier? Have a look at minutes 23:30 and 44:00. (29.05.2024)  
-* [Wahrheit gegen Lüge: Die Psychologie hinter Fake News](https://www.derstandard.at/story/3000000218043/wahrheit-gegen-luege-die-psychologie-hinter-fake-news), DerStandard Podcast and [Article](https://www.derstandard.at/story/3000000220181/wieso-glauben-menschen-falschnachrichten-uebers-klima): Edition Zukunft Klimafragen. On misinformation, social media, and climate change. (03.05.2024)  
 * [Social media and debates about climate change](https://science.apa.at/power-search/12856578295990689252) (26.07.2023), covered by 
 [DerStandard](https://www.derstandard.de/story/3000000180511/expertin-sieht-in-social-media-keinen-klima-killer),
 [Science.ORF](https://science.orf.at/stories/3220488/),
@@ -75,23 +84,16 @@ Covered by
 
 ## About the project
 
-In November 2021, we started the project *Emotional Misinformation – The Interplay of Emotion and Misinformation Spreading on Social Media* (EMOMIS). It is funded with 400.000 Euros by the Vienna Science and Technology Fund ([WWTF](https://wwtf.at/funding/programmes/ict/ICT20-028/)) until February 2025. What we do in 5 bullet points: 
+This project (EMOMIS) is funded with 400.000 Euros by the Vienna Science and Technology Fund ([WWTF](https://wwtf.at/funding/programmes/ict/ICT20-028/)) from November 2021 to June 2025. 
+What we do in 5 bullet points: 
 
 * We have investigated how emotional state influences discernment between true and false news, and which emotions such news trigger, and what their function in the processing of misinformation is. 
 * We investigate the large-scale interplay of emotions around news of different trustworthiness on Twitter from 2020 to 2023. 
 * We evaluate ways of measuring misinformation in social media data. 
 * We develop novel interventions that consider the social identities our believes and emotions around them are linked to.
-* We simulate the dynamics of emotions around news, and the potential effect of algorithmic interventions on misinformation spreading using Agent Based Modelling.
+* We simulate the dynamics of emotions around news shared by politicians, and the potential effect of algorithmic interventions on misinformation spreading using Agent Based Modelling.
 
-For more: 
-
-* [Summary](https://hannahmetzler.eu/dighum) of project results in November 2024 ([Recording](https://www.youtube.com/watch?v=nVavOHdwRPg&t=4s)
-* [Slides](https://hannahmetzler.eu/measuring_emo_misinfo) of our first online study on how emotions and fake news recognition are related. 
-* [Slides](https://hannahmetzler.eu/emomis_stockholm) of a talk at the Conference on Intelligent Machines, Emotions and the Planet
-* [Video](https://www.wilsoncenter.org/event/digital-humanism-how-put-humans-center-emerging-tech) of a panel discussion, including a brief introduction to EMOMIS, starting at at 29 minutes into the video. 
-* Eine Übersicht zu unserem Projekt auf deutsch, mit vielen anderen spannenden Forschungsergebnissen gibt es [hier](https://hannahmetzler.eu/klimaaktiv). 
-
-___
+__
 
 ## Publications
 
@@ -104,9 +106,12 @@ ___
 
 ### For the general public
 
-1. Metzler, H. (22.08.2024). [Mythos Fehlinformation: Warum soziale Medien weniger gefährlich sind, als wir denken](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667), Spektrum der Wissenschaft online.
-2. Metzler, H. (26.08.2024). [Mythos Fehlinformation: Warum soziale Medien weniger gefährlich sind, als wir denken](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667), [Spektrum - Die Woche 35/2024](https://www.spektrum.de/pdf/35-2024-spektrum-die-woche-35-2024/2214951).
-3. Metzler, H. (2023). [Emotions and group dynamics around misinformation on social media](https://www.stockholmresilience.org/news--events/climate-misinformation/chapter-4-emotions-and-group-dynamics-around-misinformation-on-social-media.html), Chapter 4, Synthesis Report on __Climate misinformation in a climate of misinformation__, Stockholm Resilience Centre.
+1. **Mythos Fehlinformation: Warum soziale Medien weniger gefährlich sind, als wir denken**
+    - [Spektrum - Gehirn&Geist](https://www.spektrum.de/inhaltsverzeichnis/kognition-wie-das-denken-erwachte-gehirn-und-geist-3-2025/2236488), (7.02.2025). 
+    - [Spektrum der Wissenschaft online](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667), (22.08.2024). 
+    - [Spektrum - Die Woche 35/2024](https://www.spektrum.de/pdf/35-2024-spektrum-die-woche-35-2024/2214951), (26.08.2024).
+    - Open Access Version as a [Blogpost](https://hannahmetzler.eu/2024-09-13-Mythos_Fehlinformation/). 
+2. Metzler, H. (2023). [Emotions and group dynamics around misinformation on social media](https://www.stockholmresilience.org/news--events/climate-misinformation/chapter-4-emotions-and-group-dynamics-around-misinformation-on-social-media.html), Chapter 4, Synthesis Report on __Climate misinformation in a climate of misinformation__, Stockholm Resilience Centre.
 
 
 ## Public talks, videos, podcasts, blogposts & more
@@ -114,8 +119,10 @@ ___
 1. Metzler, H. (13.11.2024) [The Social Dynamics around Misinformation Spreading on Social Media](https://hannahmetzler.eu/dighum), Lecture Series: [Foundation and Methods of Digital Humanism](https://sci-comm.univie.ac.at/lecture-series-and-events/digital-humanism/), BIG Lecture room, University of Vienna.  
 2. Metzler, H. (24.10.2024) [Radikale Hoffnung - wie überwinden wir die Polarisierung?](https://www.ideale-konferenz.at/timetable-24), Panel discussion with Rudi Anschober & Ingrid Brodnig, IDEALE Konferenz, Vienna.
 3. Luehring, J. (07.10.2024). [Misinformation und Fake News in den sozialen Medien: Einblicke in die interdisziplinäre Forschungslage.](https://julaluehring.github.io/vhs-misinformation), VHS Urania Schwerpunkt Demokratie.
-4. Metzler, H. (23.10.2024) [Polarisierung durch Algorithmen? Demokratie und Meinungsbildung im digitalen Zeitalter – Mythen auf dem Prüfstand](https://hannahmetzler.eu/digitaldays), Keynote speech & Panel at the [Digital Days 2024](https://www.digitalcity.wien/digital-days-2024), Technical Museum, Vienna.
+4. Metzler, H. (23.10.2024) [Polarisierung durch Algorithmen? Demokratie und Meinungsbildung im digitalen Zeitalter – Mythen auf dem Prüfstand](https://hannahmetzler.eu/digitaldays), 
+Keynote speech & Panel at the [Digital Days 2024](https://www.digitalcity.wien/digital-days-2024), Technical Museum, Vienna.  [Youtube Recording](https://www.youtube.com/watch?v=rJJXxf_JNLU) & [slides](https://hannahmetzler.eu/digitaldays). 
 5. Metzler H. (29.05.2024) [ORF 1 documentary Dok 1](https://tv.orf.at/dok-1/index.html): "Jeder gegen Jeden? Österreich rastet aus" \[“Everyone against Everyone: Austria goes berserk”\]
+1. Lühring, J. (23.05.2024) Misinformation and Emotions on Social Media. Science Communication Video, University of Vienna. https://www.youtube.com/watch?v=8uoJVLcbHJU&t=8s
 6. Metzler, H. (06.05.2024). [Social Media sind (k)ein Klimakiller](https://www.klimaaktiv.at/service/veranstaltungen/Allgemein/webinar-social-media.html). Webinar bei [klimaaktiv](https://www.klimaaktiv.at/bildung/klimadialog/webinare.html) (Initiative des Bundesministeriums für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie), [Recording](https://www.klimaaktiv.at/bildung/klimadialog/webinare.html). [Folien.](https://hannahmetzler.eu/klimaaktiv/)
 7. Breit, L. & Metzler, H. (23.05.2024) [Wieso glauben Menschen Falschnachrichten übers Klima?](https://www.derstandard.at/story/3000000220181/wieso-glauben-menschen-falschnachrichten-uebers-klima), DerStandard, Edition Zukunft.
 8. Metzler, H. (03.05.2024). [Wahrheit gegen Lüge: Die Psychologie hinter Fake News](https://www.derstandard.at/story/3000000218043/wahrheit-gegen-luege-die-psychologie-hinter-fake-news). DerStandard Podcast Edition Zukunft Klimafragen.
