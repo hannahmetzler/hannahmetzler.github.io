@@ -12,18 +12,19 @@ ___
 
 ## Project News
 
-* Hannah's Vortrag über [Polarisierung durch Algorithmen? Demokratie und Meinungsbildung im digitalen Zeitalter – Mythen auf dem Prüfstand](https://www.youtube.com/watch?v=rJJXxf_JNLU) ist online nachzuhören, 
-  die Folien gibt's [hier](https://hannahmetzler.eu/digitaldays).
+* Hannah gave a puglic talk on polarization and the role of social media algorithms (in German): _Polarisierung durch Algorithmen? Demokratie und Meinungsbildung im digitalen Zeitalter – Mythen auf dem Prüfstand._ 
+  You can look at it on [Youtube](https://www.youtube.com/watch?v=rJJXxf_JNLU) and check out the [slides](https://hannahmetzler.eu/digitaldays).
 * Our first two papers got published in December and January! They are about the role of [emotions for misinformation](https://rdcu.be/d36bX) 
 and best-practices for measuring [news trustworthiness using NewsGuard ratings](https://journalqd.org/article/view/4500).
   - News article about the [emotions study](https://science.apa.at/power-search/11930571756735064709) and the [NewsGuard study](https://science.apa.at/power-search/17014299128480821896). 
   - Bluesky threads summarizing the [emotions paper](https://bsky.app/profile/hannahmetzler.bsky.social/post/3lfwnawlgp22k) & [NewsGuard paper](https://bsky.app/profile/julaluehring.bsky.social/post/3lfwm6rsfvs2a).
 * Hannah's talk on our project results and the bigger picture of [the Social Dynamics around Misinformation Spreading on Social Media](https://hannahmetzler.eu/dighum) in the [Digital Humanism Lecture Series](https://sci-comm.univie.ac.at/lecture-series-and-events/digital-humanism/).
-* Jula gab einen VHS-Vortrag zu [Misinformation und Fake News in den sozialen Medien: Einblicke in die interdisziplinäre Forschungslage](https://julaluehring.github.io/vhs-misinformation).
+* Jula gave a talk on misinformation (in German) at VHS Vienna: [Misinformation und Fake News in den sozialen Medien: Einblicke in die interdisziplinäre Forschungslage](https://julaluehring.github.io/vhs-misinformation).
 
 ## Our project in the media
 
-* APA Science about [our paper on the the role of emotions for misinformation](https://science.apa.at/power-search/11930571756735064709) (31.03.2025). 
+* [Spotting climate misinformation with AI requires expertly trained models](https://www.sciencenews.org/article/climate-misinformation-ai-experts), Science News (14.04.2025)
+* APA Science about [our paper on the role of emotions for misinformation](https://science.apa.at/power-search/11930571756735064709) (31.03.2025). 
 Covered by 
 [ORF Ö3](https://oe3.orf.at/stories/3047105/), 
 [The International](https://www.theinternational.at/study-emotions-dont-make-people-believe-fake-news/),
@@ -32,16 +33,16 @@ Covered by
 [NÖN](https://www.noen.at/in-ausland/gefuehle-allein-machen-nicht-anfaellig-fuer-fake-news-467535955), [Puls24](https://www.puls24.at/news/chronik/gefuehle-allein-machen-nicht-anfaellig-fuer-fake-news/398168), 
 [Oberösterreichsche Nachrichten.at](https://www.nachrichten.at/panorama/web/forscherin-emotionen-allein-machen-nicht-anfaellig-fuer-fake-news;art122,4038328), 
 [Salzburger Nachrichten](https://www.sn.at/panorama/wissen/gefuehle-fake-news-176042827).
-* Our paper analyzing the NewsGuard database in national and international news media: (14.03.2025)  
+* Our paper analysing the NewsGuard database in international and national news media (14.03.2025):
     * [How NewsGuard became democracy’s digital fact-checker – and why critics got it wrong](https://www.msn.com/en-us/news/technology/how-newsguard-became-democracy-s-digital-fact-checker-and-why-critics-got-it-wrong/ar-AA1yoZM3), MSN news.  
     * [Neue Studien bestätigen, dass Fake News vor allem aus dem rechten Lager stammen](https://www.derstandard.at/story/3000000256944/neue-studien-bestaetigen-dass-fake-news-vor-allem-aus-dem-rechten-lager-stammen), DerStandard.  
     * [Medien in Österreich relativ vertrauenswürdig](https://science.orf.at/stories/3228849/), Science ORF.at.  
-    * [Online-Medien in Österreich sind weit vertrauenswürdiger als jene in den USA](https://www.diepresse.com/19359597/online-medien-in-oesterreich-sind-weit-vertrauenswuerdiger-als-jene-in-den-usa).  
+    * [Online-Medien in Österreich sind weit vertrauenswürdiger als jene in den USA](https://www.diepresse.com/19359597/online-medien-in-oesterreich-sind-weit-vertrauenswuerdiger-als-jene-in-den-usa).  Die Presse. 
     * [Medien in Österreich weit vertrauenswürdiger als in den USA bewertet](https://science.apa.at/power-search/17014299128480821896), Science APA.  
-* Interview in der Wochenzeitung Das Parlament: [Angst und Wut sind effektive Treiber](https://www.das-parlament.de/kultur/medien/angst-und-wut-sind-effektive-treiber). (17.01.2025)  
+* Hannah gave an interview for the weekly newspaper "Das Parlament" (in German): [Angst und Wut sind effektive Treiber](https://www.das-parlament.de/kultur/medien/angst-und-wut-sind-effektive-treiber). (17.01.2025)  
 * Apeksha is featured in an [article](https://kurier.at/wien-wills-wissen/interdisziplinaeres-doktoratskolleg/402987748) about the new digital humanism doctoral college. (03.12.2024)  
 * [Mythos Fehlinformation: Warum soziale Medien weniger gefährlich sind, als wir denken]({% post_url 2024-09-13-Mythos_Fehlinformation %}), Spektrum der Wissenschaft [online](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667) and in the print edition [Spektrum - Die Woche 35/2024](https://www.spektrum.de/pdf/35-2024-spektrum-die-woche-35-2024/2214951). On political misinformation, propaganda, elections, algorithms, and AI. (22.08.2024)  
-* [ORF 1 documentary Dok 1](https://on.orf.at/video/14228328/dok-1-oesterreich-rastet-aus-jeder-gegen-jeden): "Jeder gegen Jeden? Österreich rastet aus" \[“Everyone against Everyone: Austria goes berserk”\]. Do social media make us all angrier? Have a look at minutes 23:30 and 44:00. (29.05.2024)  
+* [ORF 1 documentary Dok 1](https://on.orf.at/video/14228328/dok-1-oesterreich-rastet-aus-jeder-gegen-jeden): Jeder gegen Jeden? Österreich rastet aus, \[“Everyone against Everyone: Austria goes berserk\]. Do social media make us all angrier? Have a look at minutes 23:30 and 44:00. (29.05.2024)  
 * [Wahrheit gegen Lüge: Die Psychologie hinter Fake News](https://www.derstandard.at/story/3000000218043/wahrheit-gegen-luege-die-psychologie-hinter-fake-news), DerStandard Podcast and [Article](https://www.derstandard.at/story/3000000220181/wieso-glauben-menschen-falschnachrichten-uebers-klima): Edition Zukunft Klimafragen. On misinformation, social media, and climate change. (03.05.2024)  
 * [Social media and debates about climate change](https://science.apa.at/power-search/12856578295990689252) (26.07.2023), covered by 
 [DerStandard](https://www.derstandard.de/story/3000000180511/expertin-sieht-in-social-media-keinen-klima-killer),
