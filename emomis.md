@@ -10,6 +10,13 @@ ___
 
 ## Project News
 
+* Jula gave 2 presentations at ICA 2025 in Denver, Colorado, USA: 
+  - Causal Effects of Misinformation on Online Interactions.
+  - Tool Demo: Best Practices for Evaluating News Source Trustworthiness with NewsGuard. 
+
+* Jula's [presentation](https://julaluehring.github.io/2025-emomis-konstanz) on _Misinformation and Emotions Online_ at the University of Konstanz is online.
+
+ 
 * Our first two papers got published! They are about the role of [emotions for misinformation](https://rdcu.be/d36bX) 
 and best-practices for measuring [news trustworthiness using NewsGuard ratings](https://journalqd.org/article/view/4500).
   - News article about the [emotions study](https://science.apa.at/power-search/11930571756735064709) and the [NewsGuard study](https://science.apa.at/power-search/17014299128480821896). 
@@ -138,6 +145,9 @@ Keynote speech & Panel at the [Digital Days 2024](https://www.digitalcity.wien/d
 
 ## Conference and seminar talks
 
+1. Lühring, J. (15.06.2025). Causal Effects of Misinformation on Online Interactions.  Talk in the panel on Causal Inference and Network Analysis, 74th Conference of the International Communication Association, Denver, USA. 
+1. Lühring, J. (15.06.2025). Tool Demo: Best Practices for Evaluating News Source Trustworthiness with NewsGuard. Talk in the panel on Computational Methods Tool Development and Demonstration, 74th Conference of the International Communication Association, Denver, USA. 
+1. Luehring, J. (30.04.2025). Misinformation and Emotions Online. Invited talk at the Social Data Science Colloquium, University of Konstanz, Germany. https://julaluehring.github.io/2025-emomis-konstanz
 1. Lühring, J. (04.09.2024) Effects of Misinformation on Online Dicussions, [Symposium MISDOOM 2024](https://www.misdoom2024.uni-muenster.de/program/), Münster, Germany.
 2. Shetty, A. (04.09.2024) Emotional Dynamics and Algorithmic Interventions: Curbing Misinformation Among Political Elites on Twitter, [Symposium MISDOOM 2024](https://www.misdoom2024.uni-muenster.de/program/), Münster, Germany.
 3. Luehring, J. (05.07.2024). [Emotional misinformation diffusion: Mapping socio-affective dynamics in the digital information ecosystem](https://julaluehring.github.io/emotional-speech-workshop/). Invited talk at the Emotional Speech Workshop, Ruhr-Universität Bochum, Germany.
