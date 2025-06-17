@@ -10,6 +10,8 @@ ___
 
 ## Project News
 
+* Hannah talks about social media myths on the [Erklär mir die Welt podcast](https://erklärmir.at/2025/06/17/352-deep-dive-mythen-ueber-social-media-mit-hannah-metzler/)
+
 * Jula gave 2 presentations at ICA 2025 in Denver, Colorado, USA: 
   - Causal Effects of Misinformation on Online Interactions.
   - Tool Demo: Best Practices for Evaluating News Source Trustworthiness with NewsGuard. 
@@ -29,7 +31,8 @@ and best-practices for measuring [news trustworthiness using NewsGuard ratings](
 ## Podcasts & videos
 
 * German: 
-  * DerStandard Podcast: [Wahrheit gegen Lüge: Die Psychologie hinter Fake News](https://www.derstandard.at/story/3000000218043/wahrheit-gegen-luege-die-psychologie-hinter-fake-news). 
+  * Erklär mir die Welt Podcast: [#352 deep dive: Mythen über Social Media](https://erklärmir.at/2025/06/17/352-deep-dive-mythen-ueber-social-media-mit-hannah-metzler/)
+  * DerStandard Podcast: [Wahrheit gegen Lüge: Die Psychologie hinter Fake News](https://www.derstandard.at/story/3000000218043/wahrheit-gegen-luege-die-psychologie-hinter-fake-news)
   * Vortrag: [Polarisierung durch Algorithmen? Demokratie und Meinungsbildung im digitalen Zeitalter – Mythen auf dem Prüfstand](https://www.youtube.com/watch?v=rJJXxf_JNLU)
 * English
   - Talk about our project results on [the Social Dynamics around Misinformation Spreading on Social Media](https://www.youtube.com/watch?v=nVavOHdwRPg) 
