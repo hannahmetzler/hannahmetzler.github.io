@@ -15,6 +15,8 @@ ___
 
 ## Education summary
 
+* **2024-now** Postgraduate education for Clinical Psychology, WIKIP (Viennese Academy for Clinical Psychology), Vienna
+* **2022-2023** Foundational Training in Psychotherapy ("Psychotherapeutisches Propädeutikum"), ARGE Bildungsmanagement, Vienna
 * **2014-2018** PhD in Social Neuroscience at Sorbonne University & École Normale Supérieure Paris, supervised by Julie Grèzes  
     Graduate Program at École des Neurosciences Paris-Île de-France
 * **2007-2013** Diploma program in Psychology at University of Vienna  
@@ -27,7 +29,7 @@ ___
 
 ## Research Experience
 
-* **2020-now** Postdoctoral researcher and project lead at [Complexity Science Hub][CSH]
+* **2020-2025** Postdoctoral researcher and project lead at [Complexity Science Hub][CSH]
 * **2020-2025** Postdoctoral researcher and project lead at Center for Medical Data Science, [Medical University in Vienna][Meduni]
     * 2020-2022 10% @ Graz University of Technology
     * 2020-2022 50% @ [Unit Suicide Research and Mental Health Promotion][Thomas]
