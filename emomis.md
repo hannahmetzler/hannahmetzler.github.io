@@ -96,8 +96,8 @@ ___
 
 ## About the project
 
-This project (EMOMIS) is funded with 400.000 Euros by the Vienna Science and Technology Fund ([WWTF](https://wwtf.at/funding/programmes/ict/ICT20-028/)) from November 2021 to June 2025. 
-What we do in 5 bullet points: 
+This project (EMOMIS) was funded with 400.000 Euros by the Vienna Science and Technology Fund ([WWTF](https://wwtf.at/funding/programmes/ict/ICT20-028/)) from November 2021 to June 2025. 
+What we did in 5 bullet points: 
 
 * We have investigated how emotional state influences discernment between true and false news, and which emotions such news trigger, and what their function in the processing of misinformation is. 
 * We investigate the large-scale interplay of emotions around news of different trustworthiness on Twitter from 2020 to 2023. 
@@ -129,6 +129,8 @@ ___
 
 ## Public talks, videos, podcasts, blogposts & more
 
+1. Metzler, H. (29.08.2025) #81 Mind / Machine Podcast: [News, Nuancen, mentale Gesundheit: Was Social Media wirklich mit uns macht.](https://open.spotify.com/episode/0dqZp08ECI1zYtz1qzFhaK)
+1. Metzler, H. (17.06.2025) Erklär mir die Welt Podcast: [#352 deep dive: Mythen über Social Media](https://erklärmir.at/2025/06/17/352-deep-dive-mythen-ueber-social-media-mit-hannah-metzler)
 1. Metzler, H. (13.11.2024) [The Social Dynamics around Misinformation Spreading on Social Media](https://hannahmetzler.eu/dighum), Lecture Series: [Foundation and Methods of Digital Humanism](https://sci-comm.univie.ac.at/lecture-series-and-events/digital-humanism/), BIG Lecture room, University of Vienna.  
 2. Metzler, H. (24.10.2024) [Radikale Hoffnung - wie überwinden wir die Polarisierung?](https://www.ideale-konferenz.at/timetable-24), Panel discussion with Rudi Anschober & Ingrid Brodnig, IDEALE Konferenz, Vienna.
 3. Luehring, J. (07.10.2024). [Misinformation und Fake News in den sozialen Medien: Einblicke in die interdisziplinäre Forschungslage.](https://julaluehring.github.io/vhs-misinformation), VHS Urania Schwerpunkt Demokratie.
