@@ -18,7 +18,6 @@ ___
 
 * Jula's [presentation](https://julaluehring.github.io/2025-emomis-konstanz) on _Misinformation and Emotions Online_ at the University of Konstanz is online.
 
- 
 * Our first two papers got published! They are about the role of [emotions for misinformation](https://rdcu.be/d36bX) 
 and best-practices for measuring [news trustworthiness using NewsGuard ratings](https://journalqd.org/article/view/4500).
   - News article about the [emotions study](https://science.apa.at/power-search/11930571756735064709) and the [NewsGuard study](https://science.apa.at/power-search/17014299128480821896). 
@@ -31,8 +30,9 @@ and best-practices for measuring [news trustworthiness using NewsGuard ratings](
 ## Podcasts & videos
 
 * German: 
+  * #81 Mind / Machine Podcast: [News, Nuancen, mentale Gesundheit: Was Social Media wirklich mit uns macht.](https://open.spotify.com/episode/0dqZp08ECI1zYtz1qzFhaK)
   * Erklär mir die Welt Podcast: [#352 deep dive: Mythen über Social Media](https://erklärmir.at/2025/06/17/352-deep-dive-mythen-ueber-social-media-mit-hannah-metzler/)
-  * DerStandard Podcast: [Wahrheit gegen Lüge: Die Psychologie hinter Fake News](https://www.derstandard.at/story/3000000218043/wahrheit-gegen-luege-die-psychologie-hinter-fake-news)
+  * DerStandard Edition Zukunft Klimafragen Podcast: [Wahrheit gegen Lüge: Die Psychologie hinter Fake News](https://www.derstandard.at/story/3000000218043/wahrheit-gegen-luege-die-psychologie-hinter-fake-news)
   * Vortrag: [Polarisierung durch Algorithmen? Demokratie und Meinungsbildung im digitalen Zeitalter – Mythen auf dem Prüfstand](https://www.youtube.com/watch?v=rJJXxf_JNLU)
 * English
   - Talk about our project results on [the Social Dynamics around Misinformation Spreading on Social Media](https://www.youtube.com/watch?v=nVavOHdwRPg) 

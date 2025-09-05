@@ -8,17 +8,28 @@ title: In den Medien
 
 ## Highlights
 
-1. 2025-06-17: [Erklär mir die Welt Podcast #352 deep dive: Mythen über Social Media](https://erklärmir.at/2025/06/17/352-deep-dive-mythen-ueber-social-media-mit-hannah-metzler/)
-1.  2024-08-22: [Mythos Fehlinformation: Warum soziale Medien weniger gefährlich sind, als wir denken](%7B%%20post_url%202024-09-13-Mythos_Fehlinformation%20%%7D), 
+1. 2025-06-17: Erklär mir die Welt Podcast #352 deep dive: [Mythen über Social Media](https://erklärmir.at/2025/06/17/352-deep-dive-mythen-ueber-social-media-mit-hannah-metzler/)
+1. 2024-08-22: [Mythos Fehlinformation: Warum soziale Medien weniger gefährlich sind, als wir denken](%7B%%20post_url%202024-09-13-Mythos_Fehlinformation%20%%7D), 
 Spektrum der Wissenschaft [online](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667), 
 [Spektrum - Die Woche 35/2024](https://www.spektrum.de/pdf/35-2024-spektrum-die-woche-35-2024/2214951) & 
 [Spektrum - Gehirn&Geist](https://www.spektrum.de/inhaltsverzeichnis/kognition-wie-das-denken-erwachte-gehirn-und-geist-3-2025/2236488). 
 On political misinformation, propaganda, elections, algorithms and AI.
 2.  2024-05-29: [Jeder gegen Jeden? Österreich rastet aus](https://on.orf.at/video/14228328/dok-1-oesterreich-rastet-aus-jeder-gegen-jeden), (English: Everyone against Everyone: Austria goes berserk), ORF 1 documentary Dok 1. Do social media make us all angrier? Have a look at minutes 23:30 and 44:00.
-3.  2024-05-03: [Wahrheit gegen Lüge: Die Psychologie hinter Fake News](https://www.derstandard.at/story/3000000218043/wahrheit-gegen-luege-die-psychologie-hinter-fake-news), (English: Truth against lies: The psychology behind fake news). DerStandard Podcast and [Article](https://www.derstandard.at/story/3000000220181/wieso-glauben-menschen-falschnachrichten-uebers-klima): Edition Zukunft Klimafragen. On Misinformation, social media & climate change.
+3.  2024-05-03: Der Standard Podcast Edition Zukunft Klimafragen: [Wahrheit gegen Lüge: Die Psychologie hinter Fake News](https://www.derstandard.at/story/3000000218043/wahrheit-gegen-luege-die-psychologie-hinter-fake-news), (English: Truth against lies: The psychology behind fake news). DerStandard Podcast and [Article](https://www.derstandard.at/story/3000000220181/wieso-glauben-menschen-falschnachrichten-uebers-klima), 
 4.  2023-03-22: [Sturm statt Elfenbeinturm](https://www.falter.at/zeitung/20230322/sturm-statt-elfenbeinturm), Zu viele Publikationen, zu wenige Stellen: Die Arbeitsbedingungen in der Wissenschaft sind schwierig. Gibt es Alternativen? Falter. 
 
 ------------------------------------------------------------------------
+
+## Podcasts
+
+1. 2025-08-29: #81 Mind / Machine: [News, Nuancen, mentale Gesundheit: Was Social Media wirklich mit uns macht.](https://open.spotify.com/episode/0dqZp08ECI1zYtz1qzFhaK)
+(English: News, nuances, mental health: What social media actually does to us).
+1. 2025-06-17: Erklär mir die Welt Podcast #352 deep dive: [Mythen über Social Media](https://erklärmir.at/2025/06/17/352-deep-dive-mythen-ueber-social-media-mit-hannah-metzler/)
+(English: Myths about social media).
+1. 2024-05-03: DerStandard Podcast Edition Zukunft: [Wahrheit gegen Lüge: Die Psychologie hinter Fake News](https://www.derstandard.at/story/3000000218043/wahrheit-gegen-luege-die-psychologie-hinter-fake-news), 
+(English: Truth against lies: The psychology behind fake news). 
+Accompanying [Article](https://www.derstandard.at/story/3000000220181/wieso-glauben-menschen-falschnachrichten-uebers-klima)
+
 
 ## Zeitungsartikel
 
