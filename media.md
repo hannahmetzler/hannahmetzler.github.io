@@ -9,7 +9,7 @@ title: In den Medien
 ## Highlights
 
 1. 2025-06-17: Erklär mir die Welt Podcast #352 deep dive: [Mythen über Social Media](https://erklärmir.at/2025/06/17/352-deep-dive-mythen-ueber-social-media-mit-hannah-metzler/)
-1. 2024-08-22: [Mythos Fehlinformation: Warum soziale Medien weniger gefährlich sind, als wir denken](%7B%%20post_url%202024-09-13-Mythos_Fehlinformation%20%%7D), 
+1. 2024-08-22: [Mythos Fehlinformation: Warum soziale Medien weniger gefährlich sind, als wir denken]({% post_url 2024-09-13-Mythos_Fehlinformation %}), 
 Spektrum der Wissenschaft [online](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667), 
 [Spektrum - Die Woche 35/2024](https://www.spektrum.de/pdf/35-2024-spektrum-die-woche-35-2024/2214951) & 
 [Spektrum - Gehirn&Geist](https://www.spektrum.de/inhaltsverzeichnis/kognition-wie-das-denken-erwachte-gehirn-und-geist-3-2025/2236488). 
