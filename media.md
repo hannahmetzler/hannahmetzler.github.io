@@ -22,6 +22,7 @@ On political misinformation, propaganda, elections, algorithms and AI.
 
 ## Podcasts
 
+1. 2025-10-15: The Monkey Dance: [Episode 36 | Emotions & misinformation - What makes us engage with content?](https://www.monkeydancepod.com/episodes/episode-36)
 1. 2025-08-29: #81 Mind / Machine: [News, Nuancen, mentale Gesundheit: Was Social Media wirklich mit uns macht.](https://open.spotify.com/episode/0dqZp08ECI1zYtz1qzFhaK)
 (English: News, nuances, mental health: What social media actually does to us).
 1. 2025-06-17: Erklär mir die Welt Podcast #352 deep dive: [Mythen über Social Media](https://erklärmir.at/2025/06/17/352-deep-dive-mythen-ueber-social-media-mit-hannah-metzler/)
@@ -33,6 +34,7 @@ Accompanying [Article](https://www.derstandard.at/story/3000000220181/wieso-glau
 
 ## Zeitungsartikel
 
+1. 2025-10-28: [Vinzenz-Gruppe Newsletter](https://www.ingo-news.at/): Gefährdet Social Media die Psyche? Von Karin Lehner. 
 1.  2025-04-14: Science News [Spotting climate misinformation with AI requires expertly trained models](https://www.sciencenews.org/article/climate-misinformation-ai-experts)
 2.  2025-03-31: Science APA [Forscherin: Emotionen allein machen nicht anfällig für Fake News](https://science.apa.at/power-search/11930571756735064709) (Emotions alone don’t make people believe fake news)
     -   [ORF Ö3](https://oe3.orf.at/stories/3047105/)
