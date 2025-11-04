@@ -35,6 +35,7 @@ and best-practices for measuring [news trustworthiness using NewsGuard ratings](
   * DerStandard Edition Zukunft Klimafragen Podcast: [Wahrheit gegen Lüge: Die Psychologie hinter Fake News](https://www.derstandard.at/story/3000000218043/wahrheit-gegen-luege-die-psychologie-hinter-fake-news)
   * Vortrag: [Polarisierung durch Algorithmen? Demokratie und Meinungsbildung im digitalen Zeitalter – Mythen auf dem Prüfstand](https://www.youtube.com/watch?v=rJJXxf_JNLU)
 * English
+  - The Monkey Dance [Episode 36 | What makes us engage with content?](https://www.monkeydancepod.com/episodes/episode-36)
   - Talk about our project results on [the Social Dynamics around Misinformation Spreading on Social Media](https://www.youtube.com/watch?v=nVavOHdwRPg) 
   * [Jula introducing her research](https://www.youtube.com/watch?v=8uoJVLcbHJU&t=22s)
   * [Hannah about her research at the Complexity Science Hub](https://www.youtube.com/watch?v=xpiiOqwGQa8)
@@ -109,6 +110,10 @@ ___
 
 
 ## Publications
+
+### Preprints
+
+1. Lühring, J., Garcia, D., Waldherr, A., Lasser, J., Shetty, A., & Metzler, H. (2025). Quantifying the Causal Effects of Misinformation on Engagement and Emotions on Social Media. PsyArXiv. https://doi.org/10.31234/osf.io/cemw7_v1
 
 
 ### Scientific journal articles
