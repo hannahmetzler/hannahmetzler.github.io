@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CV
+subtitle: Legal name: Hannah May (since 2025; publishing as Hannah Metzler)
 show-avatar: false
 ---
 

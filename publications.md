@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+subtitle: Publications are listed under my previous name, Hannah Metzler.
 show-avatar: false
 ---
 
