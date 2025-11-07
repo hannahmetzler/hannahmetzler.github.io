@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CV
+subtitle: "Legal name: Hannah May (since 2025; publishing as Hannah Metzler)"
 show-avatar: false
 ---
 
@@ -11,7 +12,7 @@ show-avatar: false
 
 ![cvphoto](/assets/img/Hannah_Metzler_ORRG.jpg "Hannah Metzler" 250x250){:class="img-responsive" height="250px" width="250px"}-->
 
-Legal name: Hannah May (since 2025; publishing as Hannah Metzler)
+
 ___
 
 ## Education summary

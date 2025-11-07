@@ -4,7 +4,8 @@ title: Publications
 show-avatar: false
 ---
 
-Publications are listed under my previous name, Hannah Metzler.
+**Publications are listed under my previous name, Hannah Metzler.**
+
 ___
 
 ## For the general public
