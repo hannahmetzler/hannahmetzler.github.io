@@ -18,7 +18,7 @@ ___
 ## Pre-prints & manuscripts under review
 
 1. Garcia, D., Pellert, M., Lasser, J., & **Metzler, H.** (2021). Social media emotion macroscopes reflect emotional experiences in society at large.  *ArXiv:2107.13236* [Cs]. [http://arxiv.org/abs/2107.13236]( http://arxiv.org/abs/2107.13236).
-2. Lühring, J., Garcia, D., Waldherr, A., Lasser, J., Shetty, A., & **Metzler, H.** (2025). Quantifying the Causal Effects of Misinformation on Engagement and Emotions on Social Media. PsyArXiv. https://doi.org/10.31234/osf.io/cemw7_v1
+2. Lühring, J., Garcia, D., Waldherr, A., Lasser, J., Shetty, A., & **Metzler, H.** (2025). [Quantifying the Causal Effects of Misinformation on Engagement and Emotions on Social Media](https://doi.org/10.31234/osf.io/cemw7_v1). PsyArXiv. https://doi.org/10.31234/osf.io/cemw7_v1
 
 ___
 

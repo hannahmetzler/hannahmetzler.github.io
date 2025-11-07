@@ -113,7 +113,7 @@ ___
 
 ### Preprints
 
-1. Lühring, J., Garcia, D., Waldherr, A., Lasser, J., Shetty, A., & Metzler, H. (2025). Quantifying the Causal Effects of Misinformation on Engagement and Emotions on Social Media. PsyArXiv. https://doi.org/10.31234/osf.io/cemw7_v1
+1. Lühring, J., Garcia, D., Waldherr, A., Lasser, J., Shetty, A., & Metzler, H. (2025). [Quantifying the Causal Effects of Misinformation on Engagement and Emotions on Social Media](https://doi.org/10.31234/osf.io/cemw7_v1). PsyArXiv. https://doi.org/10.31234/osf.io/cemw7_v1
 
 
 ### Scientific journal articles
