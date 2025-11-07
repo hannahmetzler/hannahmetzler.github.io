@@ -4,6 +4,9 @@ show-avatar: false
 title: In den Medien
 ---
 
+
+**Up until 2025, publications are listed under my previous name, Hannah Metzler.**
+
 ------------------------------------------------------------------------
 
 ## Highlights
@@ -22,7 +25,7 @@ On political misinformation, propaganda, elections, algorithms and AI.
 
 ## Podcasts
 
-1. 2025-10-15: The Monkey Dance [Episode 36 | What makes us engage with content?](https://www.monkeydancepod.com/episodes/episode-36) (Deutsch: Was bringt uns dazu, Inhalte zu teilen?)
+1. 2025-10-15: The Monkey Dance [Episode 36 - What makes us engage with content?](https://www.monkeydancepod.com/episodes/episode-36) (Deutsch: Was bringt uns dazu, Inhalte zu teilen?)
 2. 2025-08-29: #81 Mind / Machine: [News, Nuancen, mentale Gesundheit: Was Social Media wirklich mit uns macht.](https://open.spotify.com/episode/0dqZp08ECI1zYtz1qzFhaK)
 (English: News, nuances, mental health: What social media actually does to us).
 3. 2025-06-17: Erklär mir die Welt Podcast #352 deep dive: [Mythen über Social Media](https://erklärmir.at/2025/06/17/352-deep-dive-mythen-ueber-social-media-mit-hannah-metzler/)
