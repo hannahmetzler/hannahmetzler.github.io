@@ -37,7 +37,7 @@ Accompanying [Article](https://www.derstandard.at/story/3000000220181/wieso-glau
 
 ## Zeitungsartikel
 
-1. 2025-10-28: [Vinzenz-Gruppe Newsletter](https://www.ingo-news.at/): [Scrollen bis zur Depression?](https://www.ingo-news.at/artikel/social-media-health) Von Karin Lehner. 
+1. 2025-10-28: Ingo News: [Scrollen bis zur Depression?](https://www.ingo-news.at/artikel/social-media-health) Von Karin Lehner. 
 1. 2025-04-14: Science News [Spotting climate misinformation with AI requires expertly trained models](https://www.sciencenews.org/article/climate-misinformation-ai-experts)
 2. 2025-03-31: Science APA [Forscherin: Emotionen allein machen nicht anfällig für Fake News](https://science.apa.at/power-search/11930571756735064709) (Emotions alone don’t make people believe fake news)
     -   [ORF Ö3](https://oe3.orf.at/stories/3047105/)
