@@ -10,14 +10,9 @@ ___
 
 ## Project News
 
+* Jula has published a pre-print about her analysis of [news trustworthiness and emotions on Twitter during the pandemic](https://doi.org/10.31234/osf.io/cemw7_v1)
+* Hannah talks about [What makes us engage with content](https://www.monkeydancepod.com/episodes/episode-36) on the Monkey Dance Podcast. 
 * Hannah talks about social media myths on the [Erklär mir die Welt podcast](https://erklärmir.at/2025/06/17/352-deep-dive-mythen-ueber-social-media-mit-hannah-metzler/)
-
-* Jula gave 2 presentations at ICA 2025 in Denver, Colorado, USA: 
-  - Causal Effects of Misinformation on Online Interactions.
-  - Tool Demo: Best Practices for Evaluating News Source Trustworthiness with NewsGuard. 
-
-* Jula's [presentation](https://julaluehring.github.io/2025-emomis-konstanz) on _Misinformation and Emotions Online_ at the University of Konstanz is online.
-
 * Our first two papers got published! They are about the role of [emotions for misinformation](https://rdcu.be/d36bX) 
 and best-practices for measuring [news trustworthiness using NewsGuard ratings](https://journalqd.org/article/view/4500).
   - News article about the [emotions study](https://science.apa.at/power-search/11930571756735064709) and the [NewsGuard study](https://science.apa.at/power-search/17014299128480821896). 
