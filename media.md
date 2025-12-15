@@ -11,6 +11,7 @@ title: In den Medien
 
 ## Highlights
 
+1. 2025-12-11: Hannah was a guest at [Late Night Group Therapy](https://www.latenightgrouptherapy.org/), where scientists can explore the collective unconscious about their open research questions. 
 1. 2025-06-17: Erklär mir die Welt Podcast #352 deep dive: [Mythen über Social Media](https://erklärmir.at/2025/06/17/352-deep-dive-mythen-ueber-social-media-mit-hannah-metzler/)
 1. 2024-08-22: [Mythos Fehlinformation: Warum soziale Medien weniger gefährlich sind, als wir denken]({% post_url 2024-09-13-Mythos_Fehlinformation %}), 
 Spektrum der Wissenschaft [online](https://www.spektrum.de/news/warum-soziale-medien-weniger-gefaehrlich-sind-als-wir-denken/2210667), 
