@@ -18,7 +18,9 @@ ___
 
 ## Education summary
 
-* **2024-now** Postgraduate education for Clinical Psychology, WIKIP (Viennese Academy for Clinical Psychology), Vienna
+* **2024-now** Postgraduate education for Clinical Psychology
+    * WIKIP (Viennese Academy for Clinical Psychology), Vienna (Grundmodul)
+    * Austrian Academy for Psychology (ÖAP, Aufbaumodul)
 * **2022-2023** Foundational Training in Psychotherapy ("Psychotherapeutisches Propädeutikum"), ARGE Bildungsmanagement, Vienna
 * **2014-2018** PhD in Social Neuroscience at Sorbonne University & École Normale Supérieure Paris, supervised by Julie Grèzes  
     Graduate Program at École des Neurosciences Paris-Île de-France
