@@ -24,8 +24,9 @@ On political misinformation, propaganda, elections, algorithms and AI.
 
 ------------------------------------------------------------------------
 
-## Podcasts
+## Podcasts & Radio
 
+1. 2026-02-16: Oe1 Radio, Digital.Leben: [Wutkultur - Die Empörungsmaschinerie der Sozialen Medien](https://oe1.orf.at/programm/20260216/822953/Wutkultur) (English: Culture of anger - The outrage machinery of social media)
 1. 2025-10-15: The Monkey Dance [Episode 36 - What makes us engage with content?](https://www.monkeydancepod.com/episodes/episode-36) (Deutsch: Was bringt uns dazu, Inhalte zu teilen?)
 2. 2025-08-29: #81 Mind / Machine: [News, Nuancen, mentale Gesundheit: Was Social Media wirklich mit uns macht.](https://open.spotify.com/episode/0dqZp08ECI1zYtz1qzFhaK)
 (English: News, nuances, mental health: What social media actually does to us).
