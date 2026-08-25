@@ -19,13 +19,15 @@ ___
 
 ## Pre-prints & manuscripts under review
 
+1. Shetty, A., Simmendinger, E., Lühring, J., Garcia, D., Waldherr, A., & Metzler, H. (2026). [Emotions, Group Cues, and Algorithmic Interventions: An Agent-Based Model of Elite Retweeting on Twitter](https://osf.io/preprints/psyarxiv/6meqv_v1/). PsyArXiv. https://osf.io/preprints/psyarxiv/6meqv_v1/
+1. Lühring, J., Garcia, D., Waldherr, A., Lasser, J., Shetty, A., & **Metzler, H.** (2025). [Quantifying the Causal Effects of Misinformation on Engagement and Emotions on Social Media](https://doi.org/10.31234/osf.io/cemw7_v1). PsyArXiv. https://doi.org/10.31234/osf.io/cemw7_v1
 1. Garcia, D., Pellert, M., Lasser, J., & **Metzler, H.** (2021). Social media emotion macroscopes reflect emotional experiences in society at large.  *ArXiv:2107.13236* [Cs]. [http://arxiv.org/abs/2107.13236]( http://arxiv.org/abs/2107.13236).
-2. Lühring, J., Garcia, D., Waldherr, A., Lasser, J., Shetty, A., & **Metzler, H.** (2025). [Quantifying the Causal Effects of Misinformation on Engagement and Emotions on Social Media](https://doi.org/10.31234/osf.io/cemw7_v1). PsyArXiv. https://doi.org/10.31234/osf.io/cemw7_v1
 
 ___
 
 ## Journal articles
 
+1. Bouleimen, A., De Marzo, G., Kim, T., Pagan, N., **Metzler, H.**, Giordano, S., Hannák, A., & Garcia, D. (2026). [The collective turing test: Large language models can generate realistic multi-user discussions](https://doi.org/10.1038/s41598-026-62286-9). Scientific Reports. https://doi.org/10.1038/s41598-026-62286-9
 1. Galaz, V., **Metzler, H.**, Schill, C., Lindahl, T., Daume, S., Marklund, A., ..., Peters, H. (2025). [Artificial intelligence, digital social networks, and climate emotions.](https://www.nature.com/articles/s44168-025-00225-6) Npj Climate Action, 4(1), 1–9. https://doi.org/10.1038/s44168-025-00225-6
 1. Lühring, J., **Metzler, H.**, Lazzaroni, R., Shetty, A., & Lasser, J. (2025). [Best practices for source-based research on misinformation and news trustworthiness using NewsGuard.](https://doi.org/10.51685/jqd.2025.003) Journal of Quantitative Description: Digital Media, 5. https://doi.org/10.51685/jqd.2025.003
 1. Lühring, J.\*, Shetty, A.\*, Koschmieder, C., Garcia, D., Waldherr, A., & **Metzler, H.** (2024). [Emotions in misinformation studies: Distinguishing affective state from emotional response and misinformation recognition from acceptance.](https://rdcu.be/d36bX) _Cognitive Research: Principles and Implications, 9_(1), 82. https://doi.org/10.1186/s41235-024-00607-0. [Data, Code, Pre-registration & SI](https://osf.io/tgzxr/).
