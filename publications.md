@@ -4,7 +4,7 @@ title: Publications
 show-avatar: false
 ---
 
-**Publications are listed under my previous name, Hannah Metzler, which I continue to use as a researcher.**
+**Note: I continue to publish my research under my previous name, Hannah Metzler.**
 
 ___
 
