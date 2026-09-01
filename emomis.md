@@ -11,6 +11,7 @@ ___
 ## Project News
 
 * Jula has published a pre-print about her analysis of [news trustworthiness and emotions on Twitter during the pandemic](https://doi.org/10.31234/osf.io/cemw7_v1)
+  * A [Bluesky thread](https://bsky.app/profile/julaluehring.bsky.social/post/3m5dutxn75s2t) about the study. 
 * Hannah talks about [What makes us engage with content](https://www.monkeydancepod.com/episodes/episode-36) on the Monkey Dance Podcast. 
 * Hannah talks about social media myths on the [Erklär mir die Welt podcast](https://erklärmir.at/2025/06/17/352-deep-dive-mythen-ueber-social-media-mit-hannah-metzler/)
 * Our first two papers got published! They are about the role of [emotions for misinformation](https://rdcu.be/d36bX) 
