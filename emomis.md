@@ -105,9 +105,8 @@ PsyArXiv. https://doi.org/10.31234/osf.io/cemw7_v1
 ### Scientific journal articles
 
 1. Lühring, J., Metzler, H., Lazzaroni, R., Shetty, A., & Lasser, J. (2025). [Best practices for source-based research on misinformation and news trustworthiness using NewsGuard.](https://doi.org/10.51685/jqd.2025.003) Journal of Quantitative Description: Digital Media, 5. https://doi.org/10.51685/jqd.2025.003
-1. Lühring, J.\*, Shetty, A.\*, Koschmieder, C., Garcia, D., Waldherr, A., & Metzler, H. (2024). 
-  * [Bluesky thread summary](https://bsky.app/profile/julaluehring.bsky.social/post/3lfwm6rsfvs2a).
-  [Emotions in misinformation studies: Distinguishing affective state from emotional response and misinformation recognition from acceptance.](https://rdcu.be/d36bX) 
+    * [Bluesky thread summary](https://bsky.app/profile/julaluehring.bsky.social/post/3lfwm6rsfvs2a).
+1. Lühring, J.\*, Shetty, A.\*, Koschmieder, C., Garcia, D., Waldherr, A., & Metzler, H. (2024). [Emotions in misinformation studies: Distinguishing affective state from emotional response and misinformation recognition from acceptance.](https://rdcu.be/d36bX) 
    _Cognitive Research: Principles and Implications, 9_(1), 82. https://doi.org/10.1186/s41235-024-00607-0. [Data, Code, Pre-registration & SI](https://osf.io/tgzxr/).
     * [Bluesky thread](https://bsky.app/profile/hannahmetzler.bsky.social/post/3lfwnawlgp22k) summary. 
 1. Metzler, H., & Garcia, D. (2023). [Social drivers and algorithmic mechanisms on digital media.](https://doi.org/10.1177/17456916231185057) 
