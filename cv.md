@@ -29,8 +29,9 @@ ___
 ___
 
 
-## Research Experience
+## Professional Experience
 
+* **2025-2026** Psychologist & clinical psychologist in training, [Gesundheitsresort Königsberg](www.gkbs.at), Bad Schönau. 
 * **2020-2025** Postdoctoral researcher and project lead at [Complexity Science Hub][CSH]
 * **2020-2025** Postdoctoral researcher and project lead at Center for Medical Data Science, [Medical University in Vienna][Meduni]
     * 2020-2022 10% @ Graz University of Technology
