@@ -17,6 +17,7 @@ What we did in 5 bullet points:
 * We evaluated ways of measuring misinformation in social media data. 
 * We developed novel interventions that consider the social identities our believes and emotions around them are linked to.
 * We simulated the dynamics of emotions around news shared by politicians, and the potential effect of algorithmic interventions on misinformation spreading using Agent Based Modelling.
+
 ___
 
 ## Project Team
@@ -44,7 +45,7 @@ ___
 ___
 
 
-## Publications
+# Publications
 
 ### Blogposts
 
