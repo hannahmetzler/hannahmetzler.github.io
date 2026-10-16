@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mythos Fehlinformation: Warum soziale Medien weniger gefährlich sind, als wir denken"
-subtitle: "Artikel für Spektrum der Wissenschaft, Version der Autorin"
+subtitle: "Aktualisierte Fassung"
 date: 2026-10-16
 tags: [misinformation, social media]
 comments: true
